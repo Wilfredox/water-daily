@@ -2,7 +2,346 @@
   "date": "2026年04月05日",
   "news_date": "2026年04月04日",
   "update_time": "2026-04-05 00:00",
-  "total_news": 0,
-  "category_count": 0,
-  "news": {}
+  "total_news": 41,
+  "category_count": 5,
+  "news": {
+    "防汛抗旱": [
+      {
+        "id": 1,
+        "title": "财政部、水利部下达2.376亿元支持海南、辽宁等地防汛救灾",
+        "source": "bjnews.com.cn",
+        "pub_date": "2026年04月03日",
+        "content": "财政部、水利部下达2.376亿元支持海南、辽宁等地防汛救灾bjnews.com.cn",
+        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5U1BIQkpnS0xXRWpaRExER2pGWFprQURNalRCdGxSVTdSTG8ydlIzd3FfdXJGODdfenVDeGw0WlpvcGt6VHBrS2FIQ1JIajZVQ1VKeU1jcjU4aG03eWtlaktPb2I?oc=5"
+      },
+      {
+        "id": 2,
+        "title": "水利部：南方地区迅速进入汛期工作状态，提前防范今年入汛以来首轮强降雨过程",
+        "source": "新浪新闻_手机新浪网",
+        "pub_date": "2026年04月02日",
+        "content": "水利部：南方地区迅速进入汛期工作状态，提前防范今年入汛以来首轮强降雨过程新浪新闻_手机新浪网",
+        "full_link": "https://news.google.com/rss/articles/CBMihgdBVV95cUxNelVuYkFNX0g1bmdxMGpXenZER3BxWkZmSGZ3WU0wZl9NMHg0bERpX0lxbEVtX2lIam1WOW0xQ1V1bEJsWDBFV21vNDZmbEdhNGFLR3ZzQTJWRk1hREh4SkYyeFNmM05rUFFhbEl4YVpRcUpBN3lUZXpxVzFzTV9QMl9PNzlhcjIwS0JpYmpheWltQjJtT1Q5TDdCSTZSZ3RjbUxuWXMwYWx6anhwMDQzMFhreEFEWmtDMnUzU0R4empoMXJ4LUpUOTNVbzR6cHM0U2otUDFnS3JDVWV3Nml6ZVlYWVVLNXJ1dFFkT0pCdUUySmJFeHkxZDQzZjBtX1hRMnZ5bV9sUUk4R0dESEwyby1xR3pkeGk4Ri1oWGxFSm9JTFVjUEU4d2ZRMlBES2UzSWxGWGdNOEUydWhtWmVuc0t1emktTTRodnNMYWFpdVZ0S3M0Q2xiSzlZOElWOWZxVG1NMmZyWmNGd2FBSmxDV2xjazBCbTNLU2JYRzV2NDNkcThvSkVZZmdZdExVNHBMU0FnZ2t1SHN2bXQyZmZzMjNtZGpjUWVWNjlocHpaX2FJNE54cVR4OXcxMXNDeHc0NzY1ZXc2c1lRUzl4SlQxbWJYdlJHY25EZ1FZeTVOdmJQekl2cTBYcC1HRURXcDVYbnA5ZHpEVEFLQy1CS1dpSEhuRl8yN3dsa29rY25FVmN6SEI4WGZNbTh5aWxUUEJTTmZ0TFJxV3ZXOHBiSmV1NXZGSUZSYm9GZmdOZVpBTy1PNWtHQmlrYklDTFdacFhSOTlmWV8ybVRLZElyWk14dWpUWExWMHNaWDhmajVpM0RqUzJaWmNhazhSTHo1SGJlQUtzcWd0NFBzQzdvaXU2RlZQby0yamtIbHdwSl9PSUoxZzlRejRBdVZxcXRmR2cyaGpMYWt6WmN3XzVVRXAzb05XUzAtOEJOc3ZfX01sU0dsdC1jR3RmQTNuS2RCM1N1NUxNOXBQdTRTS3BJbC1vU1NSWnBOMzlFbnJRMWV6Sk5mN3d0RTIxaHUwZWZjODRONDJQejdOcXZqZGRyS25wMS1lenlCbEwwYXhPT3B5T25Oa2NTYXMtc0gxQXc2Ym9SNWFXemI2VEVjRE5oS2dqZ21aV3UtMVdueHhFc2Y2TjMwVnVfTlRESVc2NVhjMHlJcVdSdHlJQzdYVGxKa3AxVlFiUXBmZw?oc=5"
+      },
+      {
+        "id": 3,
+        "title": "水利部：今天起我国正式入汛，今年汛期呈“北涝南旱”格局",
+        "source": "thepaper.cn",
+        "pub_date": "2026年04月01日",
+        "content": "水利部：今天起我国正式入汛，今年汛期呈“北涝南旱”格局thepaper.cn",
+        "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFR0lQdWVvVEl3M1dubG5ac0dUNTItNHRraVRlZ3lGWEdyT3NGaHRfMG9ZNFVuLW9uNXVQZUFCUnhmY3p3M00wa29nR3dGdGVQb3ZJZ1VYV3JycmFFWm5IdQ?oc=5"
+      },
+      {
+        "id": 4,
+        "title": "今日入汛！水利部：今年北方地区洪涝灾害可能多发重发",
+        "source": "封面新闻",
+        "pub_date": "2026年03月31日",
+        "content": "今日入汛！水利部：今年北方地区洪涝灾害可能多发重发封面新闻",
+        "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iQU45U3ktQjBUekkyNHZVckJDUjlQRGxIYnlfajdJbHVocDE5ODh3emRmRC1UOS1nOWlPdkREU2pmRDNhejN4ZElkMjdxNVJITG1PUzNlMVlfRXRIY0FiWGIwTQ?oc=5"
+      },
+      {
+        "id": 5,
+        "title": "我国进入汛期 水利部部署近期水旱灾害防御重点工作",
+        "source": "hkong.cn",
+        "pub_date": "2026年04月01日",
+        "content": "我国进入汛期 水利部部署近期水旱灾害防御重点工作hkong.cn",
+        "full_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HZElaT1RlLVZvOVRkbkhSZVBMWE91cm5xNFVvbkpjOFJVN3NQT21nakU1b3J2RGU2TFNpUWNqR2lVSHRQQzlQb2lNeTYxdWg3UC1nWA?oc=5"
+      },
+      {
+        "id": 6,
+        "title": "水利部：南方地区迅速进入汛期工作状态 提前防范今年入汛以来首轮强降雨过程",
+        "source": "新浪财经",
+        "pub_date": "2026年04月02日",
+        "content": "水利部：南方地区迅速进入汛期工作状态 提前防范今年入汛以来首轮强降雨过程新浪财经",
+        "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcHFkamhRVTJQeFRpX1RTbDMyczJMZFgyd2FDdnVCQXBQdzdaVE8tLWlYU2otQlZlQklIN2FuRDAycm9jbVJiX0xGSENhakZFUUVXckY1ZnJGc1VLdGlyY191RnBza2Z1ZER0S2pmSEU1blNjSm5nMUs3VXJVQ09zOGVxZw?oc=5"
+      }
+    ],
+    "综合要闻": [
+      {
+        "id": 7,
+        "title": "水利部：提前防范今年入汛以来首轮强降雨过程",
+        "source": "新浪财经",
+        "pub_date": "2026年04月02日",
+        "content": "水利部：提前防范今年入汛以来首轮强降雨过程新浪财经",
+        "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQkZDd0tWaHIwd21wbnhYbDJuWC1pSV9PSzc4Z1VsUjJVa2tRUk1tMS11cXRBdHg5TlBocl93Nmo0cm5HNFFYYVdPSUxmaERXME1VTmpSblN2ejhwT01hY2JoamRSNjB1MkVnVzdtbkgzUUZDeVROU0RseGpBdW1sUHpSTQ?oc=5"
+      },
+      {
+        "id": 8,
+        "title": "水利部：西辽河干流再次实现春季全线贯通",
+        "source": "新浪财经",
+        "pub_date": "2026年04月05日",
+        "content": "水利部：西辽河干流再次实现春季全线贯通新浪财经",
+        "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmtjU0RUT1RQSXBIOTh4UUhxbzdQWlRBOENNN0ZEWjF1RTZJMXlSamNIekJqVkFPWFdWNWw0YUtGNEhjcFVHWGFJZF9MOFJjLUhZcUpQc1V0NV82VkxIRDFfQ3lvMjV5N29GTGtlUTdVVi1QenlOVTdJaThRMHBWU1hLRE5PRmY0LVpDdWRDcVdiZnV3Q3Bnak1DN1Q2ZWhKa1J6RjY4Nl9DdWZDVlFn?oc=5"
+      },
+      {
+        "id": 9,
+        "title": "广西壮族自治区水利厅与越南广宁、谅山、高平、宣光四省水利主管部门联合举办“世界水日”主题活动",
+        "source": "pearlwater.gov.cn",
+        "pub_date": "2026年03月31日",
+        "content": "广西壮族自治区水利厅与越南广宁、谅山、高平、宣光四省水利主管部门联合举办“世界水日”主题活动pearlwater.gov.cn",
+        "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAySTUyT1pnY1I3TjIxUGxVUGh2aWZKZTV4d21qakkxNmU0eW1OQ3ZIdzBlYi1Id3NmR0tNakxKYW5UaFRhUW9oV1E2MV9wWldISTdtdnloaVllR3dwb3QxeU9VcUFwRmxDb2xWemdQX1hjMnhsRFVmNWZ5Nmk?oc=5"
+      },
+      {
+        "id": 10,
+        "title": "法治护航治水兴邦——水利部介绍水利法治建设成效",
+        "source": "封面新闻",
+        "pub_date": "2026年03月29日",
+        "content": "法治护航治水兴邦——水利部介绍水利法治建设成效封面新闻",
+        "full_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84X2VUY3RLUklRRmV4Zl9kakJVUjVWMEpmZDBnMXRUMER5cTBQc0F4ZVJtYTdwSjhPdE5PTERIdDYtZlhySWhsSkRxSzJUbWVPYzRlU3NoWVhUTkNkMmRZWU9YcEpXbU9qaVRBZ2EzaUhXNy0yTkNv?oc=5"
+      },
+      {
+        "id": 11,
+        "title": "立法、执法、普法全面升级！水利部晒“十四五”法治建设成绩单",
+        "source": "中国经济网",
+        "pub_date": "2026年03月31日",
+        "content": "立法、执法、普法全面升级！水利部晒“十四五”法治建设成绩单中国经济网",
+        "full_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lR0Y1ZXdfcmVNMnRGQUpBbjUyUkR6eE05OGEybFBpQmZscmhRX0NrVklmWTZFTHk4SlhhcGlTdFlPMldLSE45WnY4eW1Say0wU056Wnd1dTJ2Y1NFX1BmQ3dJSGt1WlJ2dlRhNEIxMDQ0UUtRRjBN?oc=5"
+      },
+      {
+        "id": 18,
+        "title": "前沿技术+工程应用 “政企研”协同共绘重庆水利科技创新“路线图”",
+        "source": "重庆市人民政府",
+        "pub_date": "2026年03月15日",
+        "content": "前沿技术+工程应用 “政企研”协同共绘重庆水利科技创新“路线图”重庆市人民政府",
+        "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95Zks4ZGR2VUF4dE5xajY4b282cjZOYVhTdjdXdjYwUE90bEgydkZCczF5enZ3ZkxlMHI3b25XcDhWd1Z1RVljbGdpNFNZLU4zMjRlSElLOWkwRlZQd0RQbEVFbHliYUxzZnRUSUhCT0JsWEE0?oc=5"
+      },
+      {
+        "id": 27,
+        "title": "实录｜水利部召开新闻发布会介绍水利法治建设成效有关情况",
+        "source": "新浪财经",
+        "pub_date": "2026年03月30日",
+        "content": "实录｜水利部召开新闻发布会介绍水利法治建设成效有关情况新浪财经",
+        "full_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFpfTXFWUm9ub21PT1FjRG5QVWtkcERUZ2l4NjFsWS1qVlkxRmQ3RVFSRFpTWnNvdF8xN040eWd3amFUcy1Pd2tCUU8xaXgzQUphemdXX0dYdzM3NU1WLW5Pa0FZZ2pnWEpZR2x5dFd5OFJmeExkeUU5Ni1wd0FIdVk2T2s?oc=5"
+      },
+      {
+        "id": 30,
+        "title": "水利部陆桂华副部长一行莅临清华大学国情研究院调研",
+        "source": "sppm.tsinghua.edu.cn",
+        "pub_date": "2025年10月20日",
+        "content": "水利部陆桂华副部长一行莅临清华大学国情研究院调研sppm.tsinghua.edu.cn",
+        "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wWGFGQnU2YTVCQjhjQ0hJQXFRVzhZVHNvbkY2SjNweGlLeTAwQTRBLVYyNzByUkFQTkU3bkRHTF9tbmwzOV9YRnFRbFQtTmNtM2dCbmU5SlU0cDQ3S0txUw?oc=5"
+      },
+      {
+        "id": 31,
+        "title": "超级水利中国！水利部答21：“十四五”水利建设投资年均破万亿- 21经济网",
+        "source": "21财经",
+        "pub_date": "2025年09月29日",
+        "content": "超级水利中国！水利部答21：“十四五”水利建设投资年均破万亿- 21经济网21财经",
+        "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0dXeHhpSlZTazBKdTQ4NDJZUFpMMzdIcUxteGJQdnBZQnRRQmhoQjRoM29fQmZEdVBwRXZjdmtmLVQxWWltWXFla19GQWowTWVHMHQ1YnB2ZWtJN1lFcFpGY29iaHJMbndxV1gwWXpOYUlrc2YwVWdpYXB5b1hsUmEwdTZtX3VCUXh3TWhRZw?oc=5"
+      },
+      {
+        "id": 32,
+        "title": "七年山海情 一水润开化 浙江水利厅结对帮扶绘就山区共富新图景",
+        "source": "潮新闻",
+        "pub_date": "2026年03月30日",
+        "content": "七年山海情 一水润开化 浙江水利厅结对帮扶绘就山区共富新图景潮新闻",
+        "full_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81a1BjcDNQQjRWNkk3T2YxaC1TYmRWempvUUJ1TkxWbWV0dkpXN1dscFY0ZzlIUnoxQkNCcTZFMGxpVHFxUVY2S0hITjB6RUlvRmRoZVFWOA?oc=5"
+      },
+      {
+        "id": 33,
+        "title": "钱塘观澜｜浙江省水利厅党组书记、厅长李锐：为奋力谱写中国式现代化浙江新篇章作出更大水利贡献",
+        "source": "zj.chinanews.com.cn",
+        "pub_date": "2026年01月17日",
+        "content": "钱塘观澜｜浙江省水利厅党组书记、厅长李锐：为奋力谱写中国式现代化浙江新篇章作出更大水利贡献zj.chinanews.com.cn",
+        "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcmpJNUlWZ0o0RmVadVI0NGJNd1lZTjkySmxCQ2FwQkhGeEYtQUJXdzU0eXh1TnhRN0tvLURJUEdXcGxUdjNLbXRadEtuT3JXWVlpLXNjVlFpMGd3dFp5VDdoZUpFdWFwRFFCeWx4MXUzZ29VM09SaThFMGl6cXdTZ2JMNA?oc=5"
+      },
+      {
+        "id": 34,
+        "title": "水利工地奏响“春日奋进曲”",
+        "source": "浙江新闻",
+        "pub_date": "2026年04月01日",
+        "content": "水利工地奏响“春日奋进曲”浙江新闻",
+        "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEbjdYSkF5Q3B3cUpfNWJXSEhFOGdwMkFsaU5TazNBalVxWE9BdTZldnFaN0dGbXFQZG45cVBhU0x1YjVndElmcEp5bHhxZTMzTVJKdDlKVFgwQ25xRGd3RWh6MVNNdjQzS3praHkwQ0xWeXc?oc=5"
+      },
+      {
+        "id": 35,
+        "title": "AI动画 | 水脉浙江润千年，世界水日，一起来看流淌千年的浙江水利故事",
+        "source": "浙江新闻",
+        "pub_date": "2026年03月22日",
+        "content": "AI动画 | 水脉浙江润千年，世界水日，一起来看流淌千年的浙江水利故事浙江新闻",
+        "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LRFF0THFBUF9vMHpqOGxjSlpMNVBJbXE4ekF3Q1RZOU1ZTmNEYnpELUJnNTlRaGZGRTVMUXhOWlp0eXMxQzdHbWxWWDF6aDNJZWw1ZmZzZENLQ0hfX0tJY04zU0diNnlUTGhMNl9VdzNxRnVrYnJ4TjNyNHl3UU0?oc=5"
+      },
+      {
+        "id": 36,
+        "title": "方大特钢与南昌市水利综合服务中心签订2026年计划用水责任书",
+        "source": "csteelnews.com",
+        "pub_date": "2026年04月02日",
+        "content": "方大特钢与南昌市水利综合服务中心签订2026年计划用水责任书csteelnews.com",
+        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iSm10WndBWC00cUtBMFg4SDl2SGsxZDc4Z1FNd2laSXhaNzlZbnkteVNSNzYwTWp3VjZjcmE1YVVpM0xBRjZxbXowMHBiblE2RkhRNGhjcERUMHFBc2hTNF92VE1xNHhCV2syNGpnaTZGQQ?oc=5"
+      },
+      {
+        "id": 37,
+        "title": "创多项世界之最！数说中国水利“含金量”",
+        "source": "news.cctv.com",
+        "pub_date": "2025年10月19日",
+        "content": "创多项世界之最！数说中国水利“含金量”news.cctv.com",
+        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oQndYSGJDX3FCcGlSTE0tVWZaQV9oY195NU1ZalVEdTFUemlaTjhjSFhRZFEwakFfaVpOWl9nb0x2Z1BxY3VkeGN4SnhPdjA5TnBWV1RpaEw1RW5DMmEyNjdTSEZLczV2aVlydEFXQkdOVE5tNGl1TA?oc=5"
+      },
+      {
+        "id": 38,
+        "title": "中国水利史学科领军人物周魁一逝世",
+        "source": "科学网—新闻",
+        "pub_date": "2026年02月04日",
+        "content": "中国水利史学科领军人物周魁一逝世科学网—新闻",
+        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xQllPYUlJdjJLWUpKdmxQSU0tYk8ybTJvZEI4Rkc4ZUZxTzd1NnBaTFliVHBwV2Z6eXRFd3FVbGVUQVpFaWlkSWpzeFpET1B6ZklFRVZSNUxBelFDZFFJTWpqLTY?oc=5"
+      },
+      {
+        "id": 41,
+        "title": "2025年，看见中国水利之“韧”",
+        "source": "川观新闻",
+        "pub_date": "2025年12月30日",
+        "content": "2025年，看见中国水利之“韧”川观新闻",
+        "full_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfbFhlYVpsOThodXpXbmxvY2RhSm5KV1RUMnptMXA2aUtVcHd6QVBXbWF6N0kzTnRDeFpIOVlfbnBwUXBpQTlKaGJlaHIyZw?oc=5"
+      }
+    ],
+    "水利工程": [
+      {
+        "id": 12,
+        "title": "水利部：2025年汛末全国重点水库较常年多蓄13% 为冬春城乡供水储备充足水资源",
+        "source": "新华网",
+        "pub_date": "2026年01月09日",
+        "content": "水利部：2025年汛末全国重点水库较常年多蓄13% 为冬春城乡供水储备充足水资源新华网",
+        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vb3NkbW1QRy0tcWs5UGlTdzYwcjU5S19nU1Z1SFNuRjMwczk2am1CLTFOdWZ4YUtjM2NoOUVqTFRHTWtxVGNfcTMyeS0tLTJmOFA5MW56cjk0THpOWDYxUVRXQi1Bb2RFazV4QzVyQ2R2VlBJeEE?oc=5"
+      },
+      {
+        "id": 13,
+        "title": "数字孪生赣抚平原灌区工程入选水利部调水工程建设经验典型",
+        "source": "thepaper.cn",
+        "pub_date": "2026年03月22日",
+        "content": "数字孪生赣抚平原灌区工程入选水利部调水工程建设经验典型thepaper.cn",
+        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFcG82bjYwWGVZZWlZdWk4LXdlbHV3aGFKQm41cFZnTzc5eHFxSEdkYl9ncG55cHJMbjFjV3pRbXNjd2dsNEpjZWNhZDltaTUzaG1KVmF5aUxtWE5IRFE?oc=5"
+      },
+      {
+        "id": 14,
+        "title": "一批重大水利工程建设迎来新节点！",
+        "source": "thepaper.cn",
+        "pub_date": "2026年03月31日",
+        "content": "一批重大水利工程建设迎来新节点！thepaper.cn",
+        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uMlJtNFJxbHNFa1pnaEo3bUFqNmVmMHI5T0dPSmhTSnR0bFVibGR0RmV0ME5kSEhQMjBuNTZHSWpZV2xZbzVCa184Q001YWlHR1pVaGt1RjBWT2djOEE?oc=5"
+      },
+      {
+        "id": 15,
+        "title": "总投资38.29亿元！国家重大水利工程玉龙水库施工准备工程正式开工",
+        "source": "gz.people.com.cn",
+        "pub_date": "2026年04月03日",
+        "content": "总投资38.29亿元！国家重大水利工程玉龙水库施工准备工程正式开工gz.people.com.cn",
+        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44VW1ZOXJYRkc5LS1DQ2wtazYtTFowZ3E2WDFVUlJNSFJJQkZ4THNDZF9TZGF2TFRqTTZqYU80X1BrQUZoYW03VEh0NnNLc3B1VTRUQ2t0V2hwLWhmYmluVkxHTDdjUlVqNXc?oc=5"
+      },
+      {
+        "id": 16,
+        "title": "黄茅峡水库工程建设进入关键节点",
+        "source": "新华网",
+        "pub_date": "2026年04月01日",
+        "content": "黄茅峡水库工程建设进入关键节点新华网",
+        "full_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kT3gzandMZ1V1SzVvcndyV2xIbEFWd2JVdWhKcTdiWkMtRE9YSkkzMVFoOVMwcE5MMVZrMXBNV280NDZmR3BlUEpjRWRJUnF1UTlaTmp4ZnBnWWxUMHBwcTl5ckk5RU5kN1BjbF9RNFJYZTJQTzkw?oc=5"
+      },
+      {
+        "id": 17,
+        "title": "黑龙江加快水利工程建设进度，全省开复工水利项目101个",
+        "source": "新浪财经",
+        "pub_date": "2026年04月01日",
+        "content": "黑龙江加快水利工程建设进度，全省开复工水利项目101个新浪财经",
+        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xdjFlOUpaWF9wMlp5dEJrdXhzekY1d3BfM0NvRzF3MmJDQ3JMbDBOcWx3RGJVU3FRWmtmQkJNVUNxY0hfekpJdFJHZWd2ejlrQUNpZGpwMExFb2xrLUVFX3lKdzVISTlYb0Z3dVhudzdaS2lJZTM3bg?oc=5"
+      },
+      {
+        "id": 19,
+        "title": "四川龙塘水库正式下闸蓄水",
+        "source": "powerchina.cn",
+        "pub_date": "2026年03月31日",
+        "content": "四川龙塘水库正式下闸蓄水powerchina.cn",
+        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QR0lRMGRudGhUMGFFWDJwVWZ0WmNrUHFvNE81QU10akNibVhtZEh4d1RoX0ZWcVRtZWZxZTFQZ2plRGdFbURoZGl6bWw4cXVlbkwzaEtabERUSVE5X1NrNjlvUHV3Skt3dXNfMXpIUkJJQnBnSUE?oc=5"
+      },
+      {
+        "id": 20,
+        "title": "又一国家“两重”项目水利工程开工建设！",
+        "source": "thepaper.cn",
+        "pub_date": "2026年03月30日",
+        "content": "又一国家“两重”项目水利工程开工建设！thepaper.cn",
+        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZcHFrejN5dGhscUxoWlBwWkJSdUhoTXd5MXVraUZBZDJ2SDgxX1dBUGdkbDJpd3pVOURkaFRVVUtrVjBocF9QN3ZCWnJReFpFTHZzQzNETEVKaEczZFE?oc=5"
+      },
+      {
+        "id": 29,
+        "title": "【政策解读】健全重大水利工程建设运行管理机制实施意见出台，推动水务企业投建运营一体化发展",
+        "source": "caifuhao.eastmoney.com",
+        "pub_date": "2026年02月13日",
+        "content": "【政策解读】健全重大水利工程建设运行管理机制实施意见出台，推动水务企业投建运营一体化发展caifuhao.eastmoney.com",
+        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XVGI1RkVSY29ub01jS3JkeE5aQ0VxR0Q1a19hWkpQbWdHV19taVc1VWE1Q2doOWR5VTZLNE5YYndEMDNwdWs1MnUzTDB4NmFvcXlwY3dJR0JORnJLSThON21KSGc1a1RLcHQ4?oc=5"
+      },
+      {
+        "id": 40,
+        "title": "央视《新闻直播间》：东庄水利枢纽工程今日下闸蓄水",
+        "source": "powerchina.cn",
+        "pub_date": "2025年11月04日",
+        "content": "央视《新闻直播间》：东庄水利枢纽工程今日下闸蓄水powerchina.cn",
+        "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42cmhrdGNNdHlYSmt0OU1kbnh4blRJZ055emRiSl9SNUVabEd5eEZMOWUxdkRSa1RmSTFVcUozVzJVQTRVcXU1M0xLRno0VUw0ZEZDcTFpSmg5dnAtU3V0SG11TzY1VEJkdENPLUNqeUNMN2M?oc=5"
+      }
+    ],
+    "水生态环境": [
+      {
+        "id": 21,
+        "title": "“爱水、护水、惜水”成共识 厦门思明持续打造“鹭影澄波、湖韵人和”的幸福河湖",
+        "source": "人民网-福建频道",
+        "pub_date": "2026年03月31日",
+        "content": "“爱水、护水、惜水”成共识 厦门思明持续打造“鹭影澄波、湖韵人和”的幸福河湖人民网-福建频道",
+        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90YWFGeFFRcGFBY1VTaEVrVW5UWDFiX053STNtam83MFpFV0dpWTR4TmRKUkkwNXhkenN3VVBqM3Z6QUtQelFwN0NtMXpsc3B1V0ZIMzg1LWxOMVpyTUc3cXZQOG1FeWpELXc?oc=5"
+      },
+      {
+        "id": 22,
+        "title": "黑龙江：河湖治理让幸福可感可及",
+        "source": "央广网",
+        "pub_date": "2026年03月29日",
+        "content": "黑龙江：河湖治理让幸福可感可及央广网",
+        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6c095S3g1eTk1Z20xazdYYTg5dGk3YjBZM2JJbzZIRHRMRWUwYm01YkdNMEhtZHdVUkdpVmoyZnlISVJIc3Y4OWd0QkM4WTNUNzB0ZUtVZm5zQ0tmU1VDRGN3bmZ5LTNVd0Jn?oc=5"
+      },
+      {
+        "id": 23,
+        "title": "日照市全面推行河湖长制十周年建设成效新闻发布会召开",
+        "source": "鲁网",
+        "pub_date": "2026年03月30日",
+        "content": "日照市全面推行河湖长制十周年建设成效新闻发布会召开鲁网",
+        "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yenJvaDRid2tTV0lxcjRkQUw4ei1DLUdfdXVsdEYxeHVDUTBFMWxUNFNicVMwQnpGN0xKTkVMdXFQOWF3TjM3WC1qT21WWXR2c3Z3QXVqbld6ZkdieDhuNzJMMTBEMnl0S3lJWEU0NA?oc=5"
+      },
+      {
+        "id": 24,
+        "title": "尹弘主持召开省河湖长制工作领导小组暨省级总河湖长会议",
+        "source": "抚州新闻网",
+        "pub_date": "2026年03月19日",
+        "content": "尹弘主持召开省河湖长制工作领导小组暨省级总河湖长会议抚州新闻网",
+        "full_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00R0F6dXU1ZllVNmpBTl9hcHU4QjBoNGFBOEs3ZDltQzAxMmRTbTZYUGRxTHZWWl9ORG03LTUwWGN4WS16TFpDWllJWjkwWGxOQVAxLXhZMmxFUQ?oc=5"
+      },
+      {
+        "id": 25,
+        "title": "政策面对面丨为河湖系上“法治纽扣”——省水利厅相关负责人详解《浙江省河湖保护治理条例》",
+        "source": "潮新闻",
+        "pub_date": "2026年03月22日",
+        "content": "政策面对面丨为河湖系上“法治纽扣”——省水利厅相关负责人详解《浙江省河湖保护治理条例》潮新闻",
+        "full_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fX1Q4LWpuQnJmRkRoRzROb3hucDNjLTEybUJDVXk1QnQyOEctVmdaMXZ1YTlGb2FNMnIzSDhsVlFjSXg0Sld3OGZfUk5iV2ZiQkRNQWl6UQ?oc=5"
+      },
+      {
+        "id": 26,
+        "title": "浦东：十年河长制推动河湖水质显著改善",
+        "source": "新浪财经",
+        "pub_date": "2026年03月24日",
+        "content": "浦东：十年河长制推动河湖水质显著改善新浪财经",
+        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRRXlUS2QxeVVTeU84UWhQcmZvSFkwQjlhMDVmandhS01nV3RzWHhtTVBleFdRQ2lxdG14bXlBOFFNSG9vRHdya1FxeEJncGZoVkZlalR2VThfNUxsNzhPcjZmaDFfWWpack8tSDdPMldURUozTHF3aA?oc=5"
+      }
+    ],
+    "政策法规": [
+      {
+        "id": 28,
+        "title": "乘政策东风，拾贝水利水电以“三化”服务，为小水电绿色转型高质量发展保驾护航",
+        "source": "搜狐网",
+        "pub_date": "2026年04月02日",
+        "content": "乘政策东风，拾贝水利水电以“三化”服务，为小水电绿色转型高质量发展保驾护航搜狐网",
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTGIzQkFELTZOUVFxMHdtd01KckJSQzN1bkhZZTZuNkxId3UzZndBY1hJbVFEVUxnSFF2Xzl4ODI1N2NsdHoxb0gyY1VvWWhzNzJmcWRkWmdNajhpa2ZRZmhpcWI3ZlVUQlRpWUpYTy1NLXBxZkd5bWdBbkVKakxZcy1oVWRQZWJV?oc=5"
+      },
+      {
+        "id": 39,
+        "title": "【高质量完成“十四五”规划系列主题新闻发布会】介绍“十四五”时期水利高质量发展成就",
+        "source": "中国网",
+        "pub_date": "2025年09月29日",
+        "content": "【高质量完成“十四五”规划系列主题新闻发布会】介绍“十四五”时期水利高质量发展成就中国网",
+        "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xRU5kcG4zTndOTEdfb1JoWEY2dTVQcUFSZUN3Wjlyem5oWmJnZmt0UEFBX0IwVGF5eXdSbUdxQnZENnU1VndodlZudC00ZWpQc1pvV3NRSW81bWU5Yk5Ydw?oc=5"
+      }
+    ]
+  }
 }
