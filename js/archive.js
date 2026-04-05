@@ -189,6 +189,9 @@ function renderDetail(data) {
             var link = (item.full_link && item.full_link.indexOf('暂未公开') === -1)
                 ? '<a href="' + esc(item.full_link) + '" target="_blank" rel="noopener" class="news-link">查看原文 →</a>'
                 : '';
+            var impactHtml = item.impact
+                ? '<div class="news-impact"><strong>可能的影响：</strong>' + esc(item.impact) + '</div>'
+                : '';
             html += '<article class="news-card">' +
                     '<h3>' + esc(item.title) + '</h3>' +
                     '<div class="news-meta">' +
@@ -196,6 +199,7 @@ function renderDetail(data) {
                     '<span class="news-date">'   + esc(item.pub_date) + '</span>' +
                     '</div>' +
                     '<div class="news-content"><p>' + esc(item.content || item.title) + '</p></div>' +
+                    impactHtml +
                     link +
                     '</article>';
         });

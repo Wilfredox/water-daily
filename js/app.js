@@ -1,34 +1,24 @@
 /**
  * 水利日报 - 今日日报前端脚本
- *
- * 流程：
- *   1. 加载 news-data.json
- *   2. 用 data.date 更新页面标题和 <title>
- *   3. 按分类渲染新闻卡片
  */
-
 document.addEventListener('DOMContentLoaded', function () {
-    fetch('news-data.json?t=' + Date.now())   // 加时间戳防 CDN 缓存
+    fetch('news-data.json?t=' + Date.now())
         .then(function (r) {
             if (!r.ok) throw new Error('数据文件不存在');
             return r.json();
         })
-        .then(function (data) {
-            renderReport(data);
-        })
+        .then(renderReport)
         .catch(function (err) {
             console.error(err);
             renderEmpty('数据加载失败，请稍后刷新重试');
         });
 });
 
-/* ── 渲染今日日报 ──────────────────────────────────── */
 function renderReport(data) {
-    var titleEl  = document.getElementById('report-title');
-    var timeEl   = document.getElementById('update-time');
-
-    var dateStr  = data.date || '日期获取中';
-    var timeStr  = data.update_time || (data.date ? data.date + ' 00:00' : '');
+    var titleEl = document.getElementById('report-title');
+    var timeEl  = document.getElementById('update-time');
+    var dateStr = data.date || '日期获取中';
+    var timeStr = data.update_time || (data.date ? data.date + ' 00:00' : '');
 
     if (titleEl) titleEl.textContent = '今日水利日报 — ' + dateStr;
     if (timeEl)  timeEl.textContent  = timeStr;
@@ -54,9 +44,18 @@ function renderReport(data) {
         html += '<div class="news-grid">';
 
         list.forEach(function (item) {
+            // 可能的影响：优先用 impact 字段，没有则不显示
+            var impactHtml = '';
+            if (item.impact) {
+                impactHtml = '<div class="news-impact">' +
+                             '<strong>可能的影响：</strong>' + esc(item.impact) +
+                             '</div>';
+            }
+
             var link = (item.full_link && item.full_link.indexOf('暂未公开') === -1)
                 ? '<a href="' + esc(item.full_link) + '" target="_blank" rel="noopener" class="news-link">查看原文 →</a>'
                 : '';
+
             html += '<article class="news-card">' +
                     '<h3>' + esc(item.title) + '</h3>' +
                     '<div class="news-meta">' +
@@ -64,6 +63,7 @@ function renderReport(data) {
                     '  <span class="news-date">'   + esc(item.pub_date) + '</span>' +
                     '</div>' +
                     '<div class="news-content"><p>' + esc(item.content || item.title) + '</p></div>' +
+                    impactHtml +
                     link +
                     '</article>';
         });
@@ -74,7 +74,6 @@ function renderReport(data) {
     container.innerHTML = html;
 }
 
-/* ── 空状态 ───────────────────────────────────────── */
 function renderEmpty(msg) {
     document.getElementById('news-container').innerHTML =
         '<div class="empty-state">' +
@@ -84,7 +83,6 @@ function renderEmpty(msg) {
         '</div>';
 }
 
-/* ── HTML 转义 ────────────────────────────────────── */
 function esc(s) {
     if (!s) return '';
     return String(s)
