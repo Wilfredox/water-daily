@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="水利日报 - 每日自动更新的水利行业权威资讯">
+    <meta name="keywords" content="水利,水利部,浙江省水利厅,水利新闻,防汛抗旱">
+    <title>水利日报 - 今日日报</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container header-content">
+            <div class="logo">
+                <img src="魄罗.jpg" alt="水利日报 Logo" class="logo-icon">
+                <div class="logo-text">
+                    <span class="logo-title">水利日报</span>
+                </div>
+            </div>
+            <nav class="nav-menu">
+                <a href="index.html" class="active">今日日报</a>
+                <a href="archive.html">往期日报</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container main-content">
+        <div class="page-header">
+            <h1 class="page-title" id="report-title">水利日报</h1>
+            <p class="page-subtitle">
+                数据来源：水利部、浙江省水利厅、中国水利网等官方渠道
+                &nbsp;|&nbsp; 更新时间：<span id="update-time">加载中...</span>
+            </p>
+        </div>
+
+        <div id="news-container" class="loading">
+            <div class="loading-spinner"></div>
+            <p>正在加载新闻数据...</p>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container footer-content">
+            <p class="footer-text">© 2026 水利日报 | 数据来源：水利部等官方权威渠道</p>
+            <p class="footer-text">本站内容仅供水利专业学习参考，转载请注明出处</p>
+        </div>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

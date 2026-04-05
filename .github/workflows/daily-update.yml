@@ -1,0 +1,100 @@
+name: 每日水利日报更新
+
+on:
+  schedule:
+    # 北京时间 00:00 = UTC 前一天 16:00
+    - cron: '0 16 * * *'
+  workflow_dispatch:   # 支持手动触发
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  crawl-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      # ── 1. 检出代码 ────────────────────────────────
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      # ── 2. Python 环境 ──────────────────────────────
+      - name: 设置 Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 安装依赖
+        run: pip install requests beautifulsoup4 lxml
+
+      # ── 3. 运行爬虫 ─────────────────────────────────
+      # continue-on-error: true 保证爬虫即使失败，后续 Pages 部署仍会进行
+      - name: 运行爬虫
+        continue-on-error: true
+        run: python crawler.py
+        env:
+          TZ: Asia/Shanghai
+          PYTHONIOENCODING: utf-8
+
+      # ── 4. 用 Python 更新 HTML 日期（避免 sed 中文乱码问题） ──
+      - name: 更新 HTML 日期
+        run: |
+          python3 - << 'PYEOF'
+          import re, os
+          from datetime import datetime, timedelta, timezone
+          CST = timezone(timedelta(hours=8))
+          today = datetime.now(CST).strftime("%Y年%m月%d日")
+          for fname in ['index.html', 'archive.html']:
+              if not os.path.exists(fname):
+                  continue
+              with open(fname, encoding='utf-8') as f:
+                  content = f.read()
+              # 替换 <title> 标签内容（无论之前写的是什么日期）
+              new_content = re.sub(
+                  r'(<title>水利日报[^<]*?)(</title>)',
+                  f'<title>水利日报 — {today}</title>',
+                  content
+              )
+              # 替换 page-title 里的日期（如果有静态文字）
+              if new_content != content:
+                  with open(fname, 'w', encoding='utf-8') as f:
+                      f.write(new_content)
+                  print(f"已更新 {fname} 日期 → {today}")
+              else:
+                  print(f"{fname} 无需更新（JS动态渲染）")
+          PYEOF
+        env:
+          TZ: Asia/Shanghai
+
+      # ── 5. 提交数据到仓库 ──────────────────────────
+      - name: 提交数据更新
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news-data.json archive-data.json index.html archive.html
+          if git diff --staged --quiet; then
+            echo "无变更，跳过提交"
+          else
+            TODAY=$(TZ='Asia/Shanghai' date '+%Y年%m月%d日')
+            git commit -m "📰 ${TODAY} 水利日报自动更新"
+            git push
+          fi
+
+      # ── 6. 打包 & 部署到 GitHub Pages ──────────────
+      - name: 配置 GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: 打包网站文件
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
