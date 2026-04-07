@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026年04月07日",
+    "news_date": "2026年04月06日",
+    "update_time": "2026-04-07 00:00",
+    "total_news": 3,
+    "category_count": 2,
+    "news": {
+      "综合要闻": [
+        {
+          "id": 1,
+          "title": "水利部：西辽河干流再次实现春季全线贯通",
+          "source": "新浪财经",
+          "pub_date": "2026年04月05日",
+          "content": "水利部：西辽河干流再次实现春季全线贯通新浪财经",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUENBeWhsZ1pPYVZrR2s0ZHVqYTBpa0JZVnBUbzczbFFEVE1JcmVyZ3FvRXp3LUJMRHBKOE0weERUNmtXRFRSNEptT2VmcG9UNnlLR3piS3lGUlhhNm8zZVRaX1lMcWNyRTZrNmFENDhmUGVfV3pFNkt6NnoyWnQ1eUVNcU8xZTBwM3B0cHBoSQ?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "西辽河干流再次实现春季全线贯通，水利部消息，补水水头4月5日到达内蒙古通辽安乐屯，与下游水面衔接，标志生态调度成效巩固提升",
+          "source": "sohu.com",
+          "pub_date": "2026年04月06日",
+          "content": "西辽河干流再次实现春季全线贯通，水利部消息，补水水头4月5日到达内蒙古通辽安乐屯，与下游水面衔接，标志生态调度成效巩固提升sohu.com",
+          "impact": "西辽河干流再次实现春季全线贯通，水利部消息，补水水头4月5日到达内蒙古通辽安乐屯，与下游水面衔接，标志生态调度成效巩固提升sohu.com。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcG1Nd0t5NVdqMHBtM19kZ3dVeFk5cXdmQVNScU9JQ3Y1d0F1bFRhZVlneHg0Rk5uelpJWXBmSC1OWEQxZ1JRWThkRnY4STdVNnFUb0RnTWNFMWNwbzNlYWxPMm5XWGdmdEZKaUptY1d1YWRJMmFFVHRTUW9US1NtRkpZVkppeDFkNUtZQw?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 2,
+          "title": "湟中区 深耕河湖长制 绘就水美乡村新画卷",
+          "source": "thepaper.cn",
+          "pub_date": "2026年04月05日",
+          "content": "湟中区 深耕河湖长制 绘就水美乡村新画卷thepaper.cn",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pakJkS3NBQUJKX1pTckJKTWNPdjlyeVJOdW9HLW9tOHdLZ1hMWE9uWWo0MlpQcWhYemV2RU05alhDTjV5SGs0YWdjYUlORlVYNzE0R3N6d1VYOHFDVmc?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年04月06日",
     "news_date": "2026年04月05日",
     "update_time": "2026-04-06 00:00",
