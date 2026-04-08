@@ -3,7 +3,7 @@
   "news_date": "2026年04月07日",
   "update_time": "2026-04-08 00:00",
   "total_news": 3,
-  "category_count": 2,
+  "category_count": 3,
   "news": {
     "水利工程": [
       {
@@ -14,26 +14,28 @@
         "content": "泸县：土公庙水库建设整体进度过半 进入大坝主体施工四川在线",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
         "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WamkxS1BsWU41eWpTQWgwaFo0RFlrRVdGeUtzUGFINEpSUXpUeEFQcTlOaC1aakM1WXRBVVQ4LUJaTUNUQTdsSnk0eldmRkdjV2RGaVFlaFE5cHJPd0g2ZHpn?oc=5"
-      },
-      {
-        "id": 2,
-        "title": "乌苏春季水库注水 护航春耕保民生",
-        "source": "央广网",
-        "pub_date": "2026年04月07日",
-        "content": "乌苏春季水库注水 护航春耕保民生央广网",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xY2J6QUpWSXkxUVpJTUdDZ2NxZDJwMTVDcFlFZVRpUFVtUkc2RkV0WjBDcUVFZTMtYXZyNmpUZ21KRDE0OFhtblBZMzVrSXNkbHIzdnZrTlM2WXlmMjFUNnNZdDRPQVd4Snk0dE1vUFdEZw?oc=5"
       }
     ],
-    "综合要闻": [
+    "水生态环境": [
+      {
+        "id": 2,
+        "title": "三亚市2026年总河湖长暨“六水共治”工作会议召开",
+        "source": "thepaper.cn",
+        "pub_date": "2026年04月07日",
+        "content": "三亚市2026年总河湖长暨“六水共治”工作会议召开thepaper.cn",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vSU5fLTRMVElEY3JNVS10T2xWdnY2RmZOV2pqNExFR3NjQ1JyVVRjajJWWGEzRzhwTlBKa3JfMDA5SGFMdzRHdDZMbFZlLURzUnV3cnJHSk9kb1ZUMkE?oc=5"
+      }
+    ],
+    "政策法规": [
       {
         "id": 3,
-        "title": "215.2亿助力水网升级！浙江一季度水利投资迎来“开门红”",
-        "source": "Sohu",
+        "title": "可采量压减86%、禁采超八成！水利部批复十五五淮河采砂规划",
+        "source": "新浪财经客户端",
         "pub_date": "2026年04月07日",
-        "content": "215.2亿助力水网升级！浙江一季度水利投资迎来“开门红”Sohu",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQckp4NEZ0aDBLcm1IYUxiMGdpZ3lKZTBzbnEzN1lXZ0dSZXJUZFdueEJCQXpCZ1ZoeTk0SV9rLXlfTEhHUGxwcFE4b25WYnhLRVlhakVtV0toYmhsa1F0RGI3RHdvMGZTUGR4LUF2clNyeVVsQUNuWkdyS3lVRXFSbVFETUVjcXktRDlEcA?oc=5"
+        "content": "可采量压减86%、禁采超八成！水利部批复十五五淮河采砂规划新浪财经客户端",
+        "impact": "将进一步规范水利管理秩序，推动依法治水。",
+        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCdGhfaXFqLWV1TVZHRmxIV1pKUFFEeFVCM3FOMXhCVWUtNWtGX1pETk5jX0FocU9WQnF1UzlXMncwMVllZy1ta3pka0pnRThIRVllc3hDN0w3RFVCTkZRV2tvVWNoZFJKYTZFVmpOUkY2X0txNGY5Tw?oc=5"
       }
     ]
   }
