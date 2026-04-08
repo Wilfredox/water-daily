@@ -1,57 +1,39 @@
 {
-  "date": "2026年04月05日",
-  "news_date": "2026年04月04日",
-  "update_time": "2026-04-05 00:00",
-  "total_news": 5,
+  "date": "2026年04月08日",
+  "news_date": "2026年04月07日",
+  "update_time": "2026-04-08 00:00",
+  "total_news": 3,
   "category_count": 2,
   "news": {
-    "防汛抗旱": [
+    "水利工程": [
       {
         "id": 1,
-        "title": "财政部、水利部下达2.376亿元支持海南、辽宁等地防汛救灾",
-        "source": "新京报",
-        "pub_date": "2026年04月03日",
-        "content": "财政部、水利部下达2.376亿元支持海南、辽宁等地防汛救灾新京报",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5U1BIQkpnS0xXRWpaRExER2pGWFprQURNalRCdGxSVTdSTG8ydlIzd3FfdXJGODdfenVDeGw0WlpvcGt6VHBrS2FIQ1JIajZVQ1VKeU1jcjU4aG03eWtlaktPb2I?oc=5"
+        "title": "泸县：土公庙水库建设整体进度过半 进入大坝主体施工",
+        "source": "四川在线",
+        "pub_date": "2026年04月07日",
+        "content": "泸县：土公庙水库建设整体进度过半 进入大坝主体施工四川在线",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WamkxS1BsWU41eWpTQWgwaFo0RFlrRVdGeUtzUGFINEpSUXpUeEFQcTlOaC1aakM1WXRBVVQ4LUJaTUNUQTdsSnk0eldmRkdjV2RGaVFlaFE5cHJPd0g2ZHpn?oc=5"
       },
       {
         "id": 2,
-        "title": "青原区加强防汛巡查_新浪新闻",
-        "source": "手机新浪网",
-        "pub_date": "2026年04月03日",
-        "content": "青原区加强防汛巡查_新浪新闻手机新浪网",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54T0xLazE2emJCRExyb3hVb2x0S2dGR0dEcGpIQ2Z3TGREclFDVGpBcUI1dFZRX3NKRlBkVUJ4VUVneFJ4TmJrbHZ1RjV1YmdhcUZ3RG1JdXFlNGJiSG9BR1RnNA?oc=5"
-      },
-      {
-        "id": 5,
-        "title": "广东省防汛防旱防风总指挥部关于2026年广东省、市三防责任人和省管水利工程、",
-        "source": "epaper.nfnews.com",
-        "pub_date": "2026年04月03日",
-        "content": "广东省防汛防旱防风总指挥部关于2026年广东省、市三防责任人和省管水利工程、epaper.nfnews.com",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EWXVuUWpGQmc0SlkySGJyM1JZNDJTTkNmWFNnNkw0YVFQdC1KbFc4d2puSmhUcVdMUXhmNmRCX05malBzOXlSNkdhZEtzWVdCM1hibUtCSF9Id3U3SlVpbUxiS1FURkZIVXNUYzc5SzN0UjhFS0tQb3lB?oc=5"
+        "title": "乌苏春季水库注水 护航春耕保民生",
+        "source": "央广网",
+        "pub_date": "2026年04月07日",
+        "content": "乌苏春季水库注水 护航春耕保民生央广网",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xY2J6QUpWSXkxUVpJTUdDZ2NxZDJwMTVDcFlFZVRpUFVtUkc2RkV0WjBDcUVFZTMtYXZyNmpUZ21KRDE0OFhtblBZMzVrSXNkbHIzdnZrTlM2WXlmMjFUNnNZdDRPQVd4Snk0dE1vUFdEZw?oc=5"
       }
     ],
-    "水利工程": [
+    "综合要闻": [
       {
         "id": 3,
-        "title": "总投资38.29亿元！国家重大水利工程玉龙水库施工准备工程正式开工",
-        "source": "人民网贵州",
-        "pub_date": "2026年04月03日",
-        "content": "总投资38.29亿元！国家重大水利工程玉龙水库施工准备工程正式开工人民网贵州",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44VW1ZOXJYRkc5LS1DQ2wtazYtTFowZ3E2WDFVUlJNSFJJQkZ4THNDZF9TZGF2TFRqTTZqYU80X1BrQUZoYW03VEh0NnNLc3B1VTRUQ2t0V2hwLWhmYmluVkxHTDdjUlVqNXc?oc=5"
-      },
-      {
-        "id": 4,
-        "title": "贵州两座国家级重大水利工程接连开工，惠及超183万群众",
-        "source": "新浪财经",
-        "pub_date": "2026年04月04日",
-        "content": "贵州两座国家级重大水利工程接连开工，惠及超183万群众新浪财经",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91SnlpZHktOERRSURwRy1ZQ2JvTExCTm9BUnNJY2sxTTdDbDQ2Q1k5UFpLYnNjNHVCeTlPRHpqcno2OWNoZnZkUU9KR1FFdkxsWHBBcVplNGNqN2pIWWFwVWRweGpHZWVkMEt6aEFqdnhpMW1hUXlLUA?oc=5"
+        "title": "215.2亿助力水网升级！浙江一季度水利投资迎来“开门红”",
+        "source": "Sohu",
+        "pub_date": "2026年04月07日",
+        "content": "215.2亿助力水网升级！浙江一季度水利投资迎来“开门红”Sohu",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQckp4NEZ0aDBLcm1IYUxiMGdpZ3lKZTBzbnEzN1lXZ0dSZXJUZFdueEJCQXpCZ1ZoeTk0SV9rLXlfTEhHUGxwcFE4b25WYnhLRVlhakVtV0toYmhsa1F0RGI3RHdvMGZTUGR4LUF2clNyeVVsQUNuWkdyS3lVRXFSbVFETUVjcXktRDlEcA?oc=5"
       }
     ]
   }
