@@ -115,12 +115,32 @@ def fetch_article_content(url, max_chars=400):
 GOOGLE_NEWS_QUERIES = [
     ('水利部 防汛',        '防汛抗旱'),
     ('水利部 抗旱',        '防汛抗旱'),
+    ('防洪 汛期 山洪',     '防汛抗旱'),
+    ('台风 暴雨 水利',     '防汛抗旱'),
     ('水利部 水资源',      '水资源管理'),
+    ('节水 供水 调水',     '水资源管理'),
+    ('南水北调 引江济淮',  '水资源管理'),
+    ('农村饮水 供水安全',  '水资源管理'),
     ('水利工程 水库',      '水利工程'),
+    ('大坝 堤防 除险加固', '水利工程'),
+    ('抽水蓄能 水电站',    '水利工程'),
+    ('国家水网 水网建设',  '水利工程'),
     ('河湖长制 水生态',    '水生态环境'),
+    ('河长制 湖长制',      '水生态环境'),
+    ('水土保持 水土流失',  '水生态环境'),
+    ('黑臭水体 水污染',    '水生态环境'),
+    ('海绵城市 城市防洪',  '水生态环境'),
     ('水利部 政策 通知',   '政策法规'),
+    ('水利 条例 规划',     '政策法规'),
+    ('水利投资 水利建设',  '政策法规'),
+    ('智慧水利 数字孪生',  '智慧水利'),
+    ('数字孪生流域 水利信息化', '智慧水利'),
     ('浙江 水利',          '综合要闻'),
     ('水利部 新闻',        '综合要闻'),
+    ('长江 黄河 水利',     '综合要闻'),
+    ('珠江 海河 水利',     '综合要闻'),
+    ('灌溉 灌区 农田水利', '综合要闻'),
+    ('三峡 小浪底 水库',   '综合要闻'),
 ]
 
 def google_news_rss_url(query):
@@ -131,7 +151,7 @@ def parse_google_rss(xml_content, hint_category):
     items = []
     try:
         soup = BeautifulSoup(xml_content, 'xml')
-        for entry in soup.find_all('item')[:10]:
+        for entry in soup.find_all('item')[:15]:
             title_tag = entry.find('title')
             if not title_tag:
                 continue
@@ -191,22 +211,109 @@ def crawl_google_news():
         time.sleep(1.5)
     return all_items
 
+# ── 水利部 / 中国水利网 RSS ──────────────────────────────────────────────────
+OFFICIAL_RSS_FEEDS = [
+    ('http://www.mwr.gov.cn/rss/slyw.xml',          '水利部要闻',   '综合要闻'),
+    ('http://www.mwr.gov.cn/rss/fxdj.xml',           '防汛抗旱',     '防汛抗旱'),
+    ('http://www.mwr.gov.cn/rss/gczl.xml',           '水利工程',     '水利工程'),
+    ('http://www.mwr.gov.cn/rss/szygl.xml',          '水资源管理',   '水资源管理'),
+    ('http://www.mwr.gov.cn/rss/ssthj.xml',          '水生态环境',   '水生态环境'),
+    ('http://www.mwr.gov.cn/rss/zcfg.xml',           '政策法规',     '政策法规'),
+    ('http://www.chinawater.com.cn/rss/zgsl.xml',    '中国水利网',   '综合要闻'),
+]
+
+def parse_official_rss(xml_content, feed_name, hint_category):
+    items = []
+    try:
+        soup = BeautifulSoup(xml_content, 'xml')
+        entries = soup.find_all('item')
+        if not entries:
+            entries = soup.find_all('entry')
+        for entry in entries[:15]:
+            title_tag = entry.find('title')
+            if not title_tag:
+                continue
+            title = title_tag.get_text(strip=True)
+            if len(title) < 6:
+                continue
+
+            link_tag = entry.find('link')
+            url = ''
+            if link_tag:
+                url = link_tag.get_text(strip=True) or link_tag.get('href', '')
+            if not url:
+                continue
+
+            pub_tag = entry.find('pubDate') or entry.find('published') or entry.find('updated')
+            pub_date = pub_tag.get_text(strip=True) if pub_tag else ''
+            date_str = parse_date_loose(pub_date)
+
+            desc_tag = entry.find('description') or entry.find('summary')
+            summary = ''
+            if desc_tag:
+                raw = BeautifulSoup(desc_tag.get_text(), 'html.parser').get_text(strip=True)
+                summary = re.sub(r'\s+', ' ', raw).strip()[:300]
+
+            items.append({
+                'title':    title,
+                'url':      url,
+                'pub_date': date_str,
+                'content':  summary,
+                'source':   feed_name,
+                '_hint':    hint_category,
+            })
+    except Exception as e:
+        print(f"    [Official RSS parse error] {e}")
+    return items
+
+
+def crawl_official_rss():
+    print("\n── 官方 RSS 数据源 ─────────────────────────────")
+    all_items = []
+    for feed_url, feed_name, category in OFFICIAL_RSS_FEEDS:
+        print(f"  ▷ 「{feed_name}」…", end=' ', flush=True)
+        r = fetch(feed_url, timeout=15, retries=2)
+        if not r:
+            print("✗")
+            time.sleep(1)
+            continue
+        items = parse_official_rss(r.content, feed_name, category)
+        print(f"✓ {len(items)} 条")
+        all_items.extend(items)
+        time.sleep(1)
+    return all_items
+
 # ── 新闻分类 ──────────────────────────────────────────────────────────────────
 WATER_KWS = ['水利', '防汛', '抗旱', '水资源', '水库', '河湖', '水生态',
              '灌溉', '堤防', '水环境', '节水', '水质', '水污染', '供水',
-             '调水', '泄洪', '汛情', '旱情', '水权', '大坝', '入汛', '蓄水']
+             '调水', '泄洪', '汛情', '旱情', '水权', '大坝', '入汛', '蓄水',
+             '南水北调', '引江济淮', '河长制', '湖长制', '水土保持',
+             '抽水蓄能', '水电站', '海绵城市', '数字孪生', '智慧水利',
+             '国家水网', '水网建设', '农村饮水', '黑臭水体', '除险加固',
+             '灌区', '农田水利', '三峡', '小浪底', '防洪', '洪涝',
+             '山洪', '凌汛', '春灌', '冬修', '水旱', '流域',
+             '水文', '水利部', '水利厅', '水利局']
 
 CATEGORY_RULES = [
     ('防汛抗旱',   ['防汛', '抗旱', '洪水', '汛情', '汛期', '台风', '暴雨',
-                    '抢险', '旱情', '泄洪', '应急响应', '备汛', '洪涝', '内涝', '入汛']),
+                    '抢险', '旱情', '泄洪', '应急响应', '备汛', '洪涝', '内涝', '入汛',
+                    '山洪', '凌汛', '防洪', '堤防', '警戒水位', '超警', '洪峰']),
     ('水利工程',   ['水库', '大坝', '堤防', '海塘', '渠道', '泵站', '闸',
-                    '灌区', '工程建设', '竣工', '验收', '除险加固', '开工', '蓄水']),
+                    '灌区', '工程建设', '竣工', '验收', '除险加固', '开工', '蓄水',
+                    '抽水蓄能', '水电站', '国家水网', '水网建设', '三峡', '小浪底',
+                    '引江济淮', '南水北调', '水利投资', '水利建设']),
     ('水资源管理', ['水资源', '节水', '供水', '取水许可', '地下水', '调水',
-                    '引水', '水权', '用水总量', '水量分配', '缺水']),
+                    '引水', '水权', '用水总量', '水量分配', '缺水',
+                    '农村饮水', '供水安全', '饮用水', '水源地', '水价']),
     ('水生态环境', ['水生态', '水环境', '河湖', '河长制', '湖长', '湿地',
-                    '水质', '水污染', '生态修复', '水土保持']),
+                    '水质', '水污染', '生态修复', '水土保持',
+                    '黑臭水体', '海绵城市', '水土流失', '生态流量', '河湖长制']),
     ('政策法规',   ['印发', '出台', '条例', '规划', '办法', '意见',
-                    '通知', '规范', '标准', '规定', '法规', '政策']),
+                    '通知', '规范', '标准', '规定', '法规', '政策',
+                    '改革', '制度', '实施方案', '指导意见']),
+    ('智慧水利',   ['智慧水利', '数字孪生', '信息化', '智能化', '大数据',
+                    '遥感', '监测预警', '物联网', '人工智能', '数字孪生流域',
+                    '水利信息化', '智慧流域', '智能监测']),
     ('综合要闻',   []),
 ]
 
@@ -223,16 +330,16 @@ def classify(title, content=''):
     return '综合要闻'
 
 # ── 日期过滤 ──────────────────────────────────────────────────────────────────
-def is_yesterday(date_str, yest_str):
+def is_recent(date_str, yest_str, today_str):
     """
-    判断一条新闻是否属于「昨天」。
-    - date_str 为 None（日期缺失）→ 保留（宁可多要，不漏掉）
-    - 匹配昨天 → True
+    判断一条新闻是否属于近期（昨天或今天）。
+    - date_str 为 None（日期缺失）→ 保留
+    - 匹配昨天或今天 → True
     - 其他日期 → False
     """
     if date_str is None:
-        return True   # 日期缺失时保留，不误杀
-    return date_str == yest_str
+        return True
+    return date_str in (yest_str, today_str)
 
 # ── 语义去重 ──────────────────────────────────────────────────────────────────
 # 思路：从标题中提取「核心实词」（去掉停用词），
@@ -281,6 +388,7 @@ IMPACT_TEMPLATES = {
     '水资源管理': '有利于推进节水型社会建设，保障供水安全。',
     '水生态环境': '有助于改善水生态环境质量，维护河湖生态健康。',
     '政策法规':   '将进一步规范水利管理秩序，推动依法治水。',
+    '智慧水利':   '有助于推动水利行业数字化转型，提升水利管理智能化水平。',
     '综合要闻':   '对水利行业发展具有积极推动作用。',
 }
 
@@ -312,23 +420,26 @@ def run():
 
     print(f"\n{'='*55}")
     print(f"  水利日报爬虫  {today_str}")
-    print(f"  只收录：{yest_str} 发布的新闻")
+    print(f"  收录范围：{yest_str} ~ {today_str} 发布的新闻")
     print(f"{'='*55}")
 
     # ── 步骤1：抓取 ──────────────────────────────────────────────────────────
     all_raw = crawl_google_news()
-    print(f"\n原始条目：{len(all_raw)}")
+    official_raw = crawl_official_rss()
+    all_raw.extend(official_raw)
+    print(f"\n原始条目：{len(all_raw)}（Google News + 官方 RSS）")
 
-    # ── 步骤2：日期过滤（只保留昨天） ────────────────────────────────────────
-    dated = [it for it in all_raw if is_yesterday(it.get('pub_date'), yest_str)]
-    print(f"日期过滤后（{yest_str}）：{len(dated)} 条")
+    # ── 步骤2：日期过滤（保留昨天和今天） ────────────────────────────────────
+    dated = [it for it in all_raw if is_recent(it.get('pub_date'), yest_str, today_str)]
+    print(f"日期过滤后（{yest_str}~{today_str}）：{len(dated)} 条")
 
-    # 如果过滤后太少（<5条），放宽到近2天（新闻发布时区差异）
+    # 如果过滤后太少（<5条），放宽到近3天
     if len(dated) < 5:
         day_before = fmt_date(now - timedelta(days=2))
+        day_before2 = fmt_date(now - timedelta(days=3))
         dated = [it for it in all_raw
-                 if it.get('pub_date') in (yest_str, day_before, None)]
-        print(f"  → 放宽到近2天后：{len(dated)} 条")
+                 if it.get('pub_date') in (today_str, yest_str, day_before, day_before2, None)]
+        print(f"  → 放宽到近3天后：{len(dated)} 条")
 
     # ── 步骤3：水利关键词过滤 + 分类 ─────────────────────────────────────────
     water_items = []

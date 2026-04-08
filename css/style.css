@@ -500,6 +500,66 @@ body {
     border-left-color: #f56565;
 }
 
+.category-智慧水利 h4::before,
+.category-智慧水利 .news-card {
+    border-left-color: #805ad5;
+    border-top-color: #805ad5;
+}
+
+.category-智慧水利 .news-impact {
+    border-left-color: #805ad5;
+}
+
+.category-防汛抗旱 h4::before,
+.category-防汛抗旱 .news-card {
+    border-left-color: #f56565;
+    border-top-color: #f56565;
+}
+
+.category-防汛抗旱 .news-impact {
+    border-left-color: #f56565;
+}
+
+.category-水利工程 h4::before,
+.category-水利工程 .news-card {
+    border-left-color: #3182ce;
+    border-top-color: #3182ce;
+}
+
+.category-水利工程 .news-impact {
+    border-left-color: #3182ce;
+}
+
+.category-水资源管理 h4::before,
+.category-水资源管理 .news-card {
+    border-left-color: #38b2ac;
+    border-top-color: #38b2ac;
+}
+
+.category-水资源管理 .news-impact {
+    border-left-color: #38b2ac;
+}
+
+.category-水生态环境 h4::before,
+.category-水生态环境 .news-card {
+    border-left-color: #48bb78;
+    border-top-color: #48bb78;
+}
+
+.category-水生态环境 .news-impact {
+    border-left-color: #48bb78;
+}
+
+.category-政策法规 h4::before,
+.category-政策法规 .news-card {
+    border-left-color: #ecc94b;
+    border-top-color: #ecc94b;
+}
+
+.category-政策法规 .news-impact {
+    border-left-color: #ecc94b;
+}
+
 /* 加载状态 */
 .loading {
     text-align: center;
