@@ -692,3 +692,103 @@ body {
     color: #6b7280;
     font-weight: 400;
 }
+
+/* ── 往期日报：年月树形结构 ──────────────────────────── */
+.archive-tree {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    overflow: hidden;
+    padding: 10px 0;
+}
+
+.tree-year {
+    border-bottom: 1px solid #f1f5f9;
+    padding-bottom: 8px;
+    margin-bottom: 4px;
+}
+.tree-year:last-child { border-bottom: none; }
+
+.tree-year-label {
+    font-size: 17px;
+    font-weight: 700;
+    color: #1e3a5f;
+    padding: 14px 32px 8px;
+    letter-spacing: 1px;
+}
+
+.tree-months { padding: 0 16px 8px 32px; }
+
+.tree-month { margin-bottom: 4px; }
+
+.tree-month-label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.2s;
+    user-select: none;
+}
+.tree-month-label:hover { background: #f0f4f8; }
+
+.tree-arrow {
+    font-size: 13px;
+    color: #2c5282;
+    width: 14px;
+    display: inline-block;
+    transition: transform 0.2s;
+}
+
+.tree-month-name {
+    font-size: 15px;
+    font-weight: 600;
+    color: #2c5282;
+}
+
+.tree-month-count {
+    font-size: 13px;
+    color: #9ca3af;
+}
+
+.tree-days {
+    padding: 4px 0 4px 24px;
+    border-left: 2px solid #e2e8f0;
+    margin-left: 20px;
+    margin-top: 2px;
+}
+
+.tree-day-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 16px;
+    border-radius: 8px;
+    transition: background 0.2s, transform 0.15s;
+    cursor: pointer;
+}
+.tree-day-item:hover {
+    background: #f8fafc;
+    transform: translateX(3px);
+}
+
+.day-info {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.day-label {
+    font-size: 14px;
+    font-weight: 600;
+    color: #374151;
+}
+
+.day-meta {
+    font-size: 12px;
+    color: #9ca3af;
+    background: #f3f4f6;
+    padding: 2px 8px;
+    border-radius: 10px;
+}

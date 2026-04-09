@@ -44,7 +44,18 @@ function renderReport(data) {
         html += '<div class="news-grid">';
 
         list.forEach(function (item) {
-            // 可能的影响：优先用 impact 字段，没有则不显示
+            // content：只有非空且与标题不重复时才显示
+            var contentText = (item.content || '').trim();
+            var titleText   = (item.title   || '').trim();
+            // 如果正文基本上就是标题（相似度高），视为无有效正文
+            var contentHtml = '';
+            if (contentText && contentText.length > 20) {
+                var overlap = longestCommonSubstr(titleText, contentText);
+                if (overlap / titleText.length < 0.7) {
+                    contentHtml = '<div class="news-content"><p>' + esc(contentText) + '</p></div>';
+                }
+            }
+
             var impactHtml = '';
             if (item.impact) {
                 impactHtml = '<div class="news-impact">' +
@@ -62,7 +73,7 @@ function renderReport(data) {
                     '  <span class="news-source">' + esc(item.source) + '</span>' +
                     '  <span class="news-date">'   + esc(item.pub_date) + '</span>' +
                     '</div>' +
-                    '<div class="news-content"><p>' + esc(item.content || item.title) + '</p></div>' +
+                    contentHtml +
                     impactHtml +
                     link +
                     '</article>';
@@ -72,6 +83,22 @@ function renderReport(data) {
     }
 
     container.innerHTML = html;
+}
+
+/** 最长公共子串长度（用于判断 content 是否重复标题） */
+function longestCommonSubstr(a, b) {
+    if (!a || !b) return 0;
+    var maxLen = 0;
+    for (var i = 0; i < a.length; i++) {
+        for (var j = 0; j < b.length; j++) {
+            var len = 0;
+            while (i + len < a.length && j + len < b.length && a[i+len] === b[j+len]) {
+                len++;
+            }
+            if (len > maxLen) maxLen = len;
+        }
+    }
+    return maxLen;
 }
 
 function renderEmpty(msg) {

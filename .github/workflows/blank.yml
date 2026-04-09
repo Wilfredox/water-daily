@@ -1,13 +1,9 @@
-name: Sync to Gitee
-on:
-  push:
-分支: [ main ]
+# 此文件已禁用（原 Gitee 同步配置含中文键名导致 GitHub Actions 解析报错）
+# 如需同步到 Gitee，请参考官方文档重新配置
+name: Disabled
+on: workflow_dispatch
 jobs:
-  sync:
+  placeholder:
     runs-on: ubuntu-latest
     steps:
-      - name: Sync to Gitee
-        uses: wearerequired/git-mirror-action@v1
-        with:
-          source-repo: "https://github.com/wilfredox/water-daily.git"
-          destination-repo: "https://Wilfredox:Whx050523@gitee.com/Wilfredox/water-daily.git"
+      - run: echo "disabled"

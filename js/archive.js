@@ -1,8 +1,8 @@
 /**
  * 水利日报 - 往期日报前端脚本
  *
- * URL 无参数  → 列表模式：读 archive-data.json，展示所有归档日期
- * URL ?date=X → 详情模式：在 archive-data.json 中找到该日期并展示全文
+ * 列表模式：年月树形展开，点击月份展开该月所有日期
+ * 详情模式：URL ?date=XXXX 时展示完整日报
  */
 
 document.addEventListener('DOMContentLoaded', function () {
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 /* ══════════════════════════════════════════════════
-   列表模式
+   列表模式 — 年月树形
 ══════════════════════════════════════════════════ */
 function loadList() {
     fetch('archive-data.json?t=' + Date.now())
@@ -26,9 +26,7 @@ function loadList() {
         .then(function (data) {
             renderList(Array.isArray(data) ? data : []);
         })
-        .catch(function () {
-            renderListEmpty();
-        });
+        .catch(renderListEmpty);
 }
 
 function renderList(data) {
@@ -41,7 +39,7 @@ function renderList(data) {
     }
 
     if (subtitle) {
-        subtitle.textContent = '共收录 ' + data.length + ' 期历史日报，点击日期查看完整内容';
+        subtitle.textContent = '共收录 ' + data.length + ' 期历史日报，选择月份查看';
     }
 
     // 按日期倒序
@@ -49,73 +47,99 @@ function renderList(data) {
         return (b.date || '').localeCompare(a.date || '');
     });
 
-    // 提取唯一月份（用于筛选器）
-    var months = [];
-    var monthSet = {};
+    // 构建 年 -> 月 -> [item] 的树结构
+    // key: "2026年" -> "04月" -> [items]
+    var tree = {};   // { year: { month: [items] } }
+    var yearOrder = [], monthOrder = {};
+
     sorted.forEach(function (item) {
-        var m = (item.date || '').match(/(\d{4})年(\d{1,2})月/);
-        if (m) {
-            var key = m[1] + '年' + pad2(m[2]) + '月';
-            if (!monthSet[key]) {
-                monthSet[key] = true;
-                months.push(key);
-            }
+        var m = (item.date || '').match(/(\d{4})年(\d{1,2})月(\d{1,2})日/);
+        if (!m) return;
+        var year  = m[1] + '年';
+        var month = pad2(m[2]) + '月';
+        if (!tree[year]) {
+            tree[year] = {};
+            yearOrder.push(year);
+            monthOrder[year] = [];
         }
+        if (!tree[year][month]) {
+            tree[year][month] = [];
+            monthOrder[year].push(month);
+        }
+        tree[year][month].push(item);
     });
-    months.sort(function (a, b) { return b.localeCompare(a); });
 
-    var filterHtml = '';
-    if (months.length > 1) {
-        filterHtml = '<div class="month-filter">' +
-            '<label for="month-select">筛选月份：</label>' +
-            '<select id="month-select" class="date-filter-select">' +
-            '<option value="all">全部月份</option>' +
-            months.map(function (m) {
-                return '<option value="' + esc(m) + '">' + esc(m) + '</option>';
-            }).join('') +
-            '</select></div>';
-    }
+    // 渲染树形结构
+    var html = '<div class="archive-tree">';
 
-    container.innerHTML = filterHtml + '<div id="date-list">' + buildDateItems(sorted) + '</div>';
+    yearOrder.forEach(function (year) {
+        html += '<div class="tree-year">';
+        html += '<div class="tree-year-label">📅 ' + esc(year) + '</div>';
+        html += '<div class="tree-months">';
 
-    var sel = document.getElementById('month-select');
-    if (sel) {
-        sel.addEventListener('change', function () {
-            var val = this.value;
-            var filtered = val === 'all' ? sorted : sorted.filter(function (item) {
-                var m = (item.date || '').match(/(\d{4})年(\d{1,2})月/);
-                return m && (m[1] + '年' + pad2(m[2]) + '月') === val;
+        monthOrder[year].forEach(function (month) {
+            var monthKey = year + month;   // 唯一 ID，用于展开/收起
+            var items    = tree[year][month];
+            var isFirst  = (yearOrder[0] === year && monthOrder[year][0] === month);
+
+            html += '<div class="tree-month" data-key="' + esc(monthKey) + '">';
+            html += '<div class="tree-month-label" onclick="toggleMonth(\'' + esc(monthKey) + '\')">' +
+                    '<span class="tree-arrow" id="arrow-' + esc(monthKey) + '">' +
+                    (isFirst ? '▾' : '▸') + '</span>' +
+                    '<span class="tree-month-name">' + esc(month) + '</span>' +
+                    '<span class="tree-month-count">（' + items.length + ' 期）</span>' +
+                    '</div>';
+
+            // 日期列表，默认只展开最新月份
+            html += '<div class="tree-days" id="days-' + esc(monthKey) + '" ' +
+                    'style="display:' + (isFirst ? 'block' : 'none') + ';">';
+
+            items.forEach(function (item) {
+                html += '<div class="tree-day-item">' +
+                        '<div class="day-info">' +
+                        '<span class="day-label">' + esc(item.date) + '</span>' +
+                        '<span class="day-meta">' + (item.total_news || 0) + ' 条</span>' +
+                        '</div>' +
+                        '<a href="archive.html?date=' + encodeURIComponent(item.date) +
+                        '" class="date-link">查看 →</a>' +
+                        '</div>';
             });
-            document.getElementById('date-list').innerHTML = buildDateItems(filtered);
+
+            html += '</div>';   // tree-days
+            html += '</div>';   // tree-month
         });
-    }
+
+        html += '</div>';   // tree-months
+        html += '</div>';   // tree-year
+    });
+
+    html += '</div>';   // archive-tree
+    container.innerHTML = html;
 }
 
-function buildDateItems(items) {
-    if (!items.length) {
-        return '<div class="empty-state"><div class="empty-state-icon">📅</div>' +
-               '<h3>该月份暂无记录</h3></div>';
+function toggleMonth(key) {
+    var days  = document.getElementById('days-' + key);
+    var arrow = document.getElementById('arrow-' + key);
+    if (!days) return;
+    if (days.style.display === 'none') {
+        days.style.display = 'block';
+        if (arrow) arrow.textContent = '▾';
+    } else {
+        days.style.display = 'none';
+        if (arrow) arrow.textContent = '▸';
     }
-    return items.map(function (item) {
-        return '<div class="date-item">' +
-               '<div class="date-info">' +
-               '<h3 class="date-title">' + esc(item.date) + '</h3>' +
-               '<p class="date-meta">共 ' + (item.total_news || 0) + ' 条新闻，' +
-               (item.category_count || 0) + ' 个分类</p>' +
-               '</div>' +
-               '<a href="archive.html?date=' + encodeURIComponent(item.date) +
-               '" class="date-link">查看详情 →</a>' +
-               '</div>';
-    }).join('');
 }
 
 function renderListEmpty() {
-    document.getElementById('archive-container').innerHTML =
-        '<div class="empty-state">' +
-        '<div class="empty-state-icon">📅</div>' +
-        '<h3>暂无历史数据</h3>' +
-        '<p>每日自动更新后，前一天的日报将自动归档至此</p>' +
-        '</div>';
+    var container = document.getElementById('archive-container');
+    if (container) {
+        container.innerHTML =
+            '<div class="empty-state">' +
+            '<div class="empty-state-icon">📅</div>' +
+            '<h3>暂无历史数据</h3>' +
+            '<p>每日自动更新后，前一天的日报将自动归档至此</p>' +
+            '</div>';
+    }
 }
 
 /* ══════════════════════════════════════════════════
@@ -133,15 +157,9 @@ function loadDetail(date) {
             for (var i = 0; i < arr.length; i++) {
                 if (arr[i].date === date) { item = arr[i]; break; }
             }
-            if (item) {
-                renderDetail(item);
-            } else {
-                renderDetailNotFound(date);
-            }
+            item ? renderDetail(item) : renderDetailNotFound(date);
         })
-        .catch(function () {
-            renderDetailNotFound(date);
-        });
+        .catch(function () { renderDetailNotFound(date); });
 }
 
 function renderDetail(data) {
@@ -186,19 +204,31 @@ function renderDetail(data) {
                 '<div class="news-grid">';
 
         list.forEach(function (item) {
-            var link = (item.full_link && item.full_link.indexOf('暂未公开') === -1)
-                ? '<a href="' + esc(item.full_link) + '" target="_blank" rel="noopener" class="news-link">查看原文 →</a>'
-                : '';
+            // 同样的内容去重逻辑
+            var contentText = (item.content || '').trim();
+            var titleText   = (item.title   || '').trim();
+            var contentHtml = '';
+            if (contentText && contentText.length > 20) {
+                var overlap = longestCommonSubstr(titleText, contentText);
+                if (overlap / titleText.length < 0.7) {
+                    contentHtml = '<div class="news-content"><p>' + esc(contentText) + '</p></div>';
+                }
+            }
+
             var impactHtml = item.impact
                 ? '<div class="news-impact"><strong>可能的影响：</strong>' + esc(item.impact) + '</div>'
                 : '';
+            var link = (item.full_link && item.full_link.indexOf('暂未公开') === -1)
+                ? '<a href="' + esc(item.full_link) + '" target="_blank" rel="noopener" class="news-link">查看原文 →</a>'
+                : '';
+
             html += '<article class="news-card">' +
                     '<h3>' + esc(item.title) + '</h3>' +
                     '<div class="news-meta">' +
                     '<span class="news-source">' + esc(item.source) + '</span>' +
                     '<span class="news-date">'   + esc(item.pub_date) + '</span>' +
                     '</div>' +
-                    '<div class="news-content"><p>' + esc(item.content || item.title) + '</p></div>' +
+                    contentHtml +
                     impactHtml +
                     link +
                     '</article>';
@@ -226,8 +256,19 @@ function getUrlDate() {
     return d ? decodeURIComponent(d) : null;
 }
 
-function pad2(n) {
-    return String(n).padStart(2, '0');
+function pad2(n) { return String(n).padStart(2, '0'); }
+
+function longestCommonSubstr(a, b) {
+    if (!a || !b) return 0;
+    var maxLen = 0;
+    for (var i = 0; i < a.length; i++) {
+        for (var j = 0; j < b.length; j++) {
+            var len = 0;
+            while (i+len < a.length && j+len < b.length && a[i+len] === b[j+len]) len++;
+            if (len > maxLen) maxLen = len;
+        }
+    }
+    return maxLen;
 }
 
 function esc(s) {
