@@ -1,19 +1,19 @@
 {
-  "date": "2026年04月09日",
-  "news_date": "2026年04月08日",
-  "update_time": "2026-04-09 00:00",
-  "total_news": 6,
-  "category_count": 4,
+  "date": "2026年04月10日",
+  "news_date": "2026年04月09日",
+  "update_time": "2026-04-10 00:00",
+  "total_news": 7,
+  "category_count": 5,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "刘中杰主持召开全市防汛备汛工作视频调度会",
-        "source": "hengyang.gov.cn",
-        "pub_date": "2026年04月07日",
+        "title": "朱洪武在零陵调研时强调：做实做细安全生产和防汛备汛工作 坚决守护好人民群众生命财产安全",
+        "source": "湖南红网",
+        "pub_date": "2026年04月09日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SWEFhaGE4cUdEQ1RIV2xQRjU4Ql9TY04tWVdtWFA5RWFjejVBVEJEUmVTVk5vTzVZYW5EQzFhR1Q4aV93eWVzVXFkT1QxUDJZQ2VaamNWWkpQdUtwaDFDMFhycmxGbkk5UXhQenFVQVZ6dm8?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrU3pmbFlSTHlfREZjWkh2aGY4TFV5cEp2UnhkQlNWaWo3aWNGbTcyZGNBVEktamhGQU1HVDU1cUdldGpWY1M4eFFHTjhLQ1g2NGpscEhSYlJkbDNVYkZWYVRR?oc=5"
       }
     ],
     "综合要闻": [
@@ -36,9 +36,20 @@
         "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zSVlfcHBfTHI3a0xFbzVVT3llQkY2T2hYSnNxcVBHZE5sYWp6UE5TLWJkWnZlclZ6YUQzZ1Y4cUJvVXQwSjJMZmJQRndYLWphOUw2Q3B1c3E3NEZTa3FzZEpsaUNua1BpSnJpbDFBbUNVdw?oc=5"
       }
     ],
-    "水资源管理": [
+    "水利工程": [
       {
         "id": 4,
+        "title": "水利部：要加快建设现代化水网 整装推进大中型灌区建设改造",
+        "source": "新浪财经",
+        "pub_date": "2026年04月09日",
+        "content": "",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYjZCZWNiX3NNcTk0aWlka0NUTlI0dzRRUXRoaTBEX1dGT1Q3VWstNmM2Y0RMY1huQXlPUUxUTjd2WnNnSUVWMTFNX2ZKODV0Z2pQZ2txcmQzVjNMVlZxZkpiOHJ2cWVNVUlBbk1GMVBSRGxBNVZUXzZaWlFRQWFwNXpveWVvdTZDWlJzSzY4SUJoMXladkdVODNzVW1xdjFnc210c0ZsQS1OWjFOU0Yw?oc=5"
+      }
+    ],
+    "水资源管理": [
+      {
+        "id": 5,
         "title": "全省首宗！台山用水权改革入选省典型",
         "source": "thepaper.cn",
         "pub_date": "2026年04月08日",
@@ -47,7 +58,7 @@
         "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHMjlTSEFXYzByTGdNZkxPUXlYbk1WMXhkeDY3OHA3dnAtZmxtX2dBLXVwT1I4VXlwZEs3WTJ6Z1IwMVRNWXljMFp0SHI0UXVEbTF0dXVKZFZZYlRZZ2c?oc=5"
       },
       {
-        "id": 5,
+        "id": 6,
         "title": "吴桂英主持召开专题会议调度农村供水保障工作",
         "source": "icswb.com",
         "pub_date": "2026年04月08日",
@@ -58,13 +69,13 @@
     ],
     "水生态环境": [
       {
-        "id": 6,
-        "title": "花都以河长制为笔，绘就“双源护城”治水新画卷-腾讯新闻",
-        "source": "QQ News",
-        "pub_date": "2026年04月07日",
+        "id": 7,
+        "title": "九江生态质量指数连续5年保持一类 获得“国际湿地城市”认证",
+        "source": "凤凰网江西",
+        "pub_date": "2026年04月09日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IVDl1TnRSWF9aXzExWHIwb0I2SGM3UTBxbXhiTHN6ei1FeHZlMkZnMHVMZExUeGVVaTE1ZU5tRjV0aTFMMkdLcHhTN2ZZcE01X1o1Mkp3?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84LXdGWnNvWFZvRHZDal83Rmd2ZjRZajN3bXF6SS1VaWhNQmpVZ190eW9EQl9ZM1IxT21idmdlVlNoNVJzSThmQmxn?oc=5"
       }
     ]
   }
