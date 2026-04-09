@@ -1,39 +1,41 @@
 {
-  "date": "2026年04月08日",
-  "news_date": "2026年04月07日",
-  "update_time": "2026-04-08 00:00",
+  "date": "2026年04月09日",
+  "news_date": "2026年04月08日",
+  "update_time": "2026-04-09 00:00",
   "total_news": 3,
-  "category_count": 2,
+  "category_count": 3,
   "news": {
     "水利工程": [
       {
         "id": 1,
-        "title": "泸县：土公庙水库建设整体进度过半 进入大坝主体施工",
-        "source": "四川在线",
-        "pub_date": "2026年04月07日",
-        "content": "泸县：土公庙水库建设整体进度过半 进入大坝主体施工四川在线",
+        "title": "中国电建22.15亿中标北京昌平 水库项目！",
+        "source": "乌有之乡",
+        "pub_date": "2026年04月08日",
+        "content": "中国电建22.15亿中标北京昌平 水库项目！乌有之乡",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WamkxS1BsWU41eWpTQWgwaFo0RFlrRVdGeUtzUGFINEpSUXpUeEFQcTlOaC1aakM1WXRBVVQ4LUJaTUNUQTdsSnk0eldmRkdjV2RGaVFlaFE5cHJPd0g2ZHpn?oc=5"
-      },
-      {
-        "id": 2,
-        "title": "乌苏春季水库注水 护航春耕保民生",
-        "source": "央广网",
-        "pub_date": "2026年04月07日",
-        "content": "乌苏春季水库注水 护航春耕保民生央广网",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xY2J6QUpWSXkxUVpJTUdDZ2NxZDJwMTVDcFlFZVRpUFVtUkc2RkV0WjBDcUVFZTMtYXZyNmpUZ21KRDE0OFhtblBZMzVrSXNkbHIzdnZrTlM2WXlmMjFUNnNZdDRPQVd4Snk0dE1vUFdEZw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEbl9nM2dUeF9NNkZmM0ZUa1Y4bjZLOEJaMm9SQWdZYmNKbHgwZWRETDh2eE1Yb01JSHplWno2YmI5dXZWY0c2VzNDYkRxejRlaFpOckNSbmQxY3ZnZHZUdXdmYWU4TDhZ?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 3,
-        "title": "215.2亿助力水网升级！浙江一季度水利投资迎来“开门红”",
+        "id": 2,
+        "title": "215.2亿元 浙江水利实现一季度“开门红”",
         "source": "Sohu",
-        "pub_date": "2026年04月07日",
-        "content": "215.2亿助力水网升级！浙江一季度水利投资迎来“开门红”Sohu",
+        "pub_date": "2026年04月08日",
+        "content": "215.2亿元 浙江水利实现一季度“开门红”Sohu",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQckp4NEZ0aDBLcm1IYUxiMGdpZ3lKZTBzbnEzN1lXZ0dSZXJUZFdueEJCQXpCZ1ZoeTk0SV9rLXlfTEhHUGxwcFE4b25WYnhLRVlhakVtV0toYmhsa1F0RGI3RHdvMGZTUGR4LUF2clNyeVVsQUNuWkdyS3lVRXFSbVFETUVjcXktRDlEcA?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVWVKVW9JN0tXUmhEZXVTRUdrU0lwRHdVaVVTdjNtUnY4UXA2U3NGbGxvOTl5bXVhUzhyejNqeWYwZkZUNnNmdEJQeHI1TEw3U0hnbnlMNUhPbEE0MGJHdDdFcXZaNjlnYkZVVGc5UzdUVUJqb0I4VFdDQXliTUFoMzhWY1QtRWFY?oc=5"
+      }
+    ],
+    "政策法规": [
+      {
+        "id": 3,
+        "title": "水利部批复新一轮大江大河采砂管理规划",
+        "source": "chinanews.com.cn",
+        "pub_date": "2026年04月08日",
+        "content": "水利部批复新一轮大江大河采砂管理规划chinanews.com.cn",
+        "impact": "将进一步规范水利管理秩序，推动依法治水。",
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wcWkyMEw0Tkx0aDZ6OEhpNHVtck5tX21zb1hEYlZQM25yX2RpTjlNaWVvYnU3SXRqOFk3VmRhWHB6TXlTdmRaeXJ5OVp5ZkpneTl0ckI5R3VYRlBONVZpNHBoaUpJck8t?oc=5"
       }
     ]
   }
