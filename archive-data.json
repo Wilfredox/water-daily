@@ -1,5 +1,87 @@
 [
   {
+    "date": "2026年04月10日",
+    "news_date": "2026年04月09日",
+    "update_time": "2026-04-10 00:00",
+    "total_news": 7,
+    "category_count": 5,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "朱洪武在零陵调研时强调：做实做细安全生产和防汛备汛工作 坚决守护好人民群众生命财产安全",
+          "source": "湖南红网",
+          "pub_date": "2026年04月09日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrU3pmbFlSTHlfREZjWkh2aGY4TFV5cEp2UnhkQlNWaWo3aWNGbTcyZGNBVEktamhGQU1HVDU1cUdldGpWY1M4eFFHTjhLQ1g2NGpscEhSYlJkbDNVYkZWYVRR?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 2,
+          "title": "215.2亿元 浙江水利实现一季度“开门红”",
+          "source": "Sohu",
+          "pub_date": "2026年04月08日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVWVKVW9JN0tXUmhEZXVTRUdrU0lwRHdVaVVTdjNtUnY4UXA2U3NGbGxvOTl5bXVhUzhyejNqeWYwZkZUNnNmdEJQeHI1TEw3U0hnbnlMNUhPbEE0MGJHdDdFcXZaNjlnYkZVVGc5UzdUVUJqb0I4VFdDQXliTUFoMzhWY1QtRWFY?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "酒钢热轧卷板Q355C产品跻身国家重大水利工程供应链",
+          "source": "csteelnews.com",
+          "pub_date": "2026年04月08日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zSVlfcHBfTHI3a0xFbzVVT3llQkY2T2hYSnNxcVBHZE5sYWp6UE5TLWJkWnZlclZ6YUQzZ1Y4cUJvVXQwSjJMZmJQRndYLWphOUw2Q3B1c3E3NEZTa3FzZEpsaUNua1BpSnJpbDFBbUNVdw?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 4,
+          "title": "水利部：要加快建设现代化水网 整装推进大中型灌区建设改造",
+          "source": "新浪财经",
+          "pub_date": "2026年04月09日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYjZCZWNiX3NNcTk0aWlka0NUTlI0dzRRUXRoaTBEX1dGT1Q3VWstNmM2Y0RMY1huQXlPUUxUTjd2WnNnSUVWMTFNX2ZKODV0Z2pQZ2txcmQzVjNMVlZxZkpiOHJ2cWVNVUlBbk1GMVBSRGxBNVZUXzZaWlFRQWFwNXpveWVvdTZDWlJzSzY4SUJoMXladkdVODNzVW1xdjFnc210c0ZsQS1OWjFOU0Yw?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 5,
+          "title": "全省首宗！台山用水权改革入选省典型",
+          "source": "thepaper.cn",
+          "pub_date": "2026年04月08日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHMjlTSEFXYzByTGdNZkxPUXlYbk1WMXhkeDY3OHA3dnAtZmxtX2dBLXVwT1I4VXlwZEs3WTJ6Z1IwMVRNWXljMFp0SHI0UXVEbTF0dXVKZFZZYlRZZ2c?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "吴桂英主持召开专题会议调度农村供水保障工作",
+          "source": "icswb.com",
+          "pub_date": "2026年04月08日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQUlVQZmxydHAwSnBOdW13U0ZoN0Nydk8tc29TQkotWW5zSl8wRnFfcXVia2RkUWVwYW5VdS1LRE5PNlg0bi0tYmdzaElQZGxxOWp1aEtSLVM0TVJf?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 7,
+          "title": "九江生态质量指数连续5年保持一类 获得“国际湿地城市”认证",
+          "source": "凤凰网江西",
+          "pub_date": "2026年04月09日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84LXdGWnNvWFZvRHZDal83Rmd2ZjRZajN3bXF6SS1VaWhNQmpVZ190eW9EQl9ZM1IxT21idmdlVlNoNVJzSThmQmxn?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年04月09日",
     "news_date": "2026年04月08日",
     "update_time": "2026-04-09 00:00",
