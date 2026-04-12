@@ -1,5 +1,96 @@
 [
   {
+    "date": "2026年04月12日",
+    "news_date": "2026年04月11日",
+    "update_time": "2026-04-12 00:00",
+    "total_news": 8,
+    "category_count": 5,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "肖正波在株树桥水库调研并督导防汛工作",
+          "source": "浏阳市政府",
+          "pub_date": "2026年04月10日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWEdFdzhCaFluWXA2S2xpNER6ZXU4a25RT1lWY25tSmVZOFY0XzNvbnMwYnd1U21XaF9vVG9zeG1fcFozWjEwbnEwSzhENmE3bF9PTUZVTkxBS2VvaUFYNEtHMC16eXA1aHV6M3I0RTR4WmZXLS1wZm51bl8takdYdjNFQWxCeGE2Nm9wcDBQN3NLT3NPNUE?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 2,
+          "title": "水利部答海报新闻：重大水利工程建管机制全面升级",
+          "source": "Sohu",
+          "pub_date": "2026年04月11日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVBEbTQ2YTNtRG0yWlYxZFNWWmJWaVdrbW44d1l6ei1NdEcwbXdFaWdnQ2VLRjAwbUVPZmFQMlYyTU9wYUtjMG1QckhBYkRCN1N4OXcwdTJ4d0RPTmRoZXRjelBiWXZ1Uy1NWVEySkZ4aGYteXdpT3h6OHFDemtLY2JLZ2xYWEJEbHo5Yg?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "水利部进一步强化流域管理机构节约用水管理工作",
+          "source": "新浪财经",
+          "pub_date": "2026年04月10日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX0RfY2tGQ05INS1TaVNqOTlDcGpLWFFGaUZjS2ZmSDZaTnNoQnZUMVNuTUVhTy1PUFRTdmUyYUI5bDU2QkhMYXdfRGtFc2lDTFdJekxuSXpNb3Z4SUk2WHcxUDg5UnY3aGt3V3E4S0lpTm9KTFB0Tndya3JVaTVJZ3NSVQ?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 4,
+          "title": "广东逾1700座病险水库完成除险加固",
+          "source": "新浪财经",
+          "pub_date": "2026年04月11日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxOdmFoSTcwWXFiNnJQbDFvQ1dnSGR5UXVxM2l6UksyOGlJVTh1bVhRenJrYUtMVlY2Q25NcFJ0dC16V1ZnU0d2RmgtNlM0LS1PaHJGLU9OV21KemtSTmsyVVZ2V2RsX2MweG9CeHFwV1pHUkpHZHNGR284ZGJTV2tUSjlUMXFIb1lPblQyYWF1Rkg5ZDcwckd3akxBN3p0ZExSNnVudmxoOEJyRFpjWW51ZGpjb0Z5bjNQM1hBLU11eHFweHdqRndnS2tNSlJ0MXNOWUFmUmxMZTItaHY4U1QyRGNFcmkwbG05cVI0MkV0N0tFTFNEWmxEbENkMzFxeC1zVkhhaEZXaDN1NzJOOHoxeTUyd3ZNLTdXczVjSGI2TmpjR2RYZVlKNmp3WVZIYnhyV1FkU3pNQ21HQlRUTDlXNTlEcU1VdmVLeHhNbDFmQXlUVExDN2tUZTlzQ0FxeVMwZUs4dm5SeGd5RkJFcTJ3UFRCTWs5aFFvZVBvQzF4aWNqNi1Wanp0eTh2eDQ1bHpvSTA3aXd5NnkyM1lMQ0VUZk5OLVJRMFhXT3hxeVRpYV9TT2laZ0lkRm5aTEctak5TenpTcXFjY3p3dU9ucnB4Vno3SllIaHRRNEFXd1BkWENOZnBRdF8xVWFWbU96RGRDNDRCLTY2dHV5WTBtRDVTMkZQNTkzX1VkVWFCX0Y2bnJDLTI4bk5od1ByWmJaSEthX3E4SVRtYU5CUQ?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "今年我国将开工建设贵州夹岩、重庆玉滩等大型灌区",
+          "source": "海报新闻",
+          "pub_date": "2026年04月11日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lUTl3aDNNX3N1NFJmWGg5RVJ5VlpCaWJVQXVPSXhheFdVRnVsUHlISFAtQjNZSzBkQi1fXzB3NHNtTTY2SlR4VUxGZGxOOThm?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 6,
+          "title": "广东探索用水权改革 激活大湾区要素市场化配置",
+          "source": "新浪财经",
+          "pub_date": "2026年04月10日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa2ZwT3h6My1lb0dYY2RJVzhuR19fTWowOVVycnZ0V0FIeUVXRlc2Y2F4djFPV2hFNk92Q0lxbTVLa2JjUXdNVG9TTTVQSWMwVlRJWDZfRWxlUkRMOHRVTl9xXzR4VXJxbUYwd3lHYWpOSlVycy1mVE1NR0hHcmZoNFJZRzRPeFZhdEVzekxkdw?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "水利部：“十五五”持续深化水利投融资改革，积极探索和规范推进用水权交易",
+          "source": "21财经",
+          "pub_date": "2026年04月10日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOajRlYWFfampwanZfbGhhYjBXY3UxTzVWb3A2X0tBbjRxLXFhWmhpRDJTZTJ4WXMtbHVZaFl2Z2dFQzBfSW1zNmp1VTBwSUk5TUc2bmotLUlUN3dqaFhYeHFKVHRLRWdxQ1pkVDhhbHBVd3JpaXZHZUZoSVkyRnRrMmhTS1hpMWhpY2UxNUptVQ?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 8,
+          "title": "浙江台州：巡河保洁守护水生态",
+          "source": "人民网-图片频道",
+          "pub_date": "2026年04月11日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KZzRobDV4Rk5nTHdzcEI4V0ZLNUFFaTRlcE04YnZzWHhESzFyWmF5VEpHSGMxV0tRa2RnRUo0ZVdFQkRaZ3RNMVFqT1dpbmw1U21OU0VSQVpHazBUNzNiaTQtdWZIM0Jf?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年04月11日",
     "news_date": "2026年04月10日",
     "update_time": "2026-04-11 00:00",
