@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026年04月14日",
+    "news_date": "2026年04月13日",
+    "update_time": "2026-04-14 00:00",
+    "total_news": 4,
+    "category_count": 3,
+    "news": {
+      "综合要闻": [
+        {
+          "id": 1,
+          "title": "热点追击丨水利部：“十五五”时期国家水网建设将做好五方面工作",
+          "source": "新浪财经",
+          "pub_date": "2026年04月13日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbWNMX2loMzdmMWNHYzR4Q1VXc3Y3MndVZ0J5TkU0RTJxTlJkbGJsaU1PaGN4NUZVTGMwS2pta2tWWHdrNWk2dlpUT2V3bEN6eU1aWld1amNRM3pkLXhkcUx1aHUxMUdWai1ZX0lZbFBuUjJJcmJpWWsyQ2pmS3g0Ty1ZdVpHaW5zeGo2bEpZejloNS1nRVdkNw?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 2,
+          "title": "一季度浙江水利投资跑赢阶段性目标",
+          "source": "新浪财经",
+          "pub_date": "2026年04月13日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zc19UOVRnQ3RGWFlKNzJwWEVZZkVpVDUyNm1GWFJJS1dLSXh1VFgySkRqWnh2dTFmVnJCa010TTFJZzVJanVzejMyOXBxZk0?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 3,
+          "title": "浙江台州：巡河保洁守护水生态",
+          "source": "人民网",
+          "pub_date": "2026年04月12日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5N2VHMW5GcDFScUVNZUt5eGUwamxiYThWbldzTE0wYlhQdTBJODU0aWNYRHliUENFV09KWGF3RTMyMnJjZWdLanBTLWc1TzdOMTBwTlBDV0hSekE1Sld5WUF4dWVmNnZQUDkzeTdB?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "水源地水质100%达标 水土保持率提升至93%",
+          "source": "新浪财经",
+          "pub_date": "2026年04月12日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzJ5Ukt2Y0dEYU5TbDRGQTVSclpsQU9vYVVXbXhCLUhrUFB3b1JWUUxtXy0xdVNJZUF4QWFYWVA2NGdjTDhQbjU5enlENUlpVEZDX3prZUtYbTEzWHltZ2xpRGNCbHkyNE1PTk9HYWtVMmpZOGM1S2l3LXRrREJINE84UjFRMlZ5WDVFWTlWNE45Q1RkUW1yTQ?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年04月13日",
     "news_date": "2026年04月12日",
     "update_time": "2026-04-13 00:00",
