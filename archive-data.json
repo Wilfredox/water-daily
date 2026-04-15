@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026年04月15日",
+    "news_date": "2026年04月14日",
+    "update_time": "2026-04-15 00:00",
+    "total_news": 7,
+    "category_count": 4,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "连江县副县长刘麟祥带队开展防汛备汛检查工作",
+          "source": "fj.chinanews.com.cn",
+          "pub_date": "2026年04月14日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41UElGeTUtLWNVb2dZb2o1My1oS3NzWHZvREQwc1ZqcHJIZXNMTHI4Qlp1ZGgyVjdxYy01eTIxSUx5VTNTYW14Vkpsb2V4anJrLVR2NmxTMk5lMmwtR2VFcHdjQmNWRXNPWjQxRm9TWm0?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 2,
+          "title": "热点追击丨水利部：“十五五”时期国家水网建设将做好五方面工作",
+          "source": "新浪财经",
+          "pub_date": "2026年04月13日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwNzdEcFJIVlFta1VXYzNwUlRWbWVQcXl6elAzdTdRMTM5aU1Od3l6YU93eUVtTjd6aDdNT3RtOThTa3hpQklIVDIta0FSQnV4cmx1RzdVOEE1RnMxMVZleGJWWnMybkxqVFdwaGNzWkZSOTRGWGNGaA?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 3,
+          "title": "计划11月通水 青海柴达木盆地水资源配置一期工程建设加快推进",
+          "source": "新浪财经",
+          "pub_date": "2026年04月14日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdERDXzhWQWw3Vk5RUUh3ZndERlB4TUZmRi13eVlkcF9hbnZnMFJyanFIOUh3VHEyTWpEMUhMZDZoQ29Yd3hmeTlQOHZJWGU4UjQ2aU9Ra0M1M1lXSnNFdDd6T0NjQWNybDh3UmZycmpoWUxzeFlEcXhKTER4cm1WVGtMS2lFLTNiSmF3VkJJXzdQcjZaNFBsZHFYeDhNRTloMUdCTnlnQmFUVlFJVTE4?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "一季度浙江水利投资跑赢阶段性目标",
+          "source": "新浪财经",
+          "pub_date": "2026年04月13日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zc19UOVRnQ3RGWFlKNzJwWEVZZkVpVDUyNm1GWFJJS1dLSXh1VFgySkRqWnh2dTFmVnJCa010TTFJZzVJanVzejMyOXBxZk0?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 5,
+          "title": "水利部河湖保护中心赴景德镇市开展河湖长制专题培训（图）",
+          "source": "大江网",
+          "pub_date": "2026年04月14日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yRGs2WF91RDJXcnBmZEtJNUFKcThhTVBVVUY2UkRfZDBycnNSYzlKQlVCUGVlclBXMW1qeGE5Skk1OUx4ajUxbVc2RGpCQ0JNbk5wU1FVcllQRDZ3eWhmelcxa2tfSWdtVmxHSXpR?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "贵州绘就河湖治理新蓝图：2026年锚定六大任务 2035年基本建成美丽河湖",
+          "source": "新浪财经",
+          "pub_date": "2026年04月14日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9naEUwdGNkUWJsNHFCZjdFNU5wbzB0dENHUWp0RDZGLWhINks5T2pOamhMcWJ4RUZCTHR4dExYSE81UGxXOHV3VGlFX1RsV1RSYzlmWkMxUWdNSEFMYnhGcjdVR1BmTU1ydjRSUWNzclpKZXNna2xQSA?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "水质、水生态、水环境持续改善 滇池保护治理交出亮眼答卷",
+          "source": "昆明信息港",
+          "pub_date": "2026年04月14日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NZW11Yk5KYkt2SzdvTzcwbzhZS2dMZ3dFanlHdnZBd3hqQWhaZE5jUEc4TGZVaU9VdVotVXk0UkJVSk9feEFYTmlHYUE0eXNDdnE3R2hSakprRFZFUjhUZ3pSd0ZNdw?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年04月14日",
     "news_date": "2026年04月13日",
     "update_time": "2026-04-14 00:00",
