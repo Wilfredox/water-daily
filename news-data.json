@@ -1,19 +1,19 @@
 {
-  "date": "2026年04月16日",
-  "news_date": "2026年04月15日",
-  "update_time": "2026-04-16 00:00",
-  "total_news": 8,
+  "date": "2026年04月17日",
+  "news_date": "2026年04月16日",
+  "update_time": "2026-04-17 00:00",
+  "total_news": 6,
   "category_count": 4,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "[常宁市] 罗卫华调研安全生产、防汛备汛、信息报送、隐患排查暨预警预报等相关工作",
-        "source": "hengyang.gov.cn",
-        "pub_date": "2026年04月15日",
+        "title": "今年汛期，浙江防汛防台有“AI大脑”和“防汛勇士”护航",
+        "source": "浙江新闻",
+        "pub_date": "2026年04月16日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CTmVXekxlNnBLU0l1bWVueGRjaGhXbXk3Z2laM0RyVUhKYnFtQlhrMlp5QXFxeldBYl9WeFNsRHlwTExDYmxEZENZSDZtaThTbGc1TThyRUlFbnlwYjN5ekhZbWN6b3o2N1NLYXZ5OUx3ZVYz?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84WTdPMmJmOUpnemoyci13RC1fLW1TYk9VTjVfUnFoZU1EMS03NXRMS21wT2p0dUt3S0hReC1BT01yTHZaX0dkZzc2WkZ4U3E1ZFN4WWc0SDV1ekY3VDRKdXd5bHBSNkNwUmRoWUdaYy1oTHc?oc=5"
       },
       {
         "id": 2,
@@ -23,29 +23,11 @@
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
         "full_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ITHlIUTFnQW9rR0d2cDIyeEpIQi1hdktQOUY3RjZlQ1FPT3kyS0JMMTk3Yl9KU1djb2lIQTktUU1DcWptdVNFR2ozb09NUDg?oc=5"
-      },
-      {
-        "id": 3,
-        "title": "浙江正式入汛 极端强降水洪水事件可能多发",
-        "source": "zj.chinanews.com.cn",
-        "pub_date": "2026年04月15日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByWGE3RHFtak52TEhrNzdpRnppR3ZBY0NsV2dOOU1jcFNRRnVDSk43TWxyeDktX2kwZHRhNTIxb1ZHcnB0RllTXzM1elRpUEczZ2FRQy0ta3l6RlJrVWU1MHlJbnlrMDc3SFNvTnZYNjlGa0JpQ1hJYnQxUVpvZUE?oc=5"
-      },
-      {
-        "id": 4,
-        "title": "浙江省4月15日起正式入汛 本月初已启动汛期工作机制",
-        "source": "新浪财经",
-        "pub_date": "2026年04月15日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82ZDB4bTBQUDFkVUdxZHFwVGxLWlo3TlJReXctZW5OaXBPTHlFU0t4czZ0RGxFUmhfbjFiZ1J5RTJra3BVcEhZd0VHbw?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 5,
+        "id": 3,
         "title": "景德镇市水利局举办2026 年全市水利领域专题培训班",
         "source": "大江网",
         "pub_date": "2026年04月15日",
@@ -54,29 +36,29 @@
         "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11djR4WE5kWWV6VC1MVG80U2ItMk1XY3BRa0lKVWlRT1lld0V5ZHNDOHBoWkc3cVN2bkFVekdxelloZ2hFdnpoRGl2Sk9KTTFDTlAyUjQ0enVBR1gxbVFNZ2hRQ3ZaV1NpUHBic2NR?oc=5"
       }
     ],
-    "水利工程": [
+    "水资源管理": [
       {
-        "id": 6,
-        "title": "计划11月通水 青海柴达木盆地水资源配置一期工程建设加快推进",
+        "id": 4,
+        "title": "和龙市龙城镇多措并举保供水，暖心守护群众饮水安全",
         "source": "搜狐网",
-        "pub_date": "2026年04月14日",
+        "pub_date": "2026年04月16日",
         "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaXRCdWhJbGJmbVI2LWlLTXlaMWVReUNuNUpDcURSdmFaNVI2SVQwcWJJcFlLcW1UNXhGRkJpak9JQUJ4bE1DNVpEVFpWRGUxbkVRWjlzUHlrWlNienhCSXl2OE9Zd2ZPY0VhODdncUVIaTBlcU5XNTFUdXBUYlNyWkUxY0tYZHgz?oc=5"
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZUpfc3VXOVFwZENLRDZ6TVF1cjQtU05WT1hzMDJaUjNfNkdGMTRzNHY2ZnhVd2RKTXdqdTg1SkZhZVhHbXVXUDgwZFNxbFIxY2dDZUxDZEhpbndkVGJoVkFMb0h2NE5ZVXNmcWtNME1MeDdISW5xaHdwcVR6bmVRdmNtdDNkejNHMV9ZLQ?oc=5"
       }
     ],
     "水生态环境": [
       {
-        "id": 7,
-        "title": "邵阳县河湖长制、林长制、田长制工作领导小组会议召开",
+        "id": 5,
+        "title": "云南持续强化河湖保护治理",
         "source": "新浪财经",
-        "pub_date": "2026年04月15日",
+        "pub_date": "2026年04月16日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOejNQWEtzeUwxNHFadXNtTEpFTGp2ZWlxcmNjWnowTjVzN3NnbDlrT2NkRk9fRjhkN3pXRmVibm5Jd0VRamh3MjFkY3hzOW5PTkdITjNLN1p5MWhQc0JfUmJENkIwT0c5Y3REekhhOXZLYmt1SE40S01oX3lxd3dydWROZUNUTEIwazltaDBsdFV3bWp5cDFHSmJXZDQ0bHI4OGF5bjQ4eWtWdy1tTFJj?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPeHJJa3lnNzNFcUlfRGpDcXhzbUU5TzU5ZUtBaG5YeVhSbFJ4N1JLa09Pano3WkdBa3pLYnhzX2g0UUgyQXpoWHJDZzkyb3ZWNzd1V2pnYkhnTU5OZXBiQlVONnhaa0d1QlB4Q3RVYjhZMElEeF9pUWZ6aDNRMWgxZXU5ZmduLS1mTFpfM0xpdXZRazl2N1k4QkNibDVCVnMyVHNMamlEQ29DUmhDZXlEVzlwcF9mSUhYMm8wUG9nWVlSd0l6eEo0YW42NzVYY3JHLU9jcTZudG8wV1BvUDZSM0FYYVdTa0JPRUdtSGtTTVZwR3FmVzBWSHIxbjV4NUUxZ21La1FtUERfb2d5RXhfLUZUUi1JZllfRjd6d0daZE0zZlNXQm9zZ2kyaGZ6UXA0cU9Oa21qLUZuWUlyRU9SbWVnYzBnN3lCMEp0dg?oc=5"
       },
       {
-        "id": 8,
+        "id": 6,
         "title": "范小林主持召开2026 年市级总河湖长会议",
         "source": "抚州新闻网",
         "pub_date": "2026年04月15日",
