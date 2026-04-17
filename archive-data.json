@@ -1,5 +1,76 @@
 [
   {
+    "date": "2026年04月17日",
+    "news_date": "2026年04月16日",
+    "update_time": "2026-04-17 00:00",
+    "total_news": 6,
+    "category_count": 4,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "今年汛期，浙江防汛防台有“AI大脑”和“防汛勇士”护航",
+          "source": "浙江新闻",
+          "pub_date": "2026年04月16日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84WTdPMmJmOUpnemoyci13RC1fLW1TYk9VTjVfUnFoZU1EMS03NXRMS21wT2p0dUt3S0hReC1BT01yTHZaX0dkZzc2WkZ4U3E1ZFN4WWc0SDV1ekY3VDRKdXd5bHBSNkNwUmRoWUdaYy1oTHc?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "浙江今天入汛！今年水文年景偏差，这些地方发生洪水概率较大",
+          "source": "新蓝网",
+          "pub_date": "2026年04月15日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ITHlIUTFnQW9rR0d2cDIyeEpIQi1hdktQOUY3RjZlQ1FPT3kyS0JMMTk3Yl9KU1djb2lIQTktUU1DcWptdVNFR2ozb09NUDg?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 3,
+          "title": "景德镇市水利局举办2026 年全市水利领域专题培训班",
+          "source": "大江网",
+          "pub_date": "2026年04月15日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11djR4WE5kWWV6VC1MVG80U2ItMk1XY3BRa0lKVWlRT1lld0V5ZHNDOHBoWkc3cVN2bkFVekdxelloZ2hFdnpoRGl2Sk9KTTFDTlAyUjQ0enVBR1gxbVFNZ2hRQ3ZaV1NpUHBic2NR?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 4,
+          "title": "和龙市龙城镇多措并举保供水，暖心守护群众饮水安全",
+          "source": "搜狐网",
+          "pub_date": "2026年04月16日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZUpfc3VXOVFwZENLRDZ6TVF1cjQtU05WT1hzMDJaUjNfNkdGMTRzNHY2ZnhVd2RKTXdqdTg1SkZhZVhHbXVXUDgwZFNxbFIxY2dDZUxDZEhpbndkVGJoVkFMb0h2NE5ZVXNmcWtNME1MeDdISW5xaHdwcVR6bmVRdmNtdDNkejNHMV9ZLQ?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 5,
+          "title": "云南持续强化河湖保护治理",
+          "source": "新浪财经",
+          "pub_date": "2026年04月16日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPeHJJa3lnNzNFcUlfRGpDcXhzbUU5TzU5ZUtBaG5YeVhSbFJ4N1JLa09Pano3WkdBa3pLYnhzX2g0UUgyQXpoWHJDZzkyb3ZWNzd1V2pnYkhnTU5OZXBiQlVONnhaa0d1QlB4Q3RVYjhZMElEeF9pUWZ6aDNRMWgxZXU5ZmduLS1mTFpfM0xpdXZRazl2N1k4QkNibDVCVnMyVHNMamlEQ29DUmhDZXlEVzlwcF9mSUhYMm8wUG9nWVlSd0l6eEo0YW42NzVYY3JHLU9jcTZudG8wV1BvUDZSM0FYYVdTa0JPRUdtSGtTTVZwR3FmVzBWSHIxbjV4NUUxZ21La1FtUERfb2d5RXhfLUZUUi1JZllfRjd6d0daZE0zZlNXQm9zZ2kyaGZ6UXA0cU9Oa21qLUZuWUlyRU9SbWVnYzBnN3lCMEp0dg?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "范小林主持召开2026 年市级总河湖长会议",
+          "source": "抚州新闻网",
+          "pub_date": "2026年04月15日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SbTI1OGdSQzhNSTJNY2JaLWM2aTROTDNwSXVQZk5CRVJNSnpjUDc5bmtLZjlLU3h0Qk56UmdqUThUdHpFOHV1WVk3b3Zad1NQOTcxMUpLYUlsUQ?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年04月16日",
     "news_date": "2026年04月15日",
     "update_time": "2026-04-16 00:00",
