@@ -1,24 +1,13 @@
 {
-  "date": "2026年04月18日",
-  "news_date": "2026年04月17日",
-  "update_time": "2026-04-18 00:00",
-  "total_news": 6,
-  "category_count": 5,
+  "date": "2026年04月19日",
+  "news_date": "2026年04月18日",
+  "update_time": "2026-04-19 00:00",
+  "total_news": 4,
+  "category_count": 3,
   "news": {
-    "防汛抗旱": [
-      {
-        "id": 1,
-        "title": "今年汛期，浙江防汛防台有“AI大脑”和“防汛勇士”护航",
-        "source": "浙江新闻",
-        "pub_date": "2026年04月16日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84WTdPMmJmOUpnemoyci13RC1fLW1TYk9VTjVfUnFoZU1EMS03NXRMS21wT2p0dUt3S0hReC1BT01yTHZaX0dkZzc2WkZ4U3E1ZFN4WWc0SDV1ekY3VDRKdXd5bHBSNkNwUmRoWUdaYy1oTHc?oc=5"
-      }
-    ],
     "综合要闻": [
       {
-        "id": 2,
+        "id": 1,
         "title": "园博会首次走进浙江，水利工程与园林景观“双向奔赴”",
         "source": "浙江新闻",
         "pub_date": "2026年04月17日",
@@ -27,20 +16,9 @@
         "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5reC1YZEF1U0liQ0VMcE12aDNLUWdtSzJERHNxUkx5TDlWRDhueTBDaWRNX0hCQ09EZk9ZX2dBeXEyd1F5QVNDOHFqVVhMcm5pRU9Ra21uLUJzamFTN1VYbUJfeDRqaWtBUkllU25aaGplZHc?oc=5"
       }
     ],
-    "水资源管理": [
-      {
-        "id": 3,
-        "title": "和龙市龙城镇多措并举保供水，暖心守护群众饮水安全",
-        "source": "搜狐网",
-        "pub_date": "2026年04月16日",
-        "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZUpfc3VXOVFwZENLRDZ6TVF1cjQtU05WT1hzMDJaUjNfNkdGMTRzNHY2ZnhVd2RKTXdqdTg1SkZhZVhHbXVXUDgwZFNxbFIxY2dDZUxDZEhpbndkVGJoVkFMb0h2NE5ZVXNmcWtNME1MeDdISW5xaHdwcVR6bmVRdmNtdDNkejNHMV9ZLQ?oc=5"
-      }
-    ],
     "水利工程": [
       {
-        "id": 4,
+        "id": 2,
         "title": "浙江衢州一水库项目经理分身有术身兼三职遭质疑",
         "source": "中华网生活",
         "pub_date": "2026年04月17日",
@@ -51,22 +29,22 @@
     ],
     "水生态环境": [
       {
-        "id": 5,
+        "id": 3,
+        "title": "甘肃发布2026年河湖长制工作要点_社会综合",
+        "source": "中国甘肃网",
+        "pub_date": "2026年04月18日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2R01wZkdrWWNiLTdqS0ppbHNRR2ZNdzRaWXotdzNvVHctRzFYdG9qeXJMcnBNb0lUamhXTERzZWIwWUotTW90TzBWU1dRZGFQRjdvODZFdWxodFhRZlREUjI2eHloRUQ4MWVN?oc=5"
+      },
+      {
+        "id": 4,
         "title": "巨野：有“颜”又有“值” 河湖生态经济双向赋能见实效",
         "source": "thepaper.cn",
         "pub_date": "2026年04月17日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
         "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zZmhITElOQ3VsVTA3ZGpJOG5wdkJtcnB1ay0xZEt6MjlQS3VjeTZoQXRncHRmR0kyQkhOU0pVOXljM1VsMFZtV2p4MFZCY0llaklYVGVaRGNoSnBpZ3c?oc=5"
-      },
-      {
-        "id": 6,
-        "title": "渝水区多部门联动“清剿”，筑牢水生态安全屏障",
-        "source": "凤凰网江西",
-        "pub_date": "2026年04月17日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CaXl6S2dPeTRvbDJzUWc2X1VVVW50RVpydTY5c0FLclozWEg1RlltS0RUd1JwN0EtYVBLQk5hSGlyZGZtMXl0Mm5R?oc=5"
       }
     ]
   }
