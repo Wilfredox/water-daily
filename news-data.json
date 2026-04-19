@@ -1,30 +1,30 @@
 {
-  "date": "2026年04月19日",
-  "news_date": "2026年04月18日",
-  "update_time": "2026-04-19 00:00",
-  "total_news": 4,
+  "date": "2026年04月20日",
+  "news_date": "2026年04月19日",
+  "update_time": "2026-04-20 00:00",
+  "total_news": 3,
   "category_count": 3,
   "news": {
-    "综合要闻": [
-      {
-        "id": 1,
-        "title": "园博会首次走进浙江，水利工程与园林景观“双向奔赴”",
-        "source": "浙江新闻",
-        "pub_date": "2026年04月17日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5reC1YZEF1U0liQ0VMcE12aDNLUWdtSzJERHNxUkx5TDlWRDhueTBDaWRNX0hCQ09EZk9ZX2dBeXEyd1F5QVNDOHFqVVhMcm5pRU9Ra21uLUJzamFTN1VYbUJfeDRqaWtBUkllU25aaGplZHc?oc=5"
-      }
-    ],
     "水利工程": [
       {
-        "id": 2,
-        "title": "浙江衢州一水库项目经理分身有术身兼三职遭质疑",
-        "source": "中华网生活",
-        "pub_date": "2026年04月17日",
+        "id": 1,
+        "title": "水利部安排部署水库安全度汛",
+        "source": "人民日报",
+        "pub_date": "2026年04月18日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VSTBfckZ3QWhWVTVzQnBHalRpY1pFX3RRNUdnaW1VNlpuOURUcFRmTUZVWnl1VXBycHliSFhmTjRPaldGRVBmUlZnS2ZXcDhHeVJhLURfMzJ0d1ZoY0tPd2Z6MA?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GV1VOMjliVUo5bnhIUlFHUTMzbl9pOEhSbEZQZk1oSEM5eGxmdEFELVFsQkF1LTFNLU1BNGQweEZ5NU9FTnlMY1I3ak1GOXdQVVdZWnZwSEdUSlluNTN0TU9IUlo1Tl9rT2N6cUVOWFRPUlFwb0NFTy1nNE83QUU?oc=5"
+      }
+    ],
+    "综合要闻": [
+      {
+        "id": 2,
+        "title": "3起水利行业招投标领域违法违规典型案例",
+        "source": "新浪财经",
+        "pub_date": "2026年04月19日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fb3R0WWVCZlNxWUVKOUFNRk9jUlhkeWhldDFGOVNERUlzYVJqdk9kMUlTemdMUTNieHYtaXNmTGpfQ2NwSWc4ZTBnSWFFdU9Nb3JNWUFfRFBJZW5WVWdIMXk2cW01ZWo5YmdvM2x1RGpuVnhvQnc?oc=5"
       }
     ],
     "水生态环境": [
@@ -36,15 +36,6 @@
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
         "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2R01wZkdrWWNiLTdqS0ppbHNRR2ZNdzRaWXotdzNvVHctRzFYdG9qeXJMcnBNb0lUamhXTERzZWIwWUotTW90TzBWU1dRZGFQRjdvODZFdWxodFhRZlREUjI2eHloRUQ4MWVN?oc=5"
-      },
-      {
-        "id": 4,
-        "title": "巨野：有“颜”又有“值” 河湖生态经济双向赋能见实效",
-        "source": "thepaper.cn",
-        "pub_date": "2026年04月17日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zZmhITElOQ3VsVTA3ZGpJOG5wdkJtcnB1ay0xZEt6MjlQS3VjeTZoQXRncHRmR0kyQkhOU0pVOXljM1VsMFZtV2p4MFZCY0llaklYVGVaRGNoSnBpZ3c?oc=5"
       }
     ]
   }
