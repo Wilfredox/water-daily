@@ -1,22 +1,20 @@
 {
-  "date": "2026年04月20日",
-  "news_date": "2026年04月19日",
-  "update_time": "2026-04-20 00:00",
+  "date": "2026年04月21日",
+  "news_date": "2026年04月20日",
+  "update_time": "2026-04-21 00:00",
   "total_news": 3,
-  "category_count": 3,
+  "category_count": 2,
   "news": {
-    "水利工程": [
+    "综合要闻": [
       {
         "id": 1,
-        "title": "水利部安排部署水库安全度汛",
-        "source": "人民日报",
-        "pub_date": "2026年04月18日",
+        "title": "预见2026：《2026年中国智慧水利行业全景图谱》（附市场现状、竞争格局和发展趋势等）",
+        "source": "新浪财经",
+        "pub_date": "2026年04月19日",
         "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GV1VOMjliVUo5bnhIUlFHUTMzbl9pOEhSbEZQZk1oSEM5eGxmdEFELVFsQkF1LTFNLU1BNGQweEZ5NU9FTnlMY1I3ak1GOXdQVVdZWnZwSEdUSlluNTN0TU9IUlo1Tl9rT2N6cUVOWFRPUlFwb0NFTy1nNE83QUU?oc=5"
-      }
-    ],
-    "综合要闻": [
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRkk2N2hKSU0wUmtScERfaTVXNG9JTWUtQ0E4VS1YV3pJdk4tTVZIYXFoWEVud3ZhSHFISEJZaHV3aHRiZmxfTklOUW9PSUZwWE4yRzFUYXdZVVJYRVlXbG5meVBaYWUzbE5ITTAxTXBtamNBLTNpazhvdDJ2UW1fQk1rYXozek0?oc=5"
+      },
       {
         "id": 2,
         "title": "3起水利行业招投标领域违法违规典型案例",
@@ -27,15 +25,15 @@
         "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fb3R0WWVCZlNxWUVKOUFNRk9jUlhkeWhldDFGOVNERUlzYVJqdk9kMUlTemdMUTNieHYtaXNmTGpfQ2NwSWc4ZTBnSWFFdU9Nb3JNWUFfRFBJZW5WVWdIMXk2cW01ZWo5YmdvM2x1RGpuVnhvQnc?oc=5"
       }
     ],
-    "水生态环境": [
+    "水资源管理": [
       {
         "id": 3,
-        "title": "甘肃发布2026年河湖长制工作要点_社会综合",
-        "source": "中国甘肃网",
-        "pub_date": "2026年04月18日",
+        "title": "青海格尔木：春季农田灌溉高效推进 已供水300万立方米",
+        "source": "中国网海丝频道",
+        "pub_date": "2026年04月20日",
         "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2R01wZkdrWWNiLTdqS0ppbHNRR2ZNdzRaWXotdzNvVHctRzFYdG9qeXJMcnBNb0lUamhXTERzZWIwWUotTW90TzBWU1dRZGFQRjdvODZFdWxodFhRZlREUjI2eHloRUQ4MWVN?oc=5"
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BZnEzZ1RURmdVQXpScFV6VmtyZGhGU1hISzJMZzlTYjVxOWdsUnY4TVE2aEN1Tk9PU0lsb2xhNDhVQXNIUFN3bzdpZG1NbVNVcUI3MU1McWxPYS1UY1JfTTBCSGthdw?oc=5"
       }
     ]
   }
