@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026年04月22日",
+    "news_date": "2026年04月21日",
+    "update_time": "2026-04-22 00:00",
+    "total_news": 3,
+    "category_count": 2,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "浙江进入汛期以来首次区域性强降雨过程",
+          "source": "chinanews.com.cn",
+          "pub_date": "2026年04月21日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByUFRZekVrZnBQQTdIRGhqX0pCdWJ0WGNrb2lvdWpKWDRQVFhuLTA3WUZVODFwdnVINVdqSGdwdUJSVTJpQU96SWQ3SE5XcDlpc1pQTkk3bUtIb3V4SlJ2aDFEYjdqUVY0?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 2,
+          "title": "甘肃推动水资源更高水平节约集约利用",
+          "source": "新浪网",
+          "pub_date": "2026年04月21日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMRVRsUnNIOXdTbkdUQlhjNFRLOVFBV3QyM3pYczBVMVhjTEp0c3FzeDBxbmdYSkJGUjhpc2hnQUVpNGtaQ1kxYnY4TVZkbndBOEp5QU85cGc5WG4tS1VLMXFxOGtvX3NMV3Q5TkJ6YU1peVEyNVR0eA?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "青海格尔木：春季农田灌溉高效推进 已供水300万立方米",
+          "source": "中国网海丝频道",
+          "pub_date": "2026年04月20日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BZnEzZ1RURmdVQXpScFV6VmtyZGhGU1hISzJMZzlTYjVxOWdsUnY4TVE2aEN1Tk9PU0lsb2xhNDhVQXNIUFN3bzdpZG1NbVNVcUI3MU1McWxPYS1UY1JfTTBCSGthdw?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年04月21日",
     "news_date": "2026年04月20日",
     "update_time": "2026-04-21 00:00",
