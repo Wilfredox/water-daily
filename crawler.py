@@ -1,14 +1,15 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 水利日报爬虫
 数据源：Google News RSS
 改进：
-  1. 扩充关键词覆盖更多水利细分领域
-  2. 每个版块上限 6 条；若某版块 <2 条则补充前天新闻
-  3. 修复 content 重复问题：Google RSS description 格式为"标题+来源"，
-     抓不到正文时改用空字符串（前端只显示 impact，不再重复标题）
-  4. 语义去重阈值优化
+1. 扩充关键词覆盖更多水利细分领域（57 组关键词）
+2. 每个版块上限 10 条；若某版块 <2 条则依次补充前天、更早新闻
+3. 修复 content 重复问题：Google RSS description 格式为"标题+来源"，
+   抓不到正文时改用空字符串（前端只显示 impact，不再重复标题）
+4. 语义去重阈值优化至 0.55（减少误去重）
+5. RSS 每查询取 20 条，标题最短 5 字
 """
 
 import json, re, os, sys, time, random
@@ -70,7 +71,7 @@ def fetch(url, timeout=20, retries=3):
                 r.encoding = r.apparent_encoding or 'utf-8'
             return r
         except Exception as e:
-            print(f"    [attempt {attempt+1}/{retries}] {e}")
+            print(f"  [attempt {attempt+1}/{retries}] {e}")
             if attempt < retries - 1:
                 time.sleep(2 ** attempt)
     return None
@@ -115,7 +116,7 @@ def fetch_article_content(url, max_chars=400):
 def clean_rss_description(desc_text, title):
     """
     Google RSS 的 description 通常格式为：
-      "新闻标题来源网站"  或  "<a href=...>标题</a>  <font>来源 · 时间</font>"
+    "新闻标题来源网站" 或 "<a href=...>标题</a> <font>来源 · 时间</font>"
     提取后几乎就是标题重复，直接丢弃，返回空字符串。
     """
     if not desc_text:
@@ -132,32 +133,73 @@ def clean_rss_description(desc_text, title):
 # ── Google News RSS ───────────────────────────────────────────────────────────
 # 扩充关键词：覆盖防汛、水资源、工程建设、生态、政策、灌溉、农村水利等细分
 GOOGLE_NEWS_QUERIES = [
-    # 防汛抗旱
-    ('水利部 防汛',              '防汛抗旱'),
-    ('水利部 抗旱 旱情',         '防汛抗旱'),
-    ('防汛备汛 水库调度',        '防汛抗旱'),
-    ('洪涝 暴雨 水利',           '防汛抗旱'),
-    # 水利工程
-    ('水利工程 开工 竣工',       '水利工程'),
-    ('水库 大坝 除险加固',       '水利工程'),
-    ('堤防 海塘 水闸 建设',      '水利工程'),
-    ('灌区 泵站 水利设施',       '水利工程'),
-    # 水资源管理
-    ('水资源 节水 供水',         '水资源管理'),
-    ('地下水 取水许可 水权',     '水资源管理'),
-    ('南水北调 调水 引水',       '水资源管理'),
-    ('农村饮水 饮水安全',        '水资源管理'),
-    # 水生态环境
-    ('河湖长制 水生态',          '水生态环境'),
-    ('水环境 水质 水污染治理',   '水生态环境'),
-    ('湿地 水土保持 生态修复',   '水生态环境'),
-    # 政策法规
-    ('水利部 印发 通知 政策',    '政策法规'),
-    ('水法 水利规划 水利改革',   '政策法规'),
-    # 综合要闻
-    ('水利部 新闻发布',          '综合要闻'),
-    ('浙江 水利 新闻',           '综合要闻'),
-    ('中国水利 行业动态',        '综合要闻'),
+    # ── 防汛抗旱 ──
+    ('水利部 防汛', '防汛抗旱'),
+    ('水利部 抗旱 旱情', '防汛抗旱'),
+    ('防汛备汛 水库调度', '防汛抗旱'),
+    ('洪涝 暴雨 水利', '防汛抗旱'),
+    ('防汛 应急 抢险', '防汛抗旱'),
+    ('台风 防汛 水利', '防汛抗旱'),
+    ('山洪 泥石流 预警', '防汛抗旱'),
+    ('泄洪 水库 汛期', '防汛抗旱'),
+    ('暴雨 内涝 排水', '防汛抗旱'),
+    ('水利 防灾 减灾', '防汛抗旱'),
+    # ── 水利工程 ──
+    ('水利工程 开工 竣工', '水利工程'),
+    ('水库 大坝 除险加固', '水利工程'),
+    ('堤防 海塘 水闸 建设', '水利工程'),
+    ('灌区 泵站 水利设施', '水利工程'),
+    ('水利 投资 建设 项目', '水利工程'),
+    ('重大水利工程 开工', '水利工程'),
+    ('水库 蓄水 建设', '水利工程'),
+    ('水利 基建 工程', '水利工程'),
+    ('大坝 安全 鉴定', '水利工程'),
+    ('水利 施工 招标', '水利工程'),
+    # ── 水资源管理 ──
+    ('水资源 节水 供水', '水资源管理'),
+    ('地下水 取水许可 水权', '水资源管理'),
+    ('南水北调 调水 引水', '水资源管理'),
+    ('农村饮水 饮水安全', '水资源管理'),
+    ('节水 型社会 水利', '水资源管理'),
+    ('供水 水厂 水利', '水资源管理'),
+    ('水资源 管理 配置', '水资源管理'),
+    ('跨流域 调水 工程', '水资源管理'),
+    ('用水 总量 控制', '水资源管理'),
+    ('城乡 供水 一体化', '水资源管理'),
+    # ── 水生态环境 ──
+    ('河湖长制 水生态', '水生态环境'),
+    ('水环境 水质 水污染治理', '水生态环境'),
+    ('湿地 水土保持 生态修复', '水生态环境'),
+    ('河长制 湖长制 巡河', '水生态环境'),
+    ('黑臭水体 治理 水利', '水生态环境'),
+    ('生态流量 河湖 水利', '水生态环境'),
+    ('水土流失 防治 水利', '水生态环境'),
+    ('水质 改善 水环境', '水生态环境'),
+    ('河湖 清四乱 整治', '水生态环境'),
+    ('水污染 防治 水利', '水生态环境'),
+    # ── 政策法规 ──
+    ('水利部 印发 通知 政策', '政策法规'),
+    ('水法 水利规划 水利改革', '政策法规'),
+    ('水利 法规 条例', '政策法规'),
+    ('水利 标准 规范 发布', '政策法规'),
+    ('水利 改革 发展 意见', '政策法规'),
+    ('水利 十四五 规划', '政策法规'),
+    ('河长制 条例 办法', '政策法规'),
+    # ── 综合要闻 ──
+    ('水利部 新闻发布', '综合要闻'),
+    ('浙江 水利 新闻', '综合要闻'),
+    ('中国水利 行业动态', '综合要闻'),
+    ('水利 新闻 最新', '综合要闻'),
+    ('水利部 部署 工作', '综合要闻'),
+    ('水利 高质量 发展', '综合要闻'),
+    ('水利 数字化 智慧', '综合要闻'),
+    ('水利 乡村振兴 助力', '综合要闻'),
+    ('智慧水利 数字孪生', '综合要闻'),
+    ('水电 清洁能源 水利', '综合要闻'),
+    ('水利 科技 创新', '综合要闻'),
+    ('河湖 管理 保护 水利', '综合要闻'),
+    ('水利 监督 检查', '综合要闻'),
+    ('水利 行政 执法', '综合要闻'),
 ]
 
 def google_news_rss_url(query):
@@ -168,7 +210,7 @@ def parse_google_rss(xml_content, hint_category):
     items = []
     try:
         soup = BeautifulSoup(xml_content, 'xml')
-        for entry in soup.find_all('item')[:10]:
+        for entry in soup.find_all('item')[:20]:
             title_tag = entry.find('title')
             if not title_tag:
                 continue
@@ -178,9 +220,9 @@ def parse_google_rss(xml_content, hint_category):
             source_name = '综合媒体'
             if ' - ' in title:
                 parts = title.rsplit(' - ', 1)
-                title       = parts[0].strip()
+                title = parts[0].strip()
                 source_name = parts[1].strip()
-            if len(title) < 8:
+            if len(title) < 5:
                 continue
 
             link_tag = entry.find('link')
@@ -188,25 +230,25 @@ def parse_google_rss(xml_content, hint_category):
             if not url:
                 continue
 
-            pub_tag  = entry.find('pubDate')
+            pub_tag = entry.find('pubDate')
             pub_date = pub_tag.get_text(strip=True) if pub_tag else ''
             date_str = parse_date_loose(pub_date)
 
             # description 通常只是标题重复，清洗后大概率为空
             desc_tag = entry.find('description')
-            summary  = clean_rss_description(
+            summary = clean_rss_description(
                 desc_tag.get_text() if desc_tag else '', title)
 
             items.append({
-                'title':    title,
-                'url':      url,
+                'title': title,
+                'url': url,
                 'pub_date': date_str,
-                'content':  summary,   # 可能为空字符串
-                'source':   source_name,
-                '_hint':    hint_category,
+                'content': summary,  # 可能为空字符串
+                'source': source_name,
+                '_hint': hint_category,
             })
     except Exception as e:
-        print(f"    [RSS parse error] {e}")
+        print(f"  [RSS parse error] {e}")
     return items
 
 
@@ -291,7 +333,7 @@ def title_keywords(title):
     words = re.findall(r'[\u4e00-\u9fa5]{2,5}', title)
     return set(w for w in words if not any(sw in w for sw in STOPWORDS))
 
-def semantic_dedup(items, threshold=0.42):
+def semantic_dedup(items, threshold=0.55):
     kept, kept_kws = [], []
     for it in items:
         kws = title_keywords(it['title'])
@@ -311,12 +353,12 @@ def semantic_dedup(items, threshold=0.42):
 
 # ── 生成「可能的影响」 ────────────────────────────────────────────────────────
 IMPACT_TEMPLATES = {
-    '防汛抗旱':   '有助于提升防灾减灾能力，保障人民群众生命财产安全。',
-    '水利工程':   '将有效提升区域水资源调配与防洪排涝能力。',
+    '防汛抗旱': '有助于提升防灾减灾能力，保障人民群众生命财产安全。',
+    '水利工程': '将有效提升区域水资源调配与防洪排涝能力。',
     '水资源管理': '有利于推进节水型社会建设，保障供水安全。',
     '水生态环境': '有助于改善水生态环境质量，维护河湖生态健康。',
-    '政策法规':   '将进一步规范水利管理秩序，推动依法治水。',
-    '综合要闻':   '对水利行业发展具有积极推动作用。',
+    '政策法规': '将进一步规范水利管理秩序，推动依法治水。',
+    '综合要闻': '对水利行业发展具有积极推动作用。',
 }
 
 POSITIVE_KWS = ['将', '有助', '提升', '保障', '推动', '促进',
@@ -332,18 +374,18 @@ def generate_impact(content, category):
     return IMPACT_TEMPLATES.get(category, IMPACT_TEMPLATES['综合要闻'])
 
 # ── 主流程 ────────────────────────────────────────────────────────────────────
-CAT_MAX = 6   # 每个版块最多条数
+CAT_MAX = 10  # 每个版块最多条数
 CAT_MIN = 2   # 低于此数则补充前天新闻
 
 def run():
-    now        = beijing_now()
-    today_str  = fmt_date(now)
-    yest_str   = fmt_date(now - timedelta(days=1))
+    now = beijing_now()
+    today_str = fmt_date(now)
+    yest_str = fmt_date(now - timedelta(days=1))
     before_str = fmt_date(now - timedelta(days=2))
-    upd_str    = now.strftime('%Y-%m-%d 00:00')
+    upd_str = now.strftime('%Y-%m-%d 00:00')
 
     print(f"\n{'='*55}")
-    print(f"  水利日报爬虫  {today_str}")
+    print(f"  水利日报爬虫 {today_str}")
     print(f"  目标日期：{yest_str}（不足时补充 {before_str}）")
     print(f"{'='*55}")
 
@@ -365,28 +407,39 @@ def run():
     print(f"语义去重：{len(deduped)}（过滤 {len(deduped_exact)-len(deduped)} 条重复事件）")
 
     # 步骤4：水利过滤 + 分类
-    classified = {}   # cat -> [items from yest, items from before]
+    classified = {}  # cat -> [items from yest, items from before, items from older]
     for it in deduped:
         cat = classify(it['title'], it.get('content', ''))
         if cat is None:
             continue
         it['_cat'] = cat
-        classified.setdefault(cat, {'yest': [], 'before': []})
+        classified.setdefault(cat, {'yest': [], 'before': [], 'older': []})
         pd = it.get('pub_date')
         if pd == yest_str or pd is None:
             classified[cat]['yest'].append(it)
         elif pd == before_str:
             classified[cat]['before'].append(it)
+        else:
+            # 更早日期的新闻也保留作为补充池
+            classified[cat]['older'].append(it)
 
-    # 步骤5：按版块决定最终新闻列表（优先昨天，不足2条补前天，上限6条）
+    # 步骤5：按版块决定最终新闻列表（优先昨天，不足时补前天→更早，上限10条）
     final_per_cat = {}
     for cat, buckets in classified.items():
         selected = buckets['yest'][:CAT_MAX]
         if len(selected) < CAT_MIN:
             need = CAT_MIN - len(selected)
+            # 先补前天
             selected = selected + buckets['before'][:need]
-            if selected:
-                print(f"  [{cat}] 昨天仅 {len(buckets['yest'])} 条，补充前天 {min(need, len(buckets['before']))} 条")
+            still_need = CAT_MIN - len(selected)
+            # 再补更早
+            if still_need > 0:
+                selected = selected + buckets['older'][:still_need]
+            if len(buckets['yest']) < CAT_MIN:
+                yest_cnt = len(buckets['yest'])
+                before_cnt = min(len(buckets['before']), max(0, need))
+                older_cnt = min(len(buckets['older']), max(0, still_need))
+                print(f"  [{cat}] 昨天仅 {yest_cnt} 条，补充前天 {before_cnt} 条、更早 {older_cnt} 条")
         final_per_cat[cat] = selected
 
     # 所有需要抓正文的条目
@@ -417,12 +470,12 @@ def run():
             impact = generate_impact(full_content, cat)
 
             cat_map[cat].append({
-                'id':        nid,
-                'title':     it['title'],
-                'source':    it['source'],
-                'pub_date':  pd,
-                'content':   content,
-                'impact':    impact,
+                'id': nid,
+                'title': it['title'],
+                'source': it['source'],
+                'pub_date': pd,
+                'content': content,
+                'impact': impact,
                 'full_link': url,
             })
             nid += 1
@@ -435,17 +488,17 @@ def run():
 
     # 步骤7：构建今日数据
     today_data = {
-        'date':           today_str,
-        'news_date':      yest_str,
-        'update_time':    upd_str,
-        'total_news':     total,
+        'date': today_str,
+        'news_date': yest_str,
+        'update_time': upd_str,
+        'total_news': total,
         'category_count': len(cat_map),
-        'news':           cat_map,
+        'news': cat_map,
     }
 
     # 步骤8：归档旧日报
     archive_path = 'archive-data.json'
-    news_path    = 'news-data.json'
+    news_path = 'news-data.json'
 
     archive = []
     if os.path.exists(archive_path):
@@ -476,10 +529,10 @@ def run():
         json.dump(today_data, f, ensure_ascii=False, indent=2)
 
     if total == 0:
-        print("⚠️  未抓到新闻，日期已更新")
+        print("⚠️ 未抓到新闻，日期已更新")
     else:
         print(f"✅ 完成：{today_str}（{total} 条）")
-    print(f"   往期归档：{len(archive)} 期")
+        print(f"  往期归档：{len(archive)} 期")
     return True
 
 
