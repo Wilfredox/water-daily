@@ -1,8 +1,8 @@
 {
-  "date": "2026年04月23日",
-  "news_date": "2026年04月22日",
-  "update_time": "2026-04-23 00:00",
-  "total_news": 4,
+  "date": "2026年04月24日",
+  "news_date": "2026年04月23日",
+  "update_time": "2026-04-24 00:00",
+  "total_news": 3,
   "category_count": 2,
   "news": {
     "防汛抗旱": [
@@ -34,15 +34,6 @@
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
         "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBocGowSXc1eE9TaGl0OEV5YmwyV2dTcFQwM1lzYXg1LU5zX1RSQlVCdVVxbGd2TUZFSy15bmd3b3VfNTRYWkZZcnRzV2FBem01VFlvRi1kVG5aX0k1WllLdEZJYmxPbnEySWQwcHBPZGQ5Mzhk?oc=5"
-      },
-      {
-        "id": 4,
-        "title": "甘肃出台《意见》 推动水资源更高水平节约集约利用",
-        "source": "中国甘肃网",
-        "pub_date": "2026年04月21日",
-        "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HZkEzV1Fqc28ybFFTdnJGRGxRRHpCVlNCcmFwZDhHWnJVdzQ4aG03UzZpVjUtSUg1MndNenNkellpOWdSbHVsWlBfMEFBMXAyLXcyeE1tZk1RVGU1a3RxaXFyVmF2T0xXMTNv?oc=5"
       }
     ]
   }
