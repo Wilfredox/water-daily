@@ -37,10 +37,10 @@
 
 每天 **北京时间 00:00** 由 GitHub Actions 自动执行以下流程：
 
-1. **抓取新闻** — 通过 57 组关键词从 Google News RSS 获取水利相关资讯
-2. **智能去重** — 先精确标题去重，再语义去重（Jaccard 相似度 ≥ 0.55 判定为重复）
+1. **抓取新闻** — 通过 16 组关键词从 Google News RSS 获取水利相关资讯
+2. **智能去重** — 先精确标题去重，再语义去重（Jaccard 相似度 ≥ 0.42 判定为重复）
 3. **水利过滤** — 仅保留包含水利相关关键词的新闻，过滤无关内容
-4. **自动分类** — 根据关键词匹配归入 6 大版块（每版块上限 10 条，不足 2 条时依次补充前天、更早新闻）
+4. **自动分类** — 根据关键词匹配归入 6 大版块（每版块上限 6 条，不足 2 条时补充前天新闻）
 5. **正文提取** — 尝试抓取原文正文（失败则留空，避免与标题重复）
 6. **影响分析** — 从正文提取含正面关键词的语句，或按分类生成模板影响评述
 7. **归档旧数据** — 将昨天的 `news-data.json` 归档到 `archive-data.json`
@@ -54,18 +54,18 @@
 
 ```
 water-daily/
-├── index.html          # 今日日报页面
-├── archive.html        # 往期日报页面
-├── crawler.py          # Python 爬虫（Google News RSS 抓取 + 智能处理）
-├── news-data.json      # 今日新闻数据（每天覆盖更新）
-├── archive-data.json   # 往期归档数据（逐日累积）
-├── 魄罗.jpg            # 网站 Logo 图片
-├── requirements.txt    # Python 依赖清单
+├── index.html            # 今日日报页面
+├── archive.html          # 往期日报页面
+├── crawler.py            # Python 爬虫（Google News RSS 抓取 + 智能处理）
+├── news-data.json        # 今日新闻数据（每天覆盖更新）
+├── archive-data.json     # 往期归档数据（逐日累积）
+├── 魄罗.jpg              # 网站 Logo 图片
+├── requirements.txt      # Python 依赖清单
 ├── css/
-│   └── style.css       # 全站样式（含分类配色、响应式、树形归档等）
+│   └── style.css         # 全站样式（含分类配色、响应式、树形归档等）
 ├── js/
-│   ├── app.js          # 今日日报前端逻辑（加载 + 渲染新闻卡片）
-│   └── archive.js      # 往期日报前端逻辑（年月树形列表 + 日期详情）
+│   ├── app.js            # 今日日报前端逻辑（加载 + 渲染新闻卡片）
+│   └── archive.js        # 往期日报前端逻辑（年月树形列表 + 日期详情）
 └── .github/
     └── workflows/
         └── daily-update.yml  # GitHub Actions 定时任务配置
@@ -106,10 +106,10 @@ pip install -r requirements.txt
 python crawler.py
 
 # 4. 本地预览（任选一种方式）
-# 方式一：Python 内置 HTTP 服务器
+#    方式一：Python 内置 HTTP 服务器
 python -m http.server 8080
-# 方式二：VS Code Live Server 插件
-# 方式三：npx serve
+#    方式二：VS Code Live Server 插件
+#    方式三：npx serve
 npx serve .
 ```
 
