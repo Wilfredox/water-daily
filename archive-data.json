@@ -1,5 +1,96 @@
 [
   {
+    "date": "2026年04月24日",
+    "news_date": "2026年04月23日",
+    "update_time": "2026-04-24 00:00",
+    "total_news": 8,
+    "category_count": 5,
+    "news": {
+      "水利工程": [
+        {
+          "id": 1,
+          "title": "黄龙抽水蓄能电站上水库建设稳步推进",
+          "source": "新浪财经",
+          "pub_date": "2026年04月23日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zYkVqbGp6YTNuSF9EbFN6bFdYT1ZxYjczNTBCSHRORE1kRVpRQWFhaGstaU1XQkRKbUQ1Ry1pTURMc0NEcUxRaWRjTTZqUG5YaE92MmwteWF3TndCQ3U5cmFySG5vMFNlYUp3UXl5cmxIZ0RJMTNHTQ?oc=5"
+        }
+      ],
+      "防汛抗旱": [
+        {
+          "id": 2,
+          "title": "永州：闻“汛”而动 向险而行 全力筑牢防汛保畅安全防线",
+          "source": "华声在线",
+          "pub_date": "2026年04月23日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldU5wX2FmMDNnVGllS3EtZUN5ckpobWRPOHJGZXY4c3U1Q0pLdjFROTM5LUxTa05VVDdjUDQ1N2RXZFZnby1QdkdZbnZnWTQzYjdQcnM2empCVWdIby0w?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "攀钢矿业选矿分公司开展中沟湾尾矿库防洪防汛实战演练",
+          "source": "中国网",
+          "pub_date": "2026年04月23日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxV1ZoaU1XdEx0b0VMUnp6VThxZktqUzd1NldZWHl0eGhGSC01MWxDa0t3ZnF0SkFSZ3lnUzhzX0hzWlRQZzk3cENYTkZPdXV2dEJMQnhlMHZKVUo0ZWhCNm1vUWNTZw?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "预防汛期雨水倒灌，朝阳区开展人防工程防汛演练",
+          "source": "京报网",
+          "pub_date": "2026年04月23日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wa1FWXzAySmJGR0IzaVpnVFFnd1hIUkVSOGlwdHJlNzZLX1VtNVNWMUlSU3RrdUhKck81enpuMFREc1F0bzNhQTMxRTQ3MXhucEk3SG9aVGQwMWhOLUE?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 5,
+          "title": "三峡水利(600116.SH)：2025年年报净利润为4.36亿元、同比较去年同期上涨40.75%",
+          "source": "东方财富",
+          "pub_date": "2026年04月23日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FYmEtdzNtTHhoTlFNQlJsRm9rWVJIckI3U1ozS0dHWmQ4OGNPQnNBNWxTWVJNeHRPNEpvNXB3LU4ydjFySjJ3TGs2QUhNSldNV1g0TTFHdW1QWGZlNTE5WE91ckg?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 6,
+          "title": "重庆中法供水有限公司开展“世界地球日”节水护水科普活动",
+          "source": "新华网重庆",
+          "pub_date": "2026年04月22日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBocGowSXc1eE9TaGl0OEV5YmwyV2dTcFQwM1lzYXg1LU5zX1RSQlVCdVVxbGd2TUZFSy15bmd3b3VfNTRYWkZZcnRzV2FBem01VFlvRi1kVG5aX0k1WllLdEZJYmxPbnEySWQwcHBPZGQ5Mzhk?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "清水县政协开展全县城乡供水一体化建设专项视察活动(图)",
+          "source": "tianshui.com.cn",
+          "pub_date": "2026年04月22日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPVGlaZVcyNG1Ed2JVU0xHY01pYkRiQUJqbUJQMml3ZDMzSFdQNnJqX3h1OHctcWRoSEVBaGNvdkJlMVQ1SDdYRG5faEVHRXR0NjJtY1NHNF85VTBQMnJTQVZVVVQ0ek5uSVE?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 8,
+          "title": "陕西以更大力度推进河湖管理保护工作",
+          "source": "搜狐网",
+          "pub_date": "2026年04月22日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pQUJkWWJ2SU9LMFdBNkd2eXFMQm1Nb0tLM1hPUXJabDBydUVwWEkwOUtTOVpqV3VwWm13aTlWOXpZMWNnbVVlR2hDQmo2UlpNY2tGVDV3?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年04月08日",
     "news_date": "2026年04月07日",
     "update_time": "2026-04-08 00:00",
