@@ -1,41 +1,39 @@
 {
-  "date": "2026年04月09日",
-  "news_date": "2026年04月08日",
-  "update_time": "2026-04-09 00:00",
+  "date": "2026年04月24日",
+  "news_date": "2026年04月23日",
+  "update_time": "2026-04-24 00:00",
   "total_news": 3,
-  "category_count": 3,
+  "category_count": 2,
   "news": {
-    "水利工程": [
+    "防汛抗旱": [
       {
         "id": 1,
-        "title": "中国电建22.15亿中标北京昌平 水库项目！",
-        "source": "乌有之乡",
-        "pub_date": "2026年04月08日",
-        "content": "中国电建22.15亿中标北京昌平 水库项目！乌有之乡",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEbl9nM2dUeF9NNkZmM0ZUa1Y4bjZLOEJaMm9SQWdZYmNKbHgwZWRETDh2eE1Yb01JSHplWno2YmI5dXZWY0c2VzNDYkRxejRlaFpOckNSbmQxY3ZnZHZUdXdmYWU4TDhZ?oc=5"
-      }
-    ],
-    "综合要闻": [
+        "title": "平阳县委书记孟晓斌督查防汛备汛工作",
+        "source": "欧洲头条",
+        "pub_date": "2026年04月22日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYXRNVk96UEVlVkhPbUVmUEtsbTN1M0RoQjIzYVN6RGR1NVdLTDZ1X1VRMTFPY24zWnpwOTk4b3FMN19jMmt2eF8wTzE3YUpza2czZXdpa0xXYnB1aVRKZVh0UjNyMjU5Zy1LOHFhSEJqUG95TGU2bzB0VEt4eW1IUl8yalJBQlBqZy1VaWN0OGU3X05jNWxjTW5DaTZaY3E1U0VJQjdTVG9MakpzNFhBMllLYVo?oc=5"
+      },
       {
         "id": 2,
-        "title": "215.2亿元 浙江水利实现一季度“开门红”",
-        "source": "Sohu",
-        "pub_date": "2026年04月08日",
-        "content": "215.2亿元 浙江水利实现一季度“开门红”Sohu",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVWVKVW9JN0tXUmhEZXVTRUdrU0lwRHdVaVVTdjNtUnY4UXA2U3NGbGxvOTl5bXVhUzhyejNqeWYwZkZUNnNmdEJQeHI1TEw3U0hnbnlMNUhPbEE0MGJHdDdFcXZaNjlnYkZVVGc5UzdUVUJqb0I4VFdDQXliTUFoMzhWY1QtRWFY?oc=5"
+        "title": "入汛后首轮强降雨持续中！浙西地区注意防范山洪风险",
+        "source": "cs.zjol.com.cn",
+        "pub_date": "2026年04月22日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03MXlEdVo1NTcySUp6clJyZ0cwemRjTk0yemJ3YUdCZFJpaEYwSVFDNUxuUVZ3SXpyQVZJVjAyam9Kd2RMbFVublM1aFNJcm85NnJUYnVEZUU4dzI0a3pIcjhuM1c?oc=5"
       }
     ],
-    "政策法规": [
+    "水资源管理": [
       {
         "id": 3,
-        "title": "水利部批复新一轮大江大河采砂管理规划",
-        "source": "chinanews.com.cn",
-        "pub_date": "2026年04月08日",
-        "content": "水利部批复新一轮大江大河采砂管理规划chinanews.com.cn",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wcWkyMEw0Tkx0aDZ6OEhpNHVtck5tX21zb1hEYlZQM25yX2RpTjlNaWVvYnU3SXRqOFk3VmRhWHB6TXlTdmRaeXJ5OVp5ZkpneTl0ckI5R3VYRlBONVZpNHBoaUpJck8t?oc=5"
+        "title": "重庆中法供水有限公司开展“世界地球日”节水护水科普活动",
+        "source": "新华网重庆",
+        "pub_date": "2026年04月22日",
+        "content": "",
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBocGowSXc1eE9TaGl0OEV5YmwyV2dTcFQwM1lzYXg1LU5zX1RSQlVCdVVxbGd2TUZFSy15bmd3b3VfNTRYWkZZcnRzV2FBem01VFlvRi1kVG5aX0k1WllLdEZJYmxPbnEySWQwcHBPZGQ5Mzhk?oc=5"
       }
     ]
   }
