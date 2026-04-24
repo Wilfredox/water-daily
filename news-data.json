@@ -1,47 +1,31 @@
 {
-<<<<<<< HEAD
-  "date": "2026年04月09日",
-  "news_date": "2026年04月08日",
-  "update_time": "2026-04-09 00:00",
-  "total_news": 3,
-  "category_count": 3,
-=======
   "date": "2026年04月24日",
   "news_date": "2026年04月23日",
   "update_time": "2026-04-24 00:00",
-  "total_news": 12,
-  "category_count": 6,
->>>>>>> 11ea8a864d12289bff9a563893575caf0c31e3be
+  "total_news": 8,
+  "category_count": 5,
   "news": {
     "水利工程": [
       {
         "id": 1,
-<<<<<<< HEAD
-        "title": "中国电建22.15亿中标北京昌平 水库项目！",
-        "source": "乌有之乡",
-        "pub_date": "2026年04月08日",
-        "content": "中国电建22.15亿中标北京昌平 水库项目！乌有之乡",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEbl9nM2dUeF9NNkZmM0ZUa1Y4bjZLOEJaMm9SQWdZYmNKbHgwZWRETDh2eE1Yb01JSHplWno2YmI5dXZWY0c2VzNDYkRxejRlaFpOckNSbmQxY3ZnZHZUdXdmYWU4TDhZ?oc=5"
-=======
         "title": "黄龙抽水蓄能电站上水库建设稳步推进",
         "source": "新浪财经",
         "pub_date": "2026年04月23日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
         "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zYkVqbGp6YTNuSF9EbFN6bFdYT1ZxYjczNTBCSHRORE1kRVpRQWFhaGstaU1XQkRKbUQ1Ry1pTURMc0NEcUxRaWRjTTZqUG5YaE92MmwteWF3TndCQ3U5cmFySG5vMFNlYUp3UXl5cmxIZ0RJMTNHTQ?oc=5"
-      },
-      {
-        "id": 2,
-        "title": "水利部安排部署水库安全度汛",
-        "source": "人民日报",
-        "pub_date": "2026年04月18日",
-        "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GV1VOMjliVUo5bnhIUlFHUTMzbl9pOEhSbEZQZk1oSEM5eGxmdEFELVFsQkF1LTFNLU1BNGQweEZ5NU9FTnlMY1I3ak1GOXdQVVdZWnZwSEdUSlluNTN0TU9IUlo1Tl9rT2N6cUVOWFRPUlFwb0NFTy1nNE83QUU?oc=5"
       }
     ],
     "防汛抗旱": [
+      {
+        "id": 2,
+        "title": "永州：闻“汛”而动 向险而行 全力筑牢防汛保畅安全防线",
+        "source": "华声在线",
+        "pub_date": "2026年04月23日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldU5wX2FmMDNnVGllS3EtZUN5ckpobWRPOHJGZXY4c3U1Q0pLdjFROTM5LUxTa05VVDdjUDQ1N2RXZFZnby1QdkdZbnZnWTQzYjdQcnM2empCVWdIby0w?oc=5"
+      },
       {
         "id": 3,
         "title": "攀钢矿业选矿分公司开展中沟湾尾矿库防洪防汛实战演练",
@@ -70,61 +54,11 @@
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
         "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FYmEtdzNtTHhoTlFNQlJsRm9rWVJIckI3U1ozS0dHWmQ4OGNPQnNBNWxTWVJNeHRPNEpvNXB3LU4ydjFySjJ3TGs2QUhNSldNV1g0TTFHdW1QWGZlNTE5WE91ckg?oc=5"
-      },
+      }
+    ],
+    "水资源管理": [
       {
         "id": 6,
-        "title": "三峡水利(600116.SH)：2026年一季报净利润为3232.46万元，同比扭亏为盈",
-        "source": "东方财富",
-        "pub_date": "2026年04月23日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UOVBQcHJYVjZmNHBHb0VQbEhBV0ZMN2xVVjA2Rjk5UTBrWFFqNE1nSC1VQThacTRRcHY3U3VnQjNhc3ZneUJxb3ZjUmVEZEtqYU9rQmJtZWNmT0JpRzhuNHcxdkY?oc=5"
-      }
-    ],
-    "政策法规": [
-      {
-        "id": 7,
-        "title": "李强对推进农田水利和高标准农田建设工作作出重要批示强调：扎实提高农业综合生产和防灾减灾能力为保障国家粮食安全奠定坚实基础_云南省卫健委",
-        "source": "云南省卫健委",
-        "pub_date": "2024年11月13日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16bGY4TmREbDJwV3NUdFVoU2d2UmtSTGVhekxRYUw1NHdhS1NMQnFHTDduUEgxN1VieFZRS2hoUkhiZWctOTBhbnJTZ2UtcDZwaHgxenZvNGk5ZGx0NmpiOWM1X21EaTlla1BzMjh1SnVqb2NXOUpB?oc=5"
-      },
-      {
-        "id": 8,
-        "title": "刘越高：扎实推进全市水利工程高标准建设全面推动水利事业高质量发展",
-        "source": "hengyang.gov.cn",
-        "pub_date": "2023年09月04日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83VG5JTjYxNVBMTlBBZnB2aEd2Q2lFaGVIMzNBWXUtYThrbUJieTh0MnY2ZFN5MmdoRVZOMnVBYzZMREZGczYyb2tzVmtFekxBN2RsZG1qM3dyaC1FRWM0cWZhX3VXaE5pelk1dlJKWVl5Wm8?oc=5"
->>>>>>> 11ea8a864d12289bff9a563893575caf0c31e3be
-      }
-    ],
-    "综合要闻": [
-      {
-        "id": 2,
-        "title": "215.2亿元 浙江水利实现一季度“开门红”",
-        "source": "Sohu",
-        "pub_date": "2026年04月08日",
-        "content": "215.2亿元 浙江水利实现一季度“开门红”Sohu",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVWVKVW9JN0tXUmhEZXVTRUdrU0lwRHdVaVVTdjNtUnY4UXA2U3NGbGxvOTl5bXVhUzhyejNqeWYwZkZUNnNmdEJQeHI1TEw3U0hnbnlMNUhPbEE0MGJHdDdFcXZaNjlnYkZVVGc5UzdUVUJqb0I4VFdDQXliTUFoMzhWY1QtRWFY?oc=5"
-      }
-    ],
-    "政策法规": [
-      {
-<<<<<<< HEAD
-        "id": 3,
-        "title": "水利部批复新一轮大江大河采砂管理规划",
-        "source": "chinanews.com.cn",
-        "pub_date": "2026年04月08日",
-        "content": "水利部批复新一轮大江大河采砂管理规划chinanews.com.cn",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wcWkyMEw0Tkx0aDZ6OEhpNHVtck5tX21zb1hEYlZQM25yX2RpTjlNaWVvYnU3SXRqOFk3VmRhWHB6TXlTdmRaeXJ5OVp5ZkpneTl0ckI5R3VYRlBONVZpNHBoaUpJck8t?oc=5"
-=======
-        "id": 9,
         "title": "重庆中法供水有限公司开展“世界地球日”节水护水科普活动",
         "source": "新华网重庆",
         "pub_date": "2026年04月22日",
@@ -133,7 +67,7 @@
         "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBocGowSXc1eE9TaGl0OEV5YmwyV2dTcFQwM1lzYXg1LU5zX1RSQlVCdVVxbGd2TUZFSy15bmd3b3VfNTRYWkZZcnRzV2FBem01VFlvRi1kVG5aX0k1WllLdEZJYmxPbnEySWQwcHBPZGQ5Mzhk?oc=5"
       },
       {
-        "id": 10,
+        "id": 7,
         "title": "清水县政协开展全县城乡供水一体化建设专项视察活动(图)",
         "source": "tianshui.com.cn",
         "pub_date": "2026年04月22日",
@@ -144,23 +78,13 @@
     ],
     "水生态环境": [
       {
-        "id": 11,
+        "id": 8,
         "title": "陕西以更大力度推进河湖管理保护工作",
         "source": "搜狐网",
         "pub_date": "2026年04月22日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
         "full_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pQUJkWWJ2SU9LMFdBNkd2eXFMQm1Nb0tLM1hPUXJabDBydUVwWEkwOUtTOVpqV3VwWm13aTlWOXpZMWNnbVVlR2hDQmo2UlpNY2tGVDV3?oc=5"
-      },
-      {
-        "id": 12,
-        "title": "全面落实湖长制 提升湖库管理水平",
-        "source": "广州市人民政府",
-        "pub_date": "2020年06月22日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GdldabnIxRDJJaDA4SzZnTjNHLWF3SHNmWFdUbk1nOE9mS05TaGJnTkw5djJIamdIRXN1bzVRSmR0d01QQ09ZZVVDN0o4NXkxTEZ2WDlUNDdWWGFoazAyM0VFWnNLWFUzLXp0NE9ZeUdadw?oc=5"
->>>>>>> 11ea8a864d12289bff9a563893575caf0c31e3be
       }
     ]
   }
