@@ -34,40 +34,34 @@ jobs:
         run: pip install requests beautifulsoup4 lxml
 
       # ── 3. 运行爬虫 ─────────────────────────────────
-      # continue-on-error: true 保证爬虫即使失败，后续 Pages 部署仍会进行
       - name: 运行爬虫
-        continue-on-error: true
         run: python crawler.py
         env:
           TZ: Asia/Shanghai
           PYTHONIOENCODING: utf-8
 
-      # ── 4. 用 Python 更新 HTML 日期（避免 sed 中文乱码问题） ──
-      - name: 更新 HTML 日期
+      # ── 4. 校验生成数据 ─────────────────────────────
+      - name: 校验 JSON 数据
         run: |
-          python3 - << 'PYEOF'
-          import re, os
-          from datetime import datetime, timedelta, timezone
-          CST = timezone(timedelta(hours=8))
-          today = datetime.now(CST).strftime("%Y年%m月%d日")
-          for fname in ['index.html', 'archive.html']:
-              if not os.path.exists(fname):
-                  continue
-              with open(fname, encoding='utf-8') as f:
-                  content = f.read()
-              # 替换 <title> 标签内容（无论之前写的是什么日期）
-              new_content = re.sub(
-                  r'(<title>水利日报[^<]*?)(</title>)',
-                  f'<title>水利日报 — {today}</title>',
-                  content
-              )
-              # 替换 page-title 里的日期（如果有静态文字）
-              if new_content != content:
-                  with open(fname, 'w', encoding='utf-8') as f:
-                      f.write(new_content)
-                  print(f"已更新 {fname} 日期 → {today}")
-              else:
-                  print(f"{fname} 无需更新（JS动态渲染）")
+          python - << 'PYEOF'
+          import json
+
+          def validate_report(data):
+              required = ['date', 'news_date', 'update_time', 'total_news', 'category_count', 'news']
+              return isinstance(data, dict) and all(key in data for key in required) and isinstance(data['news'], dict)
+
+          with open('news-data.json', encoding='utf-8') as f:
+              news_data = json.load(f)
+          with open('archive-data.json', encoding='utf-8') as f:
+              archive_data = json.load(f)
+
+          if not validate_report(news_data):
+              raise SystemExit('news-data.json 结构无效')
+          if not isinstance(archive_data, list):
+              raise SystemExit('archive-data.json 必须是数组')
+
+          print(f"news-data.json 校验通过：{news_data['date']} / {news_data['total_news']} 条")
+          print(f"archive-data.json 校验通过：{len(archive_data)} 期")
           PYEOF
         env:
           TZ: Asia/Shanghai
@@ -77,7 +71,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add news-data.json archive-data.json index.html archive.html
+          git add news-data.json archive-data.json
           if git diff --staged --quiet; then
             echo "无变更，跳过提交"
           else

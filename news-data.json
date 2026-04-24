@@ -1,29 +1,13 @@
 {
-<<<<<<< HEAD
-  "date": "2026年04月09日",
-  "news_date": "2026年04月08日",
-  "update_time": "2026-04-09 00:00",
-  "total_news": 3,
-  "category_count": 3,
-=======
   "date": "2026年04月24日",
   "news_date": "2026年04月23日",
   "update_time": "2026-04-24 00:00",
   "total_news": 12,
   "category_count": 6,
->>>>>>> 11ea8a864d12289bff9a563893575caf0c31e3be
   "news": {
     "水利工程": [
       {
         "id": 1,
-<<<<<<< HEAD
-        "title": "中国电建22.15亿中标北京昌平 水库项目！",
-        "source": "乌有之乡",
-        "pub_date": "2026年04月08日",
-        "content": "中国电建22.15亿中标北京昌平 水库项目！乌有之乡",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEbl9nM2dUeF9NNkZmM0ZUa1Y4bjZLOEJaMm9SQWdZYmNKbHgwZWRETDh2eE1Yb01JSHplWno2YmI5dXZWY0c2VzNDYkRxejRlaFpOckNSbmQxY3ZnZHZUdXdmYWU4TDhZ?oc=5"
-=======
         "title": "黄龙抽水蓄能电站上水库建设稳步推进",
         "source": "新浪财经",
         "pub_date": "2026年04月23日",
@@ -99,31 +83,10 @@
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
         "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83VG5JTjYxNVBMTlBBZnB2aEd2Q2lFaGVIMzNBWXUtYThrbUJieTh0MnY2ZFN5MmdoRVZOMnVBYzZMREZGczYyb2tzVmtFekxBN2RsZG1qM3dyaC1FRWM0cWZhX3VXaE5pelk1dlJKWVl5Wm8?oc=5"
->>>>>>> 11ea8a864d12289bff9a563893575caf0c31e3be
       }
     ],
-    "综合要闻": [
+    "水资源管理": [
       {
-        "id": 2,
-        "title": "215.2亿元 浙江水利实现一季度“开门红”",
-        "source": "Sohu",
-        "pub_date": "2026年04月08日",
-        "content": "215.2亿元 浙江水利实现一季度“开门红”Sohu",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVWVKVW9JN0tXUmhEZXVTRUdrU0lwRHdVaVVTdjNtUnY4UXA2U3NGbGxvOTl5bXVhUzhyejNqeWYwZkZUNnNmdEJQeHI1TEw3U0hnbnlMNUhPbEE0MGJHdDdFcXZaNjlnYkZVVGc5UzdUVUJqb0I4VFdDQXliTUFoMzhWY1QtRWFY?oc=5"
-      }
-    ],
-    "政策法规": [
-      {
-<<<<<<< HEAD
-        "id": 3,
-        "title": "水利部批复新一轮大江大河采砂管理规划",
-        "source": "chinanews.com.cn",
-        "pub_date": "2026年04月08日",
-        "content": "水利部批复新一轮大江大河采砂管理规划chinanews.com.cn",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wcWkyMEw0Tkx0aDZ6OEhpNHVtck5tX21zb1hEYlZQM25yX2RpTjlNaWVvYnU3SXRqOFk3VmRhWHB6TXlTdmRaeXJ5OVp5ZkpneTl0ckI5R3VYRlBONVZpNHBoaUpJck8t?oc=5"
-=======
         "id": 9,
         "title": "重庆中法供水有限公司开展“世界地球日”节水护水科普活动",
         "source": "新华网重庆",
@@ -160,7 +123,6 @@
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
         "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GdldabnIxRDJJaDA4SzZnTjNHLWF3SHNmWFdUbk1nOE9mS05TaGJnTkw5djJIamdIRXN1bzVRSmR0d01QQ09ZZVVDN0o4NXkxTEZ2WDlUNDdWWGFoazAyM0VFWnNLWFUzLXp0NE9ZeUdadw?oc=5"
->>>>>>> 11ea8a864d12289bff9a563893575caf0c31e3be
       }
     ]
   }

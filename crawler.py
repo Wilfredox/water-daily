@@ -30,6 +30,33 @@ def beijing_now():
 def fmt_date(dt):
     return dt.strftime("%Y年%m月%d日")
 
+def load_json_file(path, default):
+    if not os.path.exists(path):
+        return default
+    try:
+        with open(path, encoding='utf-8') as f:
+            data = json.load(f)
+        return data
+    except Exception as e:
+        print(f"  [WARN] 读取 {path} 失败：{e}")
+        return default
+
+def write_json_atomic(path, data):
+    tmp_path = path + '.tmp'
+    with open(tmp_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    os.replace(tmp_path, path)
+
+def validate_report_data(data):
+    if not isinstance(data, dict):
+        return False
+    required_keys = ['date', 'news_date', 'update_time', 'total_news', 'category_count', 'news']
+    if not all(key in data for key in required_keys):
+        return False
+    if not isinstance(data.get('news'), dict):
+        return False
+    return True
+
 def parse_date_loose(s):
     if not s:
         return None
@@ -488,33 +515,27 @@ def run():
     archive_path = 'archive-data.json'
     news_path    = 'news-data.json'
 
-    archive = []
-    if os.path.exists(archive_path):
-        try:
-            with open(archive_path, encoding='utf-8') as f:
-                raw = json.load(f)
-            archive = raw if isinstance(raw, list) else []
-        except Exception:
-            archive = []
+    raw_archive = load_json_file(archive_path, [])
+    archive = raw_archive if isinstance(raw_archive, list) else []
 
-    if os.path.exists(news_path):
-        try:
-            with open(news_path, encoding='utf-8') as f:
-                old = json.load(f)
-            old_date = old.get('date', '')
-            if old_date and old_date != today_str and old.get('total_news', 0) > 0:
-                existing = {item.get('date') for item in archive}
-                if old_date not in existing:
-                    archive.insert(0, old)
-                    print(f"✦ 归档 {old_date}（{old.get('total_news',0)} 条）")
-        except Exception as e:
-            print(f"  [WARN] 读旧日报失败: {e}")
+    old = load_json_file(news_path, {})
+    if validate_report_data(old):
+        old_date = old.get('date', '')
+        if old_date and old_date != today_str and old.get('total_news', 0) > 0:
+            existing = {item.get('date') for item in archive if isinstance(item, dict)}
+            if old_date not in existing:
+                archive.insert(0, old)
+                print(f"✦ 归档 {old_date}（{old.get('total_news',0)} 条）")
+    elif old:
+        print("  [WARN] 旧日报结构无效，跳过归档")
 
     # 步骤9：写文件
-    with open(archive_path, 'w', encoding='utf-8') as f:
-        json.dump(archive, f, ensure_ascii=False, indent=2)
-    with open(news_path, 'w', encoding='utf-8') as f:
-        json.dump(today_data, f, ensure_ascii=False, indent=2)
+    if not validate_report_data(today_data):
+        print("  [ERROR] 生成的日报数据结构无效，已放弃写入")
+        return False
+
+    write_json_atomic(archive_path, archive)
+    write_json_atomic(news_path, today_data)
 
     if total == 0:
         print("⚠️  未抓到新闻，日期已更新")
