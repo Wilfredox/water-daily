@@ -1,42 +1,40 @@
 {
-  "date": "2026年04月25日",
-  "news_date": "2026年04月24日",
-  "update_time": "2026-04-25 00:00",
-  "total_news": 7,
+  "date": "2026年04月26日",
+  "news_date": "2026年04月25日",
+  "update_time": "2026-04-26 00:00",
+  "total_news": 6,
   "category_count": 4,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "永州：闻“汛”而动 向险而行 全力筑牢防汛保畅安全防线",
+        "title": "筑牢防汛抗旱“铜墙铁壁”，大通湖区金盆镇开展防汛抢险应急演练",
         "source": "华声在线",
-        "pub_date": "2026年04月23日",
+        "pub_date": "2026年04月25日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldU5wX2FmMDNnVGllS3EtZUN5ckpobWRPOHJGZXY4c3U1Q0pLdjFROTM5LUxTa05VVDdjUDQ1N2RXZFZnby1QdkdZbnZnWTQzYjdQcnM2empCVWdIby0w?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53WjJpT0tTV195SnNWT0l6aUVKYjgzSW1kZlhmaFItUnl0QTZnTlF3TnRaTTdGR0hObHE5NnJ2QV8zdmQ1cmFEbWlNOG14OVgzcUEzSllOX3NtbkNLbmtB?oc=5"
       },
       {
         "id": 2,
-        "title": "攀钢矿业选矿分公司开展中沟湾尾矿库防洪防汛实战演练",
-        "source": "中国网",
-        "pub_date": "2026年04月23日",
+        "title": "防汛抢险救援：武汉首次在沙洲上练兵- 湖北日报新闻客户端",
+        "source": "湖北日报传媒集团",
+        "pub_date": "2026年04月24日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxV1ZoaU1XdEx0b0VMUnp6VThxZktqUzd1NldZWHl0eGhGSC01MWxDa0t3ZnF0SkFSZ3lnUzhzX0hzWlRQZzk3cENYTkZPdXV2dEJMQnhlMHZKVUo0ZWhCNm1vUWNTZw?oc=5"
-      }
-    ],
-    "水利工程": [
-      {
-        "id": 3,
-        "title": "黄龙抽水蓄能电站上水库建设稳步推进",
-        "source": "新浪财经",
-        "pub_date": "2026年04月23日",
-        "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zYkVqbGp6YTNuSF9EbFN6bFdYT1ZxYjczNTBCSHRORE1kRVpRQWFhaGstaU1XQkRKbUQ1Ry1pTURMc0NEcUxRaWRjTTZqUG5YaE92MmwteWF3TndCQ3U5cmFySG5vMFNlYUp3UXl5cmxIZ0RJMTNHTQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zOFZuZENhVmMtWkppSVZYQTRwYkJpeGpxMHFHTzZkVksxVHptd1p4VlpBN2UzVEtsdHZmS1VrSUxxcmJ1VnB0Zk9xZGJjdnlWWXBqYWY4RHc?oc=5"
       }
     ],
     "综合要闻": [
+      {
+        "id": 3,
+        "title": "【图片新闻】 水利部：2026年将靠前实施一批重大水利工程",
+        "source": "证券时报",
+        "pub_date": "2026年04月25日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNTRpQXd3VXFKTFFoUENKbGxTR2FiaFFTMzlHeTluTXllVVV4aXhlTHh2RG5kX0dkZ2VoVkRiTzFHaFJHTnowTUEzaktleTJSQVFZeHNUYmZTSktXenEtbHN5Z1BQUXJuVllCcUJMN0hwSVR4X0FvVjVrd2NqTEl5NjhGcWJmY01xMkdZRTVoSGdqUU5YQTFtNGZyTXRQZFY2bWtNUHBB?oc=5"
+      },
       {
         "id": 4,
         "title": "广西：积极探索“人工智能+”水利防洪场景应用",
@@ -45,29 +43,22 @@
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
         "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPbGFTZjBkS1oxTTJLV2p3NlhVQ0VjZ0xYNk9Ed0Z0QjRDVFYzT25Fa3EyTV9UTlV2QU9uMmlHZ0tHWTc0SjZGWW9nQVl4amx3VWdYbjNDcUVZV3Q4STBRU2NQdi1jZEpGRVE?oc=5"
-      },
+      }
+    ],
+    "水资源管理": [
       {
         "id": 5,
-        "title": "2026年中国智慧水利行业细分数字孪生水利发展分析已进入全面推进阶段【组图】_经济学人",
-        "source": "前瞻网",
-        "pub_date": "2026年04月24日",
+        "title": "长沙县推进集中供水规模化，计划新增供水服务人口3万余人",
+        "source": "搜狐网",
+        "pub_date": "2026年04月25日",
         "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RcVo0d2F1cFdjVUoxZjA0ekh2NzJ4N3ZUc2c0RGtqTmdGMEN5dElVSUdxVm1VUW5oczloTnJYU1pjMzV2RTMyWU13SmdjMF9jZy1WWWpfbnBRSng3R1cxVklIMkFralBOUHY1SmZ2TkNBdw?oc=5"
-      },
-      {
-        "id": 6,
-        "title": "AI赋能·智慧驱动 | 碧兴物联创新产品系列（二）之水利/水务监测产品",
-        "source": "新浪财经",
-        "pub_date": "2026年04月24日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04c0RrYU9BM3UtVFVzR1FDYW9FRHVuUlNPay0wbEJheFBRLUtGXzFCZXc2U0VGOHNzb1NEZFdhNGM1QXBxYlBaTDNWTFZGbzFVbkdMcnBCZi15MU0zYTNEN2ZBVDBGd0g5S3FGM2x2c1RvcXQ2Z2c?oc=5"
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDZiZFdXbWluQmZLNUpHbWRNQzZQNTdxbkN6cDBLUENuQkdEZENRMEU4b0dVNzhKQm1TbW1MNUFwV1RvLXp3YW9LRlpGS3lpUHFSZ0JRRDZ6WWZMdWtxRXNFLU5kWGtyTHdFVWlTRVBtVmpRUVpXblhQTXprWS1ndjM2b3Z5aWk0?oc=5"
       }
     ],
     "水生态环境": [
       {
-        "id": 7,
+        "id": 6,
         "title": "芦淞检察蓝守护生态绿，助力河湖“清四乱”",
         "source": "湖南红网",
         "pub_date": "2026年04月24日",
