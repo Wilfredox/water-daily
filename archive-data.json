@@ -1,5 +1,47 @@
 [
   {
+    "date": "2026年04月27日",
+    "news_date": "2026年04月26日",
+    "update_time": "2026-04-27 00:00",
+    "total_news": 3,
+    "category_count": 3,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "筑牢防汛抗旱“铜墙铁壁”，大通湖区金盆镇开展防汛抢险应急演练",
+          "source": "华声在线",
+          "pub_date": "2026年04月25日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53WjJpT0tTV195SnNWT0l6aUVKYjgzSW1kZlhmaFItUnl0QTZnTlF3TnRaTTdGR0hObHE5NnJ2QV8zdmQ1cmFEbWlNOG14OVgzcUEzSllOX3NtbkNLbmtB?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 2,
+          "title": "【图片新闻】 水利部：2026年将靠前实施一批重大水利工程",
+          "source": "证券时报",
+          "pub_date": "2026年04月25日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNTRpQXd3VXFKTFFoUENKbGxTR2FiaFFTMzlHeTluTXllVVV4aXhlTHh2RG5kX0dkZ2VoVkRiTzFHaFJHTnowTUEzaktleTJSQVFZeHNUYmZTSktXenEtbHN5Z1BQUXJuVllCcUJMN0hwSVR4X0FvVjVrd2NqTEl5NjhGcWJmY01xMkdZRTVoSGdqUU5YQTFtNGZyTXRQZFY2bWtNUHBB?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 3,
+          "title": "长沙县推进集中供水规模化，计划新增供水服务人口3万余人",
+          "source": "搜狐网",
+          "pub_date": "2026年04月25日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDZiZFdXbWluQmZLNUpHbWRNQzZQNTdxbkN6cDBLUENuQkdEZENRMEU4b0dVNzhKQm1TbW1MNUFwV1RvLXp3YW9LRlpGS3lpUHFSZ0JRRDZ6WWZMdWtxRXNFLU5kWGtyTHdFVWlTRVBtVmpRUVpXblhQTXprWS1ndjM2b3Z5aWk0?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年04月26日",
     "news_date": "2026年04月25日",
     "update_time": "2026-04-26 00:00",
