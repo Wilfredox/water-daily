@@ -1,50 +1,52 @@
 {
-  "date": "2026年04月28日",
-  "news_date": "2026年04月27日",
-  "update_time": "2026-04-28 00:00",
-  "total_news": 5,
-  "category_count": 3,
+  "date": "2026年04月29日",
+  "news_date": "2026年04月28日",
+  "update_time": "2026-04-29 00:00",
+  "total_news": 6,
+  "category_count": 5,
   "news": {
-    "水利工程": [
+    "防汛抗旱": [
       {
         "id": 1,
-        "title": "最新通报水利工程建设招标投标违法违规典型案例",
+        "title": "数字孪生淮河防洪“四预”系统助力防汛备汛",
         "source": "搜狐网",
-        "pub_date": "2026年04月27日",
+        "pub_date": "2026年04月28日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcF9IZ2lnZ2s2b01uY3U4dWdqX3dkMGFreGRzRzBQNTFiLU1OT0FWWExCMU1PN3BPT3l4dUtIaU1YN25qVzBaSk1wa0NjbHpXd280VVQ0eTM4RlY3ME1WVDlRMG9Kd1FxV0pxOE92cWkyRVhIM3psb0c5R2g2SmdsVTNNOUJ4VXlC?oc=5"
+      }
+    ],
+    "水利工程": [
+      {
+        "id": 2,
+        "title": "达州：筑牢堤防护平安 兴水利民惠万家",
+        "source": "达州融媒",
+        "pub_date": "2026年04月28日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRmRzbGZGOUJnRjBpV19PQW9FN0xEN0dmaU9hZHR6a1hxMHdEcWxYWjd2dm5STXRFOGhRTk1vYmRFaFllRGFyZzhqRHg0ei1BVTVXSU53SlZKZkRKaFBjZFFGZXdMUWdXNy1DOVNndjk5aTIzekprM2xfbVZPRlFmUW9qdXJ5eHQ5?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nUEN6SndyblNMenhvSExoUS03Y0dBTk5feWtZd1RiMjlaQ0N5a2FFQnFBRy1DdnFBRXUwaXQtb29JWlpJanh1RjktVTJtRkRkYjZPeE5n?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 2,
-        "title": "钱江水利：水务龙头三维价值齐升，高质量可持续发展行稳致远",
-        "source": "证券之星",
-        "pub_date": "2026年04月27日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TNERTQ2hCSEdBOVhoSXBuTnJuU0gwSldlOWplVm4wZkxqRklYOEM3QjVMZFhDYW1oWTNaSWFJQjhKQ2Z3SC1CcVlvUGg0bGx4T0NpeDhmd0JMNjNoU3JPaG9B?oc=5"
-      },
-      {
         "id": 3,
-        "title": "华东院：一场水利与园博的“双向奔赴”",
-        "source": "潮新闻",
-        "pub_date": "2026年04月26日",
+        "title": "共谋高质量发展新篇章 云南水利水电职业学院喜迎建校70周年",
+        "source": "新华网云南",
+        "pub_date": "2026年04月28日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uaURseWNJZmVadk93Nk9nVlhCRnFqTzdxaDYtNUVhY25VZS1pYXBrd0pRVG9BWV9HdGQzdEk0TmdxQVFhb1p6am5FSjE0OHdobnlSa3RlOA?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTd1RXNkk3QXdXS0pNaEhoYlotNkNORmRiTUhQMWFvMWc3NDIxODdRNnlUVzZXSWxIcGhpbGJTdW9zbWpwSjRuQzVIaGN2MVRsUkdjY3lDQWdTNi04V2Exem9HMlA5cXR0cmhxWHFBY3pyWUhRb1E4MFpR?oc=5"
       }
     ],
     "水资源管理": [
       {
         "id": 4,
-        "title": "甘肃省推动水资源更高水平节约集约利用",
-        "source": "新浪财经",
-        "pub_date": "2026年04月27日",
+        "title": "新修订《昆明市地下水保护条例》下月施行 为地下“生命水源”永续利用提供坚实法治保障",
+        "source": "kunming.yunnan.cn",
+        "pub_date": "2026年04月28日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LMVF0MDFFM2hWcG1TdWpvNzN2LTZJeDNocnNvNDVtbVBhSXdlZ1V6cGNmUkxqaHZUbGhHTXFsdWlaWmhTdVpiNnd4UVV3VjkwVGJIaWtKR1M1aFBKNEVMWG1BeUdaZWxkd1FpY0l4M1RPaHJqN0Z0dw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56UmJuSjExNFF6Qk9MaF9DUDMtUi04RUdLbFV2SmtPSFJCSTdQWWdfQ0RMOFBpWjJWNzNhWDBrZFkySnlGMTVrcU5ySGxfbmZzT2VrRy1hR1FQaDBrV0REaGlEc090NldfRkE?oc=5"
       },
       {
         "id": 5,
@@ -54,6 +56,17 @@
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
         "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11NU5vWDg1LWJXOXdxYVNvTldOLUdXRWhsNEJ1VzNUazd3QzRXQUhFeTZpTE9MTHZoMjY4bWpnb0Nqa1pIeVdxd245Y0tqRlp0WXhfZ2paWnBMQW1malIyS18tSkVHVXVxV0IwdlBIdVFnNi04?oc=5"
+      }
+    ],
+    "水生态环境": [
+      {
+        "id": 6,
+        "title": "水质双100%！温岭治水“卷”出省级样板",
+        "source": "台州新闻",
+        "pub_date": "2026年04月28日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuTGNfajFnVzNlTUVFOGVWTXdNM3l3Uk9PUnM3dnE4cTE2V2toWnY4YVhnUTVCRUhQeWVIZGdIWndmcjBTUnlBcE11bFNNeWduTFM3OUZuOVpDQkp2cWprWHNvbzlLVUFRS1E?oc=5"
       }
     ]
   }

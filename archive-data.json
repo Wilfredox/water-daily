@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026年04月28日",
+    "news_date": "2026年04月27日",
+    "update_time": "2026-04-28 00:00",
+    "total_news": 5,
+    "category_count": 3,
+    "news": {
+      "水利工程": [
+        {
+          "id": 1,
+          "title": "最新通报水利工程建设招标投标违法违规典型案例",
+          "source": "搜狐网",
+          "pub_date": "2026年04月27日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRmRzbGZGOUJnRjBpV19PQW9FN0xEN0dmaU9hZHR6a1hxMHdEcWxYWjd2dm5STXRFOGhRTk1vYmRFaFllRGFyZzhqRHg0ei1BVTVXSU53SlZKZkRKaFBjZFFGZXdMUWdXNy1DOVNndjk5aTIzekprM2xfbVZPRlFmUW9qdXJ5eHQ5?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 2,
+          "title": "钱江水利：水务龙头三维价值齐升，高质量可持续发展行稳致远",
+          "source": "证券之星",
+          "pub_date": "2026年04月27日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TNERTQ2hCSEdBOVhoSXBuTnJuU0gwSldlOWplVm4wZkxqRklYOEM3QjVMZFhDYW1oWTNaSWFJQjhKQ2Z3SC1CcVlvUGg0bGx4T0NpeDhmd0JMNjNoU3JPaG9B?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "华东院：一场水利与园博的“双向奔赴”",
+          "source": "潮新闻",
+          "pub_date": "2026年04月26日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uaURseWNJZmVadk93Nk9nVlhCRnFqTzdxaDYtNUVhY25VZS1pYXBrd0pRVG9BWV9HdGQzdEk0TmdxQVFhb1p6am5FSjE0OHdobnlSa3RlOA?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 4,
+          "title": "甘肃省推动水资源更高水平节约集约利用",
+          "source": "新浪财经",
+          "pub_date": "2026年04月27日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LMVF0MDFFM2hWcG1TdWpvNzN2LTZJeDNocnNvNDVtbVBhSXdlZ1V6cGNmUkxqaHZUbGhHTXFsdWlaWmhTdVpiNnd4UVV3VjkwVGJIaWtKR1M1aFBKNEVMWG1BeUdaZWxkd1FpY0l4M1RPaHJqN0Z0dw?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "[常宁市] 邓艳红调研城市防洪圈建设、农村饮水安全工作",
+          "source": "hengyang.gov.cn",
+          "pub_date": "2026年04月27日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11NU5vWDg1LWJXOXdxYVNvTldOLUdXRWhsNEJ1VzNUazd3QzRXQUhFeTZpTE9MTHZoMjY4bWpnb0Nqa1pIeVdxd245Y0tqRlp0WXhfZ2paWnBMQW1malIyS18tSkVHVXVxV0IwdlBIdVFnNi04?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年04月27日",
     "news_date": "2026年04月26日",
     "update_time": "2026-04-27 00:00",
