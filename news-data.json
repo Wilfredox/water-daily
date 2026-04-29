@@ -1,72 +1,126 @@
 {
-  "date": "2026年04月29日",
-  "news_date": "2026年04月28日",
-  "update_time": "2026-04-29 00:00",
-  "total_news": 6,
+  "date": "2026年04月30日",
+  "news_date": "2026年04月29日",
+  "update_time": "2026-04-30 00:00",
+  "total_news": 12,
   "category_count": 5,
   "news": {
-    "防汛抗旱": [
-      {
-        "id": 1,
-        "title": "数字孪生淮河防洪“四预”系统助力防汛备汛",
-        "source": "搜狐网",
-        "pub_date": "2026年04月28日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcF9IZ2lnZ2s2b01uY3U4dWdqX3dkMGFreGRzRzBQNTFiLU1OT0FWWExCMU1PN3BPT3l4dUtIaU1YN25qVzBaSk1wa0NjbHpXd280VVQ0eTM4RlY3ME1WVDlRMG9Kd1FxV0pxOE92cWkyRVhIM3psb0c5R2g2SmdsVTNNOUJ4VXlC?oc=5"
-      }
-    ],
     "水利工程": [
       {
-        "id": 2,
-        "title": "达州：筑牢堤防护平安 兴水利民惠万家",
-        "source": "达州融媒",
-        "pub_date": "2026年04月28日",
+        "id": 1,
+        "title": "北京市管中小型水库和区管中型水库大坝2026年度安全责任人名单公示",
+        "source": "京报网",
+        "pub_date": "2026年04月29日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nUEN6SndyblNMenhvSExoUS03Y0dBTk5feWtZd1RiMjlaQ0N5a2FFQnFBRy1DdnFBRXUwaXQtb29JWlpJanh1RjktVTJtRkRkYjZPeE5n?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ULUozdU1yMV9XT1dmdHJZSW1ZWkduc20tNkdwMktpQ1ZwcmVPWTNoMm1raGpkeU41WncwcVRaZkVGU3hHR19LQURpR3ZCUWdGdjZZYTc1bXM4VXJMMmc?oc=5"
+      },
+      {
+        "id": 2,
+        "title": "浙江衢州一水库项目经理分身有术身兼三职遭质疑",
+        "source": "搜狐网",
+        "pub_date": "2026年04月29日",
+        "content": "",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR3VwUXVFRkEtZmpLZkhpYVhveW9uOHNlSHFWYWI4a1VnUF9oWFkycjV2ZkttVE5EMUNwa05Ec2hVTmFGY19WcmNzNzNsYXM1MjZPN1ZRSHl6T1h1amhIeWk2eU9XVEItOTFIaGV4TDc1RW5HMTN1TUl4UUJBZlNmd1VsZzUzNi1YR1NxdQ?oc=5"
+      }
+    ],
+    "防汛抗旱": [
+      {
+        "id": 3,
+        "title": "首次亮相！中船应急多型装备参加防汛抢险救援综合演练- 湖北日报新闻客户端",
+        "source": "湖北日报传媒集团",
+        "pub_date": "2026年04月29日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XenkyejRDY01GUkxYYzdDNk9wcTVYc21YQmxDWVJFWVp0YTF5clZJcVNjaWdRTWJwNG0wZmR3UUtZY2M0cWtJbFp4NW1wWmtMRGhxNjF5MVc?oc=5"
+      },
+      {
+        "id": 4,
+        "title": "“三断”险境砺尖兵！浙江省暨温州市防汛防台综合演练在瑞安举行",
+        "source": "温州新闻网",
+        "pub_date": "2026年04月29日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WOWo3R1ZiX3hpbTlKSnBrUFdGQnV5T0pSdHA0am05Q3EtdHZsQTVMZENTNXBYVlVnXzdfQ2lBRGdONXVSNmRTWEZyUkkyYWJnVXI3UFNRSjFyeVZndlNORTV3T2pfQQ?oc=5"
+      },
+      {
+        "id": 5,
+        "title": "“五一”假期及节后将有两轮大范围降雨来袭 两部门部署防汛减灾工作",
+        "source": "闪电新闻",
+        "pub_date": "2026年04月29日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tSWVldEFvM1pMMnl1VzJ3OEY2TGN0UXpsaTFrdlZnbHhwdm44WlF1ZTU0Z3R1ZWZqZUd3d1FwVExNX09Fa2lGQTdQSkpGWDg0WUZuX1VyaTZldW5MaXdQVHJB?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 3,
-        "title": "共谋高质量发展新篇章 云南水利水电职业学院喜迎建校70周年",
-        "source": "新华网云南",
-        "pub_date": "2026年04月28日",
+        "id": 6,
+        "title": "水利部：水利行业科技攻关取得重大突破",
+        "source": "中国科技网",
+        "pub_date": "2026年04月29日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTd1RXNkk3QXdXS0pNaEhoYlotNkNORmRiTUhQMWFvMWc3NDIxODdRNnlUVzZXSWxIcGhpbGJTdW9zbWpwSjRuQzVIaGN2MVRsUkdjY3lDQWdTNi04V2Exem9HMlA5cXR0cmhxWHFBY3pyWUhRb1E4MFpR?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKT3NxbUR5ZnVuRWZuTFFJMVZxd2hBUDAtRGZ1MjJUcmloT1RmWHE1Z1FyZEhkcHBuaVVKUEhGLUp0VHRsc2xtLXpxcnlaM1RKMnZWZVphN2Ixd293cmFpTGtRXzYzaUFQWDYxU0U2T0g?oc=5"
+      },
+      {
+        "id": 7,
+        "title": "娄底水利：十年耕耘不辍志 水润湘中绘新篇",
+        "source": "娄底新闻网",
+        "pub_date": "2026年04月29日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81X2NJRER6R2NyY0Y1eEs5UlhCRVFnUmt0SWt1dXg1Q082Sy01TGtadWJ2emgzcDNWcWxNQl80dW5FU01MQmM3cWc2NjJHRWtadFh4UmF1SmZ0Zw?oc=5"
+      },
+      {
+        "id": 8,
+        "title": "水利部：“十四五”期间立项实施576个科技攻关项_国内新闻_新闻频道",
+        "source": "海峡网",
+        "pub_date": "2026年04月29日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mU3hOcjlhNVB3am9TT2JRTUl1UjZPdkRTT29IMzZQaTlTMndmS3cyWTJvaXU3M3BhNExsTDM2YUZLTHFLVk9mRDZrSmpVQWxLeEJJWHRJSG9TaEdVT0hsbW5MWU9jdw?oc=5"
+      },
+      {
+        "id": 9,
+        "title": "云南水利水电职业学院举行建校70周年高质量发展会议",
+        "source": "中国农业大学新闻网",
+        "pub_date": "2026年04月29日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zbW1rNDJiZVRQNXpvZ2QxVzdabElMczFqUUhseDdibFowSU93aEVlSHV2UkVEa0xIWG1NTTZmdGdmU2FyREV2SkVCTkI2NG9lSFZGbVg3ZElYSklybTRlTXNPRkZEU3B6R2hRb1NYN09vY3Y4RVI0?oc=5"
+      },
+      {
+        "id": 10,
+        "title": "云南水利水电职业学院迎来建校70周年",
+        "source": "新浪财经",
+        "pub_date": "2026年04月29日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQczZVN084bHkwV1Y3NEtka3NibzR0MzlPTnY5ZVMtQVlaU1hwRHRoekhxLUVqMkRzbzJGcF9yMjZjal9qeDBRY0Y3Y2luOG4yWVdyNm9BSkxmVGdXRHJ6di1tdTE4eXBOb3NreDVUeTBkTC1PUmwwczhvNFF0SmVPTC1oVEVDalNyTkY4Q0dFMHlBSThUbjcxSnBDVWZNckZSUFRtQW0tZDE2U0FzLXNZ?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 4,
-        "title": "新修订《昆明市地下水保护条例》下月施行 为地下“生命水源”永续利用提供坚实法治保障",
-        "source": "kunming.yunnan.cn",
-        "pub_date": "2026年04月28日",
+        "id": 11,
+        "title": "南昌县城乡供水一体化项目银三角水厂新建工程正式通水",
+        "source": "中国日报网",
+        "pub_date": "2026年04月29日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56UmJuSjExNFF6Qk9MaF9DUDMtUi04RUdLbFV2SmtPSFJCSTdQWWdfQ0RMOFBpWjJWNzNhWDBrZFkySnlGMTVrcU5ySGxfbmZzT2VrRy1hR1FQaDBrV0REaGlEc090NldfRkE?oc=5"
-      },
-      {
-        "id": 5,
-        "title": "[常宁市] 邓艳红调研城市防洪圈建设、农村饮水安全工作",
-        "source": "hengyang.gov.cn",
-        "pub_date": "2026年04月27日",
-        "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11NU5vWDg1LWJXOXdxYVNvTldOLUdXRWhsNEJ1VzNUazd3QzRXQUhFeTZpTE9MTHZoMjY4bWpnb0Nqa1pIeVdxd245Y0tqRlp0WXhfZ2paWnBMQW1malIyS18tSkVHVXVxV0IwdlBIdVFnNi04?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Hc1gwM0o3b1dJbjQxczF4SlE2LVNvaENBblU3VlVmTERqX240NDF2ZkpqdGp5c0FZN0JQM3c4emJ4YzV6NVZaNjZvVkxDWVllYXBIQ2ROSWtSZ0E0M2Vfc051d2lpWWNSWDNUX2JtWDdmSGI4TW8yME4xcw?oc=5"
       }
     ],
     "水生态环境": [
       {
-        "id": 6,
-        "title": "水质双100%！温岭治水“卷”出省级样板",
-        "source": "台州新闻",
-        "pub_date": "2026年04月28日",
+        "id": 12,
+        "title": "江苏省太湖水污染防治委员会第十九次全体（扩大） 会议暨太湖安全度夏应急防控工作视频会议召开刘小涛出席并讲话",
+        "source": "chinawater.com.cn",
+        "pub_date": "2026年04月29日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuTGNfajFnVzNlTUVFOGVWTXdNM3l3Uk9PUnM3dnE4cTE2V2toWnY4YVhnUTVCRUhQeWVIZGdIWndmcjBTUnlBcE11bFNNeWduTFM3OUZuOVpDQkp2cWprWHNvbzlLVUFRS1E?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41NFFsYkh5Yk9QNVFZdk5WYlA0dzkzLUhqOE9RMF9XVVB1Umo5dWxXYjNWRDU1MG9idHBNZWZ5b0EzLXFid2dmQ3dZTGo3NDJvamJxb2QyRS1sSmxxbVRHbHBfcHQ4UDhLMlRFZGtHckFpQjRHMVd0VEVR?oc=5"
       }
     ]
   }
