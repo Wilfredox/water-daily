@@ -1,5 +1,47 @@
 [
   {
+    "date": "2026年05月03日",
+    "news_date": "2026年05月02日",
+    "update_time": "2026-05-03 00:00",
+    "total_news": 3,
+    "category_count": 3,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部和中国气象局5月2日18时联合发布黄色山洪灾害气象预警",
+          "source": "新浪财经",
+          "pub_date": "2026年05月02日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5MHo3SzhKWkdpXzhCQnVEM2U5clFlZDJpeDkxRDI3aEp1aktMZ1FXR2ZjaEJDYUZYMXc4M3VNNDdEbWZRSnh3ei1ZNnBGRGFYbEdTbWtBSWdBQVhla0RFaXN0QmJBdVpHeFNSWFZsNFRZd0k5SnYxSQ?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 2,
+          "title": "福建水投集团以数字赋能城乡供水 让用水更安全、更稳定、更便捷",
+          "source": "新浪财经",
+          "pub_date": "2026年05月01日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOFpxaHRjRHhGSWJ2RlBiSVdFcHBma3dkVVFTYlprUE03VFNZdlhESWlrMTg3TXB0V3JMYlJGdm1kNVV4VTR0azR0dlI5bUJSc0dlMWl0OG5aX2JTWFZxQWgwd0F6cURvd204MjFaUEFWRnduc3FVY2tYVzZfVjZ3NmVhTFlNUFE?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 3,
+          "title": "李家岩水库正式下闸蓄水 建成后惠及153万群众",
+          "source": "新浪财经",
+          "pub_date": "2026年05月01日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1NxX3NNUk9VLXVSOUxtLVgwcnJ1MFhEdTFYdjN4UjZIdmJDbjVHT2VCNlRvci0zVHFUUkl3SUlqdWZfSXBSZWRyd1B3bjBDZThNeUZ6X3RnVE1Ud0lhQkZ4Nkh5TkFjRHRFaHBBSGMyNzF3eGlJdUNWcVpZemgxMGFZOVc?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年05月02日",
     "news_date": "2026年05月01日",
     "update_time": "2026-05-02 00:00",
