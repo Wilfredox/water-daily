@@ -1,28 +1,50 @@
 {
-  "date": "2026年05月04日",
-  "news_date": "2026年05月03日",
-  "update_time": "2026-05-04 00:00",
-  "total_news": 2,
-  "category_count": 1,
+  "date": "2026年05月05日",
+  "news_date": "2026年05月04日",
+  "update_time": "2026-05-05 00:00",
+  "total_news": 4,
+  "category_count": 3,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
         "title": "水利部滚动会商部署“五一”假期期间防汛工作",
-        "source": "新浪财经",
+        "source": "chinanews.com.cn",
         "pub_date": "2026年05月03日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVzRTT3dfSERkb0t6M2g4M0l0U0lGYkNsWlhtSlk5c1A5eWRUTzRyRVFGVFRzbmpRMG12c0xfWjd1c2Z5amhWUnc4ODNoVFd0NWpyam81dHZLUDhkU3hEQXJaSGFMOFFDYVZjR0Uxa0VqeHNLTVVsdVRpek5yeW5xTkppczFlNHhrMjJyZnhXMA?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10M19PQ0NpN2Y1U0dZejVRSTg5SmZjZkxEd2s1VGxEVEt5NzVFUHNUOXR3ZGJSdEJJaThKSFM2VWZiMVFUNFNqcmR1b200VWc5aVlJX2lqN2pEeTJjQTctR1owZGZXeXJq?oc=5"
       },
       {
         "id": 2,
-        "title": "水利部和中国气象局5月2日18时联合发布黄色山洪灾害气象预警",
-        "source": "新浪网",
-        "pub_date": "2026年05月02日",
+        "title": "筑牢汛期安全屏障！嘉禾县18座小型水库除险加固全面完工",
+        "source": "hubpd.com",
+        "pub_date": "2026年05月03日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5MHo3SzhKWkdpXzhCQnVEM2U5clFlZDJpeDkxRDI3aEp1aktMZ1FXR2ZjaEJDYUZYMXc4M3VNNDdEbWZRSnh3ei1ZNnBGRGFYbEdTbWtBSWdBQVhla0RFaXN0QmJBdVpHeFNSWFZsNFRZd0k5SnYxSQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONkUxOGpXTUxNdHRaTVp3d2pMUmJ1SWtVR01iX3lLRksxWDRseWNpdXlNdXB5ZUgxOWJaZU5OcDl0TzJ1Vk5PVEl5SURJQUtYaVY5ME5hZXBUdjVuWGlNZ2FsaFd2QzdZYUxSQVYxRTU2OGp1Z0t6c2t1WFhfb1hIeA?oc=5"
+      }
+    ],
+    "水利工程": [
+      {
+        "id": 3,
+        "title": "甘肃白银靖会灌区夏灌全面启动 精准供水筑牢丰收根基",
+        "source": "Sohu",
+        "pub_date": "2026年05月04日",
+        "content": "",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ29mYkdUWGx1RnBVd3FnTUo0NGlqVzR2YURKaTEtZ2FYR3g2YWdVTm5tT0wtRTk4UXpIYmdWeTN0NUwzUm1YalpmVWljSEwtOF9GZnZ0djcwclpWaGxYT1JJd0dzTEZrcDhKYnVUQTZiLVQ1V3FyeHEzcTFhVmg0Q0s5bVRITTll?oc=5"
+      }
+    ],
+    "综合要闻": [
+      {
+        "id": 4,
+        "title": "放弃假期、闻“汛”而动！广东水利电力职院青年教师用坚守诠释“五四”精神",
+        "source": "教育在线",
+        "pub_date": "2026年05月03日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SZWtGNXZCeU13bmxtdU1RdEk0cGg4WWM4a1pfRlVqc1hsWHd0UWdETzdGUVNuYWFkNUt1VlRhbVRweENDLW9TWHNEZ3dHSXRBZUlNNndqV1JYZmgyUUxSX0RiOFc5THhfbG91Mw?oc=5"
       }
     ]
   }

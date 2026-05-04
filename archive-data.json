@@ -1,5 +1,34 @@
 [
   {
+    "date": "2026年05月04日",
+    "news_date": "2026年05月03日",
+    "update_time": "2026-05-04 00:00",
+    "total_news": 2,
+    "category_count": 1,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部滚动会商部署“五一”假期期间防汛工作",
+          "source": "新浪财经",
+          "pub_date": "2026年05月03日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVzRTT3dfSERkb0t6M2g4M0l0U0lGYkNsWlhtSlk5c1A5eWRUTzRyRVFGVFRzbmpRMG12c0xfWjd1c2Z5amhWUnc4ODNoVFd0NWpyam81dHZLUDhkU3hEQXJaSGFMOFFDYVZjR0Uxa0VqeHNLTVVsdVRpek5yeW5xTkppczFlNHhrMjJyZnhXMA?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "水利部和中国气象局5月2日18时联合发布黄色山洪灾害气象预警",
+          "source": "新浪网",
+          "pub_date": "2026年05月02日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5MHo3SzhKWkdpXzhCQnVEM2U5clFlZDJpeDkxRDI3aEp1aktMZ1FXR2ZjaEJDYUZYMXc4M3VNNDdEbWZRSnh3ei1ZNnBGRGFYbEdTbWtBSWdBQVhla0RFaXN0QmJBdVpHeFNSWFZsNFRZd0k5SnYxSQ?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年05月03日",
     "news_date": "2026年05月02日",
     "update_time": "2026-05-03 00:00",
