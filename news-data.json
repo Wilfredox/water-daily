@@ -2,49 +2,80 @@
   "date": "2026年05月05日",
   "news_date": "2026年05月04日",
   "update_time": "2026-05-05 00:00",
-  "total_news": 4,
-  "category_count": 3,
+  "total_news": 7,
+  "category_count": 5,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
+        "title": "越南与斯里兰卡分享水文气象领域经验",
+        "source": "cn.qdnd.vn",
+        "pub_date": "2026年05月04日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pM2VmNjZSRVZWV01CZlZZbVMxQnh3SlNzX0p4elBVdnIybm1XQjNVNGdZNVdJLUdYU0VuMzNXVG5OQkpfR2dLMG1UY0V4RlpzWGc?oc=5"
+      },
+      {
+        "id": 2,
         "title": "水利部滚动会商部署“五一”假期期间防汛工作",
         "source": "chinanews.com.cn",
         "pub_date": "2026年05月03日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
         "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10M19PQ0NpN2Y1U0dZejVRSTg5SmZjZkxEd2s1VGxEVEt5NzVFUHNUOXR3ZGJSdEJJaThKSFM2VWZiMVFUNFNqcmR1b200VWc5aVlJX2lqN2pEeTJjQTctR1owZGZXeXJq?oc=5"
-      },
-      {
-        "id": 2,
-        "title": "筑牢汛期安全屏障！嘉禾县18座小型水库除险加固全面完工",
-        "source": "hubpd.com",
-        "pub_date": "2026年05月03日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONkUxOGpXTUxNdHRaTVp3d2pMUmJ1SWtVR01iX3lLRksxWDRseWNpdXlNdXB5ZUgxOWJaZU5OcDl0TzJ1Vk5PVEl5SURJQUtYaVY5ME5hZXBUdjVuWGlNZ2FsaFd2QzdZYUxSQVYxRTU2OGp1Z0t6c2t1WFhfb1hIeA?oc=5"
       }
     ],
     "水利工程": [
       {
         "id": 3,
         "title": "甘肃白银靖会灌区夏灌全面启动 精准供水筑牢丰收根基",
-        "source": "Sohu",
+        "source": "搜狐网",
         "pub_date": "2026年05月04日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
         "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ29mYkdUWGx1RnBVd3FnTUo0NGlqVzR2YURKaTEtZ2FYR3g2YWdVTm5tT0wtRTk4UXpIYmdWeTN0NUwzUm1YalpmVWljSEwtOF9GZnZ0djcwclpWaGxYT1JJd0dzTEZrcDhKYnVUQTZiLVQ1V3FyeHEzcTFhVmg0Q0s5bVRITTll?oc=5"
+      },
+      {
+        "id": 4,
+        "title": "湖北房县： 水库移民安置小区景如画",
+        "source": "MSN",
+        "pub_date": "2026年05月04日",
+        "content": "",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTHVoa2pBYTdtVmx3S0xKSU1WMlRsOVNMMXEyMlRyamJBcXhRV0lpcFp1Tk5mTDltRE84eDV6SHg3VkZBM2ZIUGpoQnlVcVEtWTcydmtSMExGSHpZS3VqVGVUSkhPOFpGM3U5VHFQaG1BWGdIQ3MwekJGVUlXQW5JTlBkazhjYTdjck4xOWhyTXMwSzhJTnF4OGFhdnVNekQxbC14SGdVN3loUWJUZUNhcjZzbmREYWtBQ1NZakx6V1ZyUjNyRGpyTV96R0VXNlljRDFWVEtZRVBRdFZXX0xSRlRabjNtWDRBMDgtaUh6T0M4WXl2M2FYR3FWVFJZakhpWWhZd1VFc2JZV2RkaFFVYVVnYw?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 4,
+        "id": 5,
         "title": "放弃假期、闻“汛”而动！广东水利电力职院青年教师用坚守诠释“五四”精神",
         "source": "教育在线",
         "pub_date": "2026年05月03日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
         "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SZWtGNXZCeU13bmxtdU1RdEk0cGg4WWM4a1pfRlVqc1hsWHd0UWdETzdGUVNuYWFkNUt1VlRhbVRweENDLW9TWHNEZ3dHSXRBZUlNNndqV1JYZmgyUUxSX0RiOFc5THhfbG91Mw?oc=5"
+      }
+    ],
+    "水生态环境": [
+      {
+        "id": 6,
+        "title": "浙江27个县（市、区）率先建成全域幸福河湖基本格局",
+        "source": "潮新闻",
+        "pub_date": "2026年05月04日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01VkxGMlpDSS1GRXgzM3dnUEpQSVNBbkhDMzNhNHZJRFlfdFJtZkhtV2tKSlh6ajgxU3Vqd2RaTnZSM2NnVHZ3dkRnLUZkeEJ4ajhWSS1fNVdfS1lTZHgzMURiVnFNVGRyTDBqbENoTTNJaWs?oc=5"
+      }
+    ],
+    "水资源管理": [
+      {
+        "id": 7,
+        "title": "清泉润民心！石门县持续推进农村饮水安全工程",
+        "source": "hubpd.com",
+        "pub_date": "2026年05月03日",
+        "content": "",
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbUp2emhvNThLLS1ES1VhLXlVZFUzekctcmZ6Nk9IYTJhMkJfaldaVTBMbFR1TWdUZXc4Q1dXam5OOHdSODVjYjRMeS03b2hYb0ZxOTlBN29TTjVNUmNhSDU4M0dlUDljODNqYTh6cHNwUUVINkY1MVFzU0c5MmFhZg?oc=5"
       }
     ]
   }
