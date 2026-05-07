@@ -1,13 +1,22 @@
 {
-  "date": "2026年05月07日",
-  "news_date": "2026年05月06日",
-  "update_time": "2026-05-07 00:00",
-  "total_news": 11,
-  "category_count": 6,
+  "date": "2026年05月08日",
+  "news_date": "2026年05月07日",
+  "update_time": "2026-05-08 00:00",
+  "total_news": 12,
+  "category_count": 5,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
+        "title": "防汛备汛工作 | 浦东新区开展汛前环卫条线防汛应急抢险演练",
+        "source": "上观新闻",
+        "pub_date": "2026年05月07日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xa1VlZjA0bUI0YnBPZTZ0RnFPLURGcFlQQjZJVTFWZ0FPYUszLV9JY2c4Q2s5djQ1SXhUei1PV0tqaDREbjh6aWltTXR0eU80UVN5b29KQXM?oc=5"
+      },
+      {
+        "id": 2,
         "title": "城关街道开展防汛抢险设备实操培训",
         "source": "首都文明网",
         "pub_date": "2026年05月06日",
@@ -18,102 +27,100 @@
     ],
     "水利工程": [
       {
-        "id": 2,
-        "title": "李家岩水库蓄水，成都第二水源地来了丨这里是成都·一周报⑭",
-        "source": "四川新闻",
-        "pub_date": "2026年05月06日",
+        "id": 3,
+        "title": "云南丘北县城乡一体化供水工程通过竣工验收- 中国日报网",
+        "source": "China Daily",
+        "pub_date": "2026年05月07日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pY2FKVEh6eDU0NTI1MExFRno3RzZqY1VCLU1WRWppSG5KYnNOdEhuODJyMGlPR1NUUlltWDR2MTJ1X3R4TXdBTXlzc2sxUmpHdkFrRlhGZkN2Q2hWX2NaSDFOSQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53WWprNkZMRmtidTZfaUo5WDJGZy11MEpEeHlJb3dUcXlNN0V5LWxkU0dMUWFMNWkyQXluQmlnMzlsM0w5QlhkZjhJTWprMFhRM2lnR3RRVjllV1BWUEZPRFZNNnVfWDhFVjBJc3libW5vNTRnWXN3ZUg1VQ?oc=5"
       },
       {
-        "id": 3,
-        "title": "山西17名评标专家被暂停评标资格！涉及东山供水工程、呼延水厂、禹门口灌区……",
-        "source": "Sohu",
+        "id": 4,
+        "title": "水润三晋 “智”护粮安——山西加快现代化灌区建设全力保障粮食丰产丰收",
+        "source": "新浪财经",
         "pub_date": "2026年05月06日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRm9QbTFoZkN6UFhuMVBrNHhaTXZGWV9HbXhBa2laOXoySmZxU3JJWVMxeWlGaUh6T1R0a2wzYXoyWjZyMUk4cDVTWFRSa2lpU3U1TVVBd3JIVHJ5VFdVTThqTEVBeGJpcm81cnViVXotRmpHT2t3VmFEaUMzX2JzU0U4VkxLaENv?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc3BSdzhmbFc3M3VLNDR0cFRsVHExU3hMTkdtSkJQaDdBMDNNSkVJYWVsRENXZy1BbXNRY0FFSGFnRmtLZElQdzk5M2VKTjVtSENXei1VLXlKT05wOU9HMXFqaHNOUDB3MEpTMlRQd0JUQkVpUV9SMzktUUtfbFJiVlNSMTN3clRqMGhwUHZYdkJPU2NJVGVNeXlOR2N4MzU2Z1dWNUUyTzU1QmpGQnJj?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 4,
+        "id": 5,
+        "title": "思南：大兴水利强根基 水润民生促振兴",
+        "source": "Sohu",
+        "pub_date": "2026年05月07日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMzNjQ3ZYWFBkVWVMbGpiZ2ZpeEJvTmJoaTFwQ0pBQklWSFpoRTJCN1U3WmloaFBxbjBBWGdmWEpOc2VCQkdodHQtV2xVRFM0ZkIyX1VNNlJiVXNRUEhFMWtDMDdrZDFkbXR2MWhIUExCZVp0QjVvY0dwZHRFNWl4UFh0aFoyRGRSSlJDTQ?oc=5"
+      },
+      {
+        "id": 6,
         "title": "湖北水发集团在上交所成功首发公司债 金融赋能水利高质量发展",
         "source": "zqrb.cn",
         "pub_date": "2026年05月06日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
         "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jS3hFeU9fNFlnZm02a2NUYXA2UWFjVVBBNDRUSFdydXJiWFJRQ0QyODBDWkM3YnBSbHpfa0dMbGJOLXViREhpR1BvcXJBX0RwOFlUNGFzcnN1RDR3NGZVVkZNeUNEMk9ySEJidTNCRQ?oc=5"
-      },
-      {
-        "id": 5,
-        "title": "​数字孪生汉江建设成果荣获国家级奖项- 湖北日报新闻客户端",
-        "source": "湖北日报传媒集团",
-        "pub_date": "2026年05月06日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zUktWNmdjUzBwaGR1eUdnNUhiMzhDSzdjWkU4NFNOMFBSSnJYYWxqcXNCOHRWaGZ5T3IwWWRVQnZDUERhb0p1Wkdfdjhoc1BPazFnR1Vta1o?oc=5"
-      }
-    ],
-    "政策法规": [
-      {
-        "id": 6,
-        "title": "“十四五”时期累计发布水利技术标准182项",
-        "source": "人民日报",
-        "pub_date": "2026年05月05日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zNEh0eXRHQVlsT2I5VENhdjNJdVo5V3kwRkJYWHhYbDVCNzZlMnBlWkZrSzhSaS1MalFkd3FDSUtSU2pSc0hHNWNUMzB5ajcwOER4ZE53cEhoX3VpNGtYUXNyd29naFNjUWVrMkZVRy1TUllIWEM5Tk5qRDdCakE?oc=5"
       }
     ],
     "水生态环境": [
       {
         "id": 7,
-        "title": "崇信：汭河幸福河湖建设正酣_来稿选登",
-        "source": "中国甘肃网",
-        "pub_date": "2026年05月06日",
+        "title": "2026年度黑龙江省总河湖长会议召开",
+        "source": "人民网黑龙江频道",
+        "pub_date": "2026年05月07日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1WG9lWkd1ZFp2WmNCR0tRS1g5bUJQZ0M0cUxHNENQeWxramZGNEIzdHUxY3hYUk1xQW9FZUhUcjB0c05KWGlwejRJUnNEQnRJQUozX3lJd0xrTjhVRmRjNHpEQ2R5X0FRb1gw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HUHBYUmpPWkx1anZ5X1psMjh6QkR5cGdCdlZCVnA2YVd3SlNtYmxjN3lKY0pCbmptd1RCUDlfVHIydF92WE1oUGNPYVVlaURGWWFBTm1xc20wRDQwUHgtYlZKSWZrRDRGUW4w?oc=5"
       },
       {
         "id": 8,
-        "title": "绿色发展护碧水 如何创新机制共治共享美丽河湖？",
-        "source": "新浪财经",
-        "pub_date": "2026年05月06日",
+        "title": "重庆再添51条幸福河湖 计划到2035年建成1000条以上幸福河湖",
+        "source": "华龙网",
+        "pub_date": "2026年05月07日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5UE9OQVRaanlDSjFnQWhkdWsyckVGbFRtRHZvemU5OExoNEphd2Rib3pGSzhaeGFSRUowT015UzJ1eWsyaGtSSnROdUt5SzBJRm1INmF1QVJfWDFFNHI3X1BjdnVKODF5cHFOdDhtc1lYbW56aGkwOQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55NTFycG8wRWxoN3lEMGRnVVlhSkRGVUZnMk5JejljV1lMTHcwTEtmUU84QmxNQ2s1WkV4Z1hlRmRrNVd2WUg1WjYyeXkzNnJET2cyM09qbU1wNXYwVjJaeGUwWGNHZjhFSV9Z?oc=5"
       },
       {
         "id": 9,
-        "title": "常州市滆湖、武南河入选国家级母亲河复苏名录——“十五五”全力打造幸福河湖常州样板",
-        "source": "Sohu",
-        "pub_date": "2026年05月06日",
+        "title": "家门口的河湖 可感可及的幸福",
+        "source": "黑龙江日报",
+        "pub_date": "2026年05月07日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX21ZdlZGOE5EUUVnSHJNb0ZYUGZ6MWxDTUM1ZFRDUjRsUXZaQ2ZSRTZWeFpLOFlFeWRyQVdpZHU1U3lfejF4eWd6WDNScDdtU1dsck5iOTBYV3RsX3ZwRjVpOGMwbjdiS3h0Zmpfai1SUlRvNmRsU1F1ODloLTR6NGxRQy1zMUctR1ZqZQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rQVZ1TGRUZDVVZjRxcno0ZmtfMTE2c2dTTUVTbG1JVXE0WmxDRGZTcV9IVTRtdW5fcHg0ckltSktubFhYUGIwSTZUbktmMWZXZ1ZDQTZDMHFBb1NBYjZPUFhTTnJCWHI0dWxJX2V6VG0?oc=5"
+      },
+      {
+        "id": 10,
+        "title": "九江市规划设计集团亮点项目 | 瑞昌市水环境综合治理项目",
+        "source": "九江新闻网",
+        "pub_date": "2026年05月07日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BbWdmTzRLbm5SSXdiQU9kVUJqZVh5bE1GSXFMXzZwaTFmaVY5bHQxaHVIT2lKTjZNeFdNOHhTVWl1eDI2Z0dJNHVHUVhZWm1yMlJQYTZqTm5laEV4SFVR?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 10,
+        "id": 11,
+        "title": "2026年中国智慧水利行业细分应用市场分析智慧节水招投标活跃【组图】_经济学人",
+        "source": "前瞻网",
+        "pub_date": "2026年05月07日",
+        "content": "",
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QZXVUTS1UOFlRTE1DYkNPempRYUJWOU5RdzN0bFFhRGhqZ0tVN25ua3ZfTy1URnZuczNYcmRIU0RNMEhVVzZoXy1lLS10eUpHYVRpNXIwcnlpLVhkNk0zMFBaWkNkdUR1MXZ3UnRwUWt2UQ?oc=5"
+      },
+      {
+        "id": 12,
         "title": "【快讯】“十五五”时期，甘肃将切实增强水资源保障经济社会高质量发展的能力",
         "source": "新浪财经",
         "pub_date": "2026年05月06日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQXlWRUR0Z0JlRFp0UEVpOWpDWHVyd1lMMndYb0Q2TTJSRlljcnMtaC1aM1RyUUF2ZS1PR2pKZHdvT0o4aTFMamVKLUN4NHRHWUVfQlNxd3RjRVdCbjd2OVhKUk5ETzlxVnZzUG5jY0Q4QkhELTJTOGMwUkFTaDVIekJ6TUg2cy1KYkgtUDg2ZG52SkZZUDRfeF9QTk9ZNGgwVEZTVllFN0c0VU9tQXU0?oc=5"
-      },
-      {
-        "id": 11,
-        "title": "老河口市城乡一体化供水项目黄庄取水工程完成第四节沉井浇筑",
-        "source": "中国日报网",
-        "pub_date": "2026年05月06日",
-        "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VVTZSQ3c2VWZPRnZ5SkRtd1JFSVF2YWg3cjItSThiWGYzWFZVM2N1SEFFeEJaLVkwZ3hMcFBuTWQzMkhrZVl2d0JJYmQ2Q1lCNEdfR3ZXeHRxSnVEUXgwaGtRV0NhSjZIT1gyOEJSYm9ILXppOXJfS2tJNA?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUXQ4YmtLVEM5Q2gwOHVTVlg3dGJOcEZrXzJJbF85bmJwRTBGWFlhNTJYX0tqMENjekhTWVk4UWRlaWJpUHhzZUZQWVJpUmJoUUJEZEhPalAzSmgyWXJodHFlQXVvUXpxeVV4UUVzeXZTUGJwRF9oX3dTZ1lYNVd0UDFOTVF6WWU0NWJKalNwRQ?oc=5"
       }
     ]
   }
