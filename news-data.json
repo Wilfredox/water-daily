@@ -1,126 +1,144 @@
 {
-  "date": "2026年05月08日",
-  "news_date": "2026年05月07日",
-  "update_time": "2026-05-08 00:00",
-  "total_news": 12,
+  "date": "2026年05月09日",
+  "news_date": "2026年05月08日",
+  "update_time": "2026-05-09 00:00",
+  "total_news": 14,
   "category_count": 5,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "防汛备汛工作 | 浦东新区开展汛前环卫条线防汛应急抢险演练",
-        "source": "上观新闻",
-        "pub_date": "2026年05月07日",
+        "title": "尉犁县水利局开展2026年防汛抢险应急演练",
+        "source": "xj.chinanews.com.cn",
+        "pub_date": "2026年05月08日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xa1VlZjA0bUI0YnBPZTZ0RnFPLURGcFlQQjZJVTFWZ0FPYUszLV9JY2c4Q2s5djQ1SXhUei1PV0tqaDREbjh6aWltTXR0eU80UVN5b29KQXM?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdnB4eXR3a0xyMDViV1ZLS2pNbXpyamk0dXgxMkt1b29zaFAyRXdqeThhUGdjV1loQVZBSlJWeTROc0RqWnNBU2E1bDBHTEJQTV9yTXRabzhLQllpamIwYmZ1TVozeTV3U3BFWm8zZk5INi16am9QcFRUa0V4TzVvZmowUQ?oc=5"
       },
       {
         "id": 2,
-        "title": "城关街道开展防汛抢险设备实操培训",
-        "source": "首都文明网",
-        "pub_date": "2026年05月06日",
+        "title": "广东发布水旱灾害防御应急物资储备指引",
+        "source": "chinanews.com.cn",
+        "pub_date": "2026年05月08日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80UTNLc0VBY1dTUTVzY0N0QnNZMzBReHRRV0xvUVA0S1FLcERzSjJCSE0wa3RkbFlvYWxTVXFvSVE4dDR1d3FGSzFZTUtOd01kY3hpaVFzbFZRRVU?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IZkdjaGpIbThPUjZXZnZaeFFRaTFwdFVSOFVYcmFWNjRneWMwcTFORHBfUGtCTFNwa2gyMjJ2M1kzOWh1UkpWSDdNcmc5ZG4wNl9qZEFiZTBxU1dST1RsREhjcnRtSGVK?oc=5"
+      },
+      {
+        "id": 3,
+        "title": "强降雨“锁定”华南江南 浙江“智慧防汛”已“就位”",
+        "source": "新蓝网",
+        "pub_date": "2026年05月08日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TaFZtSEhFZWd1R1c3NG5oTnNDbUN6Ump0MU5TN3V1NHFucGx1T1NIS2ZZaTYybEtLeXhsdXd3WFgzZkRaeGVMRER2OHJkVDA?oc=5"
       }
     ],
     "水利工程": [
       {
-        "id": 3,
+        "id": 4,
+        "title": "宁夏沙坡头灌区现代化改造加速推进 规划改善灌溉面积131万亩",
+        "source": "chinanews.com.cn",
+        "pub_date": "2026年05月08日",
+        "content": "",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1alZMb2pUemtyR3NhX0JoakwxRlJnRFNKTEk1VFNrMzNTbUtCM3VwNXlIbUVwRHdNUm5nR19adFpCNTR1dVk5WmthN2ZWbXVudGhXSGZxR1UzTUJMQ0t5aVo5MDZNVGg1?oc=5"
+      },
+      {
+        "id": 5,
         "title": "云南丘北县城乡一体化供水工程通过竣工验收- 中国日报网",
         "source": "China Daily",
         "pub_date": "2026年05月07日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
         "full_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53WWprNkZMRmtidTZfaUo5WDJGZy11MEpEeHlJb3dUcXlNN0V5LWxkU0dMUWFMNWkyQXluQmlnMzlsM0w5QlhkZjhJTWprMFhRM2lnR3RRVjllV1BWUEZPRFZNNnVfWDhFVjBJc3libW5vNTRnWXN3ZUg1VQ?oc=5"
-      },
-      {
-        "id": 4,
-        "title": "水润三晋 “智”护粮安——山西加快现代化灌区建设全力保障粮食丰产丰收",
-        "source": "新浪财经",
-        "pub_date": "2026年05月06日",
-        "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc3BSdzhmbFc3M3VLNDR0cFRsVHExU3hMTkdtSkJQaDdBMDNNSkVJYWVsRENXZy1BbXNRY0FFSGFnRmtLZElQdzk5M2VKTjVtSENXei1VLXlKT05wOU9HMXFqaHNOUDB3MEpTMlRQd0JUQkVpUV9SMzktUUtfbFJiVlNSMTN3clRqMGhwUHZYdkJPU2NJVGVNeXlOR2N4MzU2Z1dWNUUyTzU1QmpGQnJj?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 5,
-        "title": "思南：大兴水利强根基 水润民生促振兴",
-        "source": "Sohu",
-        "pub_date": "2026年05月07日",
+        "id": 6,
+        "title": "孟先新：基于湖仓一体的数据中台建设实践——以华北水利水电大学为例",
+        "source": "教育在线",
+        "pub_date": "2026年05月08日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMzNjQ3ZYWFBkVWVMbGpiZ2ZpeEJvTmJoaTFwQ0pBQklWSFpoRTJCN1U3WmloaFBxbjBBWGdmWEpOc2VCQkdodHQtV2xVRFM0ZkIyX1VNNlJiVXNRUEhFMWtDMDdrZDFkbXR2MWhIUExCZVp0QjVvY0dwZHRFNWl4UFh0aFoyRGRSSlJDTQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lREZ3V2FVLURMZVBCUzMzMzVqbWdwRGJEOEZTbjB3NkJPZk1mM3NBLWlqTHJySGlsWVhLclhnbmtrb0hJcEZLVDlsY1hzdEZuUlZfXzlKUTJSeDZSSnE2TnJDbUpaOU5fUVVVRmFR?oc=5"
       },
       {
-        "id": 6,
-        "title": "湖北水发集团在上交所成功首发公司债 金融赋能水利高质量发展",
-        "source": "zqrb.cn",
-        "pub_date": "2026年05月06日",
+        "id": 7,
+        "title": "国务院最新任免：陈东明任黄河水利委员会主任",
+        "source": "app.dahecube.com",
+        "pub_date": "2026年05月08日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jS3hFeU9fNFlnZm02a2NUYXA2UWFjVVBBNDRUSFdydXJiWFJRQ0QyODBDWkM3YnBSbHpfa0dMbGJOLXViREhpR1BvcXJBX0RwOFlUNGFzcnN1RDR3NGZVVkZNeUNEMk9ySEJidTNCRQ?oc=5"
-      }
-    ],
-    "水生态环境": [
-      {
-        "id": 7,
-        "title": "2026年度黑龙江省总河湖长会议召开",
-        "source": "人民网黑龙江频道",
-        "pub_date": "2026年05月07日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HUHBYUmpPWkx1anZ5X1psMjh6QkR5cGdCdlZCVnA2YVd3SlNtYmxjN3lKY0pCbmptd1RCUDlfVHIydF92WE1oUGNPYVVlaURGWWFBTm1xc20wRDQwUHgtYlZKSWZrRDRGUW4w?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00eUxKNHhvMGRkZXZKM1lWTVlibHJVdUpsdmpsemdQTVJyZDdkYzYzdzlWSHFoVlEycm1KbERUeER4WmEzQW5DVy1pSzFJQkJLSUNCemc1cE5WdDdwcDFlQWZaSnlCcVF4cmc?oc=5"
       },
       {
         "id": 8,
-        "title": "重庆再添51条幸福河湖 计划到2035年建成1000条以上幸福河湖",
-        "source": "华龙网",
-        "pub_date": "2026年05月07日",
+        "title": "巴楚：新建农田防渗渠 筑牢水利根基 助力乡村振兴",
+        "source": "xj.chinanews.com.cn",
+        "pub_date": "2026年05月08日",
         "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55NTFycG8wRWxoN3lEMGRnVVlhSkRGVUZnMk5JejljV1lMTHcwTEtmUU84QmxNQ2s1WkV4Z1hlRmRrNVd2WUg1WjYyeXkzNnJET2cyM09qbU1wNXYwVjJaeGUwWGNHZjhFSV9Z?oc=5"
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYlFNNGJ5Y2dlZlRncnljZE9VYWVmbDFlb2JGSFZhRUxuSVBkV0FqRmFKZlZmcGY4ZUNyYzl2MjdaUzJrelNWUElaOENLTzBob0JtYlc4dVY5UDJqa3R1WWpwQzBJX3VpcVBEVXRCZ01LTnlxZHE2cmFGRWwwaW9MU0dPaw?oc=5"
       },
       {
         "id": 9,
-        "title": "家门口的河湖 可感可及的幸福",
-        "source": "黑龙江日报",
-        "pub_date": "2026年05月07日",
+        "title": "在水利水电等领域深化合作！三峡集团与安徽省座谈",
+        "source": "gdshe.org",
+        "pub_date": "2026年05月08日",
         "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rQVZ1TGRUZDVVZjRxcno0ZmtfMTE2c2dTTUVTbG1JVXE0WmxDRGZTcV9IVTRtdW5fcHg0ckltSktubFhYUGIwSTZUbktmMWZXZ1ZDQTZDMHFBb1NBYjZPUFhTTnJCWHI0dWxJX2V6VG0?oc=5"
-      },
-      {
-        "id": 10,
-        "title": "九江市规划设计集团亮点项目 | 瑞昌市水环境综合治理项目",
-        "source": "九江新闻网",
-        "pub_date": "2026年05月07日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BbWdmTzRLbm5SSXdiQU9kVUJqZVh5bE1GSXFMXzZwaTFmaVY5bHQxaHVIT2lKTjZNeFdNOHhTVWl1eDI2Z0dJNHVHUVhZWm1yMlJQYTZqTm5laEV4SFVR?oc=5"
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQWGhHMWJLWE9XQXJTbnBwX3NFY1gyZ0dGWVpBbVBXU1RtX214WGcxWjhuMTBoSkMtUHk5UG40MVV4cFhqb21ZSmVMMEpZOV8xcFE?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 11,
-        "title": "2026年中国智慧水利行业细分应用市场分析智慧节水招投标活跃【组图】_经济学人",
-        "source": "前瞻网",
-        "pub_date": "2026年05月07日",
+        "id": 10,
+        "title": "环北部湾广东水资源配置工程盾构施工迈入高效推进新阶段",
+        "source": "21财经",
+        "pub_date": "2026年05月08日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QZXVUTS1UOFlRTE1DYkNPempRYUJWOU5RdzN0bFFhRGhqZ0tVN25ua3ZfTy1URnZuczNYcmRIU0RNMEhVVzZoXy1lLS10eUpHYVRpNXIwcnlpLVhkNk0zMFBaWkNkdUR1MXZ3UnRwUWt2UQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLXJ3aXBWNXktUVRXYW00bHA5d09rWl9USVlaUFJNQl9PbVhlQU5oNGxid0hQNkxUalB0U1JaeTk0Vlpqb3h6YUFHNmhDVWZsWnpUc2xMektfaGZVbVEtZmg4UVVyekd2Ui1GSG9ibjNZd2ZOVm1IcTNlWHpqUUt0N2JZY0N3QVZIbFA2RHd6dw?oc=5"
       },
       {
-        "id": 12,
-        "title": "【快讯】“十五五”时期，甘肃将切实增强水资源保障经济社会高质量发展的能力",
-        "source": "新浪财经",
-        "pub_date": "2026年05月06日",
+        "id": 11,
+        "title": "2026天津国际城镇水务及供水设备展",
+        "source": "能源界",
+        "pub_date": "2026年05月08日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUXQ4YmtLVEM5Q2gwOHVTVlg3dGJOcEZrXzJJbF85bmJwRTBGWFlhNTJYX0tqMENjekhTWVk4UWRlaWJpUHhzZUZQWVJpUmJoUUJEZEhPalAzSmgyWXJodHFlQXVvUXpxeVV4UUVzeXZTUGJwRF9oX3dTZ1lYNVd0UDFOTVF6WWU0NWJKalNwRQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByTGpUNk42VlNJOFQ2QUJGYkJYVUJSRnlOMzhZWE1mT0xrZkRCX2VJaFctQkpvdnZwd3BvWUp5Y3RrUEM3TXR5X2pjUHpkS2JlYlFaZ0NUaW5GT00?oc=5"
+      }
+    ],
+    "水生态环境": [
+      {
+        "id": 12,
+        "title": "安仁莲花江幸福河湖项目7月完工",
+        "source": "华声在线",
+        "pub_date": "2026年05月08日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMNmhhRzVnaDRIOGlOS3BnQW5Pazlpd3lDNXpvVTRmbXhGRjRyUW9tV0pyZGR4LXRJam13TkpxNjBNUHY0WGpzbmRVOEwyRk1oU3h1NFRsLU9VR2NLZnRZ?oc=5"
+      },
+      {
+        "id": 13,
+        "title": "骑行、露营、亲水赏景！走，去深圳龙华区的观澜河干流碧道邂逅幸福河湖",
+        "source": "ygacity.com",
+        "pub_date": "2026年05月08日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkVVBPdE5sSE9XSF9BMDRuWUtqRWFjMkdpcTdpY1J6WjlqMTZlWFV3WWVJMkZmdi1obmxNRkgta2tHWmlQeFduTkstTG1CTEtqX291U28tTHRMeXdL?oc=5"
+      },
+      {
+        "id": 14,
+        "title": "巴楚县2026年多来提巴格乡等3个乡（镇）小流域综合治理提质增效项目加快推进",
+        "source": "xj.chinanews.com.cn",
+        "pub_date": "2026年05月08日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWjZpZnMtNHhNMUlOeHZlYmpIU2J5OGp3U1NwendEX3lCdDh5NV8wU0JINWtEQklSU04yQ096ek5tcHFzRkdqZEF5LTNnSWExN09mRDNjU2R4aGVpSExvREUxUUxxVV9JWHhyUHRuZk5pUHdUNlZ2VnlaazBqZ25XLWZWZw?oc=5"
       }
     ]
   }
