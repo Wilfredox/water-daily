@@ -1,5 +1,105 @@
 [
   {
+    "date": "2026年05月17日",
+    "news_date": "2026年05月16日",
+    "update_time": "2026-05-17 00:00",
+    "total_news": 9,
+    "category_count": 5,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "今起河南正式入汛 水利系统打响防汛“主动仗”",
+          "source": "thepaper.cn",
+          "pub_date": "2026年05月15日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vYXo2dlFMV2dBX3d3TURRTTBveUx2SGd4UlNkN09iTEhseTl0eXZIbkVlaXJaUTZYTmx2WXR6ZTY2a0tYSU5SYVdnT3o3SGlYWkZFcEVvVkNYUmUtU0E?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "水安全保障看山西丨龚孟建赴临汾督导检查防汛备汛工作并深入水文站等地察看情况",
+          "source": "搜狐网",
+          "pub_date": "2026年05月15日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdWVWekNTc0VEeTFKWXg0NndQRlRnVG42c0dGMHlEOTJQcF9JekszV2plaFlONGV3UDFKbTVybG9TdHZiVUt6b1dMbmJWQV9pRWtqNzlsdDE5Z1AwOTBqVy1CTWhPOXFueHlDX1F6SlFxU2tkSmNFWVc3QllGVjEwV3VLcHF6RUo5NDc4Tg?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 3,
+          "title": "蓄水20.23亿立方米！黄冈“一库一策”筑牢水安全防线- 湖北日报新闻客户端",
+          "source": "湖北日报传媒集团",
+          "pub_date": "2026年05月15日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16eU9oenJQSzNVamlGQ25TV1Z2OGVWZ1dkbWp2YkNPLWtETFFVeXRBR2R4V2NPUWk4ZWxVcFd5dnVqTFRiV2JsMlhsRkFucVBqNk9HUkRaeEE?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "【云新发布】云南：“六大工程”夯实水利投融资项目载体",
+          "source": "新浪财经",
+          "pub_date": "2026年05月15日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMmdHUlJkaWQyRmVOZUhSeWpxRWxkMVdmUnBnWC1vcDllTzU1YUNSeEw3VXVibzVvTS1ndnhBZ3F6aUNRS3dEeGRoSXV3ZjZQd0VSWEtTUzZDT2JrczFzZzZEVnVzQUVtRTlKVlR0TU5SaVZNN2dKWDE3enFOS0l0bjNLUWtGU2c1U09JaGNIcWR5RVVjOHlzOQ?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 5,
+          "title": "李国英主持召开水利部部务会议",
+          "source": "thepaper.cn",
+          "pub_date": "2026年05月15日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WdE9nVDNTVFdMUldKd1l0dml5d2tldnFqanpVeElZckxkb05UQ0FROXVSSDZHa1pYZTVneTBaNnlsN3ROZ0tYbXRCNkdvVlhkT1NVYUFVNVhOYWpBMUE?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 6,
+          "title": "武汉推行河湖长制十年 构筑人水和谐共生优美画卷",
+          "source": "chinanews.com.cn",
+          "pub_date": "2026年05月16日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mSGpkZFR1NkZrXy10cUFMSzRON293enliZVViVWFmN2JYdFIxN1NkWEZwYXdUSF8wSWV0Q2Q2MWVLUHdPTU1hQ1BMVDNBQ1RNbFp2bEZXWFE1LUxlaW5zbl9vcmc0SjJk?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "珠江流域贝岭水入选全国首例跨省河流幸福河湖建设项目",
+          "source": "新浪财经",
+          "pub_date": "2026年05月16日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVFDaHp0SE1uMkk5OHZ5T3Zuekc0VW1lUGZDaFprV3RVTlNIczZkTVlYWnJWeTlVSW5JbnA1MFZ4S1NCWWpFbkRtY09pUmVpeUV4VUVub1NYWUx2NTlWZ3NkNU1ZcFp5UVAxRWVHMkRpeTVYVWlpazkzdTJDLUlZUG9xcVJrRUdxR1dmQlY3U1FnVVBmcHhCNw?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 8,
+          "title": "昆明：以法为纲抓节水 三水协同惠民生",
+          "source": "新华网云南",
+          "pub_date": "2026年05月15日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTEdXeDRrZHU5dVk0NGRPYm5VNi1KbTh1U1J1S0FJeUwzZU1jX0RCSFVjZEFpbEhhZ3ZTMjk3eUM0OWhQTmpqWnpGeTZXTC1ORVhDRGtBY2V3ZjdqRWNUNGFLNkdEeEdBTFlPSjVOVkRJMFFHOUtHVWY4RU5zRnIyd3d3?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "农村供水加快标准化建设|自来水|水站|管理|资金|城乡_新浪新闻",
+          "source": "新浪财经",
+          "pub_date": "2026年05月15日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsLTFsdEcwU1JlajZhdUpPN0Fza0gyV3ZoSXQzS3NqVGlSbVl2d0g3UWlkRVozUlhNcGgxc3p4T3NhVHU0b05WSG1uaU4zajlVM3VWanI4Tl9ERlF5RVA3bTZ6WmRjdFNDaFFEOXo4c0JINENrT3pEOGtmdGJfZw?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年05月16日",
     "news_date": "2026年05月15日",
     "update_time": "2026-05-16 00:00",
