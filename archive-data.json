@@ -1,5 +1,54 @@
 [
   {
+    "date": "2026年05月18日",
+    "news_date": "2026年05月17日",
+    "update_time": "2026-05-18 00:00",
+    "total_news": 4,
+    "category_count": 2,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部和中国气象局5月17日18时联合发布黄色山洪灾害气象预警",
+          "source": "新浪财经",
+          "pub_date": "2026年05月17日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11RDZjSXFYd0tlNXlHdVh4RVNORFBCN19nd2FiWXJGVlU2UTdlWGdlS28ycjJjWlBUOVFRSHJpN09MbXFFcDNPMFB6OWVNTXVjSVB0THdVNWl2M0Nudnp6cE5uMHRkWERxak1GdkNNNkhkOHM0RFhZcw?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "国家防总办公室滚动会商调度防汛工作 针对湖北重庆启动防汛四级应急响应",
+          "source": "中国新闻网",
+          "pub_date": "2026年05月16日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45SVV3dWEzWEFfMVF3ZW5XeTJMUGNNZW5xaWhVVElnR29Xb3RSVEJrc2VHLVVud1RkcVNSQjlfUG1VLVZmbHVwMkxJMGN3TWdjbXZNX0ZYMllpU3h2a080bWpVazY?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 3,
+          "title": "武汉推行河湖长制十年 构筑人水和谐共生优美画卷",
+          "source": "中国新闻网",
+          "pub_date": "2026年05月16日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLRlUweXFFbDFSY3plS0FqTEJ2TjVRc3Y3UHR2ZlZxVkl6bmVjOUFNVkw5QmNTN04yV24wUUxVTXUtdEtCVy01QlRFUl8tUHU4WnhsbEJrZ05sUUJ1LVhpaUh0eWU?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "珠江流域贝岭水入选全国首例跨省河流幸福河湖建设项目",
+          "source": "新浪财经",
+          "pub_date": "2026年05月16日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CLWNSSHdSRnZ4cFBjTGkyMk1SVldGRFhMSGZFOFhlcjJLMml6UUx0SnJ5b3V1eXlCYTZfTDMyWTlCdmNNRWJGbW9vOXVMUlcxTTRObHBxTnRvMnhGRUNBNWUwZnp3Vk5uMlA3dzdnMEplNjd0eV8tRg?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年05月17日",
     "news_date": "2026年05月16日",
     "update_time": "2026-05-17 00:00",
