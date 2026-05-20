@@ -1,5 +1,179 @@
 [
   {
+    "date": "2026年05月20日",
+    "news_date": "2026年05月19日",
+    "update_time": "2026-05-20 00:00",
+    "total_news": 17,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "珠江流域旱情基本解除 抗旱保供保灌工作显成效",
+          "source": "新浪财经",
+          "pub_date": "2026年05月19日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV0RMVENueEhRVVJBa3dGaDJLOVl4NDlFTXBWQ0MybDEyRWdYdURnSFd3bElHQ0JCWldkYW01cW8zd2JrYUxaTmhHdW9iYTBLNkRTd1hXLWZMT281MlNZWXdvcVhZNEhZTW1TSjJtN3VUbWYyek9HdWpOX0JhLTE2SGd5WXdSeWpmdUk2YmpkaDlId3c2dXFNYlJSMFI5bjljRkJFUEdzVkVwNFU?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "已致4人遇难、5人失联！贵州省贵定县遭遇暴雨洪灾，省政府派出工作组赶赴灾区！水利部：七省区启动洪水防御Ⅳ级应急响应",
+          "source": "新浪财经",
+          "pub_date": "2026年05月19日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdDBZZ044MTJ5RVNsTzRYZG14NDY5MVFtV2QzUjFXV2xVbGo2NmtFZGp5dU9HMkk5YW1tb0R2NHNybnRabTVoS19oQ2tDSDdBemFWaUlBQmtVZGJKdTljWVQ3Y19KZnl6aEE1V2NaRlRDQmF3cjM0bkRrdmlsYjdiTjZWODhka3VKcjdIRkRQek5ONUR6V1R0TWF3cVNieWlPNm9MeU01bG1hVWdmZzB3?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "南方七省份洪水防御Ⅳ级应急响应启动|水利部|强降雨|暴雨|气象预警|贵州_手机新浪网",
+          "source": "新浪财经",
+          "pub_date": "2026年05月19日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdmNGUGZubWlfaWRWaW5YYi1ZSHY4M0Y0RG1sNGNxek9GNFhrcTNGREdxV1Z3TzlfMjY4OVVjZjMwWlpVTDZZSkw3Zk9vV1JXNHVRbHJPdlJXai04R05xZGlGaU9iUm9kOUJGQVVNX0F2NGZaN19CZEJYeHVoSVlacVNJV1lPSEJZSjZCenVrOVliMUhyeFo1QmZQVzQ1eWNXd1FQSmtjWnJ5Q1Q1S2JaU2tLaGx1SFpKTmFSVTJ6NFM0N0F0dTJIRTI5LTRJZXA3X2QwRGxtQUYxZW9wVXRIcFdUaG02UHNITHFxSjh5WTBFck1PVzFNRV9nT2RQMUdUMmc0?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "水利部针对湖北等七省区启动洪水防御Ⅳ级应急响应",
+          "source": "搜狐网",
+          "pub_date": "2026年05月19日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMHhNOFhoVGw2QmprcVRTUzhma0hWN2E2R0FEcWxFcUUySXp5cGRvU3J5d3BXNkFud1FHWWVPYjd1WmlsNnp5bnJXMmZUWVpHd0FoMTdmZUNjVmpLTFVEcm1HeVhaYjBYdUdGcGNyb2RXaTNpcXZ0MHlNQ1FEbVBRdHBNY050WWdGdmZQMA?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "长江支流渔洋河水位上涨宜都熊渡大坝六孔全开泄洪- 湖北日报新闻客户端",
+          "source": "湖北日报传媒集团",
+          "pub_date": "2026年05月19日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzWXVEZ0RTSUdacmduc3FEMTRrUFFNaGhqT3pxTFVUeHJTMml2Vm9iamk0NzJ5STVCaXh3anM5SzRtb04yYzVHcFFNMEdtRmw0YmQtNXhxemE?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "水利部和中国气象局5月19日18时联合发布黄色山洪灾害气象预警",
+          "source": "Sina finance",
+          "pub_date": "2026年05月19日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lODZwbUhGaVZkNXV0WDM1SjNiaXhpenNUQXFGYnJ0Vjh5UmZsUC1EMkNob0FSRmR5dXBReHM0TnhOZ2pGcUxFMlVmbWNVYXRXSjhLbFN0WHFZLUItd0QxWnI1eXFwaWFTeXlscUVuSDFubWRCZ3hvdg?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 7,
+          "title": "塔城市：锡伯图水库建设进度突破90% 全速冲刺下闸蓄水目标",
+          "source": "中国网",
+          "pub_date": "2026年05月19日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NZFhicnBZWnFBNkxFVUZKMVhjRm1pX3k4WHYtd00tU0JrRlprY2Utd0c0MFYtdzIyRTNrcTVsQ3BUWFphZzEtOXRlMm5ueWZCaWNIYjZrZkR2Q1ZMYXpQYjJoQlFSdGlzTUxUb3IyYXE?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "荆州区8座水库出现漫坝风险！迅速转移群众",
+          "source": "搜狐网",
+          "pub_date": "2026年05月18日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON0hNaWcycmZMSjVvSm9NUWZwMkpUQkt0UVQzbFpRdU1ha0l1SlZOLVc5ZmV4TktYUGpXNThZVkFxUEVFYnZQd3hxaHpkWDc4Qjg2ZWw3clNYZjA3Y21vYTRkanBrNktyNENnaGNJTlpMakNsRnFjX2dTSUZsazFHa0ZGN1AtRnktT0J2YQ?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 9,
+          "title": "户撒乡开展水源地集中治理行动",
+          "source": "昆明信息港",
+          "pub_date": "2026年05月18日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVQ1l4cnEyXy1QaFNBYWItckVmT3EwSHdpcGdGYjFxOXpvQ0dleUNPRWc5ZG1lSjdHNkhPanoyZ0w3NVRFTmJyNEVvYmhkUjN0dzM0RUtWbGR4djB1RWxIbU5VUHR3Zw?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "芦溪县2026 年县级总河湖长总林长会议召开",
+          "source": "萍乡新闻",
+          "pub_date": "2026年05月18日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NRUgwSld0Q0xXLUxMWG8ya1d1REU3X0xPWHpKU3pQd0hHMjQ1bVRlU2h2eVRJVmFoRVdQMzBadnREVGM1UU55aHNwek41Q0V4RFIyM1VYU2FkUTYxVldDekJaTzF2LXJyUUE?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 11,
+          "title": "视频丨水利建设投资连续4年超万亿元 下一步还有哪些重大部署？",
+          "source": "21财经",
+          "pub_date": "2026年05月19日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbFp0SFBLMHdYVjJILXdILVRNd2pmVTRwTHNQYVpjMERocE1aQndPWHNBaGI5cjFqMUlOS1Zvc2VDblZONVdDUzM4S3hzWjZYTnd2Zk1UcmZnbURnVFg1N284SndLUVdHbEdZZ2hQQ0gwU2JtYXozYU1rb0R6U1VBWDIyOWJPeG5ZWjBod0VBUQ?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "水利建设投资连续4年超万亿元 下一步还有哪些重大部署？",
+          "source": "新浪财经",
+          "pub_date": "2026年05月19日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2tacWllQkJRQUhkb1M2UWNmb0NFM1djZWxtajhtYWwtMWtCQl9vX25uNmU1c29jSjJjUTRMaGMtY0RiWEIxbTJRQXBydGV6LVZFY04xOWRXenl0aU9ncnkwM1F6cjhEUFl2VG10dG91ZFg4MXBEY1FvWksybEtfUlFRQnFiRkZMZXV1YVJyT3N4cDVCQUlqWWNRSkZMQVBXSWs5bi1sbEF0ak9zQU5r?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "山东省19项水利工程通过2025年度山东省建设工程结构质量评价",
+          "source": "搜狐网",
+          "pub_date": "2026年05月19日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTWJiNF9HN3c4THE0OGNIeE9sa1Y0ZUltWDFMRFlWdGpDVkUtRVFGV2Rha2RWeG1NWldobFVuZFFQNl82M1pXaHZ3eVBtM05GNkRHeEpCd3VnQzZaeTJwV09heG5zdnIwbHIxa3BpTWYzeks3OWFkM01qOFZZakhCbURJZE5TMXFYSVRsZA?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 14,
+          "title": "始兴澄江：退役军人清水池 守护群众饮水安全",
+          "source": "搜狐网",
+          "pub_date": "2026年05月19日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXQ0Q1ZBTFVTakVpNDktUXQ3U0lGQXlNazRQeXB3N1h4MTBtMnJqdGw1clZMaTROUFA0M05LUmllLWFLcXhMU19mWkl4UGFoaTBIcnBGNHB5RFlmNGFzVFVrSTJDanU2ZU9QOWxubzA5N24xRlhqNFpLTk01cTlFMTU3bFBWc0p0QlJyXw?oc=5"
+        },
+        {
+          "id": 15,
+          "title": "夯实国家水网主骨架！引江补汉 “南水北调”底气更足",
+          "source": "光明网",
+          "pub_date": "2026年05月19日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44UHhRQVBKRWoxU3pkZThnbDZzUE1HaThpdVZkUEY4NmcxaGp1WG55azRYcjI4YV9OdGdvbWU1cUUzX3JCTThleG5QR1JDUGFoSlFocDM2aURhVWlkSzM4cTZ5UmlOQQ?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 16,
+          "title": "乘政策东风，拾贝水利水电以“三化”服务，驱动小水电绿色现代化转型",
+          "source": "中华网",
+          "pub_date": "2026年05月19日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01UEpjTllpYVE2YTNfUmxyaTVVS05ZMVRBbmlYWU1DQWVDeERfQTEtSXJJR0NyRVotSTRyV0pPeENLcUw3ODBkS0k3V0hNNDJYMlVzeDhyaWg5X0sybUNzcVJ3ZEtmMW9WWEdhZA?oc=5"
+        },
+        {
+          "id": 17,
+          "title": "观察·聚力扩内需 | 织密现代化水网带动上下游产业链 激活多元市场活力",
+          "source": "央视网",
+          "pub_date": "2026年05月19日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TTi1xT3VJejE5eExZa1A2eUlzT2FUMmhGeGhUVjJTczJ6clZBeThKb3VtMUFUTUtZdVl5SjZQTzN0Z1k0eUJpYnVXVnlqUXFDX1FKRDBoS3R5U1QtZWdXYWxjYVAtOV9Rc3VyVlgtUXN1V3ZySnlqNw?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年05月19日",
     "news_date": "2026年05月18日",
     "update_time": "2026-05-19 00:00",
