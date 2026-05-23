@@ -1,5 +1,159 @@
 [
   {
+    "date": "2026年05月23日",
+    "news_date": "2026年05月22日",
+    "update_time": "2026-05-23 00:00",
+    "total_news": 15,
+    "category_count": 5,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "局地强降雨将多发频发，水利部部署“龙舟水”期间防汛工作",
+          "source": "新浪财经",
+          "pub_date": "2026年05月22日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWUotWWpmVExGSllETkJRQktOV0h2YUVZUnduaHY4ZzJXQ3JlNDBmM0pQanYzQTA0VGFPN2NJYVp6U3psZHhET3Nsd19oaGl3cWlSVFd3ZmNnd3hFRGlWamFNeVpIY0lWTmR3WXBhWWpTZVFkX2s3SE1FRmw3cVpKTXJzREwzXzRCYi1nanNTSmg3WFU2NVhNamZtQkZTR1JDMUtuZExjcWptTFMzejNR?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "北京市委常委会召开会议，研究部署防汛备汛等工作",
+          "source": "新京报",
+          "pub_date": "2026年05月22日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RenJ4eUtvYzFSMTFITG9DeUJYZEtuUXNXMVRsWEtJc0hSR3p3RXB3VmRhQURJcTR6R0E1SmNXQ2RqS2RZZGtuNUlOMkY2aE5uOFVUbTQ3blQ0cURqUmNQUmRXbUQ?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "区征收中心举办2026年闵行区建、构筑物拆除行业防台防汛暨突发事件应急抢险演练",
+          "source": "shmh.gov.cn",
+          "pub_date": "2026年05月22日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4teUV3cnN3R3Bsb2Y2alR5MlJvUDRSb3htc3NZUlFLNmZZM0g3UkV6VHIyTGVqMjdGem5XVXBsY29LNWxCYkZHYXFXMEc5aFMyRlJHTm9PS3l2TjNYdlhGNXhmYVVweUNhelk4eUZyeE0?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "济南举办2026年住房城乡建设领域防汛应急抢险救援演练活动",
+          "source": "搜狐网",
+          "pub_date": "2026年05月22日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVY1Y0R0V0JHSGFiOUFNWHB2YVkxVEJ5UlBVMUxtR3l5MHNtcjU2Mnd1ZWNaZ0VSU3d2SHo2SllWdW4ybVRZTmhqQU5vWUpJM09NbFFPVnp3R1JBeDdYcUJHQnZkZGFEY0h1bi1IU2plWDI0bE10S2s0cHRjbC1pbEx3QlpDMEU1NVZjTw?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "汛期将至 郯城提前进行防汛培训 开展防汛演练 提升应急抢险能力",
+          "source": "齐鲁网",
+          "pub_date": "2026年05月22日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53WEJCUTNvcktyNzVZRDc5REFBQzVyRlV2OVEzNVQ5X1BQLWlzNTY0S1FORnh1aXFnT0txSWtNYWJsaFY0enZUTDVtWjktdExSRzR3MG1uUUFiUC02aW55aU5hVmJUNTR0U1E?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "良乡镇召开2026年防汛抢险技能培训会",
+          "source": "首都文明网",
+          "pub_date": "2026年05月22日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44SlZyeFJRT1VzRHltZkZ5NzlhWG5malVaSnJId0NPand0RU41RmpNRnJyWkhPMXlJdFh2ZTBFd3loTGpMVWcxMkF4aE5FRUpMQUFmYnFqTkpnMjg?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 7,
+          "title": "视频丨保障城乡用水、护航农业灌溉 看引洮工程一滴水的850公里漂流",
+          "source": "搜狐网",
+          "pub_date": "2026年05月22日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZm5Qbk9xTy1hRThXX0FzeVFqUGc3SWJ2cDI2U2ZQeS1nSURiLWZoMXMyWUhXRGRLeXpRY2dfZURyZ1J3SlIwQ0pxaFhGaHpKVkhZb1VfSVdyNXNoaGIxRG1IRUZaVmJwU1g2TDJfcWVOZXBWZzJ4dzhFZ01SME43RUcxd010c094eW5oaA?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "水利部：“龙舟水”期间，珠江流域局地强降雨将多发频发",
+          "source": "新浪财经",
+          "pub_date": "2026年05月21日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY3lURE04djNWRWJzVnRPaVpYamRxNXVYT0Mtb0xaMDdlWmpIU3lDREk1d2JtWnpGX1ZQd2g2Z1hfV3lFYlBwVjl2Zl85Z3pCLWptVTNUUkt2X3BRN1Rndk8yZ2dmY3ptZDdZNVFfVVVicFE0RzdyOFFnU3pKTkJKTU92d2pvVGdrN2hxWHpld2UwdkJHYUF6bW54cUZwbU43TWxHNTZmdkhaTXBoQnhB?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 9,
+          "title": "哈萨克斯坦通过节水技术节约8.74亿立方米用水",
+          "source": "哈通社",
+          "pub_date": "2026年05月22日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GY1JqQmwtVmhsWFQ3MEEzRnh3VzlUMEc0Yjg0NXF4cDhybmVwZmtnUmVXN1QySjdSdFZfTnFYYUE2cEYwdzljRmVaTjB1REMzNGd4MFR2U2N2Z9IBWkFVX3lxTE52TUdJN2RtemZMVlZlbXpPUnlsVDI4ak1iRnF2Q0s2eERwOXlaT0VFZ21oMmtvRDdLeEdzZTdTcW5EdGVaMG9GbzVvWmFjamwweTV1c042U19oQQ?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "民生引水润万家 提质供水护福祉——南江县大河片区引水和供水工程全速推进",
+          "source": "中华网",
+          "pub_date": "2026年05月22日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LY3hER3FaSFVPTTBWcU5wLUNjenRxbmMzTXl3bGZUMkV4Rll4bzFMNlFOaFpCQlhsWUI5ejBGaWY4U2xMVjhFeVZXNmliSzJYRVhWTERyZUhLT2ozMVE?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "麟游县政协：以协商之智 守供水之安 惠城乡之民",
+          "source": "gjnews.cn",
+          "pub_date": "2026年05月22日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05eWlpZDlyUUYwUU9yT3hkZXV3X1YyQ3NyRWdvLWJRWG5Rak5Qa2NPcDJYanAyRi1OUVhnM2p0OXExaVFYRUY3SzU4cWdNTDFUd0xGckpB?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 12,
+          "title": "节水润旱塬 良田焕新生——环县樊家川镇2778亩高标准农田实现高效节水灌溉",
+          "source": "gsjb.com",
+          "pub_date": "2026年05月22日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIQ2JqS3BxT1VwLVBEQXRsTlRDRnhSQ2JyTW1wUGVMR3JKU1Z0VS0wWU9iUGpMRWY2aTBqbTNKLW1WdVp6c1NDRHozVWZ1MjExS2szaXRIZmtVNndQclhtdVktTWU?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "【幸福岭城·民生实事】松花江水润万家，公主岭市高标准推进重大民生供水工程建设",
+          "source": "新浪财经",
+          "pub_date": "2026年05月22日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sbi03QWZLcVNCbHRua0ZzNjNjbnROdFVCZHBGNHp2T3lsaS00R2hmUjYwZl9PckJMSnR6dVl6ZHVJTS1mVEFYQ1J2Z0tCRFdIQUFsT3h2ZThaZWc5ZlF1bnNjdnh0clBSMVFTNmZaLXpfWHJCeWtaUw?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 14,
+          "title": "倪岳峰主持召开河北省2026年度省级总河湖长会议",
+          "source": "hebtv.com",
+          "pub_date": "2026年05月22日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EVm1BblVySlI3LXNoSmZ2RzJQblZXTmNHQklPSmVVczZDak45RWVxaFEtYlBNX09FTlUxMXNnMFlaVmcwQjI1V2F5NUIxSTF0bEhqOUtZTEM4OEFwY05UQmttZTlPaFl3NkQ0aA?oc=5"
+        },
+        {
+          "id": 15,
+          "title": "山河入画 碧水长流——平凉市纵深推进河湖长制提质升级",
+          "source": "新浪财经",
+          "pub_date": "2026年05月21日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwNExKZkFhdXpLMzU3X1pHZ1EwbHk3TnB2VnItcEdVdnc0eFZtSzJUQ0M2QzljekdHMm5Sdm1BRFJIVFlEeWMxalFNV2Q3R0U0eFNoLXlpdUFreThDejZZSzJLcnl1Ym5HaGpUU3VvM3pqVEY3QXFrWQ?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年05月22日",
     "news_date": "2026年05月21日",
     "update_time": "2026-05-22 00:00",
