@@ -1,115 +1,144 @@
 {
-  "date": "2026年05月25日",
-  "news_date": "2026年05月24日",
-  "update_time": "2026-05-25 00:00",
-  "total_news": 11,
-  "category_count": 4,
+  "date": "2026年05月26日",
+  "news_date": "2026年05月25日",
+  "update_time": "2026-05-26 00:00",
+  "total_news": 14,
+  "category_count": 5,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "重庆调整防汛应急响应等级，专业抢险力量已投入救援",
-        "source": "thepaper.cn",
-        "pub_date": "2026年05月24日",
+        "title": "水利部针对安徽、河南、重庆、陕西启动洪水防御Ⅳ级应急响应（扎实做好防汛救灾工作）",
+        "source": "人民日报",
+        "pub_date": "2026年05月25日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16OGRVMVJSbVEyZkZQdmlsSXA2Mnp5UjBEdDFIalowejI5dUNfVTItSnRrNEVhU1RPbWFsRmsxZjdYRHJxQTBBcktKWlNBdldaZ2V2bXBwVExuSzVjQzlGNg?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNDhPdXVWM19oUW1jMTNDN3FocEZtR3FyUWkwTkhfbEFISVNTckhYOEVNWUlkbV9iTjIzaDRtQ3dUVWR2SGdReEZUalBxMFlpdUxOdzgtUE8zdDU1X0VydDV4YVVUWGFiR3RmeTBZSEFFTkMycTk4RzhkUzRHV0FVUA?oc=5"
       },
       {
         "id": 2,
-        "title": "部分河流或发生超警洪水 安徽启动水旱灾害防御Ⅳ级应急响应",
-        "source": "chinanews.com.cn",
-        "pub_date": "2026年05月24日",
+        "title": "水利部部长李国英赴海南检查防汛工作",
+        "source": "21财经",
+        "pub_date": "2026年05月25日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vaURVX3lFR0hiZl9jOVl4Z2Z0b0ZUZ0ZKLWhHaDFDdEc4dG9HWGhVYWswMkhZWUhBQ0JkNDJpM2xKSTZkR3RicEhXYkphTmxKWHdRVE4yOGtrR2hPZ2dfUUNFa2VSOUN0?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWVdxWDFtOEN0ZXJXM1MzUzYxTkxzcV8yaEtWd3FJb2pxM3h4TlZlVjN0cTJ0RFhCUWZyc0VLQmdNcEI0WWZUSjIwWGJXc2tCY1E4RmpRZ0NIOGRhY2pXbEZlcFQxeVdPWWFJaUhNbl9PV3ZycUQ4d2dxRXQ4dzhwLVh0aU9yaXNHZ2c0QnlCYw?oc=5"
       },
       {
         "id": 3,
-        "title": "闻汛而动 向水而行 长沙水利系统昼夜奋战筑牢防汛安全底线",
-        "source": "搜狐网",
-        "pub_date": "2026年05月24日",
+        "title": "水利部启动安徽、河南等4省份洪水防御Ⅳ级应急响应",
+        "source": "手机网易网",
+        "pub_date": "2026年05月25日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQlFYZVlZajJJNWVOQjA5U3p0S3JNWmE3NHotakp5R0VheEk0MUpxWDNMSkYtUGI4X1pmdnBraURjTzZBSXVXYXRWVlZPNUVrYjk1c3ZidEx4bG42R1BPdDREUlB1ci1yRzRuSE84Ti0zdDFxdWg4dHJCTi1pOFNuRGdOaTZnYVJL?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LaW54T1oyRnZYLU1kSXlFTGRjaVFrakVSRWNjeXE5Tm8zS2NBd0o2U0tPVC1zYUdULXhuSVZZQkVScHZoVGdsX1dMNDVYMEhkWFVqb0hJczdJX0RoN0lWRm9R?oc=5"
       },
       {
         "id": 4,
-        "title": "水利部针对皖豫渝陕4省份启动洪水防御Ⅳ级应急响应",
-        "source": "新浪财经",
-        "pub_date": "2026年05月24日",
+        "title": "大唐安徽陈村水力发电分公司打好防汛备汛主动仗",
+        "source": "中国能源新闻网",
+        "pub_date": "2026年05月25日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc3pfSnZmMXNFUjV4Z19MX09HLTlHUE9fejVqekg1UUxZX2hmWWNqd3lDcFpDem1ycE1zZ1hJXy1XNktBX2pVdHphb08wMDFVYUhzeWNYd0xMci1iVm9JZVpOcUlZOU1WOE8zTzFneTZmNnRmWjdHNEhMQjlpd294aWlUR0xOcmRwMnUyLW9JOC1LTGQtZGdjZg?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jZ042NzM5NlZVbjNhM2tPbXNfSjU4aTJvMzVfM2xiRmlra2JHYU9OU294bWRreEd4eF9jS0tfRmROQ3EyWTdDUmdjbVJqTU43NEFCUlNVNkdJcUNYT1lSX1AwZjFmVWZzZVc2cDRpSmNGRFU?oc=5"
       },
       {
         "id": 5,
-        "title": "精准测报筑防线 坚守担当护安澜——湖北水文全力迎战入汛“首考”",
-        "source": "新华网",
-        "pub_date": "2026年05月24日",
+        "title": "湖南省洞口县全力筑牢公路防汛安全屏障",
+        "source": "搜狐网",
+        "pub_date": "2026年05月25日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53U0VOamFyeXdmb1RLV0pUOXczaGttU2VjRVZhM1paZ3luc2dlbmp5NkRqUmsyam5PajRnT2ZUOFhzTzl6c0VnVU5rbzd4QnVfa0xrUW9iZGt0UEVxME9LOTVUeTh0Ym5kcXlQV1FEeHB6eFJF?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYTdOeXFidHNvMTh3Xzl6Rzh6OEtUUUtoZ3Z0ckg0YWlSeVkzVWo1T3dDa2x3TzhndjlRenY5MDJFMXRFd2N0aFBCVFdZeTluRkEtX0lVZ05ZdUM0aVgyYmUtdndpZzFXcDhXSHJ6S1FmX0R6a1k3STBzdVRuWTk1TUlHY2w1QmlP?oc=5"
       },
       {
         "id": 6,
-        "title": "许勤到齐齐哈尔市调研检查防汛抗旱工作",
-        "source": "新浪财经",
-        "pub_date": "2026年05月24日",
+        "title": "以练筑防守安澜——应急使命-2026河南防汛综合演练侧记",
+        "source": "新乡新闻",
+        "pub_date": "2026年05月25日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6ZzdvVlZLX1pscUxHbktUTDdQUVE4TGN1bWZ3SjZ4azhrUEZnWm1zM3kzc2Q1Qy1wUjRpa3kwNjFMdDM0b09iM3RXLUpyZlBqdFNlYTNhYzc3dDFha2tmS0cwUlUwUDVEcGdpaWxNUlAxOHE5TXc?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EOUVsaTVud0JZelpPWHpwaHhJd1RITHhJNGY1Vk1UWkY3NEg3Tkp1NG5OdU5PREdRYU5mY2ZkcDZHd3RwdzBmVVVXR3pqYWNaMTZST0VxYXFuRWFham1aUFpRTHAwRC1JRTc2dA?oc=5"
       }
     ],
-    "综合要闻": [
+    "水资源管理": [
       {
         "id": 7,
-        "title": "珠江流域进入“龙舟水”降雨集中期 水利部门“预”字当先 有序应对",
-        "source": "thepaper.cn",
-        "pub_date": "2026年05月23日",
+        "title": "肩挑手扛、通宵奋战 石门县3万多名村民恢复自来水供水",
+        "source": "华声在线",
+        "pub_date": "2026年05月25日",
         "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43VUtROVR3bGdubjJTZlpOaS1pRjhQUGtUV3VTUElMYkxIc0ZIM0ZLenhSUkUzeURWbFh5dTlNQUd6SllkOW93V0RTMXJhWnFWSUdLNHZCLUNqMnJoSFE?oc=5"
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xNm1XWjlQTnRHbzl4V3I4Zk9oWERsaUFJaEVSalRsMnhGemFxMWllbUZtTTdPcXlVUUxXM2ZUVWRBQktMYjJjNEExakk2ZWF1aWF5TlRBX05DSkNqbVFB?oc=5"
       }
     ],
     "水利工程": [
       {
         "id": 8,
-        "title": "守护钱塘源！浙江开化水库正式进入运营阶段",
-        "source": "搜狐网",
-        "pub_date": "2026年05月24日",
+        "title": "甘肃黄龙抽蓄项目顺利通过下水库截流安全鉴定",
+        "source": "国际新能源网",
+        "pub_date": "2026年05月25日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMTBhaHN3MVhEUkJtMlExNGV6ajc3T3JNUHhVWWZIUzREOHh3ODBCRXJxT2N3b21ZTXMybnl4Mk5aOHpfY3l5Umh5alhUbmdJTDRQM0VQdmhkRzNKOEtlTWxRQ1VKakFGLTJMbmJYNVd2U3A2SG1aVFRTdEM2NWI1NHk0dWtBRkVCT2gzMQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wSTlVSVJraktzVXJvVThTWlZQVzZzMnEwal9udlIwZG5tQ2o2aUN6VThCeklBQmludDVOWHFLdEs4d3IwNlBwWXlqY0lIWGpnbmZ5UlFUWEhiZktnSEY4dVNuTkEwT0lx?oc=5"
       },
       {
         "id": 9,
-        "title": "闻汛而动，长沙市水利系统持续加密河湖、水库、闸坝、堤防等水利工程巡查频次",
-        "source": "搜狐网",
-        "pub_date": "2026年05月23日",
+        "title": "一渠黄河水浇出万亩“致富田”！皋兰西电灌区让有限灌溉水实现效益最大化",
+        "source": "新浪财经",
+        "pub_date": "2026年05月24日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40cUZSSmR3TjZSRjluOTFNWmY4ZFB0dDc0SHNYNEZyU0FBcklUdXZDUVU0OEo3Sk4zbFZ1WjRTRENWZm44YnRlYW1WOFktcUJiOUE?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CcHRxY2tqMTJ0ekNNbW9KZzVDbUs2YUE5UEpONGJyLXdjUEVhTDdLMVZyY0lZUzJqSFhCd05RYy1idjZMc2FDblF0TEJhMlF1cDQySGtra01DTVlHemd6ZVpZelROX01abmxrTF83U3UzS0tmOEE?oc=5"
+      }
+    ],
+    "政策法规": [
+      {
+        "id": 10,
+        "title": "联网补网强链 国家水网加快构建（“十五五”开好局起好步）",
+        "source": "人民日报",
+        "pub_date": "2026年05月24日",
+        "content": "",
+        "impact": "将进一步规范水利管理秩序，推动依法治水。",
+        "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zaUd4RjA3a3lNRlVZMW9HelNpTkVyTUJMRWlVTkZMd25ldXowMmVXekhrTENjbV9BbE43dWdjYmt3SFAwdWM5NVNRTU1QY3oxbThqQ1lSak92UHZfbXZFS3VUTXBoclIxdXpHeHNIeGVHVEw5enBGTVZTWDIxN1U?oc=5"
       }
     ],
     "水生态环境": [
       {
-        "id": 10,
-        "title": "今年前4个月，河北生态补水量创历史同期新高",
-        "source": "搜狐网",
-        "pub_date": "2026年05月24日",
+        "id": 11,
+        "title": "涉海工程生态环境监测评价与生态补偿助力核能高质量发展——珠江水利科学研究院珠科院水生态环境监测中心副主任张敏",
+        "source": "中国核电网",
+        "pub_date": "2026年05月25日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1pEeV85UGhWV2pTYjFBaDZydFB2MkZrbVhlYllIZHZlVl9CSHAtSlA3Z0o0THdhTTZrTFFqSTY2TmFxdUhPSTFSWTJjZ2N1MmFXSUtIbThFU0VPdVFLc0htYmloTXlqeGNrV3hwaWZGd1EtdWF5MW1uSkQ3OU5INDZsb3RRQ3RX?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93UDVTVUFRX1R1czhRWXpheS1OSG9vbVRwUlZhUlNfWTZncXREUXc4OU1wZnlSOThtSnVzbU9MelpPb2JSV25Jd1lPQjdadW5G?oc=5"
       },
       {
-        "id": 11,
-        "title": "倪岳峰主持召开河北省2026年度省级总河湖长会议",
-        "source": "hebcdi.gov.cn",
-        "pub_date": "2026年05月23日",
+        "id": 12,
+        "title": "深耕幸福河湖建设，山东“万村千河”行动绘就生态富民画卷",
+        "source": "凤凰网山东",
+        "pub_date": "2026年05月25日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlenFHR1d5UVA4TFdVSVFLWWt5amNlRkJQc0VfTGFrc3ZNaWdhVkNyb0tVMmxXczVseHlZSE02Ui1aRHZUcFBCa0xNOEVud2RnZ2Y3NDR2MFJwdGhwVHlDTm5IT2Zhdw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSSWRRV3MwMUxiNmJIM3FlQ3pTTFVjZURibllrdTJQT1g1U2x1MjRUOGIxYXRRSzUxVFdzR0RjeFg5RmtyNFp6NDRR?oc=5"
+      },
+      {
+        "id": 13,
+        "title": "“河湖长+检察长”协同共治护安澜",
+        "source": "hb.chinanews.com.cn",
+        "pub_date": "2026年05月25日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tXzljaEVlR09jVUhCODF2T0xuMmJLbThDYXF6LWhJOElJYkNManFBNW5PZ0lsc2xqdk55TTB0OGh2Y2FEX042NjByZFZJcUhJaDF2Q1EzU0VkdUdNYU9Md0p0aktHZ24x?oc=5"
+      },
+      {
+        "id": 14,
+        "title": "广州增城：探索河湖生态价值转换新路径 打造人水和谐幸福河湖新样板",
+        "source": "搜狐网",
+        "pub_date": "2026年05月25日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSkpRLW84aVVydFJ6QWR3cGV3VU1ycVAxUXZwaVAyelFsM01mYUtJLUNPMzdRM19aWDdXekhjMUxzNmE1RVlMbU50U0tpVENMaUdzb0tGcTQtVkZXZHZKc2lJOWRLWGc3cHFaYlZKeG9HRXZrV1psWVlhOWFNV0lmVTZvSlZKVzFC?oc=5"
       }
     ]
   }

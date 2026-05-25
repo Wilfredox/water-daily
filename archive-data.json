@@ -1,5 +1,121 @@
 [
   {
+    "date": "2026年05月25日",
+    "news_date": "2026年05月24日",
+    "update_time": "2026-05-25 00:00",
+    "total_news": 11,
+    "category_count": 4,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "重庆调整防汛应急响应等级，专业抢险力量已投入救援",
+          "source": "thepaper.cn",
+          "pub_date": "2026年05月24日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16OGRVMVJSbVEyZkZQdmlsSXA2Mnp5UjBEdDFIalowejI5dUNfVTItSnRrNEVhU1RPbWFsRmsxZjdYRHJxQTBBcktKWlNBdldaZ2V2bXBwVExuSzVjQzlGNg?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "部分河流或发生超警洪水 安徽启动水旱灾害防御Ⅳ级应急响应",
+          "source": "chinanews.com.cn",
+          "pub_date": "2026年05月24日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vaURVX3lFR0hiZl9jOVl4Z2Z0b0ZUZ0ZKLWhHaDFDdEc4dG9HWGhVYWswMkhZWUhBQ0JkNDJpM2xKSTZkR3RicEhXYkphTmxKWHdRVE4yOGtrR2hPZ2dfUUNFa2VSOUN0?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "闻汛而动 向水而行 长沙水利系统昼夜奋战筑牢防汛安全底线",
+          "source": "搜狐网",
+          "pub_date": "2026年05月24日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQlFYZVlZajJJNWVOQjA5U3p0S3JNWmE3NHotakp5R0VheEk0MUpxWDNMSkYtUGI4X1pmdnBraURjTzZBSXVXYXRWVlZPNUVrYjk1c3ZidEx4bG42R1BPdDREUlB1ci1yRzRuSE84Ti0zdDFxdWg4dHJCTi1pOFNuRGdOaTZnYVJL?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "水利部针对皖豫渝陕4省份启动洪水防御Ⅳ级应急响应",
+          "source": "新浪财经",
+          "pub_date": "2026年05月24日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc3pfSnZmMXNFUjV4Z19MX09HLTlHUE9fejVqekg1UUxZX2hmWWNqd3lDcFpDem1ycE1zZ1hJXy1XNktBX2pVdHphb08wMDFVYUhzeWNYd0xMci1iVm9JZVpOcUlZOU1WOE8zTzFneTZmNnRmWjdHNEhMQjlpd294aWlUR0xOcmRwMnUyLW9JOC1LTGQtZGdjZg?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "精准测报筑防线 坚守担当护安澜——湖北水文全力迎战入汛“首考”",
+          "source": "新华网",
+          "pub_date": "2026年05月24日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53U0VOamFyeXdmb1RLV0pUOXczaGttU2VjRVZhM1paZ3luc2dlbmp5NkRqUmsyam5PajRnT2ZUOFhzTzl6c0VnVU5rbzd4QnVfa0xrUW9iZGt0UEVxME9LOTVUeTh0Ym5kcXlQV1FEeHB6eFJF?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "许勤到齐齐哈尔市调研检查防汛抗旱工作",
+          "source": "新浪财经",
+          "pub_date": "2026年05月24日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6ZzdvVlZLX1pscUxHbktUTDdQUVE4TGN1bWZ3SjZ4azhrUEZnWm1zM3kzc2Q1Qy1wUjRpa3kwNjFMdDM0b09iM3RXLUpyZlBqdFNlYTNhYzc3dDFha2tmS0cwUlUwUDVEcGdpaWxNUlAxOHE5TXc?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 7,
+          "title": "珠江流域进入“龙舟水”降雨集中期 水利部门“预”字当先 有序应对",
+          "source": "thepaper.cn",
+          "pub_date": "2026年05月23日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43VUtROVR3bGdubjJTZlpOaS1pRjhQUGtUV3VTUElMYkxIc0ZIM0ZLenhSUkUzeURWbFh5dTlNQUd6SllkOW93V0RTMXJhWnFWSUdLNHZCLUNqMnJoSFE?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 8,
+          "title": "守护钱塘源！浙江开化水库正式进入运营阶段",
+          "source": "搜狐网",
+          "pub_date": "2026年05月24日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMTBhaHN3MVhEUkJtMlExNGV6ajc3T3JNUHhVWWZIUzREOHh3ODBCRXJxT2N3b21ZTXMybnl4Mk5aOHpfY3l5Umh5alhUbmdJTDRQM0VQdmhkRzNKOEtlTWxRQ1VKakFGLTJMbmJYNVd2U3A2SG1aVFRTdEM2NWI1NHk0dWtBRkVCT2gzMQ?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "闻汛而动，长沙市水利系统持续加密河湖、水库、闸坝、堤防等水利工程巡查频次",
+          "source": "搜狐网",
+          "pub_date": "2026年05月23日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40cUZSSmR3TjZSRjluOTFNWmY4ZFB0dDc0SHNYNEZyU0FBcklUdXZDUVU0OEo3Sk4zbFZ1WjRTRENWZm44YnRlYW1WOFktcUJiOUE?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 10,
+          "title": "今年前4个月，河北生态补水量创历史同期新高",
+          "source": "搜狐网",
+          "pub_date": "2026年05月24日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1pEeV85UGhWV2pTYjFBaDZydFB2MkZrbVhlYllIZHZlVl9CSHAtSlA3Z0o0THdhTTZrTFFqSTY2TmFxdUhPSTFSWTJjZ2N1MmFXSUtIbThFU0VPdVFLc0htYmloTXlqeGNrV3hwaWZGd1EtdWF5MW1uSkQ3OU5INDZsb3RRQ3RX?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "倪岳峰主持召开河北省2026年度省级总河湖长会议",
+          "source": "hebcdi.gov.cn",
+          "pub_date": "2026年05月23日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlenFHR1d5UVA4TFdVSVFLWWt5amNlRkJQc0VfTGFrc3ZNaWdhVkNyb0tVMmxXczVseHlZSE02Ui1aRHZUcFBCa0xNOEVud2RnZ2Y3NDR2MFJwdGhwVHlDTm5IT2Zhdw?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年05月24日",
     "news_date": "2026年05月23日",
     "update_time": "2026-05-24 00:00",
