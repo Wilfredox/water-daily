@@ -1,5 +1,197 @@
 [
   {
+    "date": "2026年05月28日",
+    "news_date": "2026年05月27日",
+    "update_time": "2026-05-28 00:00",
+    "total_news": 19,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "烟台市老年福利服务中心开展防汛抢险实战演练",
+          "source": "新华网",
+          "pub_date": "2026年05月27日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wRkJ1WEZ6Yk5CQm56dUdRR0dPWWFlUDd3aEdtLTJuOGVHX0NjS0hteFJMeXcwU2tYaDNZV2w0bkwyS2s2OGZqMTN5Q3dKQnhFa1ZZazFrZ3dFaG9RaUtIUi10Q1VGU1J2bEsyTGdHSVo2OUNC?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "湖南中方织密城市防汛备汛“安全网”",
+          "source": "hn.chinanews.com.cn",
+          "pub_date": "2026年05月27日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiVDZ5VXpyVEQ3aVJLOXdzWnJkVWFMWWpIQnE2aWRzOHJQQUNRRmx1MWZfTTA3ZGdkLThfWElyd19WOTNpNmdlaFBqY1l0a3hhdHNQUU5ka3VzNDVodldJQVVBT3JfTWNwc2w3SFA2NjU?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "淮河水利委员会连续会商部署水旱灾害防御工作",
+          "source": "chinanews.com.cn",
+          "pub_date": "2026年05月27日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PUmVQU1JDOUlSSUxvS1MxUHZRSjZPUmcyekREc2NkcFFTT0hwVDFvNkRGcld0MEJweU9kMnZlbV9KY2ZWZXBEQzM1ckhWYTNKZ1BreXRmM0lEVkw5Z0Y0S09vTWU3eUd1?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "暴雨逆行守安澜！黄冈水文筑牢汛期防汛“智慧防线”",
+          "source": "湖北日报传媒集团",
+          "pub_date": "2026年05月27日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yWXV1NTNKTS1zbXFrNjhnd1dMRGFRLXFYVUE4akhVOHdLdGpNMXZfVl9fbzJneEZUOWhwS2piRVBHMXRpbTZ3YVp6bzBMTldXNWZlaHNraGk?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "水利部和中国气象局5月27日18时联合发布黄色山洪灾害气象预警",
+          "source": "新浪财经",
+          "pub_date": "2026年05月27日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfc3JuUm5VVXUtWVppaWlFemRzTG1VQ0kycjhkcTluYzNRQkVjT3c5MjNVWnhsRFM2UGFqMHpJaV9UNENIUEp3V3hmelNFX0puaGpfdlU3SG9LMGo1ZXhka1VtN1N3LXRvWHdDaHhobUlhVUVJam1ZeA?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 6,
+          "title": "“十四五”答卷 | 省太湖管理处： 坚守太湖安澜初心书写水利崭新答卷",
+          "source": "chinawater.com.cn",
+          "pub_date": "2026年05月26日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02dXVfVmRub2V4RFlNb1FXYnp2Y1JXT1BtMmVhWW9UdjhSMHU5bXF4Y3RheWNfMThFekhFUzdrcWRoSEI5TjFhQ2IweC1xSXp2M0RDRnp6Y0ZTQTBCbVBqLVhINFlROVZDRjc5bGFaUEdwV19kU09CZ1Jn?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "盐城： 全市水利工作会议召开",
+          "source": "chinawater.com.cn",
+          "pub_date": "2026年05月26日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyajctZDFwcGZ0QmRobzZFemNKR09nRTdoYm9QZ0xtcTNCR2Z5VC1NUHhIUVFmMDhJUV8weDVYWTEzSzZGMS0xZktpYWViTlp3a09WY2g2TkxiZVJYWTdxWm56YUZGYjNLN2VSTHJRMTNsOW9jTlFpQTNR?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 8,
+          "title": "解锁节水护水新“玩”法！天津港保税区举办亲子水务科普活动",
+          "source": "搜狐网",
+          "pub_date": "2026年05月27日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYW4tWEo5ZnB4QVdYekpkd184OWZSUk8yQmFHMi1oZVJhSUNQbC1kdEh2d0t0aGt4YUw2ZW04N3Ytc0g2emMyMDJMeWs1UlB6Vk43ZzNJVDl5QzJ0TzJZc2o4bDRoaDVCbHJlQm9SbGFDYTZoV3FKRm5JeWp4ZXdJeUxhdXlsN3gwZUFRSw?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "水资源部长在提帕萨省检查供水状况，确保开斋节前饮用水正常供应| 阿尔及利亚新闻社",
+          "source": "aps.dz",
+          "pub_date": "2026年05月26日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPZFN6eXZaTEdnT0MwLWk1LUVYOFltSGNPTTNTN1B3RGpoV0FuaEY5QzBmUGVnbFBqX0dyV1F0MU00RmFzc1prNW9rWUZoY3dkUl9yU1ZORDVXMG5ZNEk0N2ptUTJBai10RGYzdDViUzIyc2J4aXhLTFI2TC1CdkpkLUtiaXJsV2F1cGdXTWNDekFIcUMtdHJTV25Pdjk4Vlg3WGptSVF1YzJXVUFzQ09XWlpGeTdQUjlQUHNUU3dOWkxqQV9IMVl3SjhuMmNCU3lrNDBlVjAzN2JkcXNWLWpZcHRSREZjUzNPNUJyUXZaeUpIRHNSbThjYlBHN3dDYVVMYm5ibUUtTlZZYmtMWWQyYzhEZmpZRDlLQ1ltN3Z5cE5RV09MMjhtQzE1WERRTlVNcl9KTDU1OUNLR2hlX18zZjRwM0x5NDZqczViZ0Z3RGNCZG81NGI1UG1ISmd3ajVzM0xZRHgxSXFWN1F3djZKNnBFcUNSMXhQdEdrRGlEMHYwY3RjNlBwSEpJWE5tclVFWWUzOEhSV09KSnJZenBZanBneVNDRDVJdmxFYXlITjlxOFEtVGwzaw?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 10,
+          "title": "沿着水网看广西：一座闸、一道堤、一片管网背后的兴水方案",
+          "source": "搜狐网",
+          "pub_date": "2026年05月27日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPalh5VWR3Tk9lWnozLWNBTG43ai1YQm5MUXlYdGtKVkhzcEtKRkNORFpmaWtueG43aVIwTkVBVG1yblFLZjZKamFlQUEwUFVnRnpaTWpUYnUtaVNDY0tVVHZWSHVMdHZOUXJfaGs2amltb1duR09SUHdoSXk1aU5BQ2pSSlVQVEhwQUFhWg?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "一张“水网”里的“刚柔并济”",
+          "source": "中青在线",
+          "pub_date": "2026年05月26日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jRmlib19QX01NV3NMbjM4Y1lBUkQyTW9XRTEtWXkwM0x1RGhBOWJFb2Q4UDhaRERvak5qUk83dTVqdXBlSmcydjhoX1gyVWU4QkZUYWRXTXc4WW01cmkzYW54Ry1kd3ZOXzdoaUIwTHJ5UQ?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 12,
+          "title": "沾益：管护模式迭代升级 激活小型水库“一池春水”",
+          "source": "zjw.cn",
+          "pub_date": "2026年05月27日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nMFVnSGNDbDBXSzlaVTM3Ry1BYXU4LTI3dVJ6YkM4XzdlejBybEpybUZpblVjY1pJNlZhbjh4cmNiRGVESkJpbTk2WQ?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "永嘉抽水蓄能电站建设又完成一重要节点！下水库大坝混凝土面板浇筑任务收官",
+          "source": "搜狐网",
+          "pub_date": "2026年05月27日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVTkzWVdKbmhOOFpVT092Mkd1dFVDX0dxbXVkbHdaQjF2cVBBN1Yxa1pVYURVbG1KQUN5T0xGZFVwR0FqV0xMOFptamdkbFhSRFpTZ1I4Y1dBaDVVOTR5TkpYaG9BVjJpNjJIeE9oNzQyZ0ZteVUzT2YzUm1INURUUmhjbnRqRDZULWV5RA?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "浙江松阳抽水蓄能电站大坝浇筑全线到顶",
+          "source": "chinawater.com.cn",
+          "pub_date": "2026年05月27日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CeTN2T2lfampsaE96VWo1al9HQVRqbVZWcG5ZVmxKa1B1cHFrTU5TZVE0MnZhT01KMjh3UVEwZ1o0dTVVSXVjb1Jaa2FGYjVHa0pMc1haNV9ST2xnWGxvMDBEZ0ZwQ3lmOWtkclNB?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 15,
+          "title": "重庆城市集中式饮用水水源地水质达标率连续11年达到100%",
+          "source": "搜狐网",
+          "pub_date": "2026年05月27日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUk1nWGJiN0diSGZkbnA4MXdFLTdlSlFZakU4OTNBOXVFMHdDVV84YzhkWkE5aWRxdzRSc3ZiVWNQUTFUTWRvTEdUUzIzSEtIRU9NYjV6RjZsQUJMejRHa01SaXlFd2EwQVdZTnhnTXkzTGRvdTJQeXJNRk84NGVYS20xS3NhTndDWWJyZmZuMA?oc=5"
+        },
+        {
+          "id": 16,
+          "title": "广东3条河流入选水利部2026年幸福河湖建设项目- 中国日报网",
+          "source": "China Daily",
+          "pub_date": "2026年05月27日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02Y3N6NnhvSGFoOVNKRjZxQlVmd1dHcVNBYk5zU1hYQXd4RGxwSnhBMnlfUVpTWkxCVUF0ZTEzUmljNzRtWGdUVVM5elpJNzFLYV96M2V1XzZham1KU0x6RUtXZzhpM3ZqYktiUk5Mb3lnZDlBTUN3WTlKbw?oc=5"
+        },
+        {
+          "id": 17,
+          "title": "2026年幸福河湖建设名单公布，贝岭水由广东江西两省共建",
+          "source": "thepaper.cn",
+          "pub_date": "2026年05月27日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiaWk1QjBaNlpqZ2l3czlPOG5JdE9qR1UzbVN2eDc3czQxVmVjbmRWYjBZQy1zczI3YTNuSTM2cmdtUW1FclFrNzlaOU1Pb1lqdmpqSDFxR2lWdmtKOUhGNQ?oc=5"
+        },
+        {
+          "id": 18,
+          "title": "当代作家走访浙江 实地探访幸福河湖建设成果",
+          "source": "chinanews.com.cn",
+          "pub_date": "2026年05月27日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZbjQ2M2VHODJzUkI3SXlLa1VrU3hhTjNsdjBKU2RjeXplaWFLbHhhOHN1czQ3QnVjcWhINlVCbWYyWFVLamVhZXB1NzhfNUtNbjJ3VDkzeGZwS1Yzd3U1RWtVZVJlX2xX?oc=5"
+        },
+        {
+          "id": 19,
+          "title": "甘肃庄浪：水土保持绘底色 生态振兴惠民生",
+          "source": "搜狐网",
+          "pub_date": "2026年05月27日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS2hGVXQ3UVBmbENxelZzeE56NUo4VjJXMURSSXBRNFZLSUxKTjhEbTZBcGdpUTV5QmxyNERXbEtEckI2cXpiblJFU3pJcTlUVUhqMG4ybXpMeFEtcTFvWXJkYUtuRzc2UU9GbmhMM216cFp2WkJ0dHM2TFRrRzZ6ajJ5V0ZpNlRn?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年05月27日",
     "news_date": "2026年05月26日",
     "update_time": "2026-05-27 00:00",
