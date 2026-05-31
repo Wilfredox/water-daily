@@ -1,5 +1,152 @@
 [
   {
+    "date": "2026年05月31日",
+    "news_date": "2026年05月30日",
+    "update_time": "2026-05-31 00:00",
+    "total_news": 14,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部组织完成2026年七大流域防洪调度演练",
+          "source": "人民日报",
+          "pub_date": "2026年05月30日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xQmdDcFdiSjdVaFltZlNhZFFDNnBHWEhvcm54U2RZXzNWVFliakNtcFlmdUI5YmhRdmItVGI1VjNDZ0ZfS3laTEFCekt5NTdMQVVWQ0Z2OVpNSjhUbGRoZ3JQTXVGZ09qT1ZnMnVsbmtwZTNLZmtqdEJLMWdwd3c?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "水利部：主汛期长江、海河等流域可能发生较大洪水",
+          "source": "川观新闻",
+          "pub_date": "2026年05月30日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55OEVPX2lwb0QxbVhwZjFxdF9uNVBGX2RQcXd0X1pRVGVVS3JzMU5ldGlteXlPR2xEaWxsLTJPd0Zpakg2bXVqR3ZhWmhMZw?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "6月1日起，我国将全面进入汛期",
+          "source": "新京报",
+          "pub_date": "2026年05月30日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lM1Z2UFVmaE5ZYm5LU3Y1Z1hucFdtUk5JNEhEUF9sYVFCaDdaTkZhRFlGbnotc2MzV1l5cjZLM19GRmxGZVR4TEZsb0RVTlU3ei03WGdNdzlBUHFVcUxURjFFaXQ?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "【甘肃日报】甘肃抓实2026 年水旱灾害防御备汛工作",
+          "source": "MSN",
+          "pub_date": "2026年05月30日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOWERwUUI4T2dwSy1RckdDdnp5QWlnU0JEMEc3TXdnMFM3YWdscUVNWmNHamNzSm94VWpuZTA1TWMxeTFsWW1WZmZXU0JGdFpFNVpNMWNxVkpUUnNHblBlNDFjWDlxcHNudnVxSkFZa1ZHSU12ZnZZMkZhbUxMejVHZmxuNE9Uak1TRVBTZUd3Y2ZvbENsQVViSzNROUgxTWRhdWhLcTBieDN6cmRqTXEteXVIZ19FM2ZFWEV0OERTYjFjaWZNZ2tJUDBGSEM4c3JKcjUxcUpoT2pzZlAtZFRfVUhxVmxBWXp2bVlFbE5tcXhHaU82MENNQjgyR0JnZTJOeGRGMS1LOVE2QXJ4N05PSHh5RHZGUTNwVzJ0M1QzUjJQay0yUVpqWlQ2VFd1REtvLXBzc2pINGo1cnFwSFR5ZTdVcXZyTmZn?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 5,
+          "title": "迪庆州水务局深入践行正确政绩观推动水利事业高质量发展",
+          "source": "diqing.yunnan.cn",
+          "pub_date": "2026年05月29日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12ZGVnWFptWWZVRUhhbnNKV2lxQXZDYVlzZ0RzRGgzRHZ4azVQUGpqSldKNURIODhDZzhtdm5ZdndmZElaQTNISTRZU3Y3X3VZSUxHSnFQcEQydjFKUHRZVFlqbkpkN2V1?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "山西“十五五”重点流域治理路线图：推动“一泓清水入黄河”工程全面达效",
+          "source": "新浪财经",
+          "pub_date": "2026年05月29日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XaURVR0tuS1diMjJhUER5X21uWUkxOWpPZDhTbVdsckJtbUdZWXBoamd4VFpLN3MzOFplRzZObnZFZElrU3NvbS00b1RUbmU5UGhhbTh5c3dDRjBONzkwdWNEd2s0bmRTbEFvNVVjc2F3U3V4TFg3ZA?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 7,
+          "title": "【树立和践行正确政绩观】干部啃下“硬骨头” 群众喝上“幸福水” ——海东市乐都区着力破解农村饮水安全问题",
+          "source": "qhnews.com",
+          "pub_date": "2026年05月29日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ONmV2TElxMlNYbTlac3I2eG9vTWxXT2hRMy1IUnBxSHExSHg3aWlaSjV1cEswWGpYOHFLakhDMmk3QWNldlVMS0pneFAzLWVyLTR6UVZOb0FSbXZzbllaME5LV285WjhWTEljX2VuR1UtOGlE?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 8,
+          "title": "2025年吉林省水利投资首次迈上200亿元台阶",
+          "source": "rss.jingjiribao.cn",
+          "pub_date": "2026年05月29日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lSWlZNFJXdEsybGp2SDBEYmJRbzFQZnY1b3NqUmZ2d0tYMURkaDA5QmRLb1VuWm0ydUVmS0wxTjZXUE01dVllNGI3SWFEQmU0MkljUllud2Zla2NtQmtwWmRaUQ?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 9,
+          "title": "陕西发布2026年第1号总河湖长令",
+          "source": "新浪财经",
+          "pub_date": "2026年05月30日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV0NzZDE3Y28yWEZvVURHd2VBVlZpMGNGRFJuYXNHaXo3M3gxdFl5WlFJVnZVV2pJR25nV1NhbGw1TEF0M0c2aEdDYXdvU0pFRTdnQlhQN3E3bE45clU2ZGlKVjFWcmVNRHZGSHJZd3NvYVNscHlmay1LTWprMGdMdnYtak4yMnM2TkU4OG04SjVqd25WWHNFZQ?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "江汉区开展“小小河湖长”履职体验活动",
+          "source": "搜狐网",
+          "pub_date": "2026年05月30日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYjM2SnhQNmJ0UWxQMGhxQUZFQVh0MnZ6Ymw5ZFViM1JkMFJzTTRaVE1qclRUYm9DNHlMWVV4UkxRWVROakgtRlZJMWYyWlZDR0xWbnJmTHNvRUtwZDFsWDZxbVROWnlSTE1naHVZQVB6XzV1UXkzcU9UaXd4STFoRkZEc0VyZlUwcWNIZg?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "水利部部署开展第二批母亲河复苏行动",
+          "source": "chinanews.com.cn",
+          "pub_date": "2026年05月30日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UYzBDWkJwU3d5NVhfN2xTR2hUZXRTTjU1Q3NEYlR4dXBWNkkxNUZmVUhMTEtwZUloby10MV9XdlZYdnB0U0N5TmRuQUQ3RDdteHQtb2ZTSnhqZUFrSXdvWTcyVEZqeks1?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "达川：小流域治理焕新颜 生态活水润乡村",
+          "source": "达州融媒",
+          "pub_date": "2026年05月30日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sWDFjaHFnRmU2YTBLRFhDdjhWekhyOC1JTFl1T1V5VGNsWTRGSFRZa2w2RzhvTDQ4MlB4cGdXTm9Ia1QtZG81M1hkamtkMFRILXA2bTFR?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 13,
+          "title": "联网补网强链 国家水网建设全面提速",
+          "source": "新浪新闻_手机新浪网",
+          "pub_date": "2026年05月30日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxZ3U2cGl6cmdoV3NRbDh0a05fcF96NkZtb1Y5bnd6ZDVKNDk5emhtTmlENzM4TVBvYmNDSW9laW5EOUxROHBCemVfUTNNNVlrNHBMUUtzRklsRXdIMTJlX000T3RLQjNkYW5kYXBhYW9zbU9rNlE?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "联网补网强链国家水网建设全面提速--经济·科技--人民网",
+          "source": "ZAKER新闻",
+          "pub_date": "2026年05月30日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhWTFnenNBcXVNalBkVER1ODFqTmEtZ0ZUQ0hia0liSXB0T1FqczJwZlp6VnByMmlFUUhCcWdxVml4eW9XMlRWV1lkUC0xbG9yeGwzcjFCbHRPT0F4b19EUmY3MVJZRWlFNzdIWWhEQzRVX2o3ejIw?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年05月30日",
     "news_date": "2026年05月29日",
     "update_time": "2026-05-30 00:00",
