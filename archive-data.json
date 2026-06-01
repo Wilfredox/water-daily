@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026年06月01日",
+    "news_date": "2026年05月31日",
+    "update_time": "2026-06-01 00:00",
+    "total_news": 7,
+    "category_count": 4,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部：6月长江中下游干流可能发生超警以上洪水",
+          "source": "搜狐网",
+          "pub_date": "2026年05月31日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRjdYcEZFS1RubzhHU0VpUHZDWkh2NkRaX3d1Vm15eDlsbHE4d3R1dG8tR0I4TWlNM00xemZMTm8zNkpqTWRYN255ZGR2aWE3WlBRc21LcnhqYnRBTER1a2ZHby05OWs2bGRjTzFEUVJ1aTNySjFLZkxCdkdhLS1ZNjNfQmhJVlhfeTFYaA?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "水利部和中国气象局5月31日18时联合发布蓝色山洪灾害气象预警",
+          "source": "欧洲头条",
+          "pub_date": "2026年05月31日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOHZMZWVnWVY5WTVYR0R3WHB2a1MyS1dTb3Y0YUlPU2s2YU5oWmg0ZkEzZndaOW1Jd3dYbW9kd3B4T1oxbHpSMFIxbnp3WGlJOTNXS3FfQkxVS2JIOHlzUWN6SzdnTVZacktwUklIMnRlRzBWYkFqekxUcFQ1S3ZrckdBX3BYbDNaVnRMWXYyeGp2YVRGUWVLdG1VczE2WWhtX24zbDhLakQtN04tWjRBTzB6cElzcTRrMHJGVGFvOFYwSUg5TnRHVVBoQkxXX2RCbERIdHlJQ2txRUxUcUgw?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 3,
+          "title": "确保城乡供水同源同质",
+          "source": "经济日报",
+          "pub_date": "2026年05月30日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOOHd2OUR2TDRlTE1xbDhZc29jSDhONkxDNG5mSmtfV1RuUjBaLXExQ2JtZzJUVWgxb2ZYU0V4bk5XLUVrS2lEalloWFdqZ3k5UERSdm5QSXNmYXFMcTRmNGd1OWM0OUJfRUI0?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 4,
+          "title": "陕西发布2026年第1号总河湖长令",
+          "source": "搜狐网",
+          "pub_date": "2026年05月31日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSlhJWWpITndnWEh2NkpIc1JZakJXZDFGTjFTS01XTmg5X3hhRHA2NlNkS0duM09HZ0NuTERpdURtYWJybnF1S3VsS3FscmFCTTUtRDJscXd5bm9veUJlT3RCcktHNWxQUTQySjVoWU1PRWFUQVRCbEI1RzNURXdvV2doYmJhQllE?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "湖北嘉鱼“检察+河湖长”交出治水答卷，曾经盘踞的废旧船只依法清理了！",
+          "source": "搜狐网",
+          "pub_date": "2026年05月31日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORVFHbUFaTmNWUVJFVU1Qa0pyR1ZQNGNRMnl0Wm81aTJtQk9ReFNlOENNVHNrRWJncnhYeDBZQzQtYk84RlBfWm41eVFCTW1lTDdqYmhhajBBd1hlUkc5Z1o2XzhZZkhvRjg0cGxVcnM4dGhGTmZ1aUpxZ2x4TUsyVnNBQlFpcC1Tb01JYw?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 6,
+          "title": "联网补网强链国家水网建设全面提速--经济·科技--人民网",
+          "source": "ZAKER新闻",
+          "pub_date": "2026年05月30日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhWTFnenNBcXVNalBkVER1ODFqTmEtZ0ZUQ0hia0liSXB0T1FqczJwZlp6VnByMmlFUUhCcWdxVml4eW9XMlRWV1lkUC0xbG9yeGwzcjFCbHRPT0F4b19EUmY3MVJZRWlFNzdIWWhEQzRVX2o3ejIw?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "联网补网强链国家水网建设全面提速-腾讯新闻",
+          "source": "QQ News",
+          "pub_date": "2026年05月30日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EbDVib1pSQlVkUHZXaFY5S1Ftcjdtck1lYjhDWXNrSTVUaUJQQTlWMVRZRHRFY21Udk9BSnBCTExWQm0ySVpsRUxSanlHb3FTdHhUVDVvSEZ6ODdKcXBLNElpZ0lfODRkblhQMWx3?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年05月31日",
     "news_date": "2026年05月30日",
     "update_time": "2026-05-31 00:00",

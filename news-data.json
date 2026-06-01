@@ -1,79 +1,162 @@
 {
-  "date": "2026年06月01日",
-  "news_date": "2026年05月31日",
-  "update_time": "2026-06-01 00:00",
-  "total_news": 7,
-  "category_count": 4,
+  "date": "2026年06月02日",
+  "news_date": "2026年06月01日",
+  "update_time": "2026-06-02 00:00",
+  "total_news": 16,
+  "category_count": 5,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "水利部：6月长江中下游干流可能发生超警以上洪水",
-        "source": "搜狐网",
-        "pub_date": "2026年05月31日",
+        "title": "中国全面进入汛期 水利部预警防汛形势严峻复杂",
+        "source": "联合早报",
+        "pub_date": "2026年06月01日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRjdYcEZFS1RubzhHU0VpUHZDWkh2NkRaX3d1Vm15eDlsbHE4d3R1dG8tR0I4TWlNM00xemZMTm8zNkpqTWRYN255ZGR2aWE3WlBRc21LcnhqYnRBTER1a2ZHby05OWs2bGRjTzFEUVJ1aTNySjFLZkxCdkdhLS1ZNjNfQmhJVlhfeTFYaA?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TUktIY0o4VUZOa3FlVGcwTWh0Qlk3cUR5cDhNTFFIUHNDVUhPdm9IZllCaXJyM1lpZG81aWFjZEhJVDdUZ2d0SHphckI0ak5qamNRVmhSUmFUWEI5bFlDZWtVX1k2a1FpdWc?oc=5"
       },
       {
         "id": 2,
-        "title": "水利部和中国气象局5月31日18时联合发布蓝色山洪灾害气象预警",
-        "source": "欧洲头条",
-        "pub_date": "2026年05月31日",
+        "title": "水利部：6月1日起我国全面进入汛期 南方地区进入主汛期",
+        "source": "chinanews.com.cn",
+        "pub_date": "2026年06月01日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOHZMZWVnWVY5WTVYR0R3WHB2a1MyS1dTb3Y0YUlPU2s2YU5oWmg0ZkEzZndaOW1Jd3dYbW9kd3B4T1oxbHpSMFIxbnp3WGlJOTNXS3FfQkxVS2JIOHlzUWN6SzdnTVZacktwUklIMnRlRzBWYkFqekxUcFQ1S3ZrckdBX3BYbDNaVnRMWXYyeGp2YVRGUWVLdG1VczE2WWhtX24zbDhLakQtN04tWjRBTzB6cElzcTRrMHJGVGFvOFYwSUg5TnRHVVBoQkxXX2RCbERIdHlJQ2txRUxUcUgw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wbmFhNVdKQVVPTWNvS0FTTDV6RFZoellaaHJ1OXBkdEkybkZSMlIxdFdZQXctR294NGdIb244TmtjcmJrVy0xZFVneHJnVFV6SVhNZTlEWFQxSjc2SllWVEU3eldNSi11?oc=5"
+      },
+      {
+        "id": 3,
+        "title": "水利部：我国全面进入汛期，长江、珠江等河流可能发生超警洪水",
+        "source": "新浪财经",
+        "pub_date": "2026年06月01日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORHpxM25mYUpiZnJxVW1XbHNseXMxT0JwQWRudzdrblFhUWFwdnoyYUFNUW5ZZVY0Z0VCcmFZWHBsdi16Q0toU1BjTks2S2ZKOHgzZU9Kenk3X25NX1QzdXFDVndNMHZkQzA0eUJ5alFZOEsxYV9ORUliVTNaRVRvV2xLeEM4Rkx2RGhEWGlKLVZvVFhSbTQwdg?oc=5"
+      },
+      {
+        "id": 4,
+        "title": "今起我国全面进入汛期，如何安全度汛？最新研判",
+        "source": "证券时报",
+        "pub_date": "2026年06月01日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95ZjcwNDFiZ0ktYU1ES2JiU191blJMOC1pRURhd0NJU01xM0h0WEstYnZVT3dHM2FFUUVSMGxSc2NuQWM1NGFLYkswRmY4akxRMDZyVlVCT2tYcU92?oc=5"
+      },
+      {
+        "id": 5,
+        "title": "进入主汛期！长江委会商部署水旱灾害防御重点工作",
+        "source": "湖北日报传媒集团",
+        "pub_date": "2026年06月01日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fS1c0LWk1M3A2NzBETVhDcE5qclRXem9UTTRfSmdnV2ZZYjhSNVN5QlhlS3Jxd0gyUkhwa0hHYXFCblpyM2pJSExjbG91SDNzMk5YaU8wUWE?oc=5"
+      },
+      {
+        "id": 6,
+        "title": "祁阳：向子顺督导检查地质灾害防治、防汛备汛及消防安全工作",
+        "source": "永州市人民政府",
+        "pub_date": "2026年06月01日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVdVbnZuZTVpTHVOYU1aZ1k5SzAwQUpVcjdrR25mSndtbmFfZFBxTUtmSkJDSG4xb0dhM3gwVkFMWlpkX01jU252RXFzU0VvcGJUWmhHcGQwNlFlaktBaXVHalplUzRydE9MQmt6eGZ0NEVFaW9jRFdaUXpSVXlrci1rVUZjeGV2?oc=5"
+      }
+    ],
+    "综合要闻": [
+      {
+        "id": 7,
+        "title": "射阳县：聚焦工程设施提标 强化水利综合保障",
+        "source": "中华网",
+        "pub_date": "2026年06月01日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oQ3VPSDR5X2VWZExsWVJkRUE1MXdrc2pHZUY0dDlreHNwZ3JnVmozaVVmN1ZFREdxbVVFdFUxRDVLVk1mZ3U5TjYtX3ZlRU93MklGcVdiUTBsbzJndnc?oc=5"
+      },
+      {
+        "id": 8,
+        "title": "水务新规落地 洪城环境迎价值重估窗口",
+        "source": "新浪财经",
+        "pub_date": "2026年06月01日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mblB4VFhmSVAxWE9wT0VqOWFUMzUtajNoSk40UFZEMmFFYzRnX3FwOHFjTHdtb2IwZWd3T0lZMzZwNk15VC1STy1IaldBRWxNWEhCRmlHV3YtWU83b18zbVlTZEpuZmNqeE9HRWhkWHFHSDdvSzEtcjBqemJ4QQ?oc=5"
+      },
+      {
+        "id": 9,
+        "title": "清泉入户润万家 独山县水务局扎实推进学习教育走深走实",
+        "source": "搜狐网",
+        "pub_date": "2026年06月01日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVUN3OHhSV29qbl8xUzlDbnhBU1U3Qm94Q2V1TUhrUEx4WnB4VWF5a3JSYzJ1czdqUmg1WWRNSkRvZzdpMTdfdF8yUHQwdXhTcUNuY1dSU0lzemo2SU9ZTFdIN2hhVXJNLVJtdVVVNzBNZG1lUmpITm9DMjhDRmpBV3l3TVhLanAzNU1vcg?oc=5"
+      },
+      {
+        "id": 10,
+        "title": "浙江水利水电学院新学院正式揭牌 开启智能工程教育新篇章",
+        "source": "中华网",
+        "pub_date": "2026年06月01日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xQ21BY2JmU1FoM2VoU09zWUhNVVFwNlR3Rlg1SkRvSXpQcE5LVVhxUmptcFRkZDl2TjM3dlRRR25IRUxwUE9GZ09iLWVqNXZoZTNCR2E1MFlnalNCc19EeVZ3QWhBckRtRWxIMGlBR2I?oc=5"
+      },
+      {
+        "id": 11,
+        "title": "不出国拿双学位，浙江水利水电学院尼尔森马尔伯勒智能工程学院正式揭牌",
+        "source": "搜狐网",
+        "pub_date": "2026年06月01日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT2dnN2RDQ3o1UkQ0SjZWSEV5UmNrZlh0ZVo2M29PQXBsNlFoUmJYS0FJcHY5VWxWZGJhRllfblNxU2pjcEswblFPT0J2MHlQaFIwSzU0QjRMcVF5Y19sa05ySXRuLXItVTNnTEpGRjFocm9oS1luQUxnSF9Kb2U2UDZVZm83UXZKV043MQ?oc=5"
+      }
+    ],
+    "水利工程": [
+      {
+        "id": 12,
+        "title": "西北地区首艘重型双泵绞吸式挖泥船顺利吉水，延安王瑶水库开启清淤扩容“加速度”！",
+        "source": "搜狐网",
+        "pub_date": "2026年06月01日",
+        "content": "",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2psUkxXbW1wRHJQbG1zS3ZYWEZzaW1XZXVKWTJZMDVzR1FoaEJlQ2ktVWtab09ISnZQX2ZaRkxfOG1EUlQyV3JMeUkxNTV3V0hUU0pUZnYtbTR0MDRXcGlKNTNqaVlxYllYSVhydkpmZFJMWDZ3SHp4bG5jTFZkVU8zSjFNVEc2?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 3,
-        "title": "确保城乡供水同源同质",
-        "source": "经济日报",
-        "pub_date": "2026年05月30日",
+        "id": 13,
+        "title": "牢记嘱托铸水网 水润南粤惠民生 | 广东水利加快构建水资源优化配置新格局",
+        "source": "thepaper.cn",
+        "pub_date": "2026年06月01日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOOHd2OUR2TDRlTE1xbDhZc29jSDhONkxDNG5mSmtfV1RuUjBaLXExQ2JtZzJUVWgxb2ZYU0V4bk5XLUVrS2lEalloWFdqZ3k5UERSdm5QSXNmYXFMcTRmNGd1OWM0OUJfRUI0?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qdEZxdnh1dkw0N0E4RkhnR0lMQ21zTk5PSUxuZXhuc3gydURzU1VYUU9mNGl3b2ZBcU1zeHdDZjBiVHhRX05lV2ZwMTUzeDdhRElLMWhaUE02dlY0amc?oc=5"
       }
     ],
     "水生态环境": [
       {
-        "id": 4,
-        "title": "陕西发布2026年第1号总河湖长令",
+        "id": 14,
+        "title": "湖南洞口：平溪江畔绘就幸福河湖新图景",
         "source": "搜狐网",
-        "pub_date": "2026年05月31日",
+        "pub_date": "2026年06月01日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSlhJWWpITndnWEh2NkpIc1JZakJXZDFGTjFTS01XTmg5X3hhRHA2NlNkS0duM09HZ0NuTERpdURtYWJybnF1S3VsS3FscmFCTTUtRDJscXd5bm9veUJlT3RCcktHNWxQUTQySjVoWU1PRWFUQVRCbEI1RzNURXdvV2doYmJhQllE?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPajZCUHh1aThVb1pFaVBsejAzcFVTOTBFblBGaFNtQkhNZkZFWUV4ZWFuQ3BIcmp3SjlEOEwwYXFYVzl4c0JhMVo2aDFVQWVHTERpWlBoWmhsczllV1RiLUI2Yk00ZFJwOU9UVWZtdmp2bFRieHo2Skd3SzF2dlRsam03NlNWWHBU?oc=5"
       },
       {
-        "id": 5,
-        "title": "湖北嘉鱼“检察+河湖长”交出治水答卷，曾经盘踞的废旧船只依法清理了！",
-        "source": "搜狐网",
-        "pub_date": "2026年05月31日",
+        "id": 15,
+        "title": "兴泸水务获四川全面推行河长制十周年知识竞赛一等奖",
+        "source": "四川在线",
+        "pub_date": "2026年06月01日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORVFHbUFaTmNWUVJFVU1Qa0pyR1ZQNGNRMnl0Wm81aTJtQk9ReFNlOENNVHNrRWJncnhYeDBZQzQtYk84RlBfWm41eVFCTW1lTDdqYmhhajBBd1hlUkc5Z1o2XzhZZkhvRjg0cGxVcnM4dGhGTmZ1aUpxZ2x4TUsyVnNBQlFpcC1Tb01JYw?oc=5"
-      }
-    ],
-    "政策法规": [
-      {
-        "id": 6,
-        "title": "联网补网强链国家水网建设全面提速--经济·科技--人民网",
-        "source": "ZAKER新闻",
-        "pub_date": "2026年05月30日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhWTFnenNBcXVNalBkVER1ODFqTmEtZ0ZUQ0hia0liSXB0T1FqczJwZlp6VnByMmlFUUhCcWdxVml4eW9XMlRWV1lkUC0xbG9yeGwzcjFCbHRPT0F4b19EUmY3MVJZRWlFNzdIWWhEQzRVX2o3ejIw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TNllKWUdDUXVLQXFlSjF6emYxaHg5cGJyQ25fTTdKNUFYVUVYUUhWZG1hb1JxY3ByM3MtdUpkYWpGWWpqMlhfWl9jZFdCUXdFT0p1MnExVFZNNF9KN1h3?oc=5"
       },
       {
-        "id": 7,
-        "title": "联网补网强链国家水网建设全面提速-腾讯新闻",
-        "source": "QQ News",
-        "pub_date": "2026年05月30日",
+        "id": 16,
+        "title": "水利部部署开展第二批母亲河复苏行动",
+        "source": "新浪财经",
+        "pub_date": "2026年06月01日",
         "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EbDVib1pSQlVkUHZXaFY5S1Ftcjdtck1lYjhDWXNrSTVUaUJQQTlWMVRZRHRFY21Udk9BSnBCTExWQm0ySVpsRUxSanlHb3FTdHhUVDVvSEZ6ODdKcXBLNElpZ0lfODRkblhQMWx3?oc=5"
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54SThfcEI1bVBucm43Z3lQbTYtM2NWdGhYTGxITWMzWjJlRVpid2pMR05wN3k1dVhPV3Q0UDJvbDFOSnZNYU84ZmtHNlMyNlpvS2VYdTRyTTRieGpOR0FjQzNxb3RXWnlNY2dHS2VpYjM0Y2JiQVNEeFFOTHE?oc=5"
       }
     ]
   }
