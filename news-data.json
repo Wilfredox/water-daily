@@ -1,173 +1,209 @@
 {
-  "date": "2026年06月03日",
-  "news_date": "2026年06月02日",
-  "update_time": "2026-06-03 00:00",
-  "total_news": 17,
+  "date": "2026年06月04日",
+  "news_date": "2026年06月03日",
+  "update_time": "2026-06-04 00:00",
+  "total_news": 21,
   "category_count": 6,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "黟县宏潭乡开展2026年度防汛抢险应急演练",
-        "source": "ah.chinanews.com.cn",
-        "pub_date": "2026年06月02日",
+        "title": "水利部专题部署主汛期防汛工作",
+        "source": "新浪财经",
+        "pub_date": "2026年06月03日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jUlp3SHlPLXZjRHI4M2czcDJLLV9INjNtX01YRDBiTFJHVGppb3pYWldBTzE0MGxLRFFrT3R0akhZUlZJSEdlZk1ITVFGNDNSRzdlWGtGN1o2allOVWhfMTUyQzRkMFhqUGc?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSEw1UTJ1blFYU2NFNFQ5dnBPeXhYQTI2STRsOW01ODY4T0dqSlJ3bHV1VHMtaXZFQ2tFcE8yVHp1dlZsaUNZd18xa24wdEVBYlRkcmJYYVk2N3FoMkdvMG5SYTZGdkhMZHhfLURQQTZqa2c4MGpJbDdfWUxWbTMtT09BX0s5MTBCQ2cyRlZjWUhXam83VklRcg?oc=5"
       },
       {
         "id": 2,
-        "title": "水利部：6月1日起我国将全面进入汛期",
-        "source": "Sina finance",
-        "pub_date": "2026年06月02日",
+        "title": "李国英调研海河流域大清河、子牙河水系防汛工作",
+        "source": "chinawater.com.cn",
+        "pub_date": "2026年06月03日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IMUZ1Q0VlUzVadS1lakNUcGNuZnFROXhDdUJWWExJYXI3VUZqclZwMUhQcG9JVFRKdlJ6TFd2WEdPM0d0NTNwaE9uTC10UHhWLXdNcjl5aDVRYmFPaVUtQ3NsdGFnVjJiQmdzYWlwN2VwdGxxME1adQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WMlFDUmU2Rnk3TGdIRjBGUGxmWUZzeWpRc3dINTZfX0VyTlJFMzd2NEppRGpGU3U3blpHQWRuOVY1QnZUdjZYTWs1eE5wdkxMVS1pX21BNHR0NXY3TXdCSTRBMXpudXAtdUJCTE5HVQ?oc=5"
       },
       {
         "id": 3,
-        "title": "平阳县委书记孟晓斌督查安全生产和防汛备汛工作",
-        "source": "欧洲头条",
-        "pub_date": "2026年06月02日",
+        "title": "视频｜铁山街道2026年防汛抢险应急演练",
+        "source": "湖北日报传媒集团",
+        "pub_date": "2026年06月03日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQnppRW56UktMVzdIOVY2Sy11VzVaMGtCdTViQW5KRUoxR0w3bmxFLWhDM01mY2pxZi1PSGgtM1BxV29neEd4Z0ZmNkUzTDZIMUlKMmo3aGt4TlBrYlMzLXowOWxYazVJV3dSdi1YaTg1QkFmQVlmQTVrNGtCbjNHdFJYNUNCVGxjaF9zQWpocktwVW9NU3h5QkluNmNJNjZhN2FFRGhwcTQ0dnhTcDlMdmtKMGZ6d0s3S0ZBcXV4ZG5pbW5XRW9MeGpsY1lkSklESXc?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiVy1JMl9HbjhwanJBdjdZRy1rZEk2Q2JEX3QwN0R1SmhkMVlRT0Uza2NxUmZoekU1dkh6TjltQUY2YTFiMnktMkRvcUFsQlBqOVlpdzlQZzU5dkVhREE?oc=5"
+      },
+      {
+        "id": 4,
+        "title": "内蒙古应急·2026防汛抢险救援综合实战演练暨安全生产月在包头启幕",
+        "source": "inews.nmgnews.com.cn",
+        "pub_date": "2026年06月03日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBabjM5RGdUSVZENDI0VEhyWURPakh5bVBTWmZVck1MSFBkOWJNSTlQY0llbmVTVW5qRlZ0UE1HQncxUmpzWWI5a1dibEx1VFkxMWhoV2JXd0N2VWNtR0x4eC1ZU0hyMER6aW9yNmRZOA?oc=5"
+      },
+      {
+        "id": 5,
+        "title": "备战主汛期 多地开展防汛应急演练",
+        "source": "苏州新闻",
+        "pub_date": "2026年06月03日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vRWVXSEpRQ2pEY1ppc0VwYmxIZ2NiemdnNG90ekJfQXFGVG5uXzRET0t3Uy1qMW1UVXYtSlBtQ1hMS2tCcXlXZTZkX1FnTjR1aTluNzc5dUZkQktZZDliMmhn?oc=5"
+      },
+      {
+        "id": 6,
+        "title": "丹徒区举行2026年防汛预案综合推演暨防汛抢险演练",
+        "source": "jsw.com.cn",
+        "pub_date": "2026年06月03日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1saEU4WWp3bmdJNldCZkxZOHQyUWo1NVJqRlltb1A3NUVZcUlyLW5WT2Ixa1BBNGRXQlZHRlVvYXVKYTdOOHdCRkNEUGs5MWljRVRDWEVlX0VtUQ?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 4,
-        "title": "委员风采 | 王家邦：以良策兴水利 以实干护良田",
+        "id": 7,
+        "title": "张掖创新“水利+金融”融合模式唤醒生态“水资产”",
+        "source": "gs.chinanews.com.cn",
+        "pub_date": "2026年06月03日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xV2RFaTZTemV1a2laUVFlTHdDODFZeHktNmQxYVcyT283aEFYeXlFZGxUeHVrMG1ncG9IQXpyT2JiY05ncVNManZlZmxpcGc5ZEZ6QzVKRzRscTRrc0s4ajJWdml3akFkX3lVZQ?oc=5"
+      },
+      {
+        "id": 8,
+        "title": "2026年全国水利行业工作研讨圆满举行",
+        "source": "中华网",
+        "pub_date": "2026年06月03日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zR2Y5Mk9KSVFDa3BDejRibFFTN3dnM0RYLTR3M3dCaUEzdFpob3BNQ0dzNU52LUcyYlN6dnBHQ01XQTJMYTIzMUppU29YZmdsYy1hVko5SmZqTXNDMUJPRTN4LVFqNzA0RmNrMHhn?oc=5"
+      },
+      {
+        "id": 9,
+        "title": "浙江一座1500年的村子从未被淹，全靠村里领先世界1000年的水利系统",
         "source": "thepaper.cn",
-        "pub_date": "2026年06月02日",
+        "pub_date": "2026年06月03日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95TjhYWEFZakJqbDFWTE5IdFozeDFuWEpPZ3JDMXlfaTdRa08zbkhYdjA1WVRqZVpBa1FEOFpVRXdhZFRhMEZhUkFfN1Y5b09nakJfbW11X3Ntakhlanc?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11VUZ3LWhpejYzV0Q2U0hPdlJkXy1nc0pEanBCSEFtRlk4Q3V4RUpPV0FHUkN2enU0WWhkX3Z2U2tzc1FOQ1ZPdXhxWF9ISzhnZ3JuWHNyd25vbFh1QVE?oc=5"
       },
       {
-        "id": 5,
-        "title": "阿图什哈拉峻乡：高速攻坚筑水利 惠民赋能促振兴",
-        "source": "xj.chinanews.com.cn",
-        "pub_date": "2026年06月02日",
+        "id": 10,
+        "title": "中国能建葛洲坝集团与西藏自治区水利厅深化合作",
+        "source": "Sina finance",
+        "pub_date": "2026年06月03日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOXlmUktnVzk0c2M5d3RIam1xZ3V0ajk0M3ZkWlhQZ2tJTlhxNXJpaGowZGxqMmlXV3laR2YwblhWZkpaRUtmRTJMc3ZhSlItODhZVHNCeFlZZDJPdS1UVTVfdDl0d2k3aE1KSG10R3gtLVdYbk1PSGhtTGJrZTYwNGZ0UQ?oc=5"
-      },
-      {
-        "id": 6,
-        "title": "常州市委第二巡察组对市水利局党组巡察“回头看”工作动员会召开",
-        "source": "搜狐网",
-        "pub_date": "2026年06月02日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWExlVUtUWjVucGRkdWJmOW5jcmRodkJkNUpFcUVTbXFXVjRkd09Wb1h5MTdURzVrQ2p4d1EtWE42QVp6ams0bk1aSTZibU1GVGV5TGZqVEl6bF93Q3lwSE55TzVjNm5acERyWVFZbzJWbFQ0REpIYmQzcEVEU1FhdWZuZ2pjVkg5YnpOTg?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0S2dobGZabmg5WTV6d01WTWRxWURxNUlST3pYdk03YkV2dGNyRHY3UzlGcjBUXzZFWFRyXzZ4cmRPUjJXdjJ5REp4TTRUSEdNbVJoTGlMV0M3M3NELU1LY2F3bmw5ZDJNM0R4b3RPVmp0X0JsUXc?oc=5"
       }
     ],
     "水利工程": [
       {
-        "id": 7,
-        "title": "北京市水务局：80座水库全部降至汛限水位以下迎汛",
-        "source": "新京报",
-        "pub_date": "2026年06月02日",
+        "id": 11,
+        "title": "80座水库降至汛限水位以下迎汛",
+        "source": "新浪财经",
+        "pub_date": "2026年06月03日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VWUo3TzFPTVZEcDh5NWdueUczS3dkZjZPaXJQLWRWWllrTEczbXFqeWhCUnpFVURpbmhEVzJpLWduODBNeUlDVUQ4RXY2X2dfcUxwZzdfVVZoTmtMQlBYTjVEQWo?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tS0JUdXVVZHJzTTljZUUzamtORHlwVmdMRmNUY2ZaUXZrUWN2SnFhUjV5MURRNkdmNEVqcTk3ejc0bFQ4b2piSzR6QUJGZ0FTOG5TMF9vSmNpeHc5MUpHOWpyWmV2WmpEVVNrY1RRRWpiSGM4TDl1bw?oc=5"
       },
       {
-        "id": 8,
-        "title": "西北地区首艘重型双泵绞吸式挖泥船顺利吉水，延安王瑶水库开启清淤扩容“加速度”！",
+        "id": 12,
+        "title": "珠三角水资源配置工程高新沙泵站累计向莞深供水约10.94亿立方米",
         "source": "搜狐网",
-        "pub_date": "2026年06月01日",
+        "pub_date": "2026年06月03日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2psUkxXbW1wRHJQbG1zS3ZYWEZzaW1XZXVKWTJZMDVzR1FoaEJlQ2ktVWtab09ISnZQX2ZaRkxfOG1EUlQyV3JMeUkxNTV3V0hUU0pUZnYtbTR0MDRXcGlKNTNqaVlxYllYSVhydkpmZFJMWDZ3SHp4bG5jTFZkVU8zSjFNVEc2?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaGVTX1F3U3VnTVhDNzNmUjNiZXlOOV9mR29ubGVkTEgtdkgxa0dOck1reksyUlNnV3Y5dXFlQ3A4d1VnV0dpRjA2cUtfV3ZNV19LRUZVOUJLMl9zaXNYVjh1RTVhcXFzMkZBMHBLaW05TS10U1ZkYlRVa3dXWmQwajFncVkta1ZsWnFB?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 9,
-        "title": "城乡供水一个标准，水压水质都有“硬杠杠”，《供水条例》昨日施行",
-        "source": "长江网",
-        "pub_date": "2026年06月02日",
+        "id": 13,
+        "title": "高效节水强水利 精准灌溉兴农业 嘉峪关文殊镇加速推进高效节水项目",
+        "source": "中国甘肃网",
+        "pub_date": "2026年06月03日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YQXRacTRwcWZ1TEdCQWozR3RWNC1XSThWYkd2SC16a3BBRkVYWGdiQzJ1aXZDWG1TTFMxRlYwZGRYSUlFWkkwbzlqZFhMU2FfUTJEUkV5a3ZLZVlIcXM4VFJB?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tRmZQYVBWeURHSVZxYy1rWEpHZWFVeFJ4UU1lVnFGSjRldm1GQ3JBU0x6bEFPb3JPbFg5dlRQQlJhMU1LS2U2QUlWUnZMNm45YWZnek0xVFpGdGRKcXF3bjJ6VFI4ek85NlM4?oc=5"
       },
       {
-        "id": 10,
-        "title": "民眾無須過度擔憂 經濟部：南部供水無虞",
-        "source": "大纪元",
-        "pub_date": "2026年06月01日",
+        "id": 14,
+        "title": "郑州市二七区：配发消毒药剂 护航农村饮水安全",
+        "source": "hnjjbs.com",
+        "pub_date": "2026年06月03日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1weWxYS2dfY29weWZkWTB0MFZIUWRXSFljN2NRRGxfVkYtM0NqczNqNVpjeW5oTTFnU0JQemc4QnUzOHBTNmMzNnVKSDk3NWNtVml2aGw2X3h0Wi1ONkVMZlQ2dE7SAWRBVV95cUxNcHlsWEtnX2NvcHlmZFkwdDBWSFFkV0hZYzdjUURsX1ZGLTNDanMzajVaY3luaE0xZ1NCUHpnOEJ1MzhwUzZjMzZ1Skg5NzVjbVZpdmhsNl94dFotTjZFTGZUNnRO?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYTm5Ccm1SaklMS2ZFSWVyUXRHM2E2cGRBVWRyRWRWc2lhMTZEQ2RKcVNldkU5SzZQMHFUeU1UYXF2eDRmTzk4cGx3dUNpVkJDMUlzMVEyOVZjQXg1V1BRYUx2RHlBSFRrdWFR?oc=5"
+      },
+      {
+        "id": 15,
+        "title": "重庆市与中国南水北调集团签署战略合作协议 袁家军会见汪安南一行并见证签约",
+        "source": "华龙网",
+        "pub_date": "2026年06月03日",
+        "content": "",
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BV1lPbFRxd05HRWc2Z05SdWJMSVpQQTdubzluYllKS2FxaGtTeWUzWFg0SUNRQ0lKcTllWUV3LTRiME9UMXIwWjNYMVJCUXBqZnZxM0tzVWcxdXhzQ0J6eXppWVFvYnZabXVz?oc=5"
       }
     ],
     "水生态环境": [
       {
-        "id": 11,
-        "title": "浙江：幸福河湖建设项目+3",
-        "source": "shobserver.com",
-        "pub_date": "2026年06月02日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kb1N1WHRESjh0VFpJMlg2WHFWTG1Fa2QxS1lTLXJES294ZlBGZDlRanhFRmljOFEzOFJsUmxkVndNcEFiSHc4NUltNS1kbS1KSmJsZEJyNV83Q0RTVmc?oc=5"
-      },
-      {
-        "id": 12,
-        "title": "辽宁十家子河入选2026年全国幸福河湖建设项目名单",
-        "source": "新浪财经",
-        "pub_date": "2026年06月02日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWnVqZC10R1QwRXg0YXJ5S2d6Z1k5S0tJNTU4Qi1KbXUwY1BxX1lvcWh4dmJxYUNlTWp2dUgtNVRSSWk0MDNSRWwxRS1yQmZkd0hRZDlNdE9vWnRleTFEZ1EycTkxYTdYMEw2aEk2Rk1XZU4zZV9hdi1WczAzZHIwX1JEblZrV09ScmpQYXgtd0hRWFhnVzY0aHg4cG5kMFl4RENqeFVFNWI5WHc?oc=5"
-      },
-      {
-        "id": 13,
-        "title": "重庆发布美丽河湖建设目标：到2027年建成率达到40%",
-        "source": "光明网",
-        "pub_date": "2026年06月02日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OT1ZHdzRkNlhYSzlRelk1bzMtRDNWZlFGU2NWOXVLaEhkRkR0TXRsNGhaYzhzWWNYVHBkZUhtYU80RTFlNmRIQmkzem5yZVAwTUQ0WEdXRm9jVXFHTlhKZHZrenEzTVk?oc=5"
-      },
-      {
-        "id": 14,
-        "title": "水更清、岸更绿、景更美！重庆累计评选出市级美丽河湖优秀案例36个",
-        "source": "华龙网",
-        "pub_date": "2026年06月02日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tcml5akJvVzI2ODZncG5lTnZJNU5TT3FSRXlBbUpwLWpVUEYzbV9CRDBPZ3owUXNSUjA1c1d6VmxwS0pzSjhCMnJXcy1heVdVM0k2NzdXT055RGg0OEluZE1aZXJjMzdNWi0w?oc=5"
-      },
-      {
-        "id": 15,
-        "title": "张家川县生态清洁小流域治理项目扎实推进(图)",
-        "source": "tianshui.com.cn",
-        "pub_date": "2026年06月02日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rWW5aRzFBSUxOc3FuTjMzVlM1amczdUxUNTUzNWhodmZKSWsyUmV6d2c2WDlGMk1KSFB2eDBkUXR1bGY2MUNwRkdGVVBUU1JqQnVsZEFnZ1B2T2ZhRWFvaEFrZG8teFQ0anQ4?oc=5"
-      },
-      {
         "id": 16,
-        "title": "浙江3处入选2026年幸福河湖建设项目名单",
-        "source": "新浪财经",
-        "pub_date": "2026年06月02日",
+        "title": "巡河68次、清漂200吨的背后：三台县河湖长制的“生态账本”",
+        "source": "四川在线",
+        "pub_date": "2026年06月03日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMixgRBVV95cUxPSWFHUTFLcWhGcGVXUkNiLVpOS29kQXcxcHJrX1hXcFZxdGVHVTVER0I0M1VwR2EwYnlKMEJYWWxGVjJqQWpnYU1lbjhoMjdHdkNzTl9iSkZZNVlfRXJ0QmVJWVU4c0JKUlFGTFpaQUd5WVVMQ1BUMzdfcTZTNEtyYzdmY3ljRDRsOGxIY2FqdW9zbmQ3V0tqOHl5SVZFaHJ0YkU1MjAwTkJRT0ZTWWRaaTRDd3JqYUx3ZGxLT25rc2NRSlhJY0hXcEUzN1FOalhKR1I3U0F5TDNOVU5NdlBXQ1YzNXpvVHFTX3NTQ291VmxXODlTeU5PMVB2U0ZpbkpQZWRkX0podjd1ZHVVVHJOOEFmdXE3SU9xSm9CZWFJemNzSlhCbkdXVnFqMmllR3Jnc0tOTUdNc3pKYmhRSVVjaS1FWnNjLXJpVWJzdEQ1TWVLUlE1MktXZDNkc0x1R0YzcXBpTERIQkxaLTFGNTQtWGZhRzFiNVRidF9UOEVSbHdLSFR0QjhlcThhOHhmaUsyaFpDdm95ejZtZEt4Q045NXl3NmZpRDF4R29UNXNhdVZDQkV3SjBpRW03cTJPSmdkYjJFZVlUU3dwazBEN3Z6MnlZQUpMOG9nQ2Flcm9jZWlWdTFqeXN4ZHU4aDVLY2lSNk1RZG5kZGNIYWUwUllCVXdaOG1rUjJDNWZBZGNSdG1pd3YyZ001X2NKU3doUFZDZENzNWltTnJ3MkRJbUZUNldxeGhGSHFMbzJsNzZuQnZLVzN6Tnc?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94NkFLQzl0Z2JOcWxmRzdId0N4eExCeGJIOFp3ME1abEMtOU5INFJMUzRPNGN6RUNCcDVUSEhKc25sakJYR2JmRm9sVDlQYngzaEJ5SFFrVDdBbE1zeW1NODFLeG4?oc=5"
+      },
+      {
+        "id": 17,
+        "title": "改善幅度居全国前列！吉林省如何实现水环境质量“五连升”？",
+        "source": "中国吉林网",
+        "pub_date": "2026年06月03日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OVzdRdWozMk1pWlRTb21Bdks1cW1uaG5nS0lpcGdHSzcwT3Q1Wk1lMnF5U00wV3U4c2dPZjc2ODRoNG5lZTB0QWlJRWViYnBkMUhISzZraXRzdi1DcWxR?oc=5"
+      },
+      {
+        "id": 18,
+        "title": "2025年度重庆市美丽河湖优秀案例揭晓 这6条河湖上榜",
+        "source": "华龙网",
+        "pub_date": "2026年06月03日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11NUxtaXRRRDhDN1JTRWNVbUUzanlGSjRmRjl2YnFmSzIyeUpyQ09IQ01IcklNTzRoaUdYS2s2MG1fSzRlQksxSklHM2Z2OXgwc1ZPbUFXVVRJa0V4V0NsMURLZDY2NUtRRnZN?oc=5"
+      },
+      {
+        "id": 19,
+        "title": "上新了！重庆的美丽河湖、精品旅游线路、新一届美丽重庆推荐官",
+        "source": "搜狐网",
+        "pub_date": "2026年06月03日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWEpBMWNQNFhXLTM4RF9Eb0lYQUJZN0tBbWtna0pIQndKeUduZDBrcFVQdURKNThVUk9xUWJaNFBqM3RkR0NHLTd1MXlDdl9YcTI5UmJLcFpWYjBQUEYxanU0NWhwOHZscWd6T29WSXZYU3pVcmZiOVhuWlU2ZzBNWXctNVNZeFJkMEVfMA?oc=5"
+      },
+      {
+        "id": 20,
+        "title": "川渝共治长寿大洪湖 入选2025美丽河湖",
+        "source": "搜狐网",
+        "pub_date": "2026年06月03日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVDhkS2dabEswN1NGeHZQUzB2RTdZajBsRGRCTWJLUDRKUWlELW95U1N6TEFGQk52NGFDR0dsdlk3bUU1UVNsUHo5OVoxdV9yNFRoaFJNcmZlX1g1Vmg2N3gtXzFQWUluMHVNd084QURmQUZNekM4SGh2WmVab3BjcVhCNTFhd2xu?oc=5"
       }
     ],
     "政策法规": [
       {
-        "id": 17,
-        "title": "一张“水网”里的“刚柔并济”",
-        "source": "中国青年网",
-        "pub_date": "2026年06月01日",
+        "id": 21,
+        "title": "数智赋能水网，孪生守护安澜——中国移动亮相2026中国水博览会",
+        "source": "中华网",
+        "pub_date": "2026年06月03日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xZzJRNndPcmI5djJjeGVUUjIwU2lHZVp3dmdhN2tZZzJva3JnV1VFU1ZNaXNDUFhab2M1LU40WXBvUE9UNGdtUmxkUUx5bXB0X2pLeXNXUmhkRkFBaUdNN2FGOVU?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBla0NWdW5mSV9IX3hKekRSRHA0VmxnRkd1ZEt6WTJ0NmdWLTdaYW00X2RKZlRwOVpPYjhpR2dNTW9JZUpWaDQ2RTlzT2tmbW05aHdfYTZ0QVdvMGVRUFh3MnRBbUNaVVdhSDJqUUNB?oc=5"
       }
     ]
   }
