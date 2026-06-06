@@ -1,69 +1,51 @@
 {
-  "date": "2026年06月06日",
-  "news_date": "2026年06月05日",
-  "update_time": "2026-06-06 00:00",
-  "total_news": 19,
+  "date": "2026年06月07日",
+  "news_date": "2026年06月06日",
+  "update_time": "2026-06-07 00:00",
+  "total_news": 12,
   "category_count": 6,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "砺兵防汛筑屏障 实战演练守林区",
-        "source": "黑龙江日报",
-        "pub_date": "2026年06月05日",
+        "title": "永州市安全生产和防汛工作视频调度会召开",
+        "source": "湖南红网",
+        "pub_date": "2026年06月06日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Pd0drM3hxVzJ6QndUcDUzYW43M09YdHJNNHNjajlPbHFlbEFkWUYweXdwN3B2b0RJcXBRenZWRWFSd09ZMjJaS0ZuaVhZUDJyWnktclhPYzBjaFc4VFFSVG9ZZXp2UW1EemdKN0VoTFBpUE9D?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hOXhXcFBsck1tVzg3UnQ4d25zOVkwR1lzLTJHZTk2Q21IVGhISEI4Tzk3NHdxVXdqbExrdE40bGg5TFUxZ2tnYjg5SnhNNnB3c05TeTV4MTZDOXVOVnBoSGVR?oc=5"
       },
       {
         "id": 2,
-        "title": "内蒙古举行防汛抢险救援实战演练",
-        "source": "新华网",
-        "pub_date": "2026年06月05日",
+        "title": "2026年山东省防汛防台风综合演练举行",
+        "source": "央广网",
+        "pub_date": "2026年06月06日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yWmJyajh4OGcxQmEtWnlzZENkSkxxQmRXMmhSeXZzT0hSUnRjQkRMSUFxNXNpMjJPQmhHZUNUM1pybFp0WWU0a01qdE5scmFjb01remtxYmxoWUFfakh0WUZYU0xLYW4wLWQ2dUN2LW11NjVRbTlsQUtkaW94Zlk?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWMDVVeS1GTmJic19uLVowUzRHQWhmSHp0ekJUNk8zdWotaDhkdzhlVUd5c1BJQmI3SzU0WkZUT3lZYUUyMnFKenhsNXRuQllnaVVCaVVxZ0Y3YXdvdDZaSDFtdzk5eWFuQmhz?oc=5"
       },
       {
         "id": 3,
-        "title": "山西寿阳县开展“潇河安澜·2026”防汛应急演练",
-        "source": "thepaper.cn",
-        "pub_date": "2026年06月05日",
+        "title": "山西大同云冈区未雨绸缪筑牢安全防线 全面做好汛期防汛备汛工作",
+        "source": "搜狐网",
+        "pub_date": "2026年06月06日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTWkhKT1Itdjdkc3BTOTBLSVYtSVJmNUhxbnpMam83cWJrSnhRVkluUXBncGlNZzNvZWRub3RkenBOa0tfZkREcGRoME50N1lMSzNLcTBmNmRxMmNseUE?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdjdwWlBzLW80OExrdHFVZVRDdHhXcDBsWW5QMG9aMVllX2FoTU1XbUhieFFMRlpGQzAtWkdDX0pNUV84TTgzSUxNNWs5VU14MktSSFQtWU0xcU5vcmx2SkhQUjZQb0xJMmRjVEJJdkxnZWFJU0ZFNXM4Ri1sd19xV0wteWNNTVZseTBMTw?oc=5"
       },
       {
         "id": 4,
-        "title": "空地水一体化作战，堤防抢险封堵应急演练在长沙举行",
-        "source": "湖南红网",
-        "pub_date": "2026年06月05日",
+        "title": "水利部和中国气象局6月6日18时联合发布橙色山洪灾害气象预警",
+        "source": "新浪财经",
+        "pub_date": "2026年06月06日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tLW5hYzZwVGtaTTNYTGxOcHNpYnJDQi11QUZ6aVlRb0JuVFBBR29SX2V6U2tELWF2MXFZbGEya3otX1VsRjhqTGdYNTl6c2xIeXFtLWxmdkQzSzlqQTZlaGFn?oc=5"
-      },
-      {
-        "id": 5,
-        "title": "六大科目实景推演 城阳区开展2026年防汛抢险实战演练",
-        "source": "信网",
-        "pub_date": "2026年06月05日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJUjZhb1VMektUeXFOR2NPQlg0U2xDRGk0eG9WcUpaNnF3MDZHbkgzVXZ4NEZDOUotZ0J3YjhocmJHNDZJb2JyUVpWUEJCLXprbW96d1BUNA?oc=5"
-      },
-      {
-        "id": 6,
-        "title": "6月防汛防旱防风形势分析_通知公告_江门市应急管理局",
-        "source": "jiangmen.gov.cn",
-        "pub_date": "2026年06月05日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQUVpQ1pDdjVBUnJfZ1FMdmlDMFl6WW1IenV0LS1yWDRTUXB5Z3hQdkdLWnd6QzhYVVZ1SmlGdUNTczE3UXlmc19NbmZ4dXMyV19SemZFc21PQXdMaGVXeGFDNDNzaUNXT1U3bjBZS1YtbUY5MHluLXNVdVpEU1VvVG5n?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qX0ZfMW9HZGg1OVVncmxzY1g1eXd2TXdfX0VyVGpUcVdGSkMzRVYzaGJrXzFuT0FrYzNVb19SakpSVlhVdDZIdGMtc3hjME10Y2RldzdvWVRIMTlGWURkREJzREtQZWx5QWZyTHlXb2w0clNkaXZjVw?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 7,
+        "id": 5,
         "title": "宜丰县芳溪镇： 织密水利保障网浇灌丰收好年景",
         "source": "大江网",
         "pub_date": "2026年06月05日",
@@ -72,47 +54,38 @@
         "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82Y0k3VUp2c2hZdXgxX1hDMEhMMlNOeTNZU2VfdmtxWEVCVG1NTGpWbVNVLU1SSUgxWXMwR2VWOTU2dVk0cGZhUlhsazBrOWVRV3Rxd3BHQzVXUnVPbXVrdGMyRjE1aGJOVmNCYw?oc=5"
       },
       {
-        "id": 8,
-        "title": "与水“核”谐，守护核电生命线——中国水利水电科学研究院研究窒副主任韩瑞",
-        "source": "中国核电网",
+        "id": 6,
+        "title": "深化能力作风建设·奋进“十五五” 以能力作风建设为笔 书写龙江水利高质量发展答卷",
+        "source": "新浪财经",
         "pub_date": "2026年06月05日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjbUotcGpJLTRiSUZBbmwtVEhSTUJMU1RXNkl5Ql9LSFNKS1JpR3U1VllUUllfMzZjejk1SERsdHdXNzhLZHA4UGhZRXc5dXJ3?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40ckFteVlibUtLb1c5Z3hzXy1XVGtSSkx3QUJnWkY2cndjNjVsR0lOb2VrcnMyNmpCdFNWT1FITHdGZlduTVlXenk3QlZ3aGo3SnVQTi1qbFJESy0tMlQ4NGlvd19JR0ZMS3FfUlJJdUEyb1VsMlJDU0UyWEo?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 9,
-        "title": "柳州：精“节”细管守清流 智解节水“新密码”",
-        "source": "搜狐网",
-        "pub_date": "2026年06月04日",
+        "id": 7,
+        "title": "山西省水资源管理工作今年将打好五大“战役”",
+        "source": "新浪财经",
+        "pub_date": "2026年06月06日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVlhueVJINDUyRmFxcHpvNU1GajBNWXlZdkxZY1lDX3NTczZuQWw2RXRtMkF3MlB5eWFkejF4UFQtbUVXRWVSRTNXSUtiR2hGblVvdTVyMmkzMElELUFNOVZhaUNCRmQ5cXBYU3YwekNoendxNEdvWXZScjJRb2xaUFNtdTRhWlh4MHozUQ?oc=5"
-      },
-      {
-        "id": 10,
-        "title": "答好高峰供水“民生卷” 守护全城用水“安心泉” 溧阳水务多部门联动打响夏季保供攻坚战",
-        "source": "jstv.com",
-        "pub_date": "2026年06月04日",
-        "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zU2pXTXpRNzg1WWxvWmF1QUkzV1VsVDJRQnlTcE5MWHVMNWNzb2Rwc1U5MEp2NHZYZXB6aUFsNHk1Qk01TGdHb2oxRi12Nmk4ZVlZcnRNaUZ0LUlNbjdwQXdtREI4UWhf?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUnJmMWRoOGp2ZVdJSVVlNDZZdUxPcG5nZjJRdTkyUmJ5MWR0SmJVRHo4eWl3cmFTN0dIWk1yYk9JNjdNdWk1V3BGRWotZTlUUXNnZEdPbTVhM3UwQnctMkg3Yk9hLXZtelB4TkxOMnhUS01kRElJU0UweE5kM3d6Z1BabThmOE9oMklZMWd6aEFWanpwdE9xRm5kUGhyZjdMSUlYbUZEaGpRdHU4S1F2UEVuRDk4OUlZeVV6ZGp4dUpkd2hVSXEyXzIzaUlCcWNSVGVUSkdxY1FGNk9LeWFfWnFmNWh2XzhTY3N2T3Y2anhpd1pxWGJlZTR3LWg?oc=5"
       }
     ],
     "水利工程": [
       {
-        "id": 11,
-        "title": "广州市增城区水库移民后期扶持纪实",
-        "source": "央广网",
+        "id": 8,
+        "title": "水利部公布2026年全国769座大型水库大坝安全责任人名单",
+        "source": "新浪财经",
         "pub_date": "2026年06月05日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1ZFdabEpMSWJ6azhnSzV0VTAwb21NRTN4TmNENVFxSHVxRE0tMnlQNkJZRGswVXRwWjE3bnYtaVJSSFlMZnBSc1hpREg2ZVpFbUt4d050NkUtLUdlRmVIZTNMT1dtaUlNV0dqdFBueWw1LVBnZUd2cGExcEt5QQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPSmZERGFUb0w2RW1VY1d1WEpfdHgxMnRrUV8weHBMR3U5ZlZuWUp3WnBBbTA3ZGRmZE5IY3pCUFlibUFNbDcwWXZJSGRGVGxBX2phMzZhRnlrMXc4Z2h5UEZ1RTlfdFV4ZWdibEppWmRQRU14ZnVjWUU0aE9Sejd0YW1FZWRLZXNXQlM1WkhxX1p2SWJyN3N0MW1NbFI0NEp4am5VUEdLbHAzMFo0T3dZRGZxZ2FZNXVJbV9hT184NGdQNVlSWXNfckNXZUIwVWxhX29NNVJNY3lTemE3WEN2ZTNBckJwd2hiRThxU2lfQldUdXhHUmRIU25ZLWNIajFodUMwWm9oeDM2NTY0WjFyMEljSmo0Z2lfYThfWS1Ta09aemNlMmZ0UmItSXNoeFo3SGowaEw5aDNQNEg4WHFhRTJfUWNSMEdPai1POA?oc=5"
       },
       {
-        "id": 12,
+        "id": 9,
         "title": "中国日报看湖南｜进城记——湘西吉首大兴寨水库移民影像纪实",
         "source": "中国日报网",
         "pub_date": "2026年06月05日",
@@ -123,69 +96,33 @@
     ],
     "政策法规": [
       {
-        "id": 13,
-        "title": "内蒙古引绰济辽工程：以建管一体激活水网效能",
-        "source": "chinawater.com.cn",
-        "pub_date": "2026年06月04日",
+        "id": 10,
+        "title": "广东建工：紧跟国家水利水电建设政策",
+        "source": "新浪财经",
+        "pub_date": "2026年06月05日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZSXliN3dMUGZoTFZHZGYtcXJNaUFRelZ6YjF0UzZkU1VHOFNNaUwtMDFvSmFhZmJyWmFxNGFYeHFHSHZ6MkZ4QmZEYmk3WjBfcVBOVHZ3YkVKSlR1ekpfVkh1dGZNVU9xYnhjY0Fn?oc=5"
-      },
-      {
-        "id": 14,
-        "title": "中国水利学会团体标准在水博览会上正式发布",
-        "source": "凤凰网",
-        "pub_date": "2026年06月04日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10c2ZZV3pNZjMxR2tyZlRNNDUwdGVvSnplQ2ZTbHZwYWhqY2hpNlpiZ3J5Z0gyU3Vsd09SbXgxaDRHVHAxd19Jcg?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHlaT3ZHdDVQeXgzY0ZCajBOYjFVVmRzWHYzS1ZHOGYxRmJYZFlUalE0R2J0ZDBvMl9RYjJXaW0yd2ZrQlZRQXpzY0FsRTcxTmpLSFAwMHM1X2dwUzBUaWNjTU1HRzhVVktqQWtIV3dxX2NPT242V1RRQllXWURCNWo5aw?oc=5"
       }
     ],
     "水生态环境": [
       {
-        "id": 15,
-        "title": "重庆荣昌：从试点探路到样板出圈河长制十年绘就碧水幸福答卷-视界网",
-        "source": "重庆手机台",
-        "pub_date": "2026年06月05日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wU0J2a1AydURkMEdJNVc1WlhrUWJkaUxSUmEySHo5TmtYV2NqTlM5OHJDUTRxUlVJenpKcTZ5dGpLaF9GR2RXVXpyLVlEbGZ4WTNpZE9hOEFidkowMTFob0ZQdlhlSGM2RVFHazAyZzdjbXBLWm5yeHNuaw?oc=5"
-      },
-      {
-        "id": 16,
-        "title": "七年精治焕新锦江 中交助力蓉城河湖长制交出幸福答卷",
-        "source": "中华网",
-        "pub_date": "2026年06月05日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFOXpNVjdOaFFmUE9Ec1pHQ3VvWGF1RENLRGZpb0JubjNMa29PZVBrZmJUa1NuM2wzT3JzN21vOHJGZjhHbDRCSFZQOExIZkRWTFhaRldWRE14THFCdVl4eWR2eXVqS2JQOVQ4c01n?oc=5"
-      },
-      {
-        "id": 17,
-        "title": "“十四五”生态环境成绩单：PM2.5水质等多项指标创最佳",
+        "id": 11,
+        "title": "美丽汽开 ｜ 汽开区创新“企业河长＋”机制为河长制工作增添新动力",
         "source": "搜狐网",
-        "pub_date": "2026年06月05日",
+        "pub_date": "2026年06月06日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0VtdmZvVDJjWGNabFNEczlNR2Q2cWVmUzlvZ1l1d3Q3b3dzektqT25yNFUzZTQ4WGJ3Ny1PbzFwelA4azQwZGpmelMweE5PVHppMmJTYzU2M3JMOVZGRWZZcW1ZTk5UZUp1S2hqV3UxOWc4STU2c3RWT1puQTBGT05jNTM5cGdp?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNG9JaFhIWTdxc05BdWhESlJoZWFidS1lb2xEUFltQThRd3h1SEdtTEVvbGIzYlIzYnhZZEpPMDhJeGZYSDhZejJOLTBMbV9oWHNhdWR4TnZFcTBYYzZ2MDI2UW5EVWFZMlNrX2dndnppNTZHZTlqNnZnaFJCYmFWRWJVNnltWUQ2b1pZUw?oc=5"
       },
       {
-        "id": 18,
-        "title": "幸福河湖的浙江答卷",
-        "source": "chinawater.com.cn",
-        "pub_date": "2026年06月05日",
+        "id": 12,
+        "title": "清远北江边这场活动，发布了志愿徽章，还“走”进了美丽河湖",
+        "source": "搜狐网",
+        "pub_date": "2026年06月06日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GT3AtQlBjUXRXUzRjSERDeVhJRTZ0Q3YzRF9WTjhzQ21ONHlTbmxsb1JSRWp4QjE5UVQ1Umh0YWdpQ2ZETFZ2cEQ3TVBmWWo1R0w2YjJrNkJCb19YYTkyUXZncndudUV3STgzSng5VUVTQQ?oc=5"
-      },
-      {
-        "id": 19,
-        "title": "山西屯留：绛河蝶变展新颜 “幸福河湖”绘就城市生态绿廊",
-        "source": "sx.chinanews.com.cn",
-        "pub_date": "2026年06月05日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VVDhxREZiVkRyUFJadTE0aXZoazdaVk1yODFWbFQyUHZ5U2hVcWxGZUNmMXJuT1piVmpaN051bkRKUjhUT1VzNHJqamx2OVh0dHpTQ2t4TFJLTmpwcHk3NzBDY3gzUnB3?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORjM5Y3ZHN0R0OHJYVGNfRzYzdFpqVElIUWhodVhfa0JVSElPX1M2d05JTFN0bUE5VmdKbFo4bE1NOXRmRFpHUk9lM0dnN1o3QWVNUVdsU2FyUkpZYUJKdWdWMzBjX0dJLTJ4MV8weWZPRUt6ckRaR0hrcDRzdWlBelpmYU9vdDRzd3phOA?oc=5"
       }
     ]
   }
