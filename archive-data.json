@@ -1,5 +1,134 @@
 [
   {
+    "date": "2026年06月07日",
+    "news_date": "2026年06月06日",
+    "update_time": "2026-06-07 00:00",
+    "total_news": 12,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "永州市安全生产和防汛工作视频调度会召开",
+          "source": "湖南红网",
+          "pub_date": "2026年06月06日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hOXhXcFBsck1tVzg3UnQ4d25zOVkwR1lzLTJHZTk2Q21IVGhISEI4Tzk3NHdxVXdqbExrdE40bGg5TFUxZ2tnYjg5SnhNNnB3c05TeTV4MTZDOXVOVnBoSGVR?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "2026年山东省防汛防台风综合演练举行",
+          "source": "央广网",
+          "pub_date": "2026年06月06日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWMDVVeS1GTmJic19uLVowUzRHQWhmSHp0ekJUNk8zdWotaDhkdzhlVUd5c1BJQmI3SzU0WkZUT3lZYUUyMnFKenhsNXRuQllnaVVCaVVxZ0Y3YXdvdDZaSDFtdzk5eWFuQmhz?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "山西大同云冈区未雨绸缪筑牢安全防线 全面做好汛期防汛备汛工作",
+          "source": "搜狐网",
+          "pub_date": "2026年06月06日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdjdwWlBzLW80OExrdHFVZVRDdHhXcDBsWW5QMG9aMVllX2FoTU1XbUhieFFMRlpGQzAtWkdDX0pNUV84TTgzSUxNNWs5VU14MktSSFQtWU0xcU5vcmx2SkhQUjZQb0xJMmRjVEJJdkxnZWFJU0ZFNXM4Ri1sd19xV0wteWNNTVZseTBMTw?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "水利部和中国气象局6月6日18时联合发布橙色山洪灾害气象预警",
+          "source": "新浪财经",
+          "pub_date": "2026年06月06日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qX0ZfMW9HZGg1OVVncmxzY1g1eXd2TXdfX0VyVGpUcVdGSkMzRVYzaGJrXzFuT0FrYzNVb19SakpSVlhVdDZIdGMtc3hjME10Y2RldzdvWVRIMTlGWURkREJzREtQZWx5QWZyTHlXb2w0clNkaXZjVw?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 5,
+          "title": "宜丰县芳溪镇： 织密水利保障网浇灌丰收好年景",
+          "source": "大江网",
+          "pub_date": "2026年06月05日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82Y0k3VUp2c2hZdXgxX1hDMEhMMlNOeTNZU2VfdmtxWEVCVG1NTGpWbVNVLU1SSUgxWXMwR2VWOTU2dVk0cGZhUlhsazBrOWVRV3Rxd3BHQzVXUnVPbXVrdGMyRjE1aGJOVmNCYw?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "深化能力作风建设·奋进“十五五” 以能力作风建设为笔 书写龙江水利高质量发展答卷",
+          "source": "新浪财经",
+          "pub_date": "2026年06月05日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40ckFteVlibUtLb1c5Z3hzXy1XVGtSSkx3QUJnWkY2cndjNjVsR0lOb2VrcnMyNmpCdFNWT1FITHdGZlduTVlXenk3QlZ3aGo3SnVQTi1qbFJESy0tMlQ4NGlvd19JR0ZMS3FfUlJJdUEyb1VsMlJDU0UyWEo?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 7,
+          "title": "山西省水资源管理工作今年将打好五大“战役”",
+          "source": "新浪财经",
+          "pub_date": "2026年06月06日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUnJmMWRoOGp2ZVdJSVVlNDZZdUxPcG5nZjJRdTkyUmJ5MWR0SmJVRHo4eWl3cmFTN0dIWk1yYk9JNjdNdWk1V3BGRWotZTlUUXNnZEdPbTVhM3UwQnctMkg3Yk9hLXZtelB4TkxOMnhUS01kRElJU0UweE5kM3d6Z1BabThmOE9oMklZMWd6aEFWanpwdE9xRm5kUGhyZjdMSUlYbUZEaGpRdHU4S1F2UEVuRDk4OUlZeVV6ZGp4dUpkd2hVSXEyXzIzaUlCcWNSVGVUSkdxY1FGNk9LeWFfWnFmNWh2XzhTY3N2T3Y2anhpd1pxWGJlZTR3LWg?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 8,
+          "title": "水利部公布2026年全国769座大型水库大坝安全责任人名单",
+          "source": "新浪财经",
+          "pub_date": "2026年06月05日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPSmZERGFUb0w2RW1VY1d1WEpfdHgxMnRrUV8weHBMR3U5ZlZuWUp3WnBBbTA3ZGRmZE5IY3pCUFlibUFNbDcwWXZJSGRGVGxBX2phMzZhRnlrMXc4Z2h5UEZ1RTlfdFV4ZWdibEppWmRQRU14ZnVjWUU0aE9Sejd0YW1FZWRLZXNXQlM1WkhxX1p2SWJyN3N0MW1NbFI0NEp4am5VUEdLbHAzMFo0T3dZRGZxZ2FZNXVJbV9hT184NGdQNVlSWXNfckNXZUIwVWxhX29NNVJNY3lTemE3WEN2ZTNBckJwd2hiRThxU2lfQldUdXhHUmRIU25ZLWNIajFodUMwWm9oeDM2NTY0WjFyMEljSmo0Z2lfYThfWS1Ta09aemNlMmZ0UmItSXNoeFo3SGowaEw5aDNQNEg4WHFhRTJfUWNSMEdPai1POA?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "中国日报看湖南｜进城记——湘西吉首大兴寨水库移民影像纪实",
+          "source": "中国日报网",
+          "pub_date": "2026年06月05日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEV0NJbUxCbUVxeDlaMlJBSWxPNGNmYVJMNXZKR3JkZ3ZDUV90SUlpUW9EanZ6SldkSTBHTzVVeG9zWGlwcThQWkl6QW51eDZvMUQyYndvUFBPWmVyeHNHcF9CRG9PUkVtQ2tQdmwwUnVMWVhMRE1YZ1pJZw?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 10,
+          "title": "广东建工：紧跟国家水利水电建设政策",
+          "source": "新浪财经",
+          "pub_date": "2026年06月05日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHlaT3ZHdDVQeXgzY0ZCajBOYjFVVmRzWHYzS1ZHOGYxRmJYZFlUalE0R2J0ZDBvMl9RYjJXaW0yd2ZrQlZRQXpzY0FsRTcxTmpLSFAwMHM1X2dwUzBUaWNjTU1HRzhVVktqQWtIV3dxX2NPT242V1RRQllXWURCNWo5aw?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 11,
+          "title": "美丽汽开 ｜ 汽开区创新“企业河长＋”机制为河长制工作增添新动力",
+          "source": "搜狐网",
+          "pub_date": "2026年06月06日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNG9JaFhIWTdxc05BdWhESlJoZWFidS1lb2xEUFltQThRd3h1SEdtTEVvbGIzYlIzYnhZZEpPMDhJeGZYSDhZejJOLTBMbV9oWHNhdWR4TnZFcTBYYzZ2MDI2UW5EVWFZMlNrX2dndnppNTZHZTlqNnZnaFJCYmFWRWJVNnltWUQ2b1pZUw?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "清远北江边这场活动，发布了志愿徽章，还“走”进了美丽河湖",
+          "source": "搜狐网",
+          "pub_date": "2026年06月06日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORjM5Y3ZHN0R0OHJYVGNfRzYzdFpqVElIUWhodVhfa0JVSElPX1M2d05JTFN0bUE5VmdKbFo4bE1NOXRmRFpHUk9lM0dnN1o3QWVNUVdsU2FyUkpZYUJKdWdWMzBjX0dJLTJ4MV8weWZPRUt6ckRaR0hrcDRzdWlBelpmYU9vdDRzd3phOA?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年06月06日",
     "news_date": "2026年06月05日",
     "update_time": "2026-06-06 00:00",
