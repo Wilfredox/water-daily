@@ -1,5 +1,94 @@
 [
   {
+    "date": "2026年06月08日",
+    "news_date": "2026年06月07日",
+    "update_time": "2026-06-08 00:00",
+    "total_news": 8,
+    "category_count": 4,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部启动洪水防御Ⅳ级应急响应 会商部署高考期间暴雨洪水防御工作",
+          "source": "新京报",
+          "pub_date": "2026年06月07日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43X0RFNUMzQ1d0VjI5TmxOS0w4VGJMUWpfUWpQMnhOOHo3djNrR0c0bDlITlE4WlpnRDVTMVNaV2xPN3N3N3RQRGdNeVVxRk1KTVNqZkJ2c0l0UWlBc2ZuM2RvSUg?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "重庆：将5区县水旱灾害防御响应提升至Ⅲ级",
+          "source": "新浪财经",
+          "pub_date": "2026年06月07日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDFYaFR3ZzVRcTNNQVZxNmZYZW5IRXMyVUVaZWJ4d3dHV19lcHBza2xPTWNaTWM1SFFiVUZlckJMZHZEVXRjRmlnZFVta3dsWmxtRVByR0NzWURwcVpMMlp5YWJTZ1ZkTGw1TVBHS012em8zZFdmWXRGSjhPa1Nib3FLbnRnUWM2NHJDXzdVd3JXMi1GSUwwTg?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "国家防总针对广西启动防汛四级应急响应",
+          "source": "新京报",
+          "pub_date": "2026年06月07日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91NXNlcHRCQ2JodWRVaTI0T19CdGpxVlV4SnVXeEpKc05ycXhaeG5xYkY5Q3NNVExsM0xFZ2dzRnBoMkFMYXEzTEpRUVpCNk00cUNQWi1ISHRqcFUydVZaUmlFM18?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "水利部和中国气象局联合发布红色山洪灾害气象预警",
+          "source": "新浪财经",
+          "pub_date": "2026年06月07日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PcTFzT1hIcGVGd0JGQTN2TzdnRjFKakdOZFQyT2FiRHRqMDNlVk1HZkt1RnhkNVZTbUNZRFpTQ0d4YkMxcHNmYlhvQUJZVGd1R2dSci1PRGtRMmVBRzdmS2EwMGtNQzhnTzVjeVdzaVhqUnJveEpFeQ?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 5,
+          "title": "关志鸥赴长江水利委员会和三峡集团走访调研- 湖北日报新闻客户端",
+          "source": "湖北日报传媒集团",
+          "pub_date": "2026年06月07日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9obk1JcHctaDlZM3RNaGtaalJBZGZSd0xfdllVVktCSkRYbVVOM1ZNR3BudVdaaTBhaHpDSDJtQXp0b0VvR1JNUWlHbVNzeE5XS0hNWEdESUw?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 6,
+          "title": "山西省水资源管理工作今年将打好五大“战役”",
+          "source": "新浪财经",
+          "pub_date": "2026年06月06日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUnJmMWRoOGp2ZVdJSVVlNDZZdUxPcG5nZjJRdTkyUmJ5MWR0SmJVRHo4eWl3cmFTN0dIWk1yYk9JNjdNdWk1V3BGRWotZTlUUXNnZEdPbTVhM3UwQnctMkg3Yk9hLXZtelB4TkxOMnhUS01kRElJU0UweE5kM3d6Z1BabThmOE9oMklZMWd6aEFWanpwdE9xRm5kUGhyZjdMSUlYbUZEaGpRdHU4S1F2UEVuRDk4OUlZeVV6ZGp4dUpkd2hVSXEyXzIzaUlCcWNSVGVUSkdxY1FGNk9LeWFfWnFmNWh2XzhTY3N2T3Y2anhpd1pxWGJlZTR3LWg?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 7,
+          "title": "长春市汽开区创新“企业河长＋”机制为河长制工作增添新动力",
+          "source": "央广网",
+          "pub_date": "2026年06月06日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05RlRuOU5ES2xBNDkweUxuTmh2d3FtZU1VdDJqZExzeUZ6WUNXSHlYT29NUlZBYzdUUDhER0lTa2d4aVlFbzZGQlpOSkpYWUJGSFhYWWZ0QzBxajQzSHBOaFc2am1CY3I2Z2lpbzQtcDk?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "浙江27个县（市、区）率先建成全域幸福河湖基本格局",
+          "source": "新浪财经",
+          "pub_date": "2026年06月06日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTEt0OU9NR2NvVk5COWFfSXRRbmsway0zdnJUTFlNblJmemlUSkljZ2hXYnJYY1UycDdkN0hiZHV1VzVlTWFMZ050Ti13enVsWlJ1MDJNV3hPMHVTLXN5RzhSdjdxWmFsRG1Ib2llRE5MdGh3ZUM2dWZwRU5nanJ5aXNoZGc3LWFzRTlhcWhrbzFlVElmZjFFUHR3LWhBLXFmVjZMcm5UQ1M2Z3M1M1g5WTRZbzI?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年06月07日",
     "news_date": "2026年06月06日",
     "update_time": "2026-06-07 00:00",
