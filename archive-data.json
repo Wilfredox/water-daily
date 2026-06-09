@@ -1,5 +1,204 @@
 [
   {
+    "date": "2026年06月09日",
+    "news_date": "2026年06月08日",
+    "update_time": "2026-06-09 00:00",
+    "total_news": 20,
+    "category_count": 5,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "东台市三仓镇民兵抢险队亮剑防汛应急演练显担当",
+          "source": "ycnews.cn",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zdTFsTjFvNHhxNnB6c1gzRWlvMmdsVmE0TFJuNWpjQ0szNktvOWdySGxOWTR3ZXdaVmlGMEFFSGFJR1BUYTBka1JWT0FaY0hKMWhRQzFpTkRDTU9iQWdCcE8wZXhtZ3ZOMWR3?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "迎战强降雨，凤凰县全力开展防汛应急转移安置工作",
+          "source": "华声在线",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIdWZMb2xXZW5JWFEzLUdfUFl3bnYwZUhCRFk3ZWVuUnlMaWRTWkc3a0dYT2trbFU4RF9fcDZGWk1PbHYzdUhBbE9leENpU28yQU9ydVM3VFpsUUkycW1v?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "以练备战筑牢安全防线——桐柏县城郊乡开展2026年防汛应急抢险实战演练",
+          "source": "hnjjbs.com",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43Nk9lNEh4blhDSkphTEdqWWFjamY2RU9JT0FNLThZVGlzcFp0T01MWFNpbGdfZEFsZFdiOXRQT05SMExWMEpHWXNvbW9UdHY3MWVfcnZ5ZVZYRm93N21MTko4Y3ZjYUlJMG1F?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "以练备战，筑牢防线——金家岭街道开展城市地下空间防汛应急演练",
+          "source": "半岛网",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBueGpCRGI5R24zenU5MGlPYmVHdnhBbUFEU1lzREFuY19WY0JoVVMzNVdMQW4zeVhFRERjV0IyV1ladTAxeVRxcU9PRzFwWHA1T2xndTIwTlY?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "人人讲安全 个个会应急 淄博移动开展防汛抢险实战演练",
+          "source": "搜狐网",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc05CY1lGV2k1WENidXZ6cTNpTTVXMUZhUkdfWVV5WS0yU253cTNOQXk5bHhVbVlrSWkxdXRZVUxWb1hOSnFxdHV5a2lSaW5kdV9IS05fWXdtTHA1YnNXaklmR3BIaGMxZFZrRU9XbGFmT2ZOeEc4MTZmbzlQR3pJcG40Mm1iZndn?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "福建启动防汛Ⅳ级应急响应",
+          "source": "新浪新闻_手机新浪网",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ0xCcWExaTJIRGQ2TndYOWt5RVYwOUZEVFhyN1cyUUJiWnlRSmpsNEIwWkN0QjFESmt3ZVF5X25taGlVdDRmQW5QS0phNnJWVVY3V0NybllWTGNONndXM1V6cmlpekFmNzBwYnZKQnZ3S091ZDVDelRKRnZDcVE4UG9LTDhHV3NfM0hPaldNS05tSFBSRk9UN0JpLXJwMmlaY2RpSkg0b1hYTldHdUc1TXp3U0laYkRLM0tiLUlsZlh0VGRjU1JqQ1k3SGRkMW8?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 7,
+          "title": "甘肃设水利治理“参谋部”",
+          "source": "新浪财经",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeHNxSm9lR0JFR2x6VS13b0F1Y1Y2Uk9aMW9uOHBBalJSdzdlazZHVjBUMy1MSDFSVkhfQUk0Q0hRczhXODJjdGZXOFNEQzNfYkkzbkxXUEp4Y3RtZXkza3gwWTd2QjdaUHdVQVJBeXYtejJ3YmxxUFJSWWpMcVk4U3o4dlR0VUx0SXFaV09TdGlFY09CTzJVRVBhcS1oNzVxd3Ewb2ZERmg5Zlp0NTFB?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "51WORLD发布WIM2.0水利水务智能模型平台",
+          "source": "泰伯网",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kWEZaaVlwMzROQzI1d2JjdU1ST2xMQ3p5bElLdXo1ZkFkM2EzOE5ETEwtZE1pZ3draEN5b0l4ZFdCRVN1cmVNYmpHbnVrVlNOVGQw?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 9,
+          "title": "珠三角供水牵头编制的两项数字孪生团体标准正式发布",
+          "source": "新浪财经",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcVZCR3FjTFY1bVdyLVIxUmZwTEFHVWg4VHI3dml1Q0NiWnR0Tml6WFZHN3Y0MklUQjNJcXBZZGJhTGNadVVuOW5OT2lQYlJTUWZjX3paYzQxbW1qQkxqc0dOcTQ3RXFYMVZEeFJLVG5weGxzRnA5LWR3YVRGY1BudGxFV1JaTjdMdnM4WFVKRWtiQ1hmS3lCa1JJeUFzQ2h6Vjk3WkRDLVFoWm81aWw4?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "官渡区：紧盯突出问题全程督办 保障农村群众饮水安全",
+          "source": "新浪财经",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmlFM2ZmTTFmVlhLenE2SDFUZzJ5SkdxZHViVUpfQlIyLVFKMUJZUmRneXBzWDk4SDhGMHYyZjM1Sl96WFVLTUJtalhCUjZfYnU3MzZzTzlXdUstdi0yNmd2TlllMzlhZkpsQ0Nxalh2VGNmeF9MLXVuMF84T1Q4VmE4dF8yT3ZXcEUtRnpGdTJqSzZxVENkSA?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "张掖市全链条构建现代化节水制度体系",
+          "source": "新浪财经",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVkxSZWhrNG5tdU0ybG9OU2xnQVByVl9WalRKRjJtOUhkMDJtQ3oxZm1MV0R4enNYU0pmU085UWVSenpGNXV2Y3BxOUsteW56dEV2elRPZTVxZHBDakJDNDRiX3NLS2Nmc2NCMWJlbTBPZ0hvTFVNV1VNaGd1dlYyRnVXczlQNXBEc3V6TFhQbVg4ZDhzQVB0bw?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "甘肃水投集团榆中供水公司：全力保障“两考”期间城乡供水安全",
+          "source": "gsjb.com",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ReXI0QkhTczBTNHF3UGU2MV9LR0VBazJZaFJ0SzNCVGcxVFI4MndaTFJQaFZZT0I0OUhqRzUtWkdXYUZGdW5NOXl0WnF0Z2lhcUtuc0l1aWJsc1c1Y1VpX3l6VUE?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "新《供水条例》实施，供水服务评价如何与时俱进？",
+          "source": "中国水网",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54OUVrZFdvR3BvNEN2N1JiYld1SjNkVjJxWi1BYzNza2p0NDFkZmlTZS1Ma1BEMTd1S3dkQnJhMks3VndrZFgtVGNnazZnZUh1RnJFLQ?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 14,
+          "title": "三峡水库提前完成年度消落任务",
+          "source": "新浪财经",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWUFkQlU1ZHFwc3FUTTA4NFY1SlBhc3VuOUN2eWo3RlA5VDNGZHRlVmtndjRDUHNTaHlXQlJvVUhQZm4waVBoZndzY1BuZUhVMzJqaTVSYUdVV0lsX19tY2NXZW5yNHdKZVhUc0tOQzhKcDdpMUhhbUI5Mnd6YTdIbFJhd2RNYlJlc1ptVDRMR01KSVpqaTl2Nk9KbHNFRGRHRlU1Ukg1c2lYSGtfRW93?oc=5"
+        },
+        {
+          "id": 15,
+          "title": "岷江水喝了2000多年，成都“第二水源”蓄水了！",
+          "source": "搜狐网",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0h1MnVwX0JwS0pIZHdXWEVrWVlSbVhQNlh5REVmVU1tbUhKVmdCdUc4THR6aDFlVXMyZlFzNUtlZ3JKWXdVTjl0MVJGRS1UVnM0ODQtd0tLYWRJenp0YUFtaGs5QTFkc18zT19JQ1psM2tVNVc0QWtwdWFTQm4zOEQtb3lsS2U3?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 16,
+          "title": "上饶市创新推出河湖长巡河巡湖“六必巡六必治”工作机制",
+          "source": "凤凰网江西",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBka1BSQkNPcklmWnBSNEhNNUxLd0JRcUl0cXMzbzgtQkMtVk5iT21ZeDFCU1Y1VlhFLU1NTjRhRF9yN1Q0VVFFR0JB?oc=5"
+        },
+        {
+          "id": 17,
+          "title": "莆田涵江区召开河湖长制第二季度推进会",
+          "source": "莆田新闻",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmNUprLS1qTFl0Y2l0Ui0tMzNwYkdReGZ1LUtSMkVJWGdYQi13bkVBTENla0ptZE5OZ25SR0NxYkdfWVVnc0s3N25zZGI2TGVWdHM3QXlnNkEwdnBkb3kxOFRISDc?oc=5"
+        },
+        {
+          "id": 18,
+          "title": "以法护水，中山河湖长联手河湖法官开展普法宣传",
+          "source": "搜狐网",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JRUFYMndRRW44RlZsWkh5RzM2bUNCNGJwQi1aYzNndjc4cWtITGZ4MHFwYTRkX0EzQWtpYUdyUG5OMXc2M1RiOTVrRmJHTGxvQlh2MS1R?oc=5"
+        },
+        {
+          "id": 19,
+          "title": "桐城：深耕“幸福河湖”建设 绘就文都水韵新篇",
+          "source": "人民网－安徽频道",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15Tm5ZQ24yRkZERDdLSDdDY0JUaWpmd2Q0SmlFSldaRV9Ma0NFQ0FzdUpKY0dGVzYtaVc4bXVYLU5Mckk1cnl2ZGZ5aG8xYTRTZzBCQ2xKNXQzMkhNeUZaek0yb1hZVUFIa3c?oc=5"
+        },
+        {
+          "id": 20,
+          "title": "贵州已建成国家美丽河湖21条（个），建成率达22%",
+          "source": "新浪财经",
+          "pub_date": "2026年06月08日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYVVJdEw4VzdiamJGRnV1SWF1em5OaDIzUUktbG1Gc0EzOU5IWkRxcVpNTzV4WVgzc2dKSW1XaHNwVVBBTXZzZElpT0lOd2tFWnJUdl9McXdrTFM3VDNqSmdzUnZCN2lEeVllYmd0dF9TTUwwRmtwUXFNNmFpQnQzNWNLSEhBX2wzZ1hGTmVZVFgzQzJEYnlEYQ?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年06月08日",
     "news_date": "2026年06月07日",
     "update_time": "2026-06-08 00:00",
