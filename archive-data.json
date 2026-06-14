@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026年06月14日",
+    "news_date": "2026年06月13日",
+    "update_time": "2026-06-14 00:00",
+    "total_news": 11,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部针对7省份启动洪水防御Ⅳ级应急响应",
+          "source": "人民日报",
+          "pub_date": "2026年06月13日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HVjV1Q19MdVp3X0h1UTlMX3QtaDEtaDhrcC1DbVM2WUJoX1pZWldDTFBrajF6ZDg3b3BiSkdXX3k1MTB6aGdXcmRjcmN3Ql9QOC1sS2FfRTVlbFRzNFBUb2VSb1pHRkdCYzRENnVfam9BajZBWHhIVWJIdUdqX1k?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "华南将迎移动性强降雨水利部部署防汛｜即时新闻｜中港台｜on.cc东网",
+          "source": "on.cc東網",
+          "pub_date": "2026年06月12日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdTNLRmVLLVJTSHRRYjZkMlFFaXhrQ0U0bldGd1dCbHFyelYwTC1Ra1hNZ0hpSlhldUZTUzhkdElKU2QtTFcwMl8yay1DLUZIQ3VnWVZlU2t6VnhocEd4SHlxc05DbTgzNGtNb21OX0t5eS1sMEF4NlRZXzU2ZVU2XzRGR19HSWZiYllxQjIzOA?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 3,
+          "title": "水利部会商部署强降雨防范应对工作",
+          "source": "新浪财经",
+          "pub_date": "2026年06月12日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeXNEczNuZUppZUVGUDdmNFl2TkRRbU91eWJhaFctQkliemUtWEo0QXlHc0NrQXc5MHdSM0RvTm9WTnQtemZDaXZsQS11RDFZQlp3dUpEYkwyOW1uV3NSdkNxdUlGTzdBa0hFVmp5bElDOVVWQ3JsZFoyd0FoMm8tQXBpOXhyaDJSMEI3SFR6cw?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "宣威市水务局强化水行政执法筑牢河道安澜防线",
+          "source": "zjw.cn",
+          "pub_date": "2026年06月12日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tZHFQak9YVHlpMkdIYWZkOVUwVHI1OGp4X0xObFo3cDJZQWRhQ0J6TmU3YmVlRFQ0YkI5RG9Vd01OOGx5UXhNVDBQOA?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 5,
+          "title": "休宁推进农村饮水安全和污水治理项目建设",
+          "source": "ah.chinanews.com.cn",
+          "pub_date": "2026年06月12日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fV29RdHQwODFVSTlWcG04b3NDNGZlSVdSNWxjTjNsbk9XMjR6ZDQ0LTZXYXF5Rl9yZ05OYkh1OUpSaEdnMml4UFcxazRNc3dSMkYwQld3a2pMZ05adlJGV3FfaFY3NmhpUWg0?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "铜川市王益区：推进“四化”建设 全面保障农村饮水安全",
+          "source": "gjnews.cn",
+          "pub_date": "2026年06月12日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LZ195V1JTVVNQNmNBczhZb3ZfR29UN2QyVjh6NDJCaUJWUVRuMlYzZGtRcHlFendqUVFBWVZSVlo0MHpHNGx1Uk9XWkp6bVJhWFBxSWNn?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 7,
+          "title": "水利部公布2026年全国769座大型水库大坝安全责任人名单",
+          "source": "新浪财经",
+          "pub_date": "2026年06月12日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOQzFSbFJGYUhfUzNmZFJqOHI4amxnNGJOLV9WOGM3dGVZNnlycFZaU01JNHN6aUMwbEdlcFFhSHAxR0p0aWlla3BGMTgtV0VmdnZscms4T0dOR1RXSHRFSVNJZFJSVTdieV95MmRjYVBzbXduMmRLYmNTN0o0bDNGMWlTOGNVQmdFUWk0TFExQVpqMFVaRF91bXA1YnQ5UC1ZR2Nxd2pxbUx5YVJWQk1jV1kyTHA5eWFnZFpocnZkSWJRX2QwYVRvZHN4ZFZFSjVRQjBsQ191cnZwZG5TREhVSVdKNk1sRXBOSlRFdGZqSVAtT0J6ZGJjYkFQRjl6a1FPLUJkVEV6cnRnVkRnYXFQNTZoQ3F4LTVBWENKazctZ3ltTzlsUnk5b0Z6LWU?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "超亿元资金“蜂拥而至”，核酸检测车大热股11连板！排水防涝计划印发，水利投资表现亮眼，概念股早盘齐上涨",
+          "source": "证券时报",
+          "pub_date": "2026年06月12日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XQXJ1UWdwV3JYanhReF9veHl1dE5rRXh6dk44c3NoZHZIWlFMZzFMSXV3OXhFUk8zN3VabnQ1WmJNREFUbVViVVdQUElkamRub29Zcl8zV2xPX3c?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 9,
+          "title": "安徽出台金融新政助推水利高质量发展",
+          "source": "新浪财经",
+          "pub_date": "2026年06月12日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TR2ViSmY5MXl2cGpHVUxxajRIT2ZDekpLSlUzeXdBT3lRMzMwWndjRXF3UEJxS0FXX3RycUpKZkxncm1jbUhxd3pzbWt0a0lWN0d5Qlo1b2x0eVMwSUxNeF8xUEYwX1FjaWpOdzAweVc1RG9BNnNKaDlxR1Y?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 10,
+          "title": "郭文海调研中山水污染治理工作展览并与治水干部座谈：弘扬治水攻坚精气神久久为功推动美丽幸福河湖建设",
+          "source": "中山Plus",
+          "pub_date": "2026年06月13日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9raDZ1MnRqWGpRWVo5dURTN2NJSTFPUnI3WF9UdVNCMWd6bllsUVMyblFpRlluZjNrT2QzNjI3RC1ueXhEMHFIMVk5UHJTNUI1RjFDbVl2LWpES3lDRnhlOW5RMmN0Z1VQNkFr?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "郧阳推动“河长制”向“河长治”转变",
+          "source": "湖北日报传媒集团",
+          "pub_date": "2026年06月12日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90eURCQjF2bHBTY1V6czlyTU0wMUlJTlpGRy02dTVmeTlERk83ZnhsYTFQbEVWOVRQdWpjWFJIRnk5V0hyOWRHbUE3aENNbDdoQTdza0RyS1k?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年06月13日",
     "news_date": "2026年06月12日",
     "update_time": "2026-06-13 00:00",
