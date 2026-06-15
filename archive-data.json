@@ -1,5 +1,112 @@
 [
   {
+    "date": "2026年06月15日",
+    "news_date": "2026年06月14日",
+    "update_time": "2026-06-15 00:00",
+    "total_news": 10,
+    "category_count": 4,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "国家防总维持针对江西等地防汛四级应急响应",
+          "source": "凤凰网江西",
+          "pub_date": "2026年06月14日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5GUUxPelAxZUVXRmVXaWpwbVUyb1FYckk0a2dkam9sTkp5a2dtZVFreVEyYS14ejI1XzhaUXJGMTVSZTlOR2xxc1Bn?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "国家防总办公室持续组织多部门会商研究部署重点地区防汛工作_手机新浪网",
+          "source": "新浪财经",
+          "pub_date": "2026年06月14日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaGxDajlEQVJ1UUJ2WmRqMjluU2llX2VYX3dSdEhaUTRwY0cwMWNDb1dpLTQ4TGZqM3FTd2pqSzhIdnhLaW82LUtfRTRybDJPYnRWMWxMeFNTR1NRa3gzRUpGWDNoM2VDdVRudHYxaEl3bzE1YmdoM2FGd0dhWW9pZWx5WlJWbEF3UmJyandDYlhST3dleDd4VjJTdDl5SFpmdVlhTkE5TkM0eXJ0TEZoNlNDTFNuX2ZRSHZtWFE2azlCdkpPQnlKam1XeHdGVnJiTjB0b2hMNE9ZX0tRZHUyRnJEa3pfQXhJaGw4NVdGUjVFbXNRMFBNc0ZTb0NULUU?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "路南举行防汛抢险避险转移综合演练",
+          "source": "Sohu",
+          "pub_date": "2026年06月14日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSU14aWYtUUNoRmRybWY4YnQwbll1R0ZNWjE0M2RSZGpfTWdaYWRfN2JNZ2VNMnJVcGlpOVhKMTQ1Ul9wb3N5ekp1M3dIdURVNHNQVTRLTW5XY19HNXhHNngtVXd0LVZZTy1sZnpjUEowWHhkeWx1SzJmdkxRSEc4ZG1pajJfZU1FMzRubg?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "临漳开展2026年防汛抗洪抢险演练",
+          "source": "新浪财经",
+          "pub_date": "2026年06月14日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wY1lXSGJzRHJSbWFXNWZvQWZtWEtDdkNreHNSemZlZUJ4bUVvMjVJSVBqSV83ZDhWUHVTUXlFbElwTUxTaG16SzdEN2xvVHlrLTloNjkxeUpOa1c3X0tTWktJY29jMmp5RE02Ym5ocFp1V3gyOU1Gbg?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "广东强降水持续！广东水利防汛应急响应调整为Ⅲ级",
+          "source": "Sohu",
+          "pub_date": "2026年06月14日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXR0VmlTaHVwVzMycFFHYlVVRHR2UzRKeC1WX3VrcGNSSzB6ZU5MOE5MWUlfQW9BYndLYUU5R3ZScmczcVFCTnBrWUVuQ2JRams2QjJtVzR4bURkZnU3ZnhVZWdvWXBucXVldDRFdF9SaE5OVzlBTjVXbXItVlRMS2xoY2xCTGRYNG1kaA?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "焦点访谈 | 北方提前迎来防汛大考 多措并举筑牢安全屏障",
+          "source": "央视网",
+          "pub_date": "2026年06月14日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42YjFuTWs3UXBlX0tqZzFXano4SFdCckZEcnVNODhhY3RCb0NoZ3NIZjlpMHYxZzMwQ1M0OVBOWkVWellYY0U1cHJZWDNsVWZ2VjdWX000TjItaUpDSFV4N2htVy1INUJnNXBpZFk0WWx4ZE80aFhOWA?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 7,
+          "title": "去年用了多少水？用水效率如何？2025年度浙江水资源“大数据”出炉",
+          "source": "华人头条",
+          "pub_date": "2026年06月14日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlVMWVIxcVlsYjFYN1JyUm9JeXgxRmt0bVcwMmJPb1RsUW9fd0hwUjRMTU01dEhBdDdUZFR2N3hybFpVeVFKMVVpY0V3UDFhZC1JRm1vVTl2ZDg2aUstMHNCYTZ0RUFWM3kxVHVaZ3RKSkNSc3VfZ3BMYVJoejhYWEhwV0lFVDA?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 8,
+          "title": "承德91座水库全部降至汛限水位",
+          "source": "新浪财经",
+          "pub_date": "2026年06月14日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWXhPM1FKQklORHdpaVJUb1dCeDNwbFhIRWF5VEhuQ0E2a2c1NTdaZm16d0swalBSY3ZHWi1uOHpDNnJTUXY2cGVVU203aF9iQmo2RmhqTjM4WWk0QWt1RHJlX1Y5SzFkalpndUZ5azJFb1JoOE8wWjBHYVQ5dFBhTk9oLXE5Skl3YkExSzRWbTgyU1JqQ1ZhYw?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "省级标杆！朱溪水库安置区公共服务中心入选",
+          "source": "台州新闻",
+          "pub_date": "2026年06月14日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53b1c5MmViTTZ1VDVHR1BrZDNteFlsNTdvTTRNc1UxS0ttNzVTV0NiazFJZFZ4QnhnbkJDV20zZkRRdDd5Z0ZUNjl1YlZPNnU5RHFwc3YwLWxNV05pN0dtY1Bjc0hralo4UVVv?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 10,
+          "title": "郭文海调研中山水污染治理工作展览并与治水干部座谈：弘扬治水攻坚精气神久久为功推动美丽幸福河湖建设",
+          "source": "中山Plus",
+          "pub_date": "2026年06月13日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9raDZ1MnRqWGpRWVo5dURTN2NJSTFPUnI3WF9UdVNCMWd6bllsUVMyblFpRlluZjNrT2QzNjI3RC1ueXhEMHFIMVk5UHJTNUI1RjFDbVl2LWpES3lDRnhlOW5RMmN0Z1VQNkFr?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年06月14日",
     "news_date": "2026年06月13日",
     "update_time": "2026-06-14 00:00",
