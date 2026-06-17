@@ -1,5 +1,143 @@
 [
   {
+    "date": "2026年06月17日",
+    "news_date": "2026年06月16日",
+    "update_time": "2026-06-17 00:00",
+    "total_news": 13,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "【哈尔滨新闻】以练备战多地开展防汛抢险救灾应急演练_全媒体报道_HRB蓝网",
+          "source": "hrbtv.net",
+          "pub_date": "2026年06月16日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mR01zUWl0QjRxRWVRMHg5MnVuWldvNnNKVk1RVWZWenJ6OWlPaDk3QTBXQXBaZDlLRTN0V3VENHp6NkttLU1HRnBLWTlSNnNISTRKN0NyY0tjbGlkaHhEUS1MS0QzUQ?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "驻粤央企驰援揭阳市惠来县防汛抢险一线",
+          "source": "新浪财经",
+          "pub_date": "2026年06月16日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlODJpX2pnOTBTMFFQM1FDdlBsbFN0WjJ6dHVFd19fSDF3OXl1anhNOXdlS2Q3QkxmUTVWWnV6MmlVUXNJRWE1eEZiTGhmWnhidGlTWFVtUWppcS04UW1lOU1pSVhpeXlZNHk2V1VlRFRMU2tISVd1Rg?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "国网新乡供电公司成功举办2026年防汛暨迎峰度夏跨区协同支援综合应急演练",
+          "source": "Sohu",
+          "pub_date": "2026年06月16日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVS1MeEpLWFNndzZQVGQ1eFJfNjZoYThqQnZnVExaNHFNZEN4a2gxdVQzTk1ZTkFVLVVuaU9wVnk0RDllRjlGZmNYSC1haHFlcUI1ODJ5RXZfSExKWUltSzVHQUlDWGJUSGJlYmZzaUpEalRLQl9WRlpkQlRsUXJLN2FzazI1My10?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "“智慧检测+精准摸排”打好防汛“组合拳” 多方以“汛”为令守护群众生命安全",
+          "source": "光明网",
+          "pub_date": "2026年06月16日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtR2Jac0k4d2tpNk1sb3ROak81TWpBZ1VqZjVEdk5nREU3NFZoZUFhSUFHUmg3c2h1V256X2QzVUVUaF9XVUNRdDc0bFpyZ0xtNVRYdlNKZWI5dGk1?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 5,
+          "title": "连江县水利局联合城综局开展生态下泄流量专项检查",
+          "source": "fj.chinanews.com.cn",
+          "pub_date": "2026年06月16日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BUFZzVXJoLWhlYWtxZVZFR2g4dXFMSmtFUkdCaDBIZnFRZDdicU51RERBUmg0bDZlWTRLb2lXQzYyV2FGc2FHZnlmQU00MGVkbVZSR0ZNeTFHbENyUDgyRlU2VEVrMEw3bk1nVldTY2RTQQ?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "宿迁：水利工程改造让农田喝上“放心水”",
+          "source": "chinawater.com.cn",
+          "pub_date": "2026年06月15日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80TWIxcFA5cUhsVXY4ZjF1Y2JXeEIwTUJKNkxCLWhkbkxwTllPcUdHZ2NjYjJVM0JIWFZPN1Foem94RjU0TzR1ZmZYQjdlN2dmc24xWWJXRFVYdm9FQ1hoNXFITklwYWZlSWwtZ3E5Z0twQmNnY1p4MnpwNA?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 7,
+          "title": "郑州银行承办支持的中国南水北调集团资本市场宣介会圆满落幕",
+          "source": "中华网",
+          "pub_date": "2026年06月16日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GWS1rMk55SW9UOFdQRFgtTUxsam5mS2ZQM0VyTFdxMXhfMWtJNUE1OHB1OWViSEs1ZFdkU1hwdDhJZVZwaGttNzZRZ3pDR0FfZnRFNjBhMmtna1BtZDIxYm1kNzBNejhsRllhRw?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "靖州 ：守护乡村优质水源 保障群众饮水安全",
+          "source": "湖南频道",
+          "pub_date": "2026年06月15日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4MmNPaHV3ajZpdml2NkxXa2lWLWlYVEg1cWk5cHMyR3lteF80RXNsTm9TNVJiRzRaWGFta29mb1FDN2d3UW5JaUNEdkppbWdaUmZrdGxTZmxualV6Y0FOand3?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 9,
+          "title": "临澧青山灌区“水金融”项目示范片提速推进",
+          "source": "尚一网",
+          "pub_date": "2026年06月16日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UbTV0QmNGRHl4M0FIS0tHT1hhZkdLakV2NFAyU2U3RjdJdUgxT2xvMElaeEJiX0tHc0pOakJMU2Y0UnNybUFESFRVTmlwM1RhUkJQaW85VEV4QWlabHYxaFBDZlJvY0lNcWxpNHBWU05ESm8?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "山东累计实施74处大中型灌区现代化改造，新增恢复改善灌溉面积1374万亩",
+          "source": "Sohu",
+          "pub_date": "2026年06月16日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV2ktUWJWeFZKZm1VMDVmTmlMTWtiLWVQZVZEZDJMY2ZBcWRxLV9yYmZ0ZkhhZjhFaGtBMm1RU0NxTWw1bmQ0c3Q1R0xBQ0xpTFRxR2VnNUtvLVFuM3dzOGhsdGs1eW9lNFh6T3pfMkN3VHYzbVRIYkNac29vdFRVbWI4WERNaDhmMjd2NA?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 11,
+          "title": "省水利厅完成首批公共数据登记深化水利数据资产化改革- 湖北日报新闻客户端",
+          "source": "湖北日报传媒集团",
+          "pub_date": "2026年06月16日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91cWFxQ1hqLUI5Y194Z2xlbVJOdWl5bGVEN3J4SE5kdE42dXR6QVcyTzhOWnlFVkNCTEtobHdRQkxGeldDTENBZDZTN290ZlVCbnNXeUd4aHc?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 12,
+          "title": "老峡河、清溪河同步入选2026年国家级幸福河湖建设项目- 湖北日报新闻客户端",
+          "source": "湖北日报传媒集团",
+          "pub_date": "2026年06月16日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fTTdjQ0pJOF9GajJBUW55R3VOS2lySDRQeHJXUTZHcnRnQ3luY3I1cVQ5YkpiaExQNlBzbTRpQy1tNi1oeXFyMkhLUE9kcGlOcUFpTnNCeXI?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "云南省水环境水生态监测能力持续提升",
+          "source": "Sohu",
+          "pub_date": "2026年06月16日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM2RqY1hmRGQ3dWpXV2NaNHYtelA1bkdwdGZPLWo4cldJYnJIU0FaeWk5Y1ZzTkdldlRFX0hmMmRmQ0c2cmI0aUFfTXhXMlJGNGstOTd1bE1mSElDUF9jVVcwNkJfWGNTQUdzaFBmMVVGSG01YmxDMEtKOHJsQWdkZDZ6N0plQmxLaUx0MA?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年06月16日",
     "news_date": "2026年06月15日",
     "update_time": "2026-06-16 00:00",
