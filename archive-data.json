@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026年06月21日",
+    "news_date": "2026年06月20日",
+    "update_time": "2026-06-21 00:00",
+    "total_news": 7,
+    "category_count": 4,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "涉县举行2026年防汛应急抢险实战演练",
+          "source": "新浪财经",
+          "pub_date": "2026年06月20日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02LW1pOE90bzFYQ1pfVFVmRXFEUDVLT2hpdFV0bjkxWUZxcElUWGlhOUpYNzZIeHFJQTVjOGgwLUVZZFhSZ0YwdXFIOGgtbnhETkJRV3lydFJXb0N5MDFiVTZWbGNtV0kxRVlPQjhzYXNsWGZ6SXV4Mw?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "国家防总等多部门联合会商防汛 11个省份维持防汛四级应急响应",
+          "source": "中国日报网",
+          "pub_date": "2026年06月20日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ma1lGTFVNT3Y3cEZ1WUVncGd4N1hFVGhoNVNwcmNwRkY3T3pJMVhaWk5lUndNNE9CWjN1SkVsa3ZkOUN3NzFKUTU3N2tvbkgzOUh4c29qY0ZnZEptMEo4THZaZU1Eb3c5eUZ4UVdSanJqenh0OVJyc3NORks?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "水利部和中国气象局联合发布黄色山洪灾害气象预警",
+          "source": "新浪财经",
+          "pub_date": "2026年06月20日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xbmdoZTN1bEdQUnp5TWRyZUVhZVdfaS1zS1NRT3NoQ2lGcW5mVzZENUZaUXI0dTRUeHJfWWFIMG00bl83UFE5OE9mcUlnMkk4dklKMjlmNlVhaEViZWRXNWhYRnJJSEtVWEV1Rk1CN3VWSlY5OXBsaQ?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 4,
+          "title": "理大携手多方推动吉打河流域治理 聚焦水源安全与生态保育 | 北马 | 地方",
+          "source": "orientaldaily.com.my",
+          "pub_date": "2026年06月20日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IS1laeTAwVGtnMkVabElBQUhhR2NnQjU1cG5JV2w4SkpPWUdrcll0RjFRV0JWU0NSOC15N0dfSkZhY3pkUFVkRmtPWGpHYy10ZGF3OGRXLWtzb19LTFYzYVJFUVVhOWRpQXBtN0FB?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 5,
+          "title": "龙湘水库项目建议书初步通过水规总院审查",
+          "source": "fznews.com.cn",
+          "pub_date": "2026年06月20日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13R1ozWlp0SnVaLU9mek1DcXFTd2tyWnVjQjd6UWFJaDYySnFuVE9tZGl0WjZneVJXUzRVOHRhU3dGSzFRMk8xRWJlOFMtZDh0VlhKWi1qQU9nTnRpR05oeFFoaTg?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "全线最长渡槽合龙！亭子口灌区一期工程建设迎新节点",
+          "source": "新浪财经",
+          "pub_date": "2026年06月20日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWkpfNDdETk9QOVNSalkxeEJGODk4YjdTSU9uZjJqQnZuYUNCdkVSNUl3a1J5c2w3UXg2eE11QXRkaTd2YmFqU0tqanR0Q2NUeVg3V0k5Zl9jbnY2bnEwSTY2eUFrRUw5RVZGMm5RaHJ1YURVbzk3SnJPVDk0NE5oOVpvVjRwMFEyMi1tWGFDbU1HU3U4YjZxaTdtV1VNVFhyNEQ4MTl2OF9kZGZocjRVSkxOVjd4T3Z2UEdGWTdnUERaTmN4dWR2TC1PSUxQQTYzeEZxUFNQbTg?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 7,
+          "title": "鹤岗市召开2026年度市总河湖长会议",
+          "source": "黑龙江省人民政府",
+          "pub_date": "2026年06月19日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zU0JpUXdNSWJQa1NZQkEtMkZfS2EwbjRxT1pzRjFhcTBDUzhoZjNuUGZORXdicWU0VUdsemtERUtmZlZuVEpjQVRPOVd4RG5UU0ZFVWpwekFXSkNjNkxCZkpCYlBJWkdWRW52Vw?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年06月20日",
     "news_date": "2026年06月19日",
     "update_time": "2026-06-20 00:00",
