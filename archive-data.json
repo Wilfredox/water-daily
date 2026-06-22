@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026年06月22日",
+    "news_date": "2026年06月21日",
+    "update_time": "2026-06-22 00:00",
+    "total_news": 9,
+    "category_count": 4,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "遭遇强降雨天气，通道全力开展防汛抢险救灾工作",
+          "source": "华声在线",
+          "pub_date": "2026年06月21日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLZFZPVThheW55eFY4NGNTa0QwbEVQSXhwanhwS1AwSk5BTWJHTllLYnlsTVlEeGdkZHBSRWNSb2NNZ3JSaFo4cVA3MGFwZmROUkpKRlZfQmxMM3puYW80?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "安全转移群众2083人！通道县迎战入汛最强降雨",
+          "source": "湖南频道",
+          "pub_date": "2026年06月21日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NaTlxTlZ6ZkpjZ3ZVSzRtT3kwLXFGbUJlS09DZkJsaTJvZTNzUVQ1R3dxS1RwRDc0UHdBMldnVWdjRUhWQkJCanUtT0tzUEVXXzB3Z3l5R1ZrS1VtOWc3enlR?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "广东水利防汛Ⅳ级应急响应结束",
+          "source": "Sina finance",
+          "pub_date": "2026年06月21日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VdFhiNHA5dC1ES0RRSG1OR2hKREF5RzU1NXY2NG9ad1c1T21UTWc1UHQ5R0ZPa0M5M21NYy1IakpMV1Z0VDlGQy0tOHc1THVKZ1JQWkVTVnk4ZDVCbFpHOURNVXJHRmZqc29NRHdkaVZXb0tob3lKbA?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "27条河流超警，最强龙舟水过境！广东水文10天坚守完成防汛硬仗",
+          "source": "搜狐网",
+          "pub_date": "2026年06月21日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOenBFblFBTkRKQnN4a0ZGeHZyTV9BbDB5VjVnS0lmRHZGZkdIbEh0MC0tb1NYU1FXbUpNNEFwMjZYQWI3ZXBkUlMybVNWb2VBVENGU3JSVDZaR3pSaGNVbkhKNHk3aWxMT3NldVM5OTYtdlUwc1FEU1llU21uVks1bjQyQVliSHdyUmJzYg?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 5,
+          "title": "2026年上半年县水利局局长述职述廉报告：履职尽责抓水利建设，廉洁担当促高质量发展",
+          "source": "biganzigongwen.com",
+          "pub_date": "2026年06月21日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94MVZFMUtTdHRTYm02NWU3TWdNVlUxRVYwYnNGR0NHOWhxOTRGQkRwUDJYYjliRnVKZVY5bUkwOUxoOEozeTNoNDVLZGJQZnZCeExXRWNIajhXd2NGakk0?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "理大携手多方推动吉打河流域治理 聚焦水源安全与生态保育 | 北马 | 地方",
+          "source": "orientaldaily.com.my",
+          "pub_date": "2026年06月20日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IS1laeTAwVGtnMkVabElBQUhhR2NnQjU1cG5JV2w4SkpPWUdrcll0RjFRV0JWU0NSOC15N0dfSkZhY3pkUFVkRmtPWGpHYy10ZGF3OGRXLWtzb19LTFYzYVJFUVVhOWRpQXBtN0FB?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 7,
+          "title": "龙湘水库项目建议书初步通过水规总院审查",
+          "source": "fznews.com.cn",
+          "pub_date": "2026年06月20日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13R1ozWlp0SnVaLU9mek1DcXFTd2tyWnVjQjd6UWFJaDYySnFuVE9tZGl0WjZneVJXUzRVOHRhU3dGSzFRMk8xRWJlOFMtZDh0VlhKWi1qQU9nTnRpR05oeFFoaTg?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 8,
+          "title": "【美丽中国青海行】护药水清流，守幸福河湖",
+          "source": "qhnews.com",
+          "pub_date": "2026年06月21日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82djRzem90S1ZZMlBmblZZWHRfOTRJRE5HQWNHVnZEN04wOWZmc0NoSGptRzhjTkNDLUlVTEVnSUstWVRsdkdsQWg5aDBsSW54aTluQXdPVnQ4ajFFY0ZqZk1KVWtYMkRyTFJZejhKaVFuOUM1?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "第三批省级美丽河湖典型案例④ | 日照：浔河",
+          "source": "thepaper.cn",
+          "pub_date": "2026年06月21日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BVDNYczBjbGNQeXFGSk5FUDBIdEJyU254Z0dwaTRMYTkzdTVKSE44bXU2MGFGUm1oNGIyUkJBUmJXVTk1MzJYSU1LRGI4MTRhRGJCeHNfMlFIQ21VOXc?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年06月21日",
     "news_date": "2026年06月20日",
     "update_time": "2026-06-21 00:00",
