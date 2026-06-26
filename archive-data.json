@@ -1,5 +1,170 @@
 [
   {
+    "date": "2026年06月26日",
+    "news_date": "2026年06月25日",
+    "update_time": "2026-06-26 00:00",
+    "total_news": 16,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "压实河湖长防汛责任 甘肃筑牢汛期河湖安全防线",
+          "source": "搜狐网",
+          "pub_date": "2026年06月25日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkxWcnFmM2kyOUJoY3pFZU44OHFnMDRrd3J6ZlZLbDNyVG5JN0RoSWFLSjZYSU5HZm5xbmMzMWszXzhlVVdNb05VWXZqdTV5aGJQa0VRdnpnT1BPVWI1TDFVeDktd0F3eDlzUWIxN0VqUF8ySDRaZ2o3VGUwRFFJQzliYVJpMWJjMjZ3LQ?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "火红乡多部门开展防汛防震防灾综合应急演练",
+          "source": "zjw.cn",
+          "pub_date": "2026年06月25日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pY1c2NzhraFhtUmFVR2ZSMDFfYzdGRlRIX21iQm5FSG5yNEdBYlAxWnNmRHdab3dGRDM2TkoxN29DMUREX01WYWVUbw?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "甘肃省水利系统全力迎战主汛期",
+          "source": "新浪财经",
+          "pub_date": "2026年06月25日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeDVMNlhURmx1N1pVT0VVdHBtOEh3RXhwSEo0VUItNy1YQ3VPcmQyay1oaGNyVkdNQmtlZlB5U01UeTZQSGxqSVdxR2t4M1NjQWdYLTd0ZWlvd1NtNmZrMW5zZG9CcENJa2JibFdHa01QbTV4c0paRm5CYlphWldUVkZKZHh0NmxwTFdCbGZqVzRmN0I3U0J4Tw?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "水利部：西江洪峰已平稳入海",
+          "source": "ycnews.cn",
+          "pub_date": "2026年06月25日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNUURDYkEyYWhnWTZLZVRnelJTbXlOLVA0NG05aGRDOFF0VzFKS2hmZXpkZGYtVjF5c1JaREVUeUNvX3djb2JkVDFUWm54YlU0NEVnMHZYS1lhN1ZSUFZoLTYtTQ?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 5,
+          "title": "水利部通报第二批水利行业招标投标领域违法违规典型案例",
+          "source": "新浪财经",
+          "pub_date": "2026年06月25日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2VJcG9aMmFLZFp6aXdUY0xWTWpnbW5XdFI4OGh5Yk9VcFdGa3pOMUtCRGxnQ2dGWDRzQ19xT3BWQ2VwdEFEUW5scnFUdk5zbnNmTG1PMHQwdEE0dDQySklPNTBYWDl4X0dXcU1INGNyVFVWaVdtNm1mTi1BOVBneWxzRDdsZXZ2ZThtVFh6R0tiZW1hTlp5dkg0d3V3Mm5RRGlkQjJiVFhiYXlaLU44?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "中国侨联副主席连小敏逝世，享年58岁；曾任浙江省水利厅副厅长，嘉兴市委常委、组织部部长，浙江省侨联主席等职务",
+          "source": "搜狐网",
+          "pub_date": "2026年06月25日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTXhRM3BGOWx1RWNNbzhUNWE3NDF6eFBJTmd4UWE2TXZLQ013WDVTQnRKWDVNVkoxSFp5X2hXS2t5RXNmelFBd0ZFWlhQZF9QZ1NMbkl5MlRYb3l1eFZZY0l1X2tqcnRjQXZ1dmxLUHdOMkVxVDBXOXlxVjdGSy1iTUVHRm42WEpR?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 7,
+          "title": "3.17亿元！大禹节水全资子公司中标生态综合治理项目施工标段",
+          "source": "国际能源网",
+          "pub_date": "2026年06月25日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yU0lVY1NpaXd4NTVEZnJ5X3NxRUxDVEVMVjNKOVlxV0Y4V2JjS0JYYjZSbW9fM21wM20yNEpVdjJGRENXY2NGRENVanIyTWpjTDhJOXd2dER0YTRlNzJ6UlZQaw?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "惠及90万人！我省农村供水维修养护工程全力推进",
+          "source": "新浪财经",
+          "pub_date": "2026年06月24日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2ZRRWJWVG1DRThGYXlVM29Gd2QxckNzdzdieERxT0JEQTF2UERVMnlIMmxJUlZQamxqMXFPZGtLMWZNbUhBcXhYTVZHdXFKNWZYMVBldTd1VGpMOU90WWctMjlaV1pqV1h5SWpNcWNvNmg1WEJnT01KcDJScktkSXZwa1FMVmUyTUhmbmJCTVBxTFJQcFVRWA?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 9,
+          "title": "国务院办公厅关于进一步完善大中型水库移民后期扶持政策的通知",
+          "source": "chinanews.com.cn",
+          "pub_date": "2026年06月25日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwMFpmQV9well4dGRQZzNrYzBQRTFwOXhxOXFYNjA2NnpHRlZqSEdtRUh4ZmMtS3RRRC1jLU9hVDhkeFo0Q0ZqaE04dG1OUktwZDgzc3I5NzB4X2ZHbks0RFNPSFNwQmRq?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "清水县后川河中小河流治理工程竣工投用筑牢沿河民生安全水利屏障",
+          "source": "tianshui.com.cn",
+          "pub_date": "2026年06月24日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43bzVwZUNzdksxZ00xNXZ4RjM0SUdlX3EtcmI4SGJRSW1lOUN3QnNFYWY4aE13V0xxcjVCOGp6SzIwZlJ1RjZPclRoM0FnUTVIUjdSOFlpbk1jTmFtRGFZc3AyVGVyMGdtb1E?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 11,
+          "title": "中国抽水蓄能产业发展报告2025年度-水电水利规划设计总院",
+          "source": "搜狐网",
+          "pub_date": "2026年06月25日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRDA5azhKb1dpMDNvWVlORFBYcDRRREVUUHJiT25hbVBucUhKMWpidTBqV0Nrenl0QmNzdFdmRE9zLTRPaVdkNHBzSUpOVHhIUE9tNDJpTkVaVlYzdWpGTEozbk1QWEVnZmhoTE5CdzZBRlVNcXlsZ1c4RVBRV0oxZU1QUnhqblUyanlnWg?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 12,
+          "title": "姜堰区纵深推进幸福河湖建设",
+          "source": "taizhou.gov.cn",
+          "pub_date": "2026年06月25日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdldoQmw2NTFLNGFDZnluNklOSUVqek1OUlhJSnR4N2hkdXo0Y0JpQ0FDYzI0R2l3Y0p3TEVIbGhjQjd4MFZsRTF5MG9tWV9McTIxTHc4bjV3b0Uzak5IRUluU0x6YmpQNW5PYWFfNk1aelZjSjhnamR4UHlMZVUwM1VjYWdreHlfa0NoS2o5QQ?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "一湾碧水一寸绿——甘肃幸福河湖建设的实践与探索",
+          "source": "搜狐网",
+          "pub_date": "2026年06月25日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb3pWelRMazFXR0JUUGNsOENtdk91ZGpmOUJaN3dQRk9tMEN2VlpUdElHNmVKbHBWRGNjT0l3cDAtMmJMMGF1MnRNVlNXQW5qY1J1WjBzTkJWM1kwcW1yaGpWRjZoaGVlblpDYW4xWVEtX3M3MkZiUVBmZ1FYSGVjdVdnbXpUVEdaSjBwLQ?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "河湖有了“新管家”——瓜州县精准施策健全完善河湖治理格局_酒泉",
+          "source": "中国甘肃网",
+          "pub_date": "2026年06月25日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTVGlaaE1JUkdYcmlTSGtIYk9xczROSXBNMnkwODJ6WFFLcmNfa0gxUll3X0VTZUd2OGR1YTh1QjNQR2VtSFlIVkdqY3dtVDJsUHI1ZklRM0c3WUNUMzRkcjV1TE5Kb2FDTlpn?oc=5"
+        },
+        {
+          "id": 15,
+          "title": "陕西河湖面貌持续向优向好",
+          "source": "央广网",
+          "pub_date": "2026年06月25日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81WC1ZVHk1ZzVLSC1fQ254NXQteGhJMFVyY3MyN2l0d2NvQXRKQjVKbUFqNE5hdjhfMVRqdGZsWmktc2pvbTNMZjBmWFh5d1drR0VZd2hVYklJR1NpVFU1bk1WY3Zqc3dDcEcwTEt3?oc=5"
+        },
+        {
+          "id": 16,
+          "title": "“深入打好碧水保卫战，全域推进河湖保护治理”有关情况",
+          "source": "中华人民共和国生态环境部",
+          "pub_date": "2026年06月25日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wcVk1VHZNYWVOWWd2VUcyT3BvS0dsU1RQSXB5TG50RTVjMjQ5a3JFcDUtb2xhU2x6dzRoaFRobzhyVWliVUxEV1VFNGRkZy1rNzNPU1djX3VBUHFTZ2hOQlVOSU1feWVkM3lzRHBDUHE?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年06月25日",
     "news_date": "2026年06月24日",
     "update_time": "2026-06-25 00:00",
