@@ -1,73 +1,44 @@
 {
-  "date": "2026年06月28日",
-  "news_date": "2026年06月27日",
-  "update_time": "2026-06-28 00:00",
-  "total_news": 9,
+  "date": "2026年06月29日",
+  "news_date": "2026年06月28日",
+  "update_time": "2026-06-29 00:00",
+  "total_news": 7,
   "category_count": 5,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "以练备战筑防线！白银四龙镇开展夜间山洪灾害防汛抢险应急演练_社会综合",
-        "source": "中国甘肃网",
-        "pub_date": "2026年06月27日",
+        "title": "水利部安排部署南方地区暴雨洪水防御工作",
+        "source": "新京报",
+        "pub_date": "2026年06月28日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FQVlGS09pLUpJaTQtZDFuZEpWbU9BSVlFWmlIYkFZbGZWSGdIWTlIYVZpZFI5ekhHT2M1Y2NHSmw1Nlp2M2MtS1E4UTQwSjZVZ2dFZVc2YW15aGFPeFRwN0Z5Y2lpUlBWUHFz?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtYmlMR3lKZWlEclBXZk52eHd1cEN0ZnE1SzFQczlheXZmbzlZcGo0SUp4V1M3bUJnM2ZWWlI2RUtqT0ducXVObGdpdDNxN21Wb2pqb3ZhQk9KSVNkZXJQaHZ1M2c?oc=5"
       },
       {
         "id": 2,
-        "title": "“应急使命·2026”陕西省防汛抢险救援综合演练在西安举行",
-        "source": "西部网",
-        "pub_date": "2026年06月26日",
+        "title": "北京水旱灾害防御重点部位责任人名单公示",
+        "source": "京报网",
+        "pub_date": "2026年06月28日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vYWR4bFBsQjc1b203S0o5SktyQ2dIY0txWjh1TjM1d1lmWTJ2bl9QWUFxZldsVzVSeVFLQXZ5SG44Nm5QMmo3MmhUMTBSM3FxMDJ5T1lZTDdyY3NJd0EtOA?oc=5"
-      }
-    ],
-    "综合要闻": [
-      {
-        "id": 3,
-        "title": "水利部通报第二批水利行业招标投标领域违法违规典型案例",
-        "source": "新浪财经",
-        "pub_date": "2026年06月26日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeWpCUTdTRUphNkhjWlhORnNvWGxyYlhjQVNqbWJmbXc4a29qcW1HRmtERE55VmVQNzQ5U3drUG5LLVBwMkxvZmp3SGxtNGx1UEg3X0RJVDJGTnZoczhyb3VHUHRFd2xxUjZRdG5xcm4zNS10eGl3NmFJeFZpbUhqVDhEQXRvaTZWQnNUWlV0Und4d2xIUVlRTg?oc=5"
-      },
-      {
-        "id": 4,
-        "title": "“低空+水利”，山区小城飞出治水新“航线”",
-        "source": "thepaper.cn",
-        "pub_date": "2026年06月26日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nVjByRU1nWFFaSEhqdVdSeEJENUQ2MVhyLVh0YjVrRkNQN2c0OThxYVhuV2RwMFZPV0ZZWFhzQXNVUGNSNE4xTmVRWVprUTZUYkxCWHRTX2JFRzZwbHc?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVcxMklsWUs2NURCNXM3Qi05RzhsX2Z2VWtKSjNSXzhpTXNsZXVLbDdQaWFvM3hORGZZazN2RnI5cnJwWERsb3RjN2tVeWZGa0phRkFXWEM1SHdsSF9CMC15SnNKVV9Namh3cFozTjFWeGlmeWktcUVzZnp5UTN1VHFSUE9LOFhuVkFFTkt2NEJVc1FmT0dJbTZlTm0walpsWnhMVEotbw?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 5,
-        "title": "保障民生安全和产业高地建设 文成西北部供水工程正式通水",
-        "source": "温州新闻网",
-        "pub_date": "2026年06月27日",
+        "id": 3,
+        "title": "廊坊清泉供水公司精准发力守护供水安全",
+        "source": "搜狐网",
+        "pub_date": "2026年06月28日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQOXpaY09rMzczMVVkTzBScWdyVjJnRW90Ymp4VEtOR2Z2SXpycm9nZTdZd2tZTTlFaGNnRGZsREtkVWNIT3R0UEJCX2p0bFQxMkdzN1ZQUlRHM2JKTUVhTUd4Y0xpdw?oc=5"
-      },
-      {
-        "id": 6,
-        "title": "苏州奥体中心打造绿色节水标杆- 生态环境局",
-        "source": "sipac.gov.cn",
-        "pub_date": "2026年06月26日",
-        "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVmZ0azZRNFFWdk1tcldSWUNXcDBrN1RoY1ZVcTNKaWVpaTMwaDl6aUVUU29nZUE4ZUNXZEl1WkJieGo0TURRRkNqXzlySEgzOWRidDQ1X0V5T3BGVkRWWThuRk90OXBoT0MwaDVQdFN1THVacDFPbEZmb01faFlqY3JJMnlTRW9n?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnFrNXYtRjIxWGZmWGRKQ0x3anNtSVk0SU5MeG4xZ2tja3ZxQVFLbDlmUkUwc25mbTRVUU1HLU1VWExNcGpHakZNbjIxWm5waVJRRHhYWXo5ZjJOWHdPYVowRkFrNTRvVXZIQlhKOEtVakE5RGpPR1ZIRE1tT182YVpidlFnS00yS0xxSg?oc=5"
       }
     ],
     "水利工程": [
       {
-        "id": 7,
+        "id": 4,
         "title": "碧水安澜迁新居 幸福答卷启新程——贵州盘州胜境街道龙吉社区白河沟水库移民振兴记",
         "source": "搜狐网",
         "pub_date": "2026年06月27日",
@@ -78,22 +49,33 @@
     ],
     "水生态环境": [
       {
-        "id": 8,
-        "title": "谷城｜逐闸逐段攻坚河湖整治- 湖北日报新闻客户端",
-        "source": "湖北日报传媒集团",
-        "pub_date": "2026年06月26日",
+        "id": 5,
+        "title": "张恒刚调研督导河长制、林长制工作(图)",
+        "source": "tianshui.com.cn",
+        "pub_date": "2026年06月27日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iYThBSkZ3VXJKOG5jbXBYT2hFMllmbDVWNEpGRmNDTWdvemlpTVpJbExqSFowUDhKSHJ6Q2tON1lUYVBqSDJXWGdFZkFNdzdvUDhBMW9TZWM?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3NGxoVnYxeUsyNDM2Q005U3g0NGNwUlREWGtYZWMyOFRvS1BjcDhYMXBBY2Vpa04zdHNiM0Q2ZmFxLWVMUDFlZV9vLUMwTm9lR3ljSUFmSWNtbXdsN2twRkc4TGdmUnpTcVE?oc=5"
       },
       {
-        "id": 9,
-        "title": "碧水清流兴百业——从新津龙舟会看河长制下的“水经济”新航道",
-        "source": "红星新闻",
-        "pub_date": "2026年06月26日",
+        "id": 6,
+        "title": "泰安发布丨国控断面全部优良 美丽河湖数量领先 泰安市水污染防治工作实现“开门红”",
+        "source": "新浪财经",
+        "pub_date": "2026年06月27日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OVDhpc0cxUExJRUdBVnJQWmhKX0E0aV9iWmo3VTgwVnNDVE1HSHh0RDZrT1ktTXdRdTZIUjhtLTZfS3dIY05IaC1zM1pHVGlBZ25rd2hUcU0yR2MyWjcySXdBSGpXb0VQTkpPUm1PQkVuQQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lMTM4VVl3bjI0TUFLQUVrRG51MkRvNzRXU01iWURZemQ2dmttWmxOQnV4N1VZeUFfM1psT2c4dXNHSTNZZ2ZQLUdteGhTWmJUNTlkdTg4cFZJenJpLUxTSGctUGNsODRCb1J4NEpFdTgtVXRyWkJLaEhBYWpGUQ?oc=5"
+      }
+    ],
+    "政策法规": [
+      {
+        "id": 7,
+        "title": "\"十五五\"六张网投资达25万亿 水网领衔拉动建材需求",
+        "source": "搜狐网",
+        "pub_date": "2026年06月28日",
+        "content": "",
+        "impact": "将进一步规范水利管理秩序，推动依法治水。",
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcjdWTDI3YWpJWnQ2cTlBbENVdjVnWlo2V2w4QW92Q0p0QzY4dkJ1T1c0aVhjZ3M5WmN5bGFLejZ5aTZ5UlQxWFlkcWZaRFMwYVM1bVZtTXczVTlOREp4cmxLcHNvTUNXYmozb2JabDdIbEFtSXE4czg2bEQ4N3E3M3d5S1VIS0VNRnUtdQ?oc=5"
       }
     ]
   }
