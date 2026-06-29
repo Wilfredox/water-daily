@@ -1,81 +1,153 @@
 {
-  "date": "2026年06月29日",
-  "news_date": "2026年06月28日",
-  "update_time": "2026-06-29 00:00",
-  "total_news": 7,
+  "date": "2026年06月30日",
+  "news_date": "2026年06月29日",
+  "update_time": "2026-06-30 00:00",
+  "total_news": 15,
   "category_count": 5,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "水利部安排部署南方地区暴雨洪水防御工作",
-        "source": "新京报",
-        "pub_date": "2026年06月28日",
+        "title": "国家防总对安徽江西贵州启动防汛四级应急响应",
+        "source": "搜狐网",
+        "pub_date": "2026年06月29日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtYmlMR3lKZWlEclBXZk52eHd1cEN0ZnE1SzFQczlheXZmbzlZcGo0SUp4V1M3bUJnM2ZWWlI2RUtqT0ducXVObGdpdDNxN21Wb2pqb3ZhQk9KSVNkZXJQaHZ1M2c?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVW95Ym1PWUx5WDN2dzJiRFd6cG81U1lmdjVQdERnaEx3c3ZVWVRURWdVTkVkczk2WWxGYmJlQm5IeU9mMFQ4bEJxV3pyMW4zal9IR3huTU93cmlyc3dBQkVWWnpOeGtCaktBQS1OS29nZjJCMHNEZ0lQZXY4eGdRNGMyaGQ3UlJa?oc=5"
       },
       {
         "id": 2,
-        "title": "北京水旱灾害防御重点部位责任人名单公示",
-        "source": "京报网",
-        "pub_date": "2026年06月28日",
+        "title": "水利部部署南方地区暴雨洪水防御工作 西江上游将明显涨水",
+        "source": "新浪财经",
+        "pub_date": "2026年06月29日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVcxMklsWUs2NURCNXM3Qi05RzhsX2Z2VWtKSjNSXzhpTXNsZXVLbDdQaWFvM3hORGZZazN2RnI5cnJwWERsb3RjN2tVeWZGa0phRkFXWEM1SHdsSF9CMC15SnNKVV9Namh3cFozTjFWeGlmeWktcUVzZnp5UTN1VHFSUE9LOFhuVkFFTkt2NEJVc1FmT0dJbTZlTm0walpsWnhMVEotbw?oc=5"
-      }
-    ],
-    "水资源管理": [
+        "full_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM0tJR0VGYWxjLXB2aHNCUmkySXJkUlF3em1hcnVPOWNZNWlyM3J3TFg2V1gyNmhwRDVfdFoydXp0bUliNlh5SUxIQ3RuRFVESHpqN3JMY1p6bWJDZS1MWkdaWjQ0VVA1U1gtYzVJZWt4RlFEVjNXRGdzNmFwTXpJOTU5cjc2QjRnMWp4RHBtZ1E4eHRCQTlRbDBoNHczZW02SkdSMHMtX3VTQkpSeDlyVTQxMkZYWVJibUJMXzVEMlZrdXoyWUNJSThlZFRLb1N0bF9nbGdGd2o?oc=5"
+      },
       {
         "id": 3,
-        "title": "廊坊清泉供水公司精准发力守护供水安全",
+        "title": "水利部部署南方地区暴雨洪水防御工作。 #洪水 #暴雨 #安全 #南方",
         "source": "搜狐网",
-        "pub_date": "2026年06月28日",
+        "pub_date": "2026年06月29日",
         "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnFrNXYtRjIxWGZmWGRKQ0x3anNtSVk0SU5MeG4xZ2tja3ZxQVFLbDlmUkUwc25mbTRVUU1HLU1VWExNcGpHakZNbjIxWm5waVJRRHhYWXo5ZjJOWHdPYVowRkFrNTRvVXZIQlhKOEtVakE5RGpPR1ZIRE1tT182YVpidlFnS00yS0xxSg?oc=5"
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzg0cTRlSWFubDVoN3lISDFNaXBnSjJtUnJkbzBfWHdvV2V4NFJiYUNuOVpIMUFEajhERDRGVnBuOHY0WFcxTk02WkhBZ1g5bThWSERQVkpWd0dGVG9ldkcxUGk1dk9aamdZdVF2a0R1S19vc0FUREtNcVljSE1KNDFvRW0xODdzbThINA?oc=5"
+      },
+      {
+        "id": 4,
+        "title": "沿河镇开展防汛应急抢险演练",
+        "source": "ycnews.cn",
+        "pub_date": "2026年06月29日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDTXhZRXVDd1FQNjBwb1VRT1BjSWxYM0F3OWN1MnpOdTY1MDdOWU1vNWdDdml6ZFpmN1ZRbWcwYk5XVk83bThwLU1JT0gzbTNUcU9OTjVvZnJDdFhyYnl5ZzFrOUlaREdaaVE?oc=5"
+      },
+      {
+        "id": 5,
+        "title": "甘肃民勤开展2026年度防汛抗洪抢险综合应急演练",
+        "source": "搜狐网",
+        "pub_date": "2026年06月29日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMU9uM1RXSG9pS0ZOUUlkMUFQVWFfbm1tb3lmMW5pM3U2NFZxaVBkTEhFaTdobWhfTzBLa29jb1ctMVdwMFNmMWlpQnBfWEVPa2YyVndGMFkyWDFPWmtZeDlqSlZFaUpESUc4cmw2RUxCMDlkTG84VmZ2WGpEZGFlRC0zTldQY2ts?oc=5"
+      },
+      {
+        "id": 6,
+        "title": "河北省宁晋：开展2026防汛抢险综合应急演练",
+        "source": "heb.chinanews.com.cn",
+        "pub_date": "2026年06月29日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RSzBaVlZKSEo2QTF2QnNIenNwdlhhQmtFLXVJUTNpWkVGMWNzYkdDUU9zYVpoMDdTUGIzSXJxd1J5eGkzOXNkYy13cEw0X1NnNW9RQmFITU9WZGZyXzNJcWVmS2YyZEIx?oc=5"
       }
     ],
     "水利工程": [
       {
-        "id": 4,
-        "title": "碧水安澜迁新居 幸福答卷启新程——贵州盘州胜境街道龙吉社区白河沟水库移民振兴记",
-        "source": "搜狐网",
-        "pub_date": "2026年06月27日",
+        "id": 7,
+        "title": "淠史杭灌区何山先导区小麦夏收工作结束",
+        "source": "人民网财经",
+        "pub_date": "2026年06月29日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0pIYWdTSHRlNEU1dXBTem5leEoxZlB1LUFYU3hYekstYUhjQVlvQWVKb3NsbldfYmJBbTNGRTQ0TkFiVTc1cGMtRnlHcGxINy1UMXFGcHBqa2xsblp2MHkyS1NrYmVSeV9vT1ZUYlBrdjNKZlNGQ1FEVUNJOFl4bDlSanFCdDZ0?oc=5"
-      }
-    ],
-    "水生态环境": [
-      {
-        "id": 5,
-        "title": "张恒刚调研督导河长制、林长制工作(图)",
-        "source": "tianshui.com.cn",
-        "pub_date": "2026年06月27日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3NGxoVnYxeUsyNDM2Q005U3g0NGNwUlREWGtYZWMyOFRvS1BjcDhYMXBBY2Vpa04zdHNiM0Q2ZmFxLWVMUDFlZV9vLUMwTm9lR3ljSUFmSWNtbXdsN2twRkc4TGdmUnpTcVE?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pMEx3bjZ1Qm4tY1J6NndiWVpBZ3pzdzY2Zldsano2c2xERkFmVEdDdTVIaXhBTEN4V0U4eWhjZXNDdHY3SkpJdWhZVEw5RER3d1VOal9jSXNuU05NN0JBbDB5Q29jTmZiUUNEYThn?oc=5"
       },
       {
-        "id": 6,
-        "title": "泰安发布丨国控断面全部优良 美丽河湖数量领先 泰安市水污染防治工作实现“开门红”",
-        "source": "新浪财经",
-        "pub_date": "2026年06月27日",
+        "id": 8,
+        "title": "一批重大水利工程建设取得关键进展",
+        "source": "搜狐网",
+        "pub_date": "2026年06月29日",
         "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lMTM4VVl3bjI0TUFLQUVrRG51MkRvNzRXU01iWURZemQ2dmttWmxOQnV4N1VZeUFfM1psT2c4dXNHSTNZZ2ZQLUdteGhTWmJUNTlkdTg4cFZJenJpLUxTSGctUGNsODRCb1J4NEpFdTgtVXRyWkJLaEhBYWpGUQ?oc=5"
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVI4WkRTSkRUY1BJWUJScFNUTGVlQVNwNVUtSm9Eb21lbDNxYjY3a0xyQnVuX0l0bEVBWkJhUG1Gc2tyb1BBVVBiRzRFajRVenZxUGQydmtDUjdxVEVxNUZXQVl6TmwzSWtZalVleHNCX3FMVFAwdElyUU5kWVNzZkVXVHc2TjJW?oc=5"
+      },
+      {
+        "id": 9,
+        "title": "瑞安市委书记李剑锋调研湖岭镇产业高质量发展及重大水利项目工作",
+        "source": "欧洲头条",
+        "pub_date": "2026年06月29日",
+        "content": "",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPc0EyUTlHTW5fbk04WlllTTE0bVRvMlB0VTZpMVRFVlRiSjc0cl9KRnN6S25Qd01iMXNWTVFCYVgxNnMtOVdHSVNZeDBwemNUZGdKSGhKdXRyVlk2YzdsY2htRWcwNHJoRGJjUEhlQWJxQ3lHS1BOMmowdG5UcW5DajBYRV9Kdk5CSEhoQkVGdkRiOUc5aGszX05FZWRkMW5mZWNQeWtOdmJHaVJ2dVo4dEMxN2IzUXpWbzVUV25PcnRlZlhLdUVXWnJSOU00dDFCcFlpNl90RzljTUJhekRfSnBUemkwaG1xSlZvLVZwUkVwbG5VTkl6TVRB?oc=5"
+      }
+    ],
+    "水资源管理": [
+      {
+        "id": 10,
+        "title": "从“合格水”到“优质水”——盐城筑牢全市供水安全保障体系",
+        "source": "ycnews.cn",
+        "pub_date": "2026年06月29日",
+        "content": "",
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81S3JKSE5Cd25icWI2d0NTelF4S2JxX3R1ckVadks2RWpXakdhV19wLUFITUV0RG8yVmlWMFE1SjRHVnF1UnZXSjNvU1pWcWxoN1hWQ1FOU2pQbkNndms1cQ?oc=5"
+      },
+      {
+        "id": 11,
+        "title": "廊坊清泉供水公司精准发力守护供水安全",
+        "source": "新浪财经",
+        "pub_date": "2026年06月28日",
+        "content": "",
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OQUhfQ01qYndEeTdidnRrQkJ6UVFTOEZWMGhxTnJTZDd0eV9CVl9KazZ3VkRoM01zdzRLV0NoSHFwQnJ0eFJhY1NqUXVvU1pkMUxNM3V0NGdlOE9od0oxMklySGtJbWxJbUFTYVAzekJnSGJSNE9BUA?oc=5"
       }
     ],
     "政策法规": [
       {
-        "id": 7,
-        "title": "\"十五五\"六张网投资达25万亿 水网领衔拉动建材需求",
-        "source": "搜狐网",
-        "pub_date": "2026年06月28日",
+        "id": 12,
+        "title": "衡阳市水利局召开“十五五”水安全保障规划老领导老专家座谈会",
+        "source": "hengyang.gov.cn",
+        "pub_date": "2026年06月29日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcjdWTDI3YWpJWnQ2cTlBbENVdjVnWlo2V2w4QW92Q0p0QzY4dkJ1T1c0aVhjZ3M5WmN5bGFLejZ5aTZ5UlQxWFlkcWZaRFMwYVM1bVZtTXczVTlOREp4cmxLcHNvTUNXYmozb2JabDdIbEFtSXE4czg2bEQ4N3E3M3d5S1VIS0VNRnUtdQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5feGVKT0pIeHJLM2xNUjRzM2F3Zld1MHdORm5xQTZBaFZBMlpFMnZWT1hVVWpPX3p4dVpSaXpSZUh6T3RDdzJJZVdQbEFDSFBNUlJOcjJRaVdDRWRpTklHekw1OHpSc1h0akdFX0dQWnF1a0wxaUJFb05LRUY?oc=5"
+      }
+    ],
+    "水生态环境": [
+      {
+        "id": 13,
+        "title": "大运河畔 护水同行：杭州举办河湖保护志愿服务活动",
+        "source": "杭州网",
+        "pub_date": "2026年06月29日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeW16SXFGTXVtZUVMaVVGMk9ydTNpcGl4dGxtV3Vibjdsakh0TktfTnJrcnpHUVJZMmQ3ZVZnMGtveHVQZXB5emRuVW9sUmRibHduN1IteGVhcXV0MTE1YWNicWRlOFNSb0E3bHFvR1pXNlJ0YXk2LWdyWkVsZmwyNXcxLU4?oc=5"
+      },
+      {
+        "id": 14,
+        "title": "中山年内将打造一批美丽河湖水岸会客厅丨奋力实现“五年显著变化”",
+        "source": "中山网",
+        "pub_date": "2026年06月29日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lN04xTjVTY3pGT1BiS01EbWFuSG1YMXFJWkpzallCbWduOWp3WUFDQkNwTmtncDNlZUtGejJTZXVYcnBmanpwSVdTb1paamFLUUNQeHhCV0tSMlhfQ3NGUHJNMFBtMUdqM0pBbWtfdw?oc=5"
+      },
+      {
+        "id": 15,
+        "title": "黄河三角洲生态再启航！刁口河流路启动本年度生态补水",
+        "source": "海报新闻",
+        "pub_date": "2026年06月29日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCcTVRaExRbEVjczRuajBYZVZzWEpWcl9ad2NPeHp1TG9xTzJaNkZYSERmMGJpRGlLTHRGdnRfbFM5MFAzWW8tanU0TzF6NEU?oc=5"
       }
     ]
   }

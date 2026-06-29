@@ -1,5 +1,87 @@
 [
   {
+    "date": "2026年06月29日",
+    "news_date": "2026年06月28日",
+    "update_time": "2026-06-29 00:00",
+    "total_news": 7,
+    "category_count": 5,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部安排部署南方地区暴雨洪水防御工作",
+          "source": "新京报",
+          "pub_date": "2026年06月28日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtYmlMR3lKZWlEclBXZk52eHd1cEN0ZnE1SzFQczlheXZmbzlZcGo0SUp4V1M3bUJnM2ZWWlI2RUtqT0ducXVObGdpdDNxN21Wb2pqb3ZhQk9KSVNkZXJQaHZ1M2c?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "北京水旱灾害防御重点部位责任人名单公示",
+          "source": "京报网",
+          "pub_date": "2026年06月28日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVcxMklsWUs2NURCNXM3Qi05RzhsX2Z2VWtKSjNSXzhpTXNsZXVLbDdQaWFvM3hORGZZazN2RnI5cnJwWERsb3RjN2tVeWZGa0phRkFXWEM1SHdsSF9CMC15SnNKVV9Namh3cFozTjFWeGlmeWktcUVzZnp5UTN1VHFSUE9LOFhuVkFFTkt2NEJVc1FmT0dJbTZlTm0walpsWnhMVEotbw?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 3,
+          "title": "廊坊清泉供水公司精准发力守护供水安全",
+          "source": "搜狐网",
+          "pub_date": "2026年06月28日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnFrNXYtRjIxWGZmWGRKQ0x3anNtSVk0SU5MeG4xZ2tja3ZxQVFLbDlmUkUwc25mbTRVUU1HLU1VWExNcGpHakZNbjIxWm5waVJRRHhYWXo5ZjJOWHdPYVowRkFrNTRvVXZIQlhKOEtVakE5RGpPR1ZIRE1tT182YVpidlFnS00yS0xxSg?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 4,
+          "title": "碧水安澜迁新居 幸福答卷启新程——贵州盘州胜境街道龙吉社区白河沟水库移民振兴记",
+          "source": "搜狐网",
+          "pub_date": "2026年06月27日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0pIYWdTSHRlNEU1dXBTem5leEoxZlB1LUFYU3hYekstYUhjQVlvQWVKb3NsbldfYmJBbTNGRTQ0TkFiVTc1cGMtRnlHcGxINy1UMXFGcHBqa2xsblp2MHkyS1NrYmVSeV9vT1ZUYlBrdjNKZlNGQ1FEVUNJOFl4bDlSanFCdDZ0?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 5,
+          "title": "张恒刚调研督导河长制、林长制工作(图)",
+          "source": "tianshui.com.cn",
+          "pub_date": "2026年06月27日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3NGxoVnYxeUsyNDM2Q005U3g0NGNwUlREWGtYZWMyOFRvS1BjcDhYMXBBY2Vpa04zdHNiM0Q2ZmFxLWVMUDFlZV9vLUMwTm9lR3ljSUFmSWNtbXdsN2twRkc4TGdmUnpTcVE?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "泰安发布丨国控断面全部优良 美丽河湖数量领先 泰安市水污染防治工作实现“开门红”",
+          "source": "新浪财经",
+          "pub_date": "2026年06月27日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lMTM4VVl3bjI0TUFLQUVrRG51MkRvNzRXU01iWURZemQ2dmttWmxOQnV4N1VZeUFfM1psT2c4dXNHSTNZZ2ZQLUdteGhTWmJUNTlkdTg4cFZJenJpLUxTSGctUGNsODRCb1J4NEpFdTgtVXRyWkJLaEhBYWpGUQ?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 7,
+          "title": "\"十五五\"六张网投资达25万亿 水网领衔拉动建材需求",
+          "source": "搜狐网",
+          "pub_date": "2026年06月28日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcjdWTDI3YWpJWnQ2cTlBbENVdjVnWlo2V2w4QW92Q0p0QzY4dkJ1T1c0aVhjZ3M5WmN5bGFLejZ5aTZ5UlQxWFlkcWZaRFMwYVM1bVZtTXczVTlOREp4cmxLcHNvTUNXYmozb2JabDdIbEFtSXE4czg2bEQ4N3E3M3d5S1VIS0VNRnUtdQ?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年06月28日",
     "news_date": "2026年06月27日",
     "update_time": "2026-06-28 00:00",
