@@ -1,86 +1,88 @@
 {
-  "date": "2026年07月03日",
-  "news_date": "2026年07月02日",
-  "update_time": "2026-07-03 00:00",
+  "date": "2026年07月04日",
+  "news_date": "2026年07月03日",
+  "update_time": "2026-07-04 00:00",
   "total_news": 11,
-  "category_count": 5,
+  "category_count": 6,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "水利部对广东广西海南启动洪水防御Ⅳ级应急响应",
-        "source": "新京报",
-        "pub_date": "2026年07月02日",
+        "title": "麦积区举行渭河城区段防汛抢险实战演练 筑牢汛期安全防线(图)",
+        "source": "tianshui.com.cn",
+        "pub_date": "2026年07月03日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80cnpLVHBpTEFLd2lDSUlrMXhVSVBtVkdUNGpLS1ZQQ2owNFRpOVVhNGlDbDBIQ0QxRUJwUnNXMW1DZmJvOExZYU5rVTVab0lJV2ZnYkxnaFdFVlNsWnpGUGNmOVA?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rODRJcEcwRlRzSFZFMk43ZHhNVi0wTWdhem5ITURmeE5HeXgzYlEyekVxSU0xWDVIZXJGdXF6TzEybW9meHRhT1p2U3ptWTkyaEZ4aW11LVF0c2RETnNtcUJGZ1hCMl9HeUE?oc=5"
       },
       {
         "id": 2,
-        "title": "实战演练强本领 河南兰考兰阳街道开展2026年防汛应急演练",
-        "source": "中国日报网",
-        "pub_date": "2026年07月02日",
+        "title": "云南省文山州​富宁县多方联合高效开展公路防汛抢险保通",
+        "source": "zgjtb.com",
+        "pub_date": "2026年07月03日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yU2R4R05NQk44WjJuLS1tMWw1dTRfTzJ3a1dDV05tNFdlSFBXN0VRbEpUU1NCeEtfZW9mRkNTZVppUUd0OXpRTUlSSXFoRXNBSG4zTHA5Ti1NaUxMaWxPcEJCWDdadEp0Ylpubl9TY3dBZXNQc0dyRTdldVM?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SS0RHdjhfcVdKYlBJcGxBcm1yY0pPeC1mTW96S3E0STJOaUhzNlNLRmxYQ2VuYUs3MkVYbVJURHJ6aHltUkNBX1pHdE9FSmRDWWlrVmlzeDFyODJJbDJKQXpEdUpOX2NmbDRobg?oc=5"
       },
       {
         "id": 3,
-        "title": "珠江防总启动防汛防台风Ⅳ级应急响应",
-        "source": "chinanews.com.cn",
-        "pub_date": "2026年07月02日",
+        "title": "水利部继续发布洪水蓝色预警",
+        "source": "闪电新闻",
+        "pub_date": "2026年07月03日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3dThpdFZKTFhaWnFXcGZYRy0xRE9QcGdjMnFMVFdGSUZidkVYSjVRdVNJTnRfbkMydjlMRy1pTXNIenNqd0FSSmI3cmlES0d4TU5xZFlPRHlsbFJzUHVaSWNPcXNPczNQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNS3NyOUZVekVYSjJiMFB6R0VNOGFpVUJJZlZKc1ZESDRUTUlXdmVnZlRjbThaZ3laVklOczdWdFdoaUFpSmxYeUlzbW1zV1U4MVR6ekMycHF2MjlySVJrQXZ3?oc=5"
       },
       {
         "id": 4,
-        "title": "景德镇市水利局召开防汛会商部署会",
-        "source": "大江网",
-        "pub_date": "2026年07月02日",
+        "title": "水利部和中国气象局联合发布橙色山洪灾害气象预警",
+        "source": "京报网",
+        "pub_date": "2026年07月03日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QWWZNeV95b0JmczRoY0t1bjdXQV80QUhwSXhTa2MtSnNZNmhmX0tJQVhiUElGSENKd1IxT3VBQ0Zud1JZSHFUb2lwdk5yMVlxaEdkUXRubFMtckdHQ09hV2xRY1pOX0xWekhrdm1n?oc=5"
-      },
-      {
-        "id": 5,
-        "title": "水库水位超汛限 乐平共产主义水库今年首次开闸泄洪",
-        "source": "凤凰网江西",
-        "pub_date": "2026年07月02日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE13UzF1OTdlSURVRlY0Z3lTZlZGSklvZVpLaFl2clk2bUVEdkpiN194TFZoYUVHMTZTeTl0OHZld3k0Uk83NUwyTWxB?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44RmQ0SkY4NWRIRWZwLVc1ZlRjMjFQMGJTRENSeWRYc1ZVZjZaRWMxaThHQ0p3MldVVXJsNWhrWE1mOGdQZU5QRWtZRlhRMDZXcE4yXzRrWW1hOUQ1aEE?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 6,
-        "title": "四川省优秀党务工作者马炜：以高质量党建推动四川水利高质量发展",
-        "source": "四川新闻",
-        "pub_date": "2026年07月02日",
+        "id": 5,
+        "title": "哈萨克斯坦与亚开行加强水利领域合作",
+        "source": "哈通社",
+        "pub_date": "2026年07月03日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NZ1EzOW5icFp0dnhMRTBFbnVEYVREa3lTNGNpZVJaYkVyMS1TbkJZUVVZeDBiTlJwNGN6VXBhdDg5LXlJS3ZBWVlLeTl4VXBqdWh1dWhkWGhHRVBaZzk4MXFyOA?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ESEFZbDJKLVQ2RzBISWNmUVd2VjZKT0dDSnR4dzU1czRjbFV4TVRSekVfQzFTTV95TWRibml4VVFKVHZHVEFLYUV2WGtMR0xvRUNtV3JVTnhWcjVt0gFbQVVfeXFMT3VWZEZaYkxybm1VeV9Zb2R5LV81a1VoQzB4ejVxVUJDbV9HM3VLYUtOTHF1UDJhRHRfcTk2YWZXNmY5dkdNVTBzb2JmWFdiWm5Lc2IzYV9ET0tEWQ?oc=5"
       },
       {
-        "id": 7,
-        "title": "8月7日相约乌鲁木齐！第5届新疆水利科技博览会解锁水利产业全新合作赛道",
-        "source": "搜狐网",
+        "id": 6,
+        "title": "贵州省水利厅原党组书记、厅长周登涛被“双开”",
+        "source": "新浪新闻_手机新浪网",
         "pub_date": "2026年07月02日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzJoYndSNjUxeDNpaUhoSGFsX0R4NktwZGJpWHo5NlZtZ2w0b095N0hlcmhSNndpZ3JmTXNNQ1VWYm1xUWYtS0U4b0tOU1V5bHdKalB1WkdtbkxJTTBSVVpHYW9waWVSNWVmSS1xMVp3c0kyTUpfQ0w5U1k0RVhkQTYtNmhVZnZh?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KSEkySTJHbzQ1SlNWclM3WjNGcW5IcFlMNkoyNlBscnFNeXByY2ZNT0VZVFl5YTlfY250S3hFQmNIV1FNdy1QZmsxUXFCY24xNXNJYWItNE9wQmc5OXpjeURlWmp6ZmgyYU04ZUJscS1ybE16ZlM4NQ?oc=5"
       }
     ],
     "政策法规": [
       {
-        "id": 8,
+        "id": 7,
         "title": "河北农业大学开展 “中国水周” 水利科普活动 引导青年助力国家水网建设",
         "source": "中华网",
         "pub_date": "2026年07月02日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
         "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5am5Xc2c0cUJnQ0cwckxydVluREI2X2p3Zldhd0o4S2EySmxIV2lUaVd6c0hCbGNqSl9jOENDQ1VwTTBPb25mSjhCVnBMRVdQYUJhNFRhTnNpWGhBX0E?oc=5"
+      }
+    ],
+    "水资源管理": [
+      {
+        "id": 8,
+        "title": "2026年水利英才兵团行暨鲁兵节水科技装备博览交流会举办",
+        "source": "搜狐网",
+        "pub_date": "2026年07月02日",
+        "content": "",
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVG9NRUxKbzBsSUJpczZ6WnRlUkhneWVnaVNMQjk2YmY5MHZqUVpyMEszMzRuSHdsYm0xRE5jdWtrM0JDaUtYWWszaFlkb05PaHFUS1NWaGtXb00yLWdpdjZvdUZfVVYxX0k1VXdIVThzVzZIaU5nb2FhNS11aEVUd1lYT0R0RlJfUXVzTg?oc=5"
       }
     ],
     "水利工程": [
@@ -97,21 +99,21 @@
     "水生态环境": [
       {
         "id": 10,
+        "title": "重庆公布2025年度幸福河湖优秀案例 这10条市级河湖成功入选",
+        "source": "华龙网",
+        "pub_date": "2026年07月03日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SUWF2QWNmdUJrNGZ6cS1CN1Y1SE5nczVMNFRaZm9RTVY1YmtvTkVBVnNJeU42YjBvakxRbktPSXdWWERUVzZtNlR6OXZEN2xqWUE4X3dBbXlhRllRRlRTSEUybHZOS3J6ekE4?oc=5"
+      },
+      {
+        "id": 11,
         "title": "碧水绘新卷 湖城绽芳华｜河南柘城容湖获评省级美丽幸福河湖",
         "source": "中国日报网",
         "pub_date": "2026年07月02日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
         "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pNmFaVUxWUFhlOThLUjBVdzVnb25CTXNqak9PWGRaLThFUktTdVRMdDdCRkRISGRsWEtXOVdzRElZVGw4UHg4aTRGS0p2NnZucEtrR1JDYnBnSUF6Tng0RnJnZVEzNzkzVV92ZnFGcnlNamdsdVMtWWtzNms?oc=5"
-      },
-      {
-        "id": 11,
-        "title": "洛阳4条河段获评“省级美丽幸福河湖”",
-        "source": "昆明信息港",
-        "pub_date": "2026年07月02日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6OXpuX3FDU1Jra2toT1BpeGVRZFQ4TEgtYTRIdjc2d2FZcEdvbTFJanlSZzJwbkljRjF4NGcxZEpseWxyaXFyNDFVZmptdURLaXNSTndhYWc3N3Q1eTZwTnRkVklwUQ?oc=5"
       }
     ]
   }
