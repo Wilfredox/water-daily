@@ -1,106 +1,117 @@
 {
-  "date": "2026年07月05日",
-  "news_date": "2026年07月04日",
-  "update_time": "2026-07-05 00:00",
-  "total_news": 10,
-  "category_count": 4,
+  "date": "2026年07月06日",
+  "news_date": "2026年07月05日",
+  "update_time": "2026-07-06 00:00",
+  "total_news": 11,
+  "category_count": 5,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
         "title": "水利部针对辽宁吉林启动洪水防御Ⅳ级应急响应",
         "source": "新浪财经",
-        "pub_date": "2026年07月04日",
+        "pub_date": "2026年07月05日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTZzZ3c2VFdtUTRXcVlRalpiQnFiX1ZtQjhVdldSeWdWVGZ2ZEhjcS1ITkNVTkx5R0JjUWxISEpaalF1Y2pLSkR0OWVMNGJRY2UxdVVUdVk2TjVvRDNvY09RajVRQXVQMl9BSWVxV3BadXNpWHNpZjZkSUxrTnBTMnFINW1PY1lKMlQyazhRZlhpY1hnOVc2TjFRVG4yTE91MlJ3eUQ4b3NkaFEzVmNr?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UVWVuTVF6eFZzUzhfSTRMcFAwS0ZOaXJTV1l2Z2ZCa04yWGNoczJuQjhXaXVFRDhHdUZGbk9adHJ4S0hTbERaTlZqa1pJQTBic21nUERqT08xblFVRWVfYWxYbVBnZm44ZGhITDd2N3ZRTzRNOFY5VQ?oc=5"
       },
       {
         "id": 2,
-        "title": "水利部针对辽宁、吉林启动洪水防御Ⅳ级应急响应",
-        "source": "新浪财经",
-        "pub_date": "2026年07月04日",
+        "title": "水利部针对广西启动洪水防御Ⅲ级应急响应",
+        "source": "thepaper.cn",
+        "pub_date": "2026年07月05日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDljU21xOGZ2X09HUUlIcE1TMzA5VzRsbEo5aU5GcFJzOXNON2lvR0JiWUcxSmVmcWpqc05xQWkxMnRFcktYNGczeVNiWkJobk5QTmN3ZG0xd0VueWFFcWluNEViTlB5UnNwdWREalJUTVExYXJtRVlYSS1wT0VHbUxaNHI3azJ6YmROQUJOS1BXVXBlc0t0Rg?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oMG9JWUtLclk2bE5FdmJiLS1LRjFLdWpnOXEzeXlWeUlKbXV3X1ZDNVFoZlNKTHFpaXVGS21xSU1MeS1sVjhCenZaMGhIMzhCNDhBQkxOT05mR2xWUm9QeQ?oc=5"
       },
       {
         "id": 3,
-        "title": "水利部针对辽吉启动洪水防御Ⅳ级应急响应",
-        "source": "光明网",
-        "pub_date": "2026年07月04日",
+        "title": "水利部和中国气象局联合发布红色山洪灾害气象预警",
+        "source": "中国青年网",
+        "pub_date": "2026年07月05日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tRFByWE84V3l5ZjA0bENMaVVaTnRab2ZjLU8zcjZsWEU4WC16MWh2YzZ1WGNZaEVad1NZSm92WEY1Xy1MT2Npa0pPbnBQNWNtYUE4dXI5UWJnaXFVWW1N?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BOEFDdG9MNkduOHoyeVM5RThWR1pXMmRfTUhpTC16a2NXanR4MmFhbzVWbWdJVkZoUTRFWnJod2FPMkUtQTJBTlk3dWRJZk9SSUlId3RlWmJFcGx4ek5XQ3JQUmU?oc=5"
       },
       {
         "id": 4,
-        "title": "5市乾旱防御Ⅳ级应急响应做好应急供水｜即时新闻｜中港台｜on.cc东网",
-        "source": "on.cc東網",
-        "pub_date": "2026年07月04日",
+        "title": "为河北安全度汛提供坚强支撑！12个防汛指导帮扶组推动各地做好防汛备汛",
+        "source": "thepaper.cn",
+        "pub_date": "2026年07月05日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOTI3U0E4X1dZeVJTcXM3ZG54dmJ6d1M1czFBQUtRRnl4X1pSR1oxTlNCLWQ0dWtNVTRycFhBcXdMWk1wRnJwWmIyamo3QlFGMVJTRm5tX3dkYXFkd18xeFQ0ZVZnZE5LY0FRYVMtZVo2dEl5blJWY3ZXLS1XQ0FreC12MVlacTljNlBQdnNIVTRqbTF1Mzdpbw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mZmVwU2ZlNTJIQWJ2UmRPTmozejlTeVZYVC1mOTVYc08zVk5CYml0SjNHd2dpT1JHeTR1MGpoVzEzZjd1cjdXbjJ5cEZCNVRzaFdjMVUyN2x6Z2RZNlE?oc=5"
       },
       {
         "id": 5,
-        "title": "水利部和中国气象局联合发布预警，湖北东部发生山洪灾害可能性较大",
-        "source": "搜狐网",
-        "pub_date": "2026年07月04日",
+        "title": "水利部针对广西壮族自治区洪水防御应急响应提升至Ⅲ级",
+        "source": "新浪新闻_手机新浪网",
+        "pub_date": "2026年07月05日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWmYxRjk5TS12N3hSRG0tUnFTaF94cXlXZG5EZjBFZHNUbDd3OXcwSm5nUHpGM2NXeDJLTjRvcFlkX3hGcGhSYUxxcmIxeFo5UlNMVzdzdjc4NWZZd0lzR0NsVE1WZjEzbXdQX1E4ZWJfVldzdFMzQ0JYZWh4NGViZndrdUUtZDdIREtnOA?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0tRaEFtc2FuYXBHSlBMbEVydDhxdGhLckdFZlRDZF9OMTdOeVRRZ295TXAzeC15Wk9kOFhhWlNPWldzTXdSeUw2ZFI0QTJfZnBRdldyWTVOdG91Uy1PYkNpUkFiTVVDZjFkWFBxem83dWRad2ZlbUstODRGRTNoZEdhN01yVTFmOWVvV3hfWUZaZGZ4bF9ueA?oc=5"
+      },
+      {
+        "id": 6,
+        "title": "筑牢安全屏障 我省多地开展防汛抢险综合应急演练",
+        "source": "hebtv.com",
+        "pub_date": "2026年07月05日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlTHZSaXVEV2N3QXRIa2tmNV9qTzViV3p6UlF6LVNQWndZTWJiQnQzUndUd05ibV93dkZoemNHYUpkZ0JvZ2ZaS0xmbVpfaENxSEVaWlRjRTNHOGl6bW85RmI2OTU2NHJidzFJdg?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 6,
-        "title": "哈萨克斯坦与亚开行加强水利领域合作",
-        "source": "哈通社",
-        "pub_date": "2026年07月03日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ESEFZbDJKLVQ2RzBISWNmUVd2VjZKT0dDSnR4dzU1czRjbFV4TVRSekVfQzFTTV95TWRibml4VVFKVHZHVEFLYUV2WGtMR0xvRUNtV3JVTnhWcjVt0gFbQVVfeXFMT3VWZEZaYkxybm1VeV9Zb2R5LV81a1VoQzB4ejVxVUJDbV9HM3VLYUtOTHF1UDJhRHRfcTk2YWZXNmY5dkdNVTBzb2JmWFdiWm5Lc2IzYV9ET0tEWQ?oc=5"
-      },
-      {
         "id": 7,
-        "title": "三峡水利：融资净买入48.49万元，融资余额2.04亿元",
-        "source": "东方财富",
-        "pub_date": "2026年07月03日",
+        "title": "#景区免费吃瓜游客已吃3000多斤#BS别的景区免费吃瓜，我请大家免费景，鉴湖鉴湖古称镜湖，别名贺监湖、南湖，位于浙江绍兴越城区、柯桥区一带，是江南最早大型人工水利湖，有“八百里鉴湖”美誉。 ​",
+        "source": "新浪网",
+        "pub_date": "2026年07月05日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XV18zeGlGTUZFMG5HYXZwQllvX3ZIYUZuQ0h4S0pxdnVhMnA5VmhkTTdxUnlubERuQkwzZXIyV1IwUlZCTEJZdUR1cy1lQjhKeUtoSEc0THNicERvX0oxRlBB?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWcTZtZXZMVnZuWWdITWxDN1dSdlczTzlSX1FBZjNNbkxhWUdKakhqQWdxc1BKbmlfX2FpbE9FZ3pxd2pmeEhZT3U1eG5wUEdrWWVSTFF3OFlWM0Z6SzNVOHFDUQ?oc=5"
+      }
+    ],
+    "政策法规": [
+      {
+        "id": 8,
+        "title": "“十五五”开局之年推进水网建设观察",
+        "source": "新华网",
+        "pub_date": "2026年07月05日",
+        "content": "",
+        "impact": "将进一步规范水利管理秩序，推动依法治水。",
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRTIxWUZKVkxJNXIwRTA2QzBKTk9RVzNaN1pVdlRiYlFNcTdNenRFd1pQTmFPWDhwTndVejA2LU9rNlVJeUFDcHFCNzFKWVR0cEE2Ri1pMUo2SmpiNDJVZzJMTlNKdGJpOE94eHpxNXZlYjd1VFBJVFVJc3dfek9zbnZ5eGZKeXly?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 8,
-        "title": "当水资源成为武器：印巴“河战”一触即发",
-        "source": "QQ News",
-        "pub_date": "2026年07月03日",
+        "id": 9,
+        "title": "在区农村饮水质量提升工作会议上的讲话",
+        "source": "biganzigongwen.com",
+        "pub_date": "2026年07月05日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yLUxjQXltTDFkX215X1M2c3JNdFcyR0RyR2E1OTdQRm9jbThicTR6aXRCeUFMQlhxRjJteHFwcmZhZnBRRDB5eUdhVkFjOUt2WEZvRm9lanZlVFBTeVVfeXp5WFlPZnBhbDhiOA?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zakxKRVZ1OXB2REhwendUUmJyaVBOMUgybnFMaHNxdkwxUDlTSkI5czBpeEJQbUtLeUI4WjJDVGVyWkJXbzBDbF9kTkU1UjloV2dvakdCVm9ZZFRsZ2E0?oc=5"
       }
     ],
     "水生态环境": [
       {
-        "id": 9,
+        "id": 10,
+        "title": "陕西五级河湖长共1.71万人",
+        "source": "新浪财经",
+        "pub_date": "2026年07月04日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON3EzRXVPTjROZm5RYjFuVnNKU01mWVFma3Z1STluak1fOThTR2lRRHYxOXR3VFQ4SnlYRTBqT2lJX0Z2d2dVZUF4dkhYRXJwbkNRZDJ2ZnY2dUx0NUhKOTh5bjRhVEFoVFJ4WVU5OGRyR1l6ajY4MU1uMm1YdEdJeldwXzBwcVZQdGV6NUtYdk5IQmtNWkYyXw?oc=5"
+      },
+      {
+        "id": 11,
         "title": "科创驱动河湖治理匠心守护碧水安澜“幸福河湖行・走进太湖”交流会在德林海湖泊生态医院成功召开",
         "source": "新浪财经",
         "pub_date": "2026年07月04日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
         "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HaUJqdkpLay1JRFJVNk5vaW9mUmgtZzRNb3BWYUxrZkVmRGo5VEJlckpFbmxZUVgyTm9oZ3lUeUhGbUp6UTNGTE93c3lyamhqTndTX2pkckVxNTlYbWhwRzhaM1BsYXRYVDZ5bTJEeUNmYnBwYUE?oc=5"
-      },
-      {
-        "id": 10,
-        "title": "10条市级河湖入选 重庆公布2025年度幸福河湖优秀案例",
-        "source": "重庆市人民政府",
-        "pub_date": "2026年07月03日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03TXFfeVpGWkZvbW45SU1CZDdNRXJVR0FpT3NpOG5jX19FX0pVLTR3djB5clhkWEM3d2FFSUlKcHNiY3BIR1dzdDRTc3RWQjdwc1FMQlU3WnB5THRjSUIzRW5PLWU4Z0M1dThkQXMtZUFkaGtW?oc=5"
       }
     ]
   }
