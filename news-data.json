@@ -1,164 +1,173 @@
 {
-  "date": "2026年07月07日",
-  "news_date": "2026年07月06日",
-  "update_time": "2026-07-07 00:00",
-  "total_news": 16,
+  "date": "2026年07月08日",
+  "news_date": "2026年07月07日",
+  "update_time": "2026-07-08 00:00",
+  "total_news": 17,
   "category_count": 6,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "水利部针对广西壮族自治区洪水防御应急响应提升至Ⅱ级",
-        "source": "新浪新闻_手机新浪网",
-        "pub_date": "2026年07月06日",
+        "title": "水利部工作组指导台风“美莎克”引发的水库险情处置",
+        "source": "新京报",
+        "pub_date": "2026年07月07日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOEVidU14MmF3MzRBa0tSWWhZVllFLXphQ1VRZ2otckFtaHhBeWk2Z1A0STNiNmFjZkp5YmwzYzVRTm9DWkh2NGs1NV9ia0hjcnp2S1dBOVNpejRKR1FSZV96OFhVMzU2UWlNMm9wQ1ItUVdzZnQ1b1p0Z3hqTGYwVGdzOG5MX2VaZUN0ZW5UNjJzX1RxZHFjTw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rTWo5WDVVOWFhYk1uVXhtYUVNU0s3SG8tYy1uTXVXZUFkVE5Bb1dRejJwSTZEWG1WR0hWSnVuY0wzSkNlMlpndHlNNmNqY2k2NENDelRIcUJCbDhFWmp2SWxkQW8?oc=5"
       },
       {
         "id": 2,
-        "title": "水利部：对广西的洪水防御Ⅲ级应急响应提升至Ⅱ级",
-        "source": "thepaper.cn",
-        "pub_date": "2026年07月06日",
+        "title": "广西多条河流洪水仍在持续 水利部部长李国英赴桂指导防汛",
+        "source": "搜狐网",
+        "pub_date": "2026年07月07日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MjJfX2tSeWs0RF8yX1U3N2s4djlIZTFjZzFZMW9UR2wzQTJ1bXgySDFEY0VmV1RBRU1jSURTQUozekY1dWYtMGtvWC1TR29qZ0hZVEk5YVZZX0c0cnV4Vg?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42RDNSbjhXUThndTFpSVRzY1Q2bW90Q0M4VUtaMVIyMGhkODY5bzMxRmFnRDNLZ1BYck1OeW5nTzkyWm5mWXhOMDBuZ2ZsS0tGN0dkZWJB?oc=5"
       },
       {
         "id": 3,
-        "title": "珠江流域77条河流发生超警洪水 水利部发布洪水黄色预警",
-        "source": "香港01",
-        "pub_date": "2026年07月06日",
+        "title": "水利部专题部署台风暴雨洪水防御工作",
+        "source": "21财经",
+        "pub_date": "2026年07月07日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMingNBVV95cUxPb01sMnB5bVMzRDlTU3BSTWN4NDQzTVUwS19zNEd0cXR0VWNlT1Q2YkJqR3hpalhIQnZwQ0JUOEF0OG5wajhTVmdWd0RBY1g1MTlKSnZjUzFTUkE1YXVyNGdBc3VzMjFrMklyNV80bGdQMURkVGhqZkNDc2pVZDgybU9FeXZIN0NKdDlJaWhvaHRlblN6ZFc1dFo5dnhxbnBzOVZaM0d1TzBFVDNJNDNXNUZoLWFfbHhuNGhFZzE3M0EtLUZhejBEQ3lwekhxRkRCMEJsY0VYVGJoaWpJM2NLWW9jZV8xeXFwSzItXzN6ZVQ0amlZVUY0RlcwU1NSaDFsZDhyR01JTTlKMlIzX2dEX2tYR2FXYWlfWUxJU0wyc3pKUGtkbmZQSUxlYm9MOEdUQm0wSnlUbnBfanhmNWFzeFBTMUZEaEYwWi1VVE45cE82RkNaNzc1WXdqYjAwS2ZESTY4d25vdGtKWk9HTmUyVlkyLUp3TXY1WWdSRkFxdDJTSkMwd3pGNGwxWXBKSWZVc0JXZnhRY3p0MVVjcUE?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORnBvd3FrTVI0bGdNYkZrY2FDc2FOMDNLV1JDQmRvdjg4U2pGQ0ZxeG5jNEF5UkhvWVllMXZHeFhqM01UdDlvZmRXTER4OUxDNDNKOWZnbVp3LUZFdFdrMVZFVk9uM3ZrUnRhWkRXLUFxSktDQU9xblBUZm41clIxcE9fVUYxUXdmLUlabA?oc=5"
       },
       {
         "id": 4,
-        "title": "两部门预拨1.6亿元支持广西等6省做好防汛防台应急抢险救灾工作",
-        "source": "新京报",
-        "pub_date": "2026年07月06日",
+        "title": "水利部部署台风暴雨洪水防御工作",
+        "source": "新浪财经",
+        "pub_date": "2026年07月07日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qdHp5YmFXYjg2VWd2dS1hekkzOWQ0eFBpOGRtQW5rbF9HZkhtRTFGUVBWdjJBQ1lUbzdGUWhGV1RaUW1uZzEwYWJ4aGhTTDZKTDJMZW5KcGZBZ0t4eVZrMmRXRXE?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNRDhNYTdXUEhmei00RGg3MGRnTzRTWGhPOHlJMjAxbUtxOTNGX09Mb3VUOUQ1QzFvdEI1bzF4LVBZakZZTnhYbWsxY0hPcHFOajRwWVc2UUZuTFNSeVYtQ245a3NsMjlsR1VLdjh2RXBYT0F2Q3JkeWxyaWJLZWh4X2dVTmJCS25Xa2RXcHJmZU81MmF2RVhNMS1JSG0zelNURWUxZE5LNDdNOXo4alhwczE0bHI3SVlDYjhYRTRyeFlVNnNFNlNCSEtweU5xNjNlcUpENDlGWmZ5a2pWVG5uWGhVcmFMSUN0aEhET2FHRkdjVFlkQmlMWkFESnI5SFctUXJWRDNqRjByT2tsdlNNcHVCeFpldldYa2pnaHgyaFhOMWw4cGtxWGkyUmlrNGFaYnZEeW5CbVh3T0o4TjdyeGtpdTQ?oc=5"
       },
       {
         "id": 5,
-        "title": "闻“汛”而动 以练筑防 石拐区开展2026年防汛抢险综合应急演练",
-        "source": "包头市人民政府",
-        "pub_date": "2026年07月06日",
+        "title": "河南方城柳河镇：开展2026年防汛应急综合演练",
+        "source": "中国经济网",
+        "pub_date": "2026年07月07日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FQm9Sa0lvS0tmdy02dFFmeGpaVThSOEFBQmZRQVBpUmM5Yl8wWnVsZTdnSHhtdVlDWlR2RnRtVVpZS1pjRktZaTZFcjlDa0xEYm9KN2NsRDlETnJCN2pKOTZJXzZfY3NpcHB1RWlQZ1NJeU5pV25WRQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aU0tRSEJiNnRxclM3c2gxU1pDNkRCeGpKR2h2ZTdpYjUxSGlwUWtJVVNqY3czcDJ5RzhKMWtuVElObDZ5RmlZSXFmR01tbDJTRFdTX080b21uT2M0Sm1ackVsQi1xVVU4UE5vMXFiZw?oc=5"
       },
       {
         "id": 6,
-        "title": "方城县柳河镇：开展2026年防汛应急综合演练",
-        "source": "搜狐网",
-        "pub_date": "2026年07月06日",
+        "title": "应安一线丨冷水江市公路建设养护中心全面备战防汛：提级应战守通路 昼夜巡防保平安",
+        "source": "娄底新闻网",
+        "pub_date": "2026年07月07日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEpIX29WNUgtNjJVYWprdmlELWdMdlk3QnJzNFJ6d3pDUUJBekxVVjYxb3NHYWRHeW5PRUxOWEUwQkRVUnNBUHdVOWlEWXVyaDNLYlQ0MUo4X05GaXgxWFNfbDVTbVNCekd2b2hiSjg2bkJzalNiV2Z5Y2twc09pTlR0T0o4ajBuSC1lbQ?oc=5"
-      }
-    ],
-    "综合要闻": [
-      {
-        "id": 7,
-        "title": "山西水利通报3起招投标领域违法违规案例",
-        "source": "搜狐网",
-        "pub_date": "2026年07月06日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdXlrcWhORU1LS2NrbHdTTktER0NQcE1TYzgwbjIxMXRJOGdvay1acklkZU1vNFk4VzhBSGJYZkN0bWZYN0c1MGJveVlxNDc1YjdaZWhkNHZ4bHZjLXJCQm9wakMyR2Q0UjRhUmZXTnB4NW1JMU1OaEhlNjhzanRYYlU3WDhhQ3RV?oc=5"
-      },
-      {
-        "id": 8,
-        "title": "数览中国脉动丨筑牢兴水利民之基",
-        "source": "京报网",
-        "pub_date": "2026年07月06日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sN1NWYV9fNDNFVlNieDVCNjQ5Sm9yeDdhWFVDWDRmbmIwX0VsMEpNYTg4RGVpU3d5eVNBTmk2dEJMZmVLRWdZVDBaVTFNTDg5dVNDQVlRUVYwbWphd2c?oc=5"
-      },
-      {
-        "id": 9,
-        "title": "融科研与咨询双向发展 省水科院迈入全国水利咨询行业第一梯队",
-        "source": "极目新闻",
-        "pub_date": "2026年07月06日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52TWxob0hucElqWFZQbWFEZWhObU9QcEdXanFXb25lcjRDMzZXQnF1cDU1VHczSllKbzRfQjhEZXdvV05TY2EwVGlWTTBaUVR5OGxmV0pGU0NtdkU?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jS2ZDQmhZZEVDd2xhYjNRNTVkaUQ0TWNCRUh4SkpSRjhDMWJ1VjM4WVFKR0NwTFJEMUdKVVRzR2Z6YjdXd19jLWVpMllCOW9HaXBjbHNuRXIwSWJIV0J2U2tJS1BKZlY0emI2anhVZ0hFQQ?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 10,
-        "title": "在区农村饮水质量提升工作会议上的讲话",
-        "source": "biganzigongwen.com",
-        "pub_date": "2026年07月05日",
+        "id": 7,
+        "title": "喜报！我县作品获“心有千千‘节’”联合行动暨第七届“节水在身边”全国短视频大赛AI赛道优秀作品",
+        "source": "新浪网",
+        "pub_date": "2026年07月07日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zakxKRVZ1OXB2REhwendUUmJyaVBOMUgybnFMaHNxdkwxUDlTSkI5czBpeEJQbUtLeUI4WjJDVGVyWkJXbzBDbF9kTkU1UjloV2dvakdCVm9ZZFRsZ2E0?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vbGhweXFUSDlfRk80STh1OW8zNDJZYTdSRXRJaXBRZ1EwVGxHZDJjQ0VSaDZWd1JYLVRPS1J1QzBUQWhOa3lXZ05KWU1RWWFleHFKOXNkSTRWWnZhTS1pNm1BUWVIN2VleV9WQXl5OHYyUQ?oc=5"
+      },
+      {
+        "id": 8,
+        "title": "非法占用土地！福建省厦漳水资源开发有限责任公司被罚",
+        "source": "搜狐网",
+        "pub_date": "2026年07月07日",
+        "content": "",
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1NFk0LU5tcVhlN1ItQU9qcVdLbXZVYWZVVWRxZURrYWU2NUNUTjVpZHQ4M3k1R1EyZkZJd01QZDZyUnl0TmxWZXNfaE5IcG1uZ3RXVUJB?oc=5"
+      }
+    ],
+    "综合要闻": [
+      {
+        "id": 9,
+        "title": "衢州塔底水利枢纽公司获20年发电类电力业务许可证，电力业务运营资质落定",
+        "source": "新浪财经",
+        "pub_date": "2026年07月07日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRFFpTkJ0b1BxaXV6TjJKOGgwV1R6MFJ5WG15cGhOeDJwbHdOZ29fTDJiRWNhQTNEUl9zRm5fVVhyRlNwRHNKdjhQTUcyNXowbEMtZG9BNXZWQVhPRnBtNXhzcXZnRmhPZkExUmdMUE5HZFBoQXZiVjVWalBwcmtqUXNMcnM2RldYRkt0dzgweHE4MTJkQktiWA?oc=5"
+      },
+      {
+        "id": 10,
+        "title": "跨国取经！哈萨克斯坦学员考察长沙县智慧水务管理",
+        "source": "搜狐网",
+        "pub_date": "2026年07月07日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQXY0QmJNY284R19XczNoclk5dGprSlRWUTB2bm9tOE9paFFZS2F2U3hkSS1mc2VlY1ROLTByZDc1R3NlNmtuYVJtejhVTnpkd1pfUGpJZU1idzZPVWgzOXFMN2RpczhhZ2dUdnItZ0xlV0ctcm5aazd3aHhBa3kzQ3FFbF8wX090?oc=5"
+      },
+      {
+        "id": 11,
+        "title": "土木与水利工程学院王昌建教授当选国际科学组织VEBLEO协会会士（VEBLEO Fellow）",
+        "source": "合肥工业大学新闻网",
+        "pub_date": "2026年07月07日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqeU96NkIwRHoxdTRXSDBBb2h6NUcyN2xUTjlDOXZneG4zbmR3TmhtczVfbDB0MjhjZ2laSFYzLWl3SExRbGlfbHFfdXhFenJzOFg0T0lpOA?oc=5"
       }
     ],
     "政策法规": [
       {
-        "id": 11,
-        "title": "“十五五”开局之年推进水网建设观察",
-        "source": "央广网",
-        "pub_date": "2026年07月06日",
+        "id": 12,
+        "title": "水利专项今年第二批中央预算内投资下达 九江项目数量和资金总额全省第一",
+        "source": "凤凰网江西",
+        "pub_date": "2026年07月07日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kYlpfWE5udDZkdjVTRnExOTl4RHpGeHFXM3I0OGRERElxMjF4cHhTUHBzVC1HVTFTaEpiZjJydHR1eTlmSUNSSlZPWUJrM09EUjFSa2RpWU13Z0FVdFpmOW9SZnlFR1BtcjFyZE9fSEFyTUhNRl9CX0pyRERMdw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rSktRMVctMHhwVHpwSFVBZGM5MVJCRzNkUEZZdkdianZjVHFlbS1tMXpfeEZEZ1ZNc2xQalVUVy1FbGZ5Z3h6TFBn?oc=5"
       },
       {
-        "id": 12,
-        "title": "刘国中：推动生物医药和农机装备创新发展，加快推进现代化水网建设",
+        "id": 13,
+        "title": "“十五五”开局之年推进水网建设观察",
         "source": "京报网",
         "pub_date": "2026年07月06日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fbXZwZWRoYVd3WnUtdDZ6SGg3bXJhcUxGak5xczdacHJQYTYzR3Q3NnRkZ0ZHS1J2WldJZVlCaE91MXdlUGxLSEJyQXZDczRRYkhVcjlXRVVGZ3Uxcnc?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10bFFxZGxCbmZOOXdiOWtlOThWcS0tQnN6UkpJSkdGajVhNDViYTBVVG9PU1BDT3FkT3QwTlRzd1FSSlE1cVJrQzZKQUNuaGZ0QVBtcUJmeHNMTElJNTBCeTh5NUhHQVhZUEp1T0FCODhFdw?oc=5"
       }
     ],
     "水利工程": [
       {
-        "id": 13,
-        "title": "最大跨度120米 亭子口灌区一期工程“最难一跨”合龙",
-        "source": "四川在线",
-        "pub_date": "2026年07月06日",
+        "id": 14,
+        "title": "红海水库装上“智慧大脑” 让农田“喝”上及时水",
+        "source": "xj.chinanews.com.cn",
+        "pub_date": "2026年07月07日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LQU9JNW1kUV80RnFrQnhRbkJVbFVUeXJsblIzWDlIMmRRYVBCZHM2Q3I5WjBRbUYyZjY2LU04aTlDTS1DY1U5eHdxZVZhbTJLRVNnQmhOSGpzamtSMzJKNlloU1I?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVG80UUhXSnhHSzJvMmJjck5VRUw2WW5jdmtPNzlwTWlfNDNlSE11d3dsQWlXc29CMHk1VVZWb3NSVWR1RXJUUVRPN0Z5SXBYMUxPOS0yaHJlVm1SVktpOU9VV2wxa3U1bW1vUUNJY3J5RmtXNVlGa1Z5QVJGd2RYMGZnWQ?oc=5"
       },
       {
-        "id": 14,
-        "title": "百亿级水利项目推进！三大国企联手！山东鲁东南水资源配置公司成立",
-        "source": "中国水网",
+        "id": 15,
+        "title": "关于全市小型水库建设管理工作情况的调查报告",
+        "source": "biganzigongwen.com",
         "pub_date": "2026年07月06日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14WTNubHRjMHN2VldTTHY0YlJDWmQ3TnNLWDIwNFE0NENGTENuYXQzRGxFV1hZeHpvSG5MejBtNFgzTW9EaGE5VXVFOFYyVUV3T043eg?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lVW9DV1JRMjNnOFdYWWx1eUtlNENVclpfSG0yczl5UFk2NC05LUFRbHlWNGExamg2VzB3Ti1CN1BfRkI0ZWVtNlJndWdHS0twX2dMTnpYTl9QY0p1Tmdn?oc=5"
       }
     ],
     "水生态环境": [
       {
-        "id": 15,
-        "title": "仙游召开全县河湖长制林长制田长制工作会议",
-        "source": "fj.chinanews.com.cn",
-        "pub_date": "2026年07月06日",
+        "id": 16,
+        "title": "四川水土保持的“点绿成金”记丨水润蜀乡",
+        "source": "四川新闻",
+        "pub_date": "2026年07月07日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sSlczV3FGUWVEZUFfc2NMWXdBREZ4R3Q0QVV3TnBPeWdMUm05Rkc0czlxWnM2ZXhaODVHOGpKOFNwcWVJMUtFbm5iUjlrVFdyMjE0Vm9haHdhVGtQdmI2dnJKUjIzU3FkM2Z0YVEtT3RhZw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rR2tucHlSUXg1c3U3N0ZzaVdmVEp5cWh0Y25BR1VmOEdOc05ibk4zeDVxTktwRTV0emVPenpjVkRWelBEd0tpb1Q3b29oNktrQjctR1M5d210LTlMLUZERTZ5NA?oc=5"
       },
       {
-        "id": 16,
-        "title": "陕西五级河湖长共1.71万人",
-        "source": "新浪财经",
-        "pub_date": "2026年07月05日",
+        "id": 17,
+        "title": "【部署】两年将集中整治108个乡村河湖库突出问题",
+        "source": "搜狐网",
+        "pub_date": "2026年07月07日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqODRxbFRlckFoWUhVcGs3THpKQ0hnVG1BUGNIODFUbW5XSkVqMnp3eDRYM3Qxdl92ZElTckxEWFpIX2dJRXdiWkY5LWZPTHlidmxseW9FYU9WVUhYREJqUkpXZG0xX0RvLUpyUHBpamZ1NzA4MU9FUQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTzBqaU0xMUstdWEzWXBzVDlNTWw1RHM4Z1dhT2VybGYwZEM5dF9JOWs0VS1MdFRBMUk2ZUtLY3BwTTgwWW1GSGtYYXhQcVlFSkJwb1RhbGZ6NFR5N21VVy1aQzNQTTdpanA4ekdNUEhoR2hSOTczSXZ0Zk1vZnJtVTFVdVVrSUhrLWxUcg?oc=5"
       }
     ]
   }
