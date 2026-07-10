@@ -1,5 +1,224 @@
 [
   {
+    "date": "2026年07月10日",
+    "news_date": "2026年07月09日",
+    "update_time": "2026-07-10 00:00",
+    "total_news": 22,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "平谷启动防汛一级应急响应，全力筑牢汛期群众安全屏障",
+          "source": "京报网",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KN2RRZmZ6SWk4ZlQzcUttejZkTWZvaEtuV0Q1SkRLaXVkWkpHMjhkQ3ByU1pQeXpxUTV6c3dXTUVrNExxRm9MVFN2cTExYXhrbWprTlNoNmRLbG9LR0E?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "积极应对“西江2号”洪水，珠海水利系统已做好防洪防汛准备",
+          "source": "珠海网",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1UGV5bU9wQzRxZEY3MjNPLWdGSlZldy0yMm1WYzVVeS1uLUZIcnR6Q3NWLVI2NDVtR3RPcjljZjNWYnhOZXl0QS01LVV1Sm5PTmhZZks4QzZEZWxuX25aS0tERmtqQlJ0NDZJck9DYm11czNlOTFr?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "以练筑防 备战汛期｜北京房山印象城开展防汛应急实战演练",
+          "source": "首都文明网",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tcDgwMXhxNGVkYm1CVEl3N3ZYQ25nNVhTSDhJTXNPRURwTDFFdW1mSXdxeGFiRUs3QnI3aERNUTR6bEFEeG5peXFfeDFtdHJ0WFBKcWN1aFFWemM?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "中国安能长沙基地星夜驰援广西防汛抢险-掌上长沙",
+          "source": "icswb.com",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6WWh4RnEyeFdUUXNTaDI3T3cwOFU0NkJhRFo4N3VSbjAwR0NtbTNxOVdyQmNHXzNNMWNvMk8zRm0tUlE3bG4tNHl1bkxYWkNCZWxVRGxNU0R0bFRsRWNuaA?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "衡阳市水利局召开台风“美莎克”防御工作视频调度会",
+          "source": "hengyang.gov.cn",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yVUVKOVIzN3VfbWhqNWN3VDV1bHEyeDg0NHQ3VWdNN3VHaS1lWXZqdC1tSzRnbW9ab21FUGM3OWlGNjNLek9Da2dIcERZcFp5SUJkY291S2J3VUZiNEFXTGtrUWVkb1hsU25RSjNITzNtczJnMDJwT1htRE9Bdms?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "防汛大脑、智慧水利、无人机基站 厉害了，浙江这些高科技武器全力阻击“巴威”",
+          "source": "飞象网",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kSHM1UmZNdlZpNFB2eTVvcmVUX2pYNU1ZU2RKX2VjVkY4MmlRcjNxN3ZVVFJKX2RDNG8tRzlIbzJYN0RrcEtKdnp2bw?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 7,
+          "title": "今天是水务工作者职业节：哈萨克斯坦如何推进水利现代化？",
+          "source": "哈通社",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hbFRPYUNXZjFVdFZqeVhEY01qMGkzVEZuNlhTOEtySkJ2THMxbFptLWw1VHpfeUVPZEpody1qNVBCNS1tMDBlanRRX1c2cllkUmluRHpJeWNiR2JTc0R2MzNOcnItYS1XeDAtbkU1VGh6QdIBcEFVX3lxTE9mQjFlR0dwbWlqTmdJZDFLanFkNUxVaS1Mdm5uaGt3aWMzSXJnaWpSNVpPNmF1NmZ4bEgzNlV3Zkloa0NqbzA4MUI3VHVRV05hWjVTTVFGRjQzS0E1bFBYd3BWejVfTHZGZzBBVzg5Rkc?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "修通惠民灌溉渠 润泽乡村振兴田——若羌县吾塔木乡西塔提让村筑牢农业生产水利根基",
+          "source": "xj.chinanews.com.cn",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSElSb0VLNExNVWdFQVREaU5Qa3NfWnMwTkV2SnowQzI3ZkwyTURUMVBLLWY1WHpZWHdnRzVvajEwTnd0WlNaZTM0RG9FZEdHNDVtOEVEc3d5R2VpQnRLTjl4VmVKRDl5cFhGdWptNmhTUWdjVXl4TGJ5eHVVSkV2bGpxbw?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "2026年山东省水利科普讲解大赛在济南成功举办_山东各地_山东新闻_新闻",
+          "source": "齐鲁网",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54SmpnMWZkN2N1SjlzYUNfS2hySWl5UE5sc2liT1h3SkdqOWZHemxyT0ItMm5aLU96Y0V2MW94ZXVTRDktaXZ4SkZteFU1Sm5DRzdTVzBtb1l2aUZNNnRyVGtFaEsxa1liTkxSUW1tSk1aWTJhMGc?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "郧西县县域智慧水务平台项目",
+          "source": "信息化观察网",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xR1RPYy15WUV1UWxZUUdyckhBM1hpNHctRE05T0UtV1hpOV8ySzFDYnF6cVdDRVhIZjFRS1IyZ0hnYlh5TmNZY0NsY3h2N3RyOUJwMDFUeXgwTkE?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 11,
+          "title": "供水主管爆裂致停水 嘉鱼消防紧急送水解民忧",
+          "source": "hb.chinanews.com.cn",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNR0hCWEZ2V0QtSFZDa2F2UndPZENDZUdDWkthcjhtXzc0M1VBZ29zOUVwR1hkZGpEOWEwNmhJQVItZVJDQnNFRENXMFpkbTRkejRhOW9OeGF5NmdGV3NVZUhhcnVvbGNu?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "布泽格扎强调持续供水并加快水利领域项目建设进度| 阿尔及利亚新闻社",
+          "source": "aps.dz",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQamkxOWNtNEVPZ2tPV2k4UFNrX2J0eW9WdFdxemMxNGpNbDVWN1VHMlpxeDdQbG84ZXJvbFl3MWdpRkY2QlNLSXRVM2U1UEpqMHdDVkl2aDZTYWloZVhjYXZfaEZ4QnRDR2ZDZFc2VGpmQmt4NHhBT3JySVptX216NWNXckZCUXRtV0JWeXB2enpFSC1McGt1WGUzRnRKVGx6YTZ2UWJMeGt0V2FrcnNrTHR5NWZCTlFJQXEtWHU0b2hzYmdGa0JQVGVZckRfZGdJeEdkUDBSLW9mS1NuVWZFYkJ1X05KR1lxSzB3Z1dPckhtY1FETDEzaHE1aEtHOFZQSUVVaUZuXzdpTUlYR2FzMlZndHBmdkVUVGhOUTR6THIwbmNZX1dXT0ZKSXJOTmZSTU13MEhFZmhncGJlYjQ2MmdfaVdfa05Pd3dvbXNEd3ZNMmR0THI4c01KYVVKTF9pdmtjQzZhTERJaF9SV0Vycld1aHBjaGM?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 13,
+          "title": "“巴威”进入48小时警戒线，浙江水库、河网已经动起来",
+          "source": "搜狐网",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTEZ1RnU1eHRMZkY4ZjM3NHdodzh1cGdSQmNLaDdwRE9oV3ZNcFc0S0tkenphNHJIQTNpT0hvZmxJTmpnNjZxU3RoNWpid2kwR2VJcEtBS2xEZ0hTM3RDNGZjU3liNXRiS3g2M3g5WGNocEpaWDhyMXhSTEE0OTdFNDFkeEZRazNzZk8tcQ?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "广西回应六蓝水库现状：水位下降，水库缺口和流量基本稳定",
+          "source": "thepaper.cn",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1alBSd09JcWIyRjAxWnpCTDU0Z2VQOGxsbjM0V1VPSTBaYmdWMWplOUloYUNGb3JIYWpRbzVCNGtOT2RILWRDVGdrejdOSkNNYzl1Y1NuaGkzNGxHaG9iOQ?oc=5"
+        },
+        {
+          "id": 15,
+          "title": "下午察：广西溃堤水库面临的公共追问",
+          "source": "早晨报",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EdkwyeUhvT2Q0RUpTWTNnbXkwN3RKdnZHV2x4Wk5qZjBwM2JmaDVsTUo5QkctMXYyTWMyT2MzeWhVQWkzdUM1ZFpBQ1lWZTgzYlg4X3hNNlZqTkFrMDRZRHhndVRFQnBm?oc=5"
+        },
+        {
+          "id": 16,
+          "title": "南宁六蓝水库出现严重险情 老水库安全隐患引关注",
+          "source": "虎嗅网",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDMjJvMU9uNW1mdGdkQjBVelJDdkdPMzNuZllEVUstTzMxenQ0ZlM1dHVTbTdJdTM2bUxHWTAxX2Examg1VkwyTGhXZDF5bzF4RElBLQ?oc=5"
+        },
+        {
+          "id": 17,
+          "title": "河南社旗一高标准农田项目建成六年后多处设施“瘫痪”，14名干部被启动问责",
+          "source": "thepaper.cn",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QOGpHQ2R5NGdUMEwydlFCZmFmRk12Z0E5V0ozdUlvUXZFb2pCbE5pV1ktMkw1ekhuZVpYY0dwcXhqU1g2QTRlQ0kwanJfRVE0cEhVbnJaN2ZhNjdsYm1Fdw?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 18,
+          "title": "精准打磨治水兴娄新蓝图 娄底市水利局召开“十五五”水安全保障规划技术咨询座谈会",
+          "source": "娄底新闻网",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MZXdaRl9LM1F1X2Fta1ZzZlVzREduYVA1MUR3WGRvbmhVUFFaTVFFYVhuMnFwYk51NHRWd0JnN1Rpc2IzN1g3WHBma0Z5cTl2OGxXU1V2T2lOZw?oc=5"
+        },
+        {
+          "id": 19,
+          "title": "安庆市水务一体化改革润民心",
+          "source": "新浪财经",
+          "pub_date": "2026年07月08日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR24xenctQXFuektDWU1NQm1GVlRaOEZ2c251RHRQVGZVbGZnU2VHZWZQYnVuanhseENsd2U1bmkwUFBqZTRKSXhnSm1aemdhaUJWZHJ1QW9mWTRoeWNoNVZzb3gzYlBtTmNRd0FHbmx6WFlVM0FpUWYyZWt2T3FpNDN6VXI5Ymh0TmFpQk1mNUhCTEdieTFiLTFadlgzRjFucF9qRy1kbjZFV1Rxc3Zr?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 20,
+          "title": "3 个国省控断面水质优良率 100% 乐至多管齐下筑牢全域水环境安全屏障",
+          "source": "中华网科技频道",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wQ0g4Sk1iN3VQUy1aZDhXTmJWbERZbUpnWTVzc3oxUmpnWXZ3M2IwZTI0TDI4Yl9KbURtNFpEb3I1VXJtYzNtcEljV1plTGUyUy10RHhTSW5mcEtRUGFxUkFKYkZnUFYxelkyVWhB?oc=5"
+        },
+        {
+          "id": 21,
+          "title": "护好清流润陇原——甘肃全方位改善流域水生态环境质量",
+          "source": "搜狐网",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZWVrOGVraG5BbHd6b2Y2TTI5Njg0YU9POGZMMDRfcEkwa3pQQXFZOXRickxMWlJGeDdTY1huNVBPMndES1dWb1FUZnVEQVVyNDdKTFZjdWQwMVVFaFdHYm5qb0c4VUsxSGFGbzF6bTc5TG1hcG12QmV1WXhlaUhfdGZxeXBySG1sRG5lVA?oc=5"
+        },
+        {
+          "id": 22,
+          "title": "荒沟变画廊 清水润民心—— 武山县庙峪沟小流域治理铺就生态富民路",
+          "source": "tianshui.com.cn",
+          "pub_date": "2026年07月09日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wWFJyeWQ2M0NMRTZ6Slc5dWptREluUjBPRGNWR0h2VjkyNlJRX0pEdi12aHhxQ2pGdjF4dmJZMmp5dk04MjVLUHR0RnhvZUVmdEo4RU5yY2c2ZXl0eVZUZWpLcERfSFJBbGc?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年07月09日",
     "news_date": "2026年07月08日",
     "update_time": "2026-07-09 00:00",
