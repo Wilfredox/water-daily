@@ -1,5 +1,148 @@
 [
   {
+    "date": "2026年07月13日",
+    "news_date": "2026年07月12日",
+    "update_time": "2026-07-13 00:00",
+    "total_news": 14,
+    "category_count": 4,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "滦河流域潘家口水库出现二次洪峰 已闭闸拦洪削峰",
+          "source": "新浪财经",
+          "pub_date": "2026年07月12日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaGwtTloxQ2tQM29NTTZjbnVxNmpySnYyeFRBaDJpYjhlUnczUVhfME9xX3Roa2Nkc2dGR0VFdjFxbmdZY1VfQmpyX1dTOGNXejdzTEc5SkZTSjMyNDdKRW82THFIOHBvVFFmS3lKYnpkMG9EQ2djOG1oVElQT1RVTVNZVEhVbF9vUG9HU3lNMWVUVXhFMEw0QQ?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "水利部和中国气象局联合发布红色山洪灾害气象预警",
+          "source": "网易",
+          "pub_date": "2026年07月12日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kYV9qTzBzQU1PT25BYU9OOVhmaUtiTHlpSnBYUVpQYmJhVDRFTTBHWTFoSlhubzJpRHZkSXFiUGg5MkZQTnJveVdRUVh6RmNMZTVXSjUzSzVGaFQ3c0ZlNWVB?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "水利部针对苏皖赣鲁4省启动洪水防御Ⅳ级应急响应",
+          "source": "新京报",
+          "pub_date": "2026年07月12日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45eXJLYkhKODEyWlg1QjQ3ZmxjcFQ2LUU3cXU3aU5TSjdubDJ5VEhvYnZqN3piQVVWZjlFRGNjSXZVdzFyT2tSZC0xZTl0RnpLTjZCanJqVEFpRjlOTVozeWwyeEw?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "中国水利部升级发布洪水黄色预警",
+          "source": "早晨报",
+          "pub_date": "2026年07月12日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VRFVTZExLdHN5azNIUGRvTmQzWkpvNWZaWVEyNkdBSl8wRVBrNVdVX3JRVXlrcXVqa085OHRSbklaRHZWVktiMGtLck9ZZmJ2NXdvZFNuM3FyT0phNzVMVkx2VG1DTWha?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "请查收！你有一份来自日照水利的防汛提醒",
+          "source": "海报新闻",
+          "pub_date": "2026年07月12日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2eWRvcHdpNTh0Z1o5OTdtajl1aWlqR2h1dW5pUjYwc0xKaFBMTE1CcGZPUHhhcEZZelR6RjdSaGp6LVFRNEtJODZtVHJzS1ZI?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "温州将水旱灾害防御(防台)应急响应调整至II级",
+          "source": "温州新闻网",
+          "pub_date": "2026年07月12日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rM2pBOGh6a1FYNU41VHE3OGMxM3otdjJNR2YtekZBUVdjSXROa2pWNkkwVVdvcllPS09sMjNCSVJFOXZKOVliOGNjblVZbzI1VFN5VHJscDREYWdhMU5GM3l2YXVnQQ?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 7,
+          "title": "【云南日报-云新闻】省水利厅与宣威市委、市政府开展工作座谈",
+          "source": "新浪财经",
+          "pub_date": "2026年07月12日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxNSXprTi0wNFJiMDJfcUV5WTBLdGtVZ1J0cXczRFFGdV9FUG1jZm8wQTZEWG1LT19Eb0dMcXEyWHk3YTNQNnJLM2dSb1d5WDR3QnlQc3lyZGJ3N3ZlN3lmbHBBSmRwazdLRGtqcldueWVyYnI1cHY0OUhGN0pOU24yakNYXzYwRENRakg4Q1YzNURPVUNUWTRDNGhWQk5XSjdUT2stVExtV1NZeEhEYzZ0a0hpellmdjRYQS04UHZjWlBqNVFVTXYtN05kOUVMRGhOaHlVVjdvdDFibzNUNlBkLVh5VjlDRElEelh2MndpRU5NV2xEbl9GZDNKRDJ5blduQTVQV0dxUjBYYkFwdl9mT2g1VU1iaDJ5VW1Sd21pd3c4SEFuUV83VGllREdDdENCeEJwcUlWQlFpRmZqUHdVMy0tZUNmbzlxZ0ZPeG5JS1M3X2twWkt5MWFkOHpRQmNLdGRqakRhLU81M1dtWnY4YTVFX2M0Z2dZU253RVJrRDloUk56dWF3LVg0NXBySE9iaFRmcjNOUktpbmtuUXJFSEhKb2RZcWxnYVhIdFFuQWpBb0VsX1psbk9zY1Brbk5WQURGVWdXZUtuOTVJaV9taFlDbjhoRFE3OThJV1ZlSUFKNzR1Wk1lVWpBSHdIUWQ4UnpZTzE2VUNkRVZNZnlLbDY2Tm9RWExSZEptVVF4QzVHdjBydTJZZUlnQUpKcHFrRGRrZkVRSVY0bmFZWnpNX0d1c3NtMl9KSmN3eXl1ay1wWGNlU05PN29xSFVTRllrWXc?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "喜报！山东水利职业学院推普实践再获国家级认可",
+          "source": "网易",
+          "pub_date": "2026年07月11日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqaDVNSy04cXVubTRZQTdUSVNsRFJrQkp3UTczczNVcXN3U3JNRVhiRlF6TVhuQTg3RjR2OHRkRjh5QlktclotUVUyalNkc0JTbGl4S3FQSm9ZOUsxRlpjdnNn?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 9,
+          "title": "#安徽水库腾掉11亿立方米迎战巴威##安徽大中型水库全部降至汛限以下#",
+          "source": "新浪财经",
+          "pub_date": "2026年07月12日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNWpvSE9GbUR1LTJMamZWMHJYSUw2VU9qaTVRSXU2ZVYyVy1yZFNhRVdxcE1YM2NPY1lJRVh3LUc1Uld4R253QlNOcGFNeVZISjVNdzdBdzJqV1g0eTVJZnd6WkNnQmtPbDZnc2VOVmF1SjJVd0xzUEcyaGNtOTlqMTBPWjFnemhNN211ZlVtQlpkeDM4M3hTNmZNZEdJcTFCTFJiTElIWGFNM1oxY2x3?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "江西省水利厅要求全省所有水库降到汛限水位以下",
+          "source": "凤凰网江西",
+          "pub_date": "2026年07月12日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBzY1dJNHk1NDNUSklwQmxHSjZ6cUNOTHBtYUNNSVpsYTlETUQyTlZUR2dtRnRiWU1DUDhCZk1VYXZBZFVmOXhSTDNn?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "独立调查丨高标准农田缘何“建而不用”？",
+          "source": "海报新闻",
+          "pub_date": "2026年07月12日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCV2FDXzJMQk81Z0hkX3N6MDdHQnFFN3NERUY5aDFIbFBSTDZFVDhlNDQtbl8wWVFiUENiaF9Ra2Z2aldkLVkxV1FzbkJPRWxU?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "水利部水库移民司司长谭文莅焦调研数字乡村及美丽移民村建设",
+          "source": "网易",
+          "pub_date": "2026年07月12日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iaEhJOVc2X3pTQXJxcjlwU3NEZGZ3VEtSV090RjlrUXhPRlE0UXVwdUxxVG5Ib2dkRzVHTmhpaXZmUGp2dHFlS1Uzb1RNaGw0Q1hzcFYxMmVETWpTR0QzSUNR?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 13,
+          "title": "护好清流润陇原——甘肃省全方位改善流域水生态环境质量",
+          "source": "新浪财经",
+          "pub_date": "2026年07月12日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPczlOdFVQWGg5VFVJRWRRVXM3MEE3V05TUWJnd2YzWWFscGtYUFRzRk10VVFkbjJHT0xFeWpfSnI2dnlCckYxQXRjTUhlcWNTc0EtcTNTV0RGLXFWMmJDRnI1MnBacGxVekdpeU9OZjEzekRXeUctbUFYQ2tsOFVVZm1YbXB1UTBDRVBzcWo1VFdIdHZOZUV5QkdJVWZOSUNraGRKaXcwMldVaC1jRUVF?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "【创建助力“百千万”】岸绿景美！台山全面推动幸福河湖建设",
+          "source": "网易",
+          "pub_date": "2026年07月11日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GY2tmS1BtOGVMUjZvZEtQaktTdzVxYWg1dFpCbVVMTmE1QmZPbG5jR2k0UmJZY1c4WlpvSFdGX0huMDVaS3B1UzNQdE0wMVFlZ3BnSzFWZlNOSHlNbzBrekVn?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年07月12日",
     "news_date": "2026年07月11日",
     "update_time": "2026-07-12 00:00",
