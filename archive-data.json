@@ -1,5 +1,152 @@
 [
   {
+    "date": "2026年07月18日",
+    "news_date": "2026年07月17日",
+    "update_time": "2026-07-18 00:00",
+    "total_news": 14,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部解读“七下八上”防汛关键期热点问题",
+          "source": "新华网",
+          "pub_date": "2026年07月17日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcFBTV0RfQjlpQmxxcXhRLUlEZEd4WHJVYXhiX1o0dnpRT1hqN3Fhc2lYeWFlZnNjVW1TbEg3OWFETmJzM1NEN3pDOGhrQ2lRWWJTdGJiQW95WlBHVDkwMEhYb0pNM0hEUHBiTVBvWnBwVmdUT1dNQXJMeU9xNzNSNUpn?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "水利部针对鄂湘渝黔4省市启动洪水防御Ⅳ级应急响应",
+          "source": "新京报",
+          "pub_date": "2026年07月17日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OWDB5Rm9fd1lRb2ZaZ2ZGNWl6VFVsWFZBNDd5cTlOc3lqS1haN3FIQUNKSHJSS005dFktVUNabFh5NWNaUWZJZWE2WVJPeHBiTmFuVkpSbi0zYnRGNUY5ZXkxY1k?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "水利部：今年汛期全国雨水情呈现两个突出特点",
+          "source": "新华网",
+          "pub_date": "2026年07月17日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU5ZaGswWkh6dFFfZUtDYUFpTl9PMWJ0aU1VREI2RU41eWF0bEs1VnNENTh5OEczTURNbXQ3dy1IYk56ZnhXZ0FzVDdDY2xHSG5XNTczeWZTVlpNdXZFam1ibFZVVklyWWdReEFkc3U4R1ZhSGpDai1EeUpMLUt2VThKUkI?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "山亭：多线排查抢险 筑牢住建防汛防线",
+          "source": "搜狐网",
+          "pub_date": "2026年07月17日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdTNIUTdNSnd5SjFSRGx5YUM5ZUJNS0N5WjB4Y1VfT0JaN3FxcXJyQWRZTm1aVUV0Mno0ejgwR3ZCUXVhdS1EbEZpQnhiRi1FMlE3WFBJMXNIbFc0cllKaEFCd1U3eWJmWlVDOHppNy04QmRqMnZmYi1TbDR2aXFCZnBtQ2ZET3Fkek1aUQ?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "从暴雨监测到积水预警，城市内涝监测预警一体机发挥重要作用",
+          "source": "手机网易网",
+          "pub_date": "2026年07月17日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vQ0Y1RTBCblhDcnQwMThzNF9NaWtTVWVnai1VR01BS2R3MTFrSnVXeS1RUVRYNGV1UG1WMjJyb0lIdjl1Q0U4VnB2YnFESGRKemYzM2ZKc1pGbXY5WUNZSE9R?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "王予波在省水利厅调研时强调 全方位提升水旱灾害防御能力 真抓实干推动水利高质量发展",
+          "source": "yntv.cn",
+          "pub_date": "2026年07月17日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lanVCSl9KUnZ0cnFWWEJSWTZZSmtpcUdwVlZwVEp3QS1aOGtEb0doT3FJeGJ0bW44X083ckQ5NnVGSk81N2UyV3I1ajZGbWxzMnRiZnRYRVlTeXdQaDhEQlRsNGN4cUE?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 7,
+          "title": "湖南省港航水利集团6个项目获评“2025年度优秀省重点建设项目”",
+          "source": "华声在线",
+          "pub_date": "2026年07月17日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BWG1CWlhMRzVjN3FiaXhkOE51NmdYeGg3ZFJUZGNZSTJTYUtadnNuUWRxVm5iMGh1U29ydTZvSk43QmRkR19fTUZFZ0J5LUQxSXVFd0JFdlBfNmNESDlR?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "湖南省港航水利集团两项科研成果荣获“2026年交通运输新质生产力学术大赛”一等奖",
+          "source": "华声在线",
+          "pub_date": "2026年07月17日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01d1FsaGFDRXdYZTlSTl9xT00zTjIzcmNiTllLOHZGWjJRTzNEb1YyTVNxM0d2U3k4QXJuTGs3NW5JSDdUUHdxY0NMWDcwVnBiU0I5ZGliZG9HMTBndFdj?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 9,
+          "title": "广西展开水库安全隐患排查，重点排查大坝、溢洪道等关键部位",
+          "source": "京报网",
+          "pub_date": "2026年07月17日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5McG9mNlN1MVBqOGxObGpJdXowWi1DS2xyLVNzaHZVRnQ2dXpzLTJTb3NRLVc0cncxNHhNWmgwMWNZajNsMnJrMEphNXR6UnZfSlVQb1VKLS1NYzNnU1E?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "兴山万佛山水库正式蓄水 将解1.7万余人季节性缺水之困",
+          "source": "极目新闻",
+          "pub_date": "2026年07月17日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5adGVZZEF1YTFjSXEydHhlVk1WMExodkhzVnBESEYxbjBaaE9oR3NqSmVacDQtVDBoYms5RW56RlQwajRQX1ZhekxhVE12UEZDUnpfWGwwWjRtNVE?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 11,
+          "title": "国家发展改革委、自然资源部、水利部联合印发《海水淡化产业发展行动方案》",
+          "source": "中国水网",
+          "pub_date": "2026年07月17日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tVDA1RnFkSTFKRGdmMmZxbzFhU1RRUUo0dHdVdUZOTk9QTERNeVZ6Wkp6WC1FZVNNYWVlek1QZlZERUtSU0RKMHYyVHNPUEV0dF9XUA?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 12,
+          "title": "省出111个西湖水量！宁波工业节水，藏着什么秘密？",
+          "source": "新浪新闻_手机新浪网",
+          "pub_date": "2026年07月17日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ROER2RFpFanU5Y0xiQm5xVElmbkp1d3RhdVJESDFEc05rSjJtcmZid3hGb3QzNG91LXdxdlVaaFhKMnFIMGVIMjIxSkdrd2c2X1V0R0dPRldiakJ4WVZmUWFDOUJXYjhmVks4ZlRicF9BM1hTSlE?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "湖北一水厂称因资金短缺早晚限时供水，水利局称正协调核实，当地回应供水已恢复",
+          "source": "手机网易网",
+          "pub_date": "2026年07月16日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NRzFZdGVQSnZDLVh5WnFWYkc3ZElZV0YwMWhRRHYyR01LSVBNVmVtU0FJWHpEejl2VWcxNGdGTkdlNEx1V3NwLXRSX0tROEJrUmhYVkdsSUh3RWtrSFFsQ2ZB?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 14,
+          "title": "汉江出境水质稳定Ⅱ类 汉中三年绘就生态城市“绿色”答卷",
+          "source": "西部网",
+          "pub_date": "2026年07月16日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OWWtNS2FFZW1xWGNBajY5emZFSTk4SVl5V1ZCV2VGNDE2WlNyMFZDeGxEQ2VUbm1LTGQzM0h5M1BnWEdFQVZNVE9xX01mTVdIS1d5WGc3c2tKaEpRU01Sb29YaEoydw?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年07月17日",
     "news_date": "2026年07月16日",
     "update_time": "2026-07-17 00:00",
