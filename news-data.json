@@ -1,119 +1,115 @@
 {
-  "date": "2026年07月20日",
-  "news_date": "2026年07月19日",
-  "update_time": "2026-07-20 00:00",
+  "date": "2026年07月21日",
+  "news_date": "2026年07月20日",
+  "update_time": "2026-07-21 00:00",
   "total_news": 11,
-  "category_count": 6,
+  "category_count": 4,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "全方位提升险情处置能力 河北积极开展防汛抢险应急演练",
-        "source": "新浪财经",
-        "pub_date": "2026年07月19日",
+        "title": "松辽防汛抗洪一线：水利部“智囊团”乘风破浪",
+        "source": "中国经济网",
+        "pub_date": "2026年07月20日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWEdDWU5QQ0pUVlhuMi1hbHhocURDN1pxNXVIcWZOckNjMlMxRVF3WF90SFRiQ2VSdVZsS2ZPZzlCakJReWZuUDdpTTZEbC1VaWgwMU9mVUNYU1VsN1lKUFFUbllwcDNNa19NZHhJTUhiSlYyUEQ4MDJhaHVaWDl3WGZaSFpaMXMxcGxWaXQzUENPMzNjOXN5M2Fsc2dPZjZhREdTVGYxaDhSakloOWhYS0ZLdkFlZzN5alZ5VFh3dGE5enBEaE53UzhlTjJFdw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMTEVwbGZQMUk1SkN4QlNvOUhIUnF5ODh0QXE5ekdFOUktVHJmYUJ1VmprR0ZqWjFzNzZzTjlYZk9sTjhTc25uSWN3TVVfb3lPV3RfNHpGR0JkLTh0R3F6bGItMDhlVjIzblIzN2pFN05SUlhTWDBr?oc=5"
       },
       {
         "id": 2,
-        "title": "广西桂平发布关于西山水库泄洪预警通告",
-        "source": "新浪财经",
-        "pub_date": "2026年07月19日",
+        "title": "奔袭松辽战洪峰 水利部工作组筑就防洪“智慧防线”",
+        "source": "新浪新闻_手机新浪网",
+        "pub_date": "2026年07月20日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0tHMURGTElCU2IzUXdJWXlKMExpT2t6STUtMWFXVDJENE5MbXRteElMZzczamlvV3o2Z3NUUWlJaldJVkl5UUlyUHZtXzZRSGk2UUJhUkFkZGVmOHpOdmQxSDBLbkNpNWswdkRYWkIwMDNYcEJTbWo3TV9vSEhiVXZieEJWN2wtYXQyTHdZQVAtSjFsWVFpNw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Gam9VckdUd3pkQmttRE1OVlkzRzI2Z2hIaVc2Sk5iMDNHeWZ4RjE0YzVIMG4xcmxiMkktT1J2VU1UZWZoVE4tWFhFSEw2TnZkQVh4TXZBTnRzazJBWDd6V0VZeUxRRjR4eTRITDE4VW5HTjVuYUE?oc=5"
       },
       {
         "id": 3,
-        "title": "全市水旱灾害防御工作有序推进 多措并举筑牢防汛安全屏障",
+        "title": "珠江防总、珠江委维持防汛、洪水防御Ⅳ级应急响应",
         "source": "搜狐网",
-        "pub_date": "2026年07月19日",
+        "pub_date": "2026年07月20日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTJobV9Rbzhha0x6NzdFc0Rzbm1EaEdLM19WSTBDWHlfczZoRzNBNzh1Z1JocGctUVNqSi1ZbGRZQXloWmdGTEdWdTVhMFlMS3pRVkFycUQ5SldBSERRS0RKeWxmakZYcGpucXNDeGloZ3kwYkQ4bk4wWmNMQmJ0NjhmRWlobXdM?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNem9ZNktVSkMwMEt5N29SQXdWM2dzLTlBbmhfNjYwQ2FCR00zWnhzZTJFMmRtRnZFbmI4X0VZU3lZNno2SWt4REJLVUE4eGhjSFFuQUFiXzZ1WTloenBQa1hWQlZtZENDSEkzMzVjV21KYmlkTjRIa0hjeENWRHFnRnMyQ1lBV0szOHBF?oc=5"
       },
       {
         "id": 4,
-        "title": "新疆部署“七下八上”防汛关键期防汛抗旱工作",
-        "source": "altxw.com",
-        "pub_date": "2026年07月19日",
+        "title": "水利部：广西东部部分地区发生山洪灾害可能性大",
+        "source": "chinanews.com.cn",
+        "pub_date": "2026年07月20日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mRXppUFRBb3hBQnJUY0JzVERQeDRPNkR1NktKYUFZV1pzY29kWnBsWmxHLVhPV1FtSDd6aXJrQzZNZk44Rl8yd29TOEt4MlpCY3FpVWZtOHN1SVBTTFMwRHF1M3A?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wWEFROTFvQllkcmlJUzBQLTZmTURMWXUyZ0E4M29WTEE2aVNGc2piUExJSFg4cmJUMVdXS0hDYTVTdFY0ODJqYnQ1M2tkOTh0WERCNGF0ckJtc3U1TnFwWmNpVFJfaGFi?oc=5"
       },
       {
         "id": 5,
-        "title": "水利部和中国气象局7月19日18时联合发布黄色山洪灾害气象预警",
-        "source": "欧洲头条",
-        "pub_date": "2026年07月19日",
+        "title": "阳江举行防汛抢险水上救援综合应急演练",
+        "source": "阳江新闻网",
+        "pub_date": "2026年07月20日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV3VRbU9iNkw1M3hkUndhclAtR2g4VnpXY2g5QV9LYlpTczVFMThWNGVWREZoV0k0RzE0dzE0ZDRnZlhWNDBsVmIwX20wOWFYMXY4Ynk4Z2VNYTgwZTNhTklYbFBHZ21FNTZzQUxSbnAwMklheUN4ZEtHUmR0N056bEZNcWJ4QV8xMTNFblBYaEFiMzhIWE5MNkNoU0Z6eVNQZFNJSE9ZQW5oSzVKUDh4MG1PMlRWVEZfaXN3ZW5DQnNINXVtWlAwX3VFSEVZTlg4NzZNdHh0ZVNzZVpNYXQxQWtR?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBWmdyZGs4NzVEekNqT1R6Y001Y0RTNV9JblFDbnF3VXB3dWw1TW9Zbk1PQmtURmJtT0tBY19zcFBncnhzZ2tqSnVWenF2MjYyenRobkc0WmRsNWpjQWQ5T1ZLeVBsUXhTRjNZ?oc=5"
+      },
+      {
+        "id": 6,
+        "title": "水位超汛限，生活受影响吗？一文看懂丰满水库防汛保障方案",
+        "source": "新浪新闻_手机新浪网",
+        "pub_date": "2026年07月20日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvbmgyQ0JZWjRfQW1TYlc1SHZKMjR4YTRDQXMzYmRlVDBfOWJqaEkzZlNFU2dkNnJCVXBURDhRY1RWeEdVZTQxdzdWRGtfaVM4YnE2UERLQWRyNGRsemN2NEdvSmJhQ1E5b3c2OGc1a2d0bklDOUE?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 6,
-        "title": "河南桐柏：以优质水利服务护航县域高质量发展",
-        "source": "搜狐网",
-        "pub_date": "2026年07月18日",
+        "id": 7,
+        "title": "浙江水利水电学院9个微专业通过教育部“双千”计划入库备案",
+        "source": "手机网易网",
+        "pub_date": "2026年07月20日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXlxSFVja3lYQXQyVE5CSmVCZlE1b1cxb0FZTGJ2V3B2TXFpdVZfZTFXc1R2YkVzN09oSGM3UjBaX2ZHTEVqMjlydS1yTDVsRHhxU0ZucFhWTDdMSVJLelA4dUVkYzQtbTQxMXJzMVB2Wl83WDhQc0JMdFJZQ3BTYTlKVzMtZnFUUFVn?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KWFVyQXJRUVBrNlpHX29mTDJQOUxvWGlnaHdFcnZXbUd4RUJZcG93SUM1R3djTEJITEhUNUtVZnhQSkpQdUluV2x6cUFVWGVmSmJMN0IzQ3NmZWR1U0ZfRVVR?oc=5"
+      },
+      {
+        "id": 8,
+        "title": "江西水利电力大学暑期社会实践团赴金溪县陆坊乡开展“推普助力乡村振兴”系列活动",
+        "source": "中华网",
+        "pub_date": "2026年07月20日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OMFhjREpQbk9VQ1pQVnhZUWRZWXdnQ1NJRW5YT0JpcWZockFzMlFicTZVcXNQdThFR1RCbHppYWZraGFjZm9SRjZGU3dya2tDeWVQVHNzZlVXaHZBX2NpcHBVVGtlVnBBU1NuVA?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 7,
-        "title": "【电信学院】观水利枢纽壮山河 传南水北调报国魂",
-        "source": "武汉科技大学",
-        "pub_date": "2026年07月19日",
+        "id": 9,
+        "title": "通川区多点发力 全方位织密高温供水保障网络|战高温",
+        "source": "四川在线",
+        "pub_date": "2026年07月20日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13ME1wTlFIbXFZQTBiczMwZ3dJVENwekxfSExLUWNtbVpQc2ptWHpkbklPSy00Z1NHcUdnQWYxVks2Y2RWV25YdlBtakdVY25DNzF3d1VVYzA?oc=5"
-      }
-    ],
-    "水利工程": [
+        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lV243eGh4QTJaWGwzaUlFeDNLeThWZlE3V2FwOGp4eDRxN1NZTUlPM1pEV2p4b2NWdHktbnBJMjhiRHJxZHc1M1VqZEhnZHY0ZW5tOHUwM0xzVV9EMUZydVdQN1U?oc=5"
+      },
       {
-        "id": 8,
-        "title": "青海最大跨流域调水工程，引大济湟工程竣工，历时30年的调水工程",
-        "source": "手机网易网",
-        "pub_date": "2026年07月18日",
+        "id": 10,
+        "title": "【甘快看】甘肃深度节水控水交出亮眼成绩单_社会综合",
+        "source": "中国甘肃网",
+        "pub_date": "2026年07月20日",
         "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjNGNQV0xJN291dzl6Y1Z3TXVZLWk0SEVrREcwTEFYUGtVc01YZTcwN0R0ZmkzTUhxQXQtZk5EcFhYVVhhN1lJNjB6MExLeDE3RlhOaQ?oc=5"
-      }
-    ],
-    "政策法规": [
-      {
-        "id": 9,
-        "title": "加快数字孪生水网建设！襄阳全力打造长藤结瓜现代水网",
-        "source": "极目新闻",
-        "pub_date": "2026年07月18日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3aEUwRjJSc3NCUV9qNjJQNk1fNUpiSmhyQ016VUp5OEJYSFZ4VGQ4R1hDcElsZFJZOHlrN0tLYkFwQWVtRGtXOVppN1V0T25xNGI4R09tNUFVM1k?oc=5"
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNOXN2c2d4YzBNb0dHM05GVXBiT1dCcElHQzZkRDBMT2RVN3F6Q0E1R1FXSGc3NXlIQXNuQ1htY0M5TG5zb2J6MUNuWHhITW92MlhENXVaSzY3QzY3T2hGVTd4NFJsSkRLU3V3?oc=5"
       }
     ],
     "水生态环境": [
       {
-        "id": 10,
-        "title": "连江县获评2025年度福建省河长制湖长制正向激励",
-        "source": "fj.chinanews.com.cn",
-        "pub_date": "2026年07月18日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jTGtYVDVTWDQzU3ZCV3dDSjZDZDViakZqamtGTHZEZFBSVGs4OGdwcVBqOUFsRFZUUTd2ampiTEtjV29ibTgxSkJiREFTS2k1M0oyZnhuaUp1c2MyTEhZaGhCVE53aXFMdzk3WEdzR09tUQ?oc=5"
-      },
-      {
         "id": 11,
-        "title": "奋力推进中国式现代化长治实践丨我市系统推进美丽河湖建设",
-        "source": "手机网易网",
-        "pub_date": "2026年07月18日",
+        "title": "联守跨界河湖 共护一江碧水",
+        "source": "长江网",
+        "pub_date": "2026年07月20日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zN3NYVWpYbW5oYWdvQTdQQWdNMkxuLTRoTWdzaGRpRFNuaXBNRFhjOGs0am43QkJPNTdMSEhvOTBucGp6NWR1U1N1SEZuY2F4aVpYbTV1WXRKNFZaTkRJWW9B?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TckdYMXpQTlNYTE1FcFJycmpza294SG14UExJcUlwU2F4UkZMWlVhenBUXzNhUXpBdjVacEhoRU9pV2t2aTF3ODdZT0VhZGZxc0V2TEhqMEladko4UE9obkJLTWtZUQ?oc=5"
       }
     ]
   }
