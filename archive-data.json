@@ -1,5 +1,159 @@
 [
   {
+    "date": "2026年07月22日",
+    "news_date": "2026年07月21日",
+    "update_time": "2026-07-22 00:00",
+    "total_news": 15,
+    "category_count": 5,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "观摩先进补短板 聚力攻坚促提升——张家界市水利局召开水旱灾害防御半年总结会",
+          "source": "腾讯新闻",
+          "pub_date": "2026年07月21日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95aGY0UldWS2UxSEt1S1lRbW1rb1Rqb24wbmh4QWZ3S3RWSWtqeUZjb0xyNXduYi1hYVhrcnVtTkJDOHZBUHEzMVJwT2NzMnd4R0RqM3Nn?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "京城最大公园防洪体系全线投用",
+          "source": "MSN",
+          "pub_date": "2026年07月21日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTkxxQkpaVzAwSTFIVHJBZWNEdWhpN213UFVmNDl0NXh0bkFrNVZHTVVsVzRHWldjeFo5Q1o1VktHSVFPclhUdlFnQ3FQeEtYcDFjdFNqaUNwak1NYmZ4c1NHZkFGSjBMd084dUU0dmcxMG5vOTExT3BZd3pPN0t2ZFdUcFNlQjhMZjBSTkpGaG90WHR6RzVuckZMMEluamlvWDdjMDJNekkwMktCWjQ5WUpUNXpxZjJhYmt1LTNuMHF4WHY1WUxOM2oxRWhQUmtsUXd0b3N0VWx6VGRCbUVGMHM3R2ZZZG1QYjhWWFVadjBLdnRmT3g4M185MzhaY1dHcEV5dXF3?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "提前40小时发布洪水红色预警！广东水文全力打好防风防汛硬仗",
+          "source": "pearlwater.gov.cn",
+          "pub_date": "2026年07月21日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VdlBYLS10aWFNVGoyTk92M3hMTDMyRVExckg4TFdSN2JmLTZlNml6M2xoUkZyRXBmQjROM0gyRDlhYW9SczZSQ0Y3QnhhSzVKMGRwa09OU1E4eUg0ZHZhd0t0eGVJSnk5UjdDUFBBSDJWZlBvemRHY1c4Umg?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "河湖“清四乱” 筑牢防洪安全屏障",
+          "source": "黑龙江日报",
+          "pub_date": "2026年07月21日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9reldYdEtfbmVTN29DblVMbnVWb25VRi1BejlwblBoV3owNVlNekp3bGhkbnBhcjVWNlJhNTJWX0FReUFvQ1lZS1dxN05Kakg2ZGUtdGZNN3NIQkltSW4zWmNGRVpmSlFkYlNZWWNvS3BPZ0M1?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "水利部和中国气象局联合发布橙色山洪灾害气象预警",
+          "source": "搜狐网",
+          "pub_date": "2026年07月21日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQjBsNU5uZHc3c2g4X3V2M2hBM0tPMXBKMXBhZ0FzMlNPaHRSNFBsT3doOFpnQVA0ZUxKQkV3cF92NWNIX0pRcEdmWmJQc3VQeEtvTE5IdFdnQ2g5QlJSS042V3V6T3oxTkFXREx4dWI3cGJWOWhJMjJEVzJFME1LYjl6LTlWWUpzOU1kYw?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "杭嘉湖平原嘉兴水文站洪水蓝色预警！",
+          "source": "新蓝网",
+          "pub_date": "2026年07月21日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yR1ZOd3N2ekhUcFJYUldRQVhrTzZSV3FWcEpLR1FGazgtRnpDMjlKYzBodXFSeWtSNGJFY2tFZ3RGcjRaT0RNY3Q2aUVQSE0?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 7,
+          "title": "浙江水利水电学院2026年在浙江投档分数线发布",
+          "source": "手机网易网",
+          "pub_date": "2026年07月21日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLTkVmRm1adks0NWxXTVBrSGFvaFBYMkNMMG9BUTlhUU00V1c4NThncXJtZDhrQ2ZPMWs5dGZiSXl5TGtJeTgtYUg4MzFmajVxQUpIdkNZaTNSbmZoRmJUT3NB?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "2026智慧水利服务商推荐：数字孪生治水进入物理仿真时代",
+          "source": "手机网易网",
+          "pub_date": "2026年07月21日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IX0lndVpOU0hFRk9JUmM2WEc2TEp4VnhVOFh6ZE9xSG5yWHZvMHlIaWVpODc2ajY2YU9lMjh0bnZVcWV5ZmF3M1RTRDVkNXpiZXE1Y2hsemthWWlJZS1wNlN3?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 9,
+          "title": "广西六蓝水库溃坝前惊心动魄24小时（视频）",
+          "source": "人民报手机版",
+          "pub_date": "2026年07月21日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9acFVpbVhnTDJPc2F4eGREd1o3RC15XzlIRFU1UG1Vb2l4NWVfZlJYMWYzOEROUE5pZGRXNTZYWDlnTDBDdFJPaW1MMXlHQzZUODRjMzIyQ1d2ZjhkNjdaQm9FUWg2TTA?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "安徽石台抽水蓄能电站顺利通过下水库工程蓄水技术预验收",
+          "source": "国际储能网",
+          "pub_date": "2026年07月21日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwOXlpQ2Y5d3FEREo1VzNXNUtDVjJxZEFsSElWY0pTWGNwWlRxUFVkRVRYT1hha05VZE15ZFNxbEp3MjlOSUFaV2dkMUJHSndPSTRwV1RxTWFUVTJIRXdkbTlB?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 11,
+          "title": "守好一泓碧水 润泽三秦大地——陕西纵深推进河湖长制工作观察",
+          "source": "西部网",
+          "pub_date": "2026年07月21日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nalkzRXk3T0VlMWlzSkx1bnRaOXI2ZXotaC1sc1FBVVNYUXhZUmkzN1FMYnhjbHlqaEJxNURwdjBoVTE3cXI1d21LbGpPMEI5UmFJNzN6QXdTS1ZqM3R2Ng?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "亭湖区：河长制落地有声，幸福河湖“生态乐章”正嘹亮！",
+          "source": "ycnews.cn",
+          "pub_date": "2026年07月21日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03REVhUGtOcDlFZnY3SEZISlhnTWFZYklUSkpONTd6TV9xOThFSDlsbl9ySTZkVmRpcXEwc0J3U2ZvbDlWY1ZuUU5XcElMaHpMSHQ4V1ZjeWVrZml4X09zZw?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "崇仁生态环境局开展饮用水水源地摸排工作（图）",
+          "source": "大江网",
+          "pub_date": "2026年07月21日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Gd0Qwc0g3cXpyMVZSaGgtVFlfVVZ2VUt6eDRzYk9WbVlOMnRsa0t6eGwxTlZMdzJuQjVnLTBJMU9HdFAxT3NQakNRdUNqN3c5V1lxOG1YUWxPdWdOdUhuMXVyMng1cV9vMExnaA?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 14,
+          "title": "重庆市城市供节水事务中心多措并举保障城市供水水源安全",
+          "source": "搜狐网",
+          "pub_date": "2026年07月21日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaldVME9NVXdIM0VhMTJMQWs1OFhKVDFTUzNQMjNfTTVYbFd4MUVabk0tVUJEZUcyNzhxYlBlNXZxek1UZ3ZvMnVlVjBRMnNPamdzR0FvSXQwRHZxT1I4cTFpcXFsRkdwZUprZEcxVk9XNFpKZnFhbXRQNFdDNERTV3NITkxjQmV0TExXNA?oc=5"
+        },
+        {
+          "id": 15,
+          "title": "广西因灾受损农村供水工程已完成应急抢修",
+          "source": "京报网",
+          "pub_date": "2026年07月21日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzRFFqTWZLMU0ySWw2QlFNSy1PTDRFUjQzdWQ3Q0lramdscC1pVzhiQkZZZm96RjdJNzVab1VWT3VtVThqbnNLa2hjbzU2WTl2S1QyX1F4ZWdYY0dhTHc?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年07月21日",
     "news_date": "2026年07月20日",
     "update_time": "2026-07-21 00:00",
