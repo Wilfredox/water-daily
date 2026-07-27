@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026年07月27日",
+    "news_date": "2026年07月26日",
+    "update_time": "2026-07-27 00:00",
+    "total_news": 13,
+    "category_count": 5,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "省防指启动防汛四级应急响应",
+          "source": "新浪财经",
+          "pub_date": "2026年07月26日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2WlZnbE9xdzIzVXd6dWJ0bW91aU13djFsejlqajRsYi1WeTh0OXJPTHlVazdEdWFLdGk4Q1dTT3Y0LWE1NkhsRkg2czFYcmpqWV9zNURMNmxsdmQ0clZLNUlnTnpXMW9neS1WeW9fN3pBMlpDekhreQ?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "伴津而生 向水而行——市水利集团防汛备汛侧记",
+          "source": "搜狐网",
+          "pub_date": "2026年07月26日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlNiRTdMWXpHUVJHZ2hsa3d5bW9VNHZZREhyNG5mVE1Ld25DcS15MHlhc25hUlNQQXFQeEI1NjFwQmVpczh1UkRNS25Ya2dLQkVfZmU5akItUXpoRDdmSTZwX3VBXzhqaDhjYnN4UEZMR2VjcmYzSEFFLVdnQ01CT240TE5OZ0N5RXlTNQ?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "7月26日9时起，长沙启动水旱灾害防御四级应急响应",
+          "source": "湖南红网",
+          "pub_date": "2026年07月26日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UUVhPOW4tQS1oX0ZyUW4wYklNR0Q3ZzZwcFJ4TEhTNE1RWUxxeFdEY2d1VGFrWHNnSldNUkk2eThYTkxKTXdyNXlLLWg4MEkyU0prVkpyUHYzZU1FeFZSSzZB?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "水利部将针对江西、湖南、广东省的洪水防御应急响应提升至Ⅲ级",
+          "source": "新浪财经",
+          "pub_date": "2026年07月26日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVkJteFlsN3RlV0NlMU11VFNXZF9od3NrY2VPdkRzYWtfOUVTX25uVDI4TTltekVBdkM2M0Q1TmZ6ZmxCbHJkSzNDaGFyQ2xjMXVLbDlHcWhlQnl3aTBrWTJ1TjgxendIRTU2Y1Y3WURJTkM3YmJGQWc2bkVpS0NhOGRUTlJVNXNqMWxxUVdLQ3Z2Nk1FSTVYWg?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "台风“红霞”登陆惠州沿海！广东水文全力做好监测预报预警",
+          "source": "搜狐网",
+          "pub_date": "2026年07月26日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX3owMlV5TWhxLXRfSFEzeDI1emtfcUx0SDJMZXFWajJPaUMtTi1HNWI0akdNRnVNQ281WDFNcFVtYU5xVXI4T3dnZWlSbm01M3FDR1l0NjFiaUNMS011bDNPOGNlZUlPWWFxbVphNjBHMXhiTlRRQ2dKdEdmWjhUdHVOdXRkRERGU0NFMW9vWQ?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "水利部和中国气象局联合发布红色山洪灾害气象预警",
+          "source": "新浪财经",
+          "pub_date": "2026年07月26日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RczMxbm92emxsUzYwbGNWeHlpQ3lqZnJwX285SDdUMmZLdTVFaDExVzBIVG5CSlpDTlVNU2hwTjUwWEVuWG14M1lRLUdQZEJiVGM3UUFybWlEcjVCTUxLcHN6WlN1eGxYaGFESzltR0VTNF9ZT3dIeA?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 7,
+          "title": "新余市狮子口水库和丰城市梅林水库除险加固工程获批",
+          "source": "凤凰网江西",
+          "pub_date": "2026年07月26日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1VZmxCamVTN1lIM01QUlNnaXd5aWdVTURVWTE4WTNOMzZFRGNjdUE0c3pGcllLVlFSTEdaRk1TTVNBWktJSDhjTGl3?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "安徽淮北通报“高标准农田配套电机井房底部悬空、抽10分钟就没水” ：将调查复核，据结果依规依纪严肃处理",
+          "source": "新浪财经",
+          "pub_date": "2026年07月26日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaExSQ043RHZ5a05rVUdtSnc1TUpRdnZINTdwZU5tT0lNMjdabzRPQnlFdjAxR24xU05Xbi1sZGVrZWtWbjVwQV9tSTl1Z3czY2NjUlhVUWdGQ25aWXlGVTBUQW51ZGxxOFhlc3hiT1VKdkNBZ3k2ZWlmeGgxbFhyVjZONkVYdE5VZXhKc1N1VUJyMFhfYkM0Ug?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 9,
+          "title": "现代化水网加快建设",
+          "source": "人民日报",
+          "pub_date": "2026年07月25日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFAyZWxzT3poQ1pxWk9OQklFal84aUo5bW8wdTI0WGp2TF8zX1VSTkdZakwxM0lLeUlOX1JjNWJyd0U4Z3FhMnI1OS1LV2Y0c0tKMEFobU92X0d0TXpVNXVIYWhKZ3owanJaM1hBSGRXZkhqTXdJYkxzUkVVX3JIVTVqaWg?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 10,
+          "title": "大战略牵引新开局 | 解锁水清岸绿“生态密码” 绘就美丽河湖幸福底色",
+          "source": "昆明信息港",
+          "pub_date": "2026年07月26日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HY2VVWUJPdm1SYTVITkJkMjVmTHUwX0hURl9aaExXNEpwYWJ1Q3AtdkprRHVUdFVaT1RSRGVDdndnZm9GTHEyMU1seDZIYW9OMFpsMHBqcDBsb04taTY1UFpoMU1KQQ?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "景德镇入选首个国家级幸福河湖项目，获中央补助8000 万元",
+          "source": "大江网",
+          "pub_date": "2026年07月25日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvMGpPYnZHa20xZy1mN1JHbl9MYXpZeVphcTBGdVJJUWtKQjA2Zkc1cTBwVWF2WTJoeVpPRlhIdGFDdmRyQ1Q0VUIxUGIxVVJ0c0JrXzVFWk9BNHZIVU00VDExYXRwU3pIcE1XWGRFUjM?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 12,
+          "title": "“南水北调”工程，成了生物入侵的“高速路”，我们该如何阻止？",
+          "source": "搜狐网",
+          "pub_date": "2026年07月25日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3k1VDVYV1R0WVJPUVplTzFaRGpNaXZIdXMwSmdHV2lmLU1scTNnLThiZU1VcDdYbGNYN1lHN3RQeUpPazJuU2M0RzI5NXJaem1UN3lST1pjZlJ6TWhZM2NQN0dFQVZPYUNrcUNINlo4dURTWHFvOUZTaUpPSkViREUxUHZFSzd1VmpHZQ?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "甘肃阿克塞城乡供水工程有新进展 一隧洞进口段贯通",
+          "source": "凤凰网",
+          "pub_date": "2026年07月25日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1tUEJiN1hvMTV5WHVRWjVFVW5kaWNsbHZSYnFxdWVpSy1NLW50X1dCX1RvRXp2S0NSOWU1QURjNjZtQWNHWk11Qg?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年07月26日",
     "news_date": "2026年07月25日",
     "update_time": "2026-07-26 00:00",
