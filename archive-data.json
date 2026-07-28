@@ -1,5 +1,170 @@
 [
   {
+    "date": "2026年07月28日",
+    "news_date": "2026年07月27日",
+    "update_time": "2026-07-28 00:00",
+    "total_news": 16,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "两部门预拨1.8亿元支持6省防汛防台风应急抢险救灾",
+          "source": "chinanews.com.cn",
+          "pub_date": "2026年07月27日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rTkt0QWd4RWtqMjBycTVCcHJsNll3M2RnRm4zZU42QmswYWZvRGxFWnpJcVpFX2xVVjR1SVRiY0hnVUpWY29ERWRsbjVScGRXVGpfcFdlUkhBelRUZ2U0cFlneENqTnM0?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "长沙解除水旱灾害防御应急响应",
+          "source": "湖南红网",
+          "pub_date": "2026年07月27日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mV2pkM25aZ2tjVGZHdFlOcmlremZaam5QUng2UWxaXzhpRkhBdlFqM1o3SjFuUlR4bVg3bG9QQWNWbFAwdms5WGlBUS1fYnA2WTI2NzFLamxCeENLQkFtVjRR?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "河北省水利厅对3地启动洪水防御IV级应急响应",
+          "source": "新浪财经",
+          "pub_date": "2026年07月27日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVzBaRmM0VFlmaWM4MUtUT3pxVWdueUZGN1l4RXRWV2J5Wm12NW82SGIyWi11V09FYWxaU2JkY2NaN0FLRkNHTWdJcEdVTFdRX0o4enFHbEU3X3Rsc0pDLWd0ZmhvanZUbEs2N2JScVMtU0lmR1BSTzVfTkdkV1NCdjFvWU9UMHZ2alJ2M043Ry1tVGpMUTRlZWgtdmxkNmxoLTc4V3lHajFvTWNMcTVN?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "江河频繁涨退水，广东水文持续滚动发布预报预警",
+          "source": "Sohu",
+          "pub_date": "2026年07月27日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ1RVNUN0YlhUNTZYTTFvLVVVUjhFRGQ1OEtnZUIwN2pPejVLUUlDZThsMWxqcjNFM0MwWkZUUTkxNUxkYlNuMlM4c3oxRU5RWDlHcm53c2hzUWV6ajdPRXZwVUtQZWVjek1vT2lBdlBDLTZ6SklQMjVGemFLRlhKT3UzYXBTOTh4cy1DSg?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "水利部和中国气象局联合发布红色山洪灾害气象预警",
+          "source": "新浪财经",
+          "pub_date": "2026年07月27日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWFkxWXYwcDNudmcyblJJR3JJYzNLSEdHSEVHVXNOc1hUUWFqSkx5dUhDdVY1Vm1FRkkzQ1ZmSDlfaWZkSDRfaUY5NkpXYXlNR1R3cjRnSUY0OEpHNmdFMnN2Wkh0eTZ4QnR4dnNqNzVTQWZ1VW0zUVlMVDh5V19qR1BWMzVvS1JtMU9adExtVlV1OGJNUnlFXw?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 6,
+          "title": "来稿｜年降雨二千毫米却难留存 香港如何破解水资源依赖？",
+          "source": "香港01",
+          "pub_date": "2026年07月27日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPU3FpT2hnUFBnSE5Nclk4YmswSk81X2tVZmhiTTlLM095MXR6MV8yVDRfYlFoVk9YZkRhTTg5ZFh4U1hqWnpCeEU1N3BhNWtyRFNOUDJFa050WDYtVS1BdEg1RjFJYnlvYzFFaC10dHRHb3h1MUtELU8xdGxBNkdOSnBNY0R3SmNDV21BaHM2N2Faa0tNZVZyMWlWMGFVQnd4ckpYbW16ZnpQeU1RZ3dHbHRHeDRuckNtZVJ5WkxRMzVYMzI1RFIyR1haSEtJanlhZjhGTVI5UDFQVTR4dEhBSGpZbHJLUFhqbEI5S1p4ajk5WUFBbHAtV0lSYmstVlhrYkdiWll3ZGJQZ3gzUnpCZDhham1tbzR1b2k0WHJJU1RoV0Y5T2JNbzFfTzdCRUFmcEp2ZEVZMDhWX0t6VksyRThUN01kaGZJZGtmZzRXODRhQmk5RDlZX1M1emtGOS1DTDlvcXhuQ2ZUdWNzallMUmtWUkRtWV9RMFFHUnNrbVBsT25zektj?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "千湖之省节水创造新价值",
+          "source": "荆楚网",
+          "pub_date": "2026年07月27日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRcmwwZ09XN29Da184ZXV3OFN5S0N6S0VzN0pkRGFuNUFZM2k4OFZqWXRoemw4NGZZUDN6bHBNOEJEd3NjSXRqVXA0QmNOaEtvSjFONVh2ZXFlaHVhMzNMR3J2QktMODVWZEZwaGVuWVJrZw?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 8,
+          "title": "全力战“红霞”，长沙水利部门织密防“风”网",
+          "source": "湖南红网",
+          "pub_date": "2026年07月27日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzSUppWjZfUWhCYVVGM0FRaDZpVXZvYW9YdzNLMlVZeWxxdXlyVU92Rkppam91TnFzOTNWT3N1Q3M0QzFDQ2YwNFJxblIwaWdkOS1EZnROS1UwMUVTLS1jTENn?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "聚焦智慧水利，河海副校长带队博士团开展就业实践调研",
+          "source": "Sohu",
+          "pub_date": "2026年07月27日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmxHNnVGVHJKWm5UWjZWNWxOeUFHUE0wRlVfQm1MbHN5eFpuSnYzVHphWllJX2xpbzdNNmZaN1U1a0EyM1pQVVNNcy1QUFZCa1BmRDlMMDRNRU1sbWxhcmY4bm1MOWdhZXRsOS0yS3ZTQTVEZ2c1ZVRlNms5RUdHUFRtRU03Y1RlOExXbg?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 10,
+          "title": "惠州白盆珠水库即将开闸放水，下游注意！",
+          "source": "Sohu",
+          "pub_date": "2026年07月27日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONEZZZXpSVEE1alpXcl93YnJuUlh1Z3NnOUNIcVQ0WlJlTHhlLWkyQkk4Y0xxZTNUbVN0alFhbUJmbUQ3ZmswZnptNEZWbWNIdTY4T0ZydVo3V1hFaEVKeDlSVk1iLVFZd2VSMVRQVmJrM2FNYVJCVUJNZHBGWWxWS0lUUnJDVnJtbFppRA?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "宜春一座水库项目建议书获批",
+          "source": "凤凰网江西",
+          "pub_date": "2026年07月27日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAxbXc0VEJtUXZZSkh2MVFqellQcG5fVTl6Wl9ZMDkxLWpzd18yVTBXeGxDcWtIT0dTQ01mR3hqdTRHTWV2NXVialFn?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "重庆开展78座水库水利安全整治与城市供水全链条隐患排查",
+          "source": "Sohu",
+          "pub_date": "2026年07月27日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdUVmYkVCR0VFTDNJNGttZ1ZIV3NaU3RNcElxZEZxY3AtbGhNZlRyX1V2NmV5VlA0SThtRmRZdVNyZW5BTkduZy1aQWN0SmFpVER0cDczYjBNU090MGcyZkxnREt2RHUxTVVGQmY0cXNHOHJNVGdPdVR5bTFvWnNENzVOcjMtMFNDNHJYNg?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "视频丨今年上半年 全国实施水利项目3.3万个",
+          "source": "群众新闻网",
+          "pub_date": "2026年07月27日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TZTF6RS1lbl9nV2hUVElOTXVMMkkyei05R1lDRFZfcFBEVUpQVmppQk5naVFBa05TcnFmdUdoUHBaOVMtYldnMHFLUW1ib0MyeHVPMk1ISGwxUVd6bjNmLTQ5N2NIUFJJY0tj?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 14,
+          "title": "浙江织密现代水网 赋能高质量发展",
+          "source": "新浪财经",
+          "pub_date": "2026年07月27日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNemNucGhBS1ZZZmpVX1RLc2ZaU3JBY1JOVnlnVGl0VVpPSmM0OHNaWTduRUFWQUMzMUVES3IweDVQSXhYanB1bld3WTFHcmh0OFJ0OC1PWWo0N2NIY0pycU1SWmVPZUMtRVBfYXpGOUptZVZFNGJYR2QtYlZtenBlRVZBeEstWGJReUR6dE9LZ0U1Xy1kZ1VzbQ?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 15,
+          "title": "市住建局开展水源地藻类防控技术交流",
+          "source": "ycnews.cn",
+          "pub_date": "2026年07月27日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wOXhtdjFsbE1yQ0RMT0VZZDR6Y2tQTlpmMVBJR2FIUmd3ZjJxMDFuOFJyN2RhVUxqLUo1NGVQcE9zdTFab21hV01nUU13UXRfNzFqN0lxbjRBQi1reFpJdQ?oc=5"
+        },
+        {
+          "id": 16,
+          "title": "大战略牵引新开局 | 解锁水清岸绿“生态密码” 绘就美丽河湖幸福底色",
+          "source": "中安在线",
+          "pub_date": "2026年07月26日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sS0RFVm9Ja0tPLWw3SnZtdHpURFNXX1FvQ2hiYi1BRW5MMk5KclFhcDRhQm5vQUNJcmpXSlVOdS1wdkhScjhaQmdDNTJFaE90eHQyQXh4MU9DWG9QWXhnOEFB?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年07月27日",
     "news_date": "2026年07月26日",
     "update_time": "2026-07-27 00:00",
