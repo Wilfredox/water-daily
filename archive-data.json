@@ -1,5 +1,143 @@
 [
   {
+    "date": "2026年07月29日",
+    "news_date": "2026年07月28日",
+    "update_time": "2026-07-29 00:00",
+    "total_news": 13,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "黄河水利委员会针对宁夏、陕西启动洪水防御Ⅳ级应急响应",
+          "source": "finance.sina.com.cn",
+          "pub_date": "2026年07月28日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcEF5YkptUjRrUklWUGczYWpJSVJWekRrYzZSZlVaZWhibFZEcHF0ZS1aVmxCSzVkMVNubTBYeUpWTW5XellZa2tNTnNFMG9WNF9iMzlVOHNwNGlpYTc3dmVhM1Iyb254NGFvMHNlTUhiV2c5MFZzQ0k1ZnpheUQzYS11d2dYd1laMTZHb1dVdkVIcnYzZ1R6aw?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "广东省水文局提醒：强降雨持续，部分江河易再发生超警洪水",
+          "source": "广州日报新花城",
+          "pub_date": "2026年07月28日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX0ZvOHFYSWtBTEROYTFLdjZpOU9JODlnbWVfZ2E0TTE4dmY2aEgxQ2t1eUwwREdEMTVuUnhxQzlONDl1TkNOWV81d2NyUElXdjV4a1ljZU94ZTZEOWZOVmd1Y3JFMF9ZT3F3S2EwUnkyQkEzczNMbGg1TFJhbTluQUxkUWxMX1lIUEE?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "水利部和中国气象局7月28日18时联合发布橙色山洪灾害气象预警",
+          "source": "Jiemian.com",
+          "pub_date": "2026年07月28日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDRFdwQ3Y3bjY4Q01QTnZINDA2aFFmS2RXeVZBQU5nWkhYTzhjNlo3aVg1NDhZMndEZHZuLVVjLVpBeVRjcTdjWmdQenFWOHFyVDlITlhKcmo?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 4,
+          "title": "赋能可持续水资源发展｜空汽无根水研究院云造天露制水机开辟空气制水新赛道",
+          "source": "中华网",
+          "pub_date": "2026年07月28日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ab2xnUlcyR0lGUjBTd1E4eXRHLU5UaGo0aTM3N3R2amt4NGpnMFlwejhhd2NGd0VicURxeGdUYllhQm5BOUQ5Y21OY2RaOTgzeC0zRzBYWWR5UmhESXJKeW40dHhJbVk3c2J0QQ?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "开局起步“十五五”：海南水务“软建设”将重点推进水价等制度改革",
+          "source": "chinanews.com.cn",
+          "pub_date": "2026年07月28日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UdTFqRGd2RmlDc1dRRWVCYS1qaFl4Rk9Ca3FUMmFxcGJYNFVDMU9ybnFHQjZPNndmMFVVQzZOSnJ2ZUdEdE02T1htWjFSVWctN1hhcWpJbkJsVkVsTm1JMWFJemFuLUNH?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 6,
+          "title": "哈萨克斯坦今年将培训逾1400名水利行业从业人员",
+          "source": "哈通社",
+          "pub_date": "2026年07月28日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LVDN1U3VSWThDWmZ6T0g5ZzUwWjd0WV9pTDBuU3R5c013MnFUT3ZBRF9RWFpqWEw5ZlpvTHU0M2Eyc2RXTm9jVVo1N0FBMXgyNUJRdTdOV3hEZ3NzNDFVZXI2MnZCbUJtWTNaRl9TQU9BZ9IBcEFVX3lxTE84a2VqRkxYU2Z1UU1lUmotUm83REtMQTZ3MXhESGxnN0h3TlFyd3JHNElsdHE5Wi01X2dWMFFXVzd0QWJfTS10WU9tS0ltY3p6X2NKMENrZkJXQ003aXlaZXdKbjNLbnRMemZNLTlrZE0?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "科技助农：水利水电学院\"彝乡润源\"团队赴乡城、汉源开展智慧农业实践",
+          "source": "中华网生活",
+          "pub_date": "2026年07月28日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwamF1ejBiNFBOSVVNbFBlejhaYWYxMHZaN2EtVE92QzRoQm1qcGZpMXNPNlVTZE9pRmY2bEVHV3FaMzJxanZ2ek9PX0dIdTBJUnJzWEFrbmdBYkw0NnI1eVl6NA?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 8,
+          "title": "山西芮城大禹渡灌区提质增效工程赋能粮食安全",
+          "source": "sx.chinanews.com.cn",
+          "pub_date": "2026年07月28日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YWGxhVkUtZzFjVElHOW02SmpRSUkxRlVZQlo2X2E5cnNVUDkxdGpEb0hpb1JzWFNVVFBCc3FIdUVNZ1hCM2QtczVCRGRxUG1wc0R3UEdOdWhhNlIxUWRpcG1oSFFnTUs2?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "青海格尔木南山口抽蓄下水库库岸边坡环库公路高程以上开挖完工",
+          "source": "国际储能网",
+          "pub_date": "2026年07月28日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBId0diLVFBOW0wRWRBR1ZLWU9OTFpfekZOczQtREJqUkY1SlNtcU1MY1VFS2g3WkdqYTFHS2NGZ216MjJ4eVl0SlU1Yl96elA1cFM3WmFDRzNaQlVnQXA1ZVRB?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 10,
+          "title": "海南发布“十五五”水安全保障规划 到2030年基本形成现代化省级水网格局",
+          "source": "凤凰网",
+          "pub_date": "2026年07月28日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PQ2VscVVaOHZiQ2Y2cmQ2MWNySk5YV1lBQzZmblJ5eUxUZWJaWG12cGdWSW13aGswd1lUdmJCS2VzVWVoMXZPVi0zTjFfUkE?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "智慧赋能织密现代化水网，山东德州这样干",
+          "source": "jinantimes.com.cn",
+          "pub_date": "2026年07月28日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4NlVUUlRHUy1LNFNxX2lPY0hkb19CdjVhcUcxUy1zcmZoVWttN0swVW1XbkFWOVU0SVpjc1RJOS1MSWJmOHlkY2hEYjE3SFBockxoVkpKUVpOU3M5bWdR?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 12,
+          "title": "市住建局开展水源地藻类防控技术交流",
+          "source": "ycnews.cn",
+          "pub_date": "2026年07月27日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wOXhtdjFsbE1yQ0RMT0VZZDR6Y2tQTlpmMVBJR2FIUmd3ZjJxMDFuOFJyN2RhVUxqLUo1NGVQcE9zdTFab21hV01nUU13UXRfNzFqN0lxbjRBQi1reFpJdQ?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "重磅！景德镇南河入选国家级幸福河湖， 未来将变成这样",
+          "source": "大江网",
+          "pub_date": "2026年07月27日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jMHN6dFdGY0VGUXRLaGhyMm5EbWxwMHRPYWRUNTFnVTR4VGpmeXFLR1pIMFVFQll4cWdmUXhyQTlXZ3pnZXZFMVJ1UVNZeTdQRVJIdVRmaUNQenhxaTVkejRPV083UHQ4RkZiY0pR?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年07月28日",
     "news_date": "2026年07月27日",
     "update_time": "2026-07-28 00:00",
