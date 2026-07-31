@@ -1,5 +1,170 @@
 [
   {
+    "date": "2026年07月31日",
+    "news_date": "2026年07月30日",
+    "update_time": "2026-07-31 00:00",
+    "total_news": 16,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "分秒必争护安澜，水利部信息中心防汛一线工作者鏖战三轮台风",
+          "source": "thepaper.cn",
+          "pub_date": "2026年07月30日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xakN5YXViN2pLY1FURDNXc0pvd2NYeThMN25VUDZtRVBhY2RfblUxMVlsbURVbW1GZVVwZENTSi03amVmeHF4bGIzYjVMTXZUV0F5NmpyRHgyeHNaVEppXw?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "泽普县开展综合防汛应急演练 以练备战防大汛",
+          "source": "xj.chinanews.com.cn",
+          "pub_date": "2026年07月30日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV3h6ektuT19oX01Rck5BbDJ4ZVBZblFMVTR5MlNOdEJJTzNjYmJyV3RJdUgyUVNPSGktbmtKUzNjYkpSUFFNWmdHRUpKbURyZGtQQ0JtaDRNakRqZWpIX1hEdTB3ZnNkMHNNQlZjNlkxVENXN1RpQTNOLXRvUG50T3FxQQ?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "河南西峡：集结点验砺精兵 绷紧防汛“安全弦”",
+          "source": "中国日报网",
+          "pub_date": "2026年07月30日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IM3JUdjRwVkVWUDhORTNUdlVLZnFqQ1RBLTZDNnRudGpCS3FMZ0xSVW1OSHJ0VjEwSmZKUnJpNGVYckg1ZmJWZ2liNmtsb3l6OTJiZUZBZkFuWU1BbEJJWEt4NEIzRVFYYlhrSk5HMXhCOEFLWTJnUGxsRTU?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "科技支撑防灾减灾丨迎战台风“红霞” 珠江流域三大江河水库拦洪14.1亿立方米",
+          "source": "中国科技网",
+          "pub_date": "2026年07月30日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mRlVYeDI4QUVFT0lMVG5YckMweUJkSmd5VkRCN0J0SVFuaVFQMkRFUWx5OUtodG9rZlhaNWdMNS0zaHl2cGhlN1lfdWQ4NGprTDhiZmt3bEhwa3JVWkEyZXBmNHlybE96bURzclNBNVg?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "四川将洪水灾害防御四级响应升级为三级响应，并启动四级防汛应急响应",
+          "source": "川观新闻",
+          "pub_date": "2026年07月30日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pZHMzNnVUUTZPeHA2Rzk2RzdHV3lVeWJmcER1dnh6NXMtdEtfRGNIUmxxbGV3R0R6WVZacXNPaGcwM2lpamYtcTY4emJNQQ?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "水利部针对陕西、甘肃启动洪水防御Ⅳ级应急响应",
+          "source": "finance.sina.com.cn",
+          "pub_date": "2026年07月30日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR2kyemZWN2M4bTRYVzBGanJDeS1ROUd0VFNwOENDNGVZbDM0QTQ1dFBJMnd5RHFwc2pPT0hfVWtyRy1OSENqZFctRGZ3WTZRbjRQM2FsVXhTTjdzQXdPcWV2TGp4OFVFY1BtZTdRY0o0bjdmRVFrZnRRRE5GeWdpR3Y5WnV3WHN3WWhGTHk5VGFRc0ZxTG1nag?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 7,
+          "title": "【深化“三抓三促”行动】瓜州：改造农村供水管网惠民生",
+          "source": "finance.sina.com.cn",
+          "pub_date": "2026年07月30日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX1F1QUxaNjYtRlBvSHBPQ1liMnM1czM5d1dDbDJFa3hvZlIwNWRTSVpvRkFpVGdObTBhUkU4VUMzNndabHB4anFBYTV3b2NVUDdhYWVCOUtMckVWcGFPdl9tSzAwR3o4eFJrb2w4VzFFbXRnMWU2M29reWFuSkRlbW80WDdJdV9CUVkzbTVjWUw1QTdjdUtiRTFGUWtzTmNW?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "工控遇袭！30多个地方供水系统遭协同网络攻击，有水厂临时关停",
+          "source": "安全内参",
+          "pub_date": "2026年07月30日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rdUt3VHVRV3RLRDRsUUNpS0g2ZDJNSHk0QlJpQzJKZFFsdGNPUkhrTTlGNlRaZFV1TjlvV3hQd29jSzhDYVpMWE5NTkhWZw?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "水价清晰、供水稳定！潮安城乡供水一体化惠及超30万群众",
+          "source": "Sohu",
+          "pub_date": "2026年07月30日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaF9Kc0Z0ZUR4R3NYRTUyYlcxaVFiV3BjSjdkdEF3WFpMdUgzcDV0UHJma2tXdFhuWWJ0YVBUM0tHLXdRZW1SdDZrazlCei1aOXpfYmVyMmhINXFES1J2SElrZDNIdFZQWHhGMmdjYjh3UF9QV2ZSZU9CbnUzUC1lVHR4dmFnY1A1OTh0LQ?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 10,
+          "title": "“暖新”行动正当时：浙江水利水电学院实践队为南浔新就业群体服务“把脉”",
+          "source": "潮新闻",
+          "pub_date": "2026年07月29日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Jbm5zX1dfUnVQRVRXQnR4ZUVqNzA3aWpqODNlY19HQ25xbXBfWVFjVFlVenFSeUZPRXhnQ1ZzUE41UjBnT2VuRXJfei05ak5mNllWS3FVeHNsY2w2QmlER3ljOWhYa1A5WDdxVUU3ZjllWTQ?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "以影像为媒传非遗薪火，以青春之力助乡村振兴——安徽水利水电职业技术学院赴广德柏垫开展暑期“三下乡”社会实践活动",
+          "source": "中国网教育",
+          "pub_date": "2026年07月29日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aV2xaci1DbGNuVFRwMEVRRnF4TWpYTnpUTy04aENRSVZwanp1SGxpTG5PQ2l6ZzNoUXBoZnVqdThNTDVwdlFjV1RWdEFqOVM3X0cyZHVsODAzSmI3M1VJeG9aWkEtUWItcGc?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 12,
+          "title": "直播自贸港丨海南“十五五”水安全保障规划出台 34项重点任务织密全岛现代化水网",
+          "source": "hq.xinhuanet.com",
+          "pub_date": "2026年07月29日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wY21tVEYtLTBSV2hfVnVVSFNXM1NFNGgySjBwM2JKa2M2R2szdFpRbXVockVVM0x2eUtDS3NpZHdYYlpkUVVFQmtabGxYNWRGRDNKcDc1S2hsNkNEY18yNEtraENTRmhYSVJnVFZIYzlsQkI4dGhjNUpCek4?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 13,
+          "title": "韦迪水库的建设已经完成：新水库的建设正在进行中",
+          "source": "Armenpress",
+          "pub_date": "2026年07月30日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CMVJkU0twalk3V1EwUUpVczJxbGdBNVZfTHNKRFVLckNsaEdZSDhNMXRvNm5VMVRncnZ1S1h1aTF3aERzdkppUENZVFI2N2xkcXd1eEVEVdIBV0FVX3lxTE5CMVJkU0twalk3V1EwUUpVczJxbGdBNVZfTHNKRFVLckNsaEdZSDhNMXRvNm5VMVRncnZ1S1h1aTF3aERzdkppUENZVFI2N2xkcXd1eEVEVQ?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "赣州： 深化现代化水库运行管理矩阵建设打造革命老区水库治理新范式",
+          "source": "大江网",
+          "pub_date": "2026年07月30日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rTUw3d0YtcHY3NUZPQTBvSlNuOFYwR1JsMDdYRXBIWlR1WHNHUjFiSzJNdFp6ZmI4cnl5MVdsVjhyWEpkRFo2aHEyUkJ4UktSa2dJY29ZRVI3c1JEVUJLUXhvYkFTQTJwYXh5UQ?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 15,
+          "title": "十年河长制，如何河长治？",
+          "source": "大河网",
+          "pub_date": "2026年07月30日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yTzYyd0dpc24xMU1OZzdFek5fMnRKaG1fd24wbU83TUIwWFUxN2pMZzRtZlBBOXdQSXM4WlVJN1ZyZkQ0cmZLeG9UR2QtSmcx?oc=5"
+        },
+        {
+          "id": 16,
+          "title": "泾川：小流域治理书写“水保+”新篇章",
+          "source": "finance.sina.com.cn",
+          "pub_date": "2026年07月30日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZEh4Yzc4X2M3dVBqNjNwWk1IQnFqRk16N21KQ0Q1bzU5QlZGRUNhcmE3czA3OG84UlZtYlVKVkZyeE1mZVQyS1JFdE90enpPZ2dzN2RzOVhGS0w5ZXUweTEzdnEtYURET0tBelh3MzJwaWdNNncwRkh4OHJvd2VoSDBua0UtOWl6SWxMNHZFYXFKNW1PY0I0UA?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年07月30日",
     "news_date": "2026年07月29日",
     "update_time": "2026-07-30 00:00",
