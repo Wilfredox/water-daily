@@ -1,5 +1,179 @@
 [
   {
+    "date": "2026年08月01日",
+    "news_date": "2026年07月31日",
+    "update_time": "2026-08-01 00:00",
+    "total_news": 17,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部：做好黄土高原淤地坝防守，逐坝落实防汛责任和措施",
+          "source": "thepaper.cn",
+          "pub_date": "2026年07月31日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfZ2pORjJRQy1teVI2WjdjMk1rcUdpd0dMRVVaNURIVnhFdVpNOHE4MjVBbnVfQWdLZkUyajlRMTJsLTIxcFpNYm5Hdm1OQlFocWYza0ExMUowNFRNT0Q1TA?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "台风“白海豚”或将影响我国，水利部发布“八上”防汛重点",
+          "source": "SOHU",
+          "pub_date": "2026年07月31日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemhCTFZSeVI5NFp4eTFlNFlnT3cwbU1NY1VFc1A3RERuYUhJclZ5SWVnOGNyNE1rOE9rRktlVzZLOEhmaTZIUk4zZnR2NlRPSmQ2QnNISWJnN1ZxeFEtVWlXRFlDYzUxM01PVlduakRJcEloTl9vSGR6bGdQeVRvaW9zbFJNUmVlSUdEcg?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "夯实防汛本领，筑牢安全防线！370余名民兵完成堤防抢险专项实操演练",
+          "source": "京报网",
+          "pub_date": "2026年07月31日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkeGFYOTR1SmFOeFd0alJqZmZ5SXZxQWQzZldTM25zSXFvUzFpQ3J1N2ZzcHo1SThvcm11UklUbTFNYWlGeTlDemRMR0J1VU5NbFN6ZnlQblZXX0Ezc2pwUGVjSVRLVnl1SlBkWmJFNGxrdw?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "水利部针对陕西、甘肃启动洪水防御Ⅳ级应急响应",
+          "source": "新浪财经",
+          "pub_date": "2026年07月31日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNakdadVFlcWJCUWhzQXZEeFlsX2lzeERXME90VFp0Vk1aYnM1RWk4b1NpMHFsWVNtMnpiQl9XcmItTzRXbnZKQk5saHppbDgyV0o5Tk4tUlg1VmZVQWhJdnI0TTJzWXZ0bWFSRnBiamhIY0ZSS1R6TTJFYjJaQkc2dzY3WVJQOWF3NzNuaFpSS0xDZlZtOW94Ng?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "福清市加快推进滞洪湖排涝工程建设 筑牢城市防洪排涝安全屏障",
+          "source": "东南网",
+          "pub_date": "2026年07月31日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13ZWxjZEtFaldNamQwU0dHYUZZMmNuTnZVMEJjb0JVN0VJN19TcC1KVEtzU2JNOFlXRFNvRUl0YjI4ZTlxY0p2ZlFSWk1NUmdIQkhkQTRjbGhXWXkxTjJvaw?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "一降一升，看六盘水如何做好“水文章”",
+          "source": "SOHU",
+          "pub_date": "2026年07月31日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdDFQN3kzLWFUalhldlVfZjNlaUFFUmJRcXlEZmF0REM5SW5PSmkxV0lRNkdtS3FxQ2tNQmduSHpRM0VOOGk4ZkJpR2UteWRVaG1RbU5LajhsMDhOcjU4dzNPUkMxbXhiTVV1aDg0QmdMSVdMSFg4RHRDcEoyTTZHSnpjdlNaT0pNbXlZbw?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 7,
+          "title": "工控遇袭！30多个地方供水系统遭协同网络攻击，有水厂临时关停",
+          "source": "安全内参",
+          "pub_date": "2026年07月30日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rdUt3VHVRV3RLRDRsUUNpS0g2ZDJNSHk0QlJpQzJKZFFsdGNPUkhrTTlGNlRaZFV1TjlvV3hQd29jSzhDYVpMWE5NTkhWZw?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "水价清晰、供水稳定！潮安城乡供水一体化惠及超30万群众",
+          "source": "SOHU",
+          "pub_date": "2026年07月30日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaF9Kc0Z0ZUR4R3NYRTUyYlcxaVFiV3BjSjdkdEF3WFpMdUgzcDV0UHJma2tXdFhuWWJ0YVBUM0tHLXdRZW1SdDZrazlCei1aOXpfYmVyMmhINXFES1J2SElrZDNIdFZQWHhGMmdjYjh3UF9QV2ZSZU9CbnUzUC1lVHR4dmFnY1A1OTh0LQ?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 9,
+          "title": "【中国水利报】大考之下的制胜“王牌”",
+          "source": "pearlwater.gov.cn",
+          "pub_date": "2026年07月31日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwcGk3NjFPQ2xZS1JpbHFQVVBGZTFfVDVrcE50eXpYd2lobzh0WnpFQVo2UWk2MllFVDRHWDQ5M0RXZHQ1Y1V0MHZlclVtS3daRUF6ZUhsZmF0OUpQeTFsU2ltUEdubFhUTEQ0RVVPUVZsTlhYOThzX0F3?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 10,
+          "title": "【深度】极端天气下的数万座水库“升级”，如何算一笔经济账？",
+          "source": "新浪财经",
+          "pub_date": "2026年07月31日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMzNQSXJMcUZjNDljMDFGcGRseTBCVzRqeDY3SGExZlA0Q1hhREQxOVFyVE04dUNYbFk1MWNpdHFDbGpRSUdrVVI2MW9JWTNKMmlBWnJaZEtNRnQ4aGdNLTk3OVRid0hmNnhRVkx5S0h2S2RFU3RLcDRfektGb3VjZnZ2MkJhclRXVGltREVhRnF5U1VPY2YxZnNKODBwN21sVjlsTDNEQXZsZ0ZIMndj?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "库容翻倍 尔王庄水库增容工程圆满收官正式进入新阶段 城市应急供水保障时长提升至30天",
+          "source": "SOHU",
+          "pub_date": "2026年07月31日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdEItVkZ3MXFySERWWkNMc1l3WEpvSHViT2xqQjB5dmR0OXJLblI3YzJIQVl1TENicDZ2dHZhMEJmVHhrTnRYQ19zbURVaTRBU3VZMnRhanl5Qm9nSVRUZ3gzZDJyM05TTjkwWGhMdy15OC1Sb01lYVA0U0ZNelkwR3gybkZCLTJSQ1hXZg?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "2026硬核成果丨灌区有了“智慧中枢”！这个大模型，让水利工程“活起来”",
+          "source": "thepaper.cn",
+          "pub_date": "2026年07月31日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TRzlrMUlCUVd1UHVXMXpGN1lfTkdpWWhtVG5pSmpRLVk3dUVaS0h5N0hEYXBoRWM3Z0NCM3BHdllScWJxRzVCY0lCeGQza0luNEUyVl9RUllCYW9PckE?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 13,
+          "title": "关于浦东新区数字孪生水网建设项目建议书的批复_其他",
+          "source": "pudong.gov.cn",
+          "pub_date": "2026年07月31日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kLXU5dF9VbUhDdTB5Tm1tVm9OenFsV1ZjVFU4aUdXY0hQbW43UTJQNnpTU0xCSll3WFRKcnJuZUJmZWNSTEowNmVGRzh5ZWFMdWRSMjZ2Uk8zX08wTk5FZkF2LXg0VHk4cnFlMmh0c0VVQQ?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "发改委：“十五五”109项重大工程加快实施 上半年水网建设吸引民间资本超108亿元",
+          "source": "guandian.cn",
+          "pub_date": "2026年07月31日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96MVozbjFVeXdicjU5MXlHX2tRYVZqbXp2ZW1fUzNibTRxNzl5Q2s4MVI0R1NJdGIyY19JaGxWbmR2UWpsT1VUZ2I4ZjRJaF9JTlkwVjZ6cXNHbFVsMkhiNXdn?oc=5"
+        },
+        {
+          "id": 15,
+          "title": "发改委：上半年现代化水网建设吸引民间资本超108亿元 同比增长85.8%",
+          "source": "guandian.cn",
+          "pub_date": "2026年07月31日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GZnhfRkthT25JTHNYZElnSDhQRmwzSVc1N0J4UEVCSFNBdlp1bUVTOHdaM3REZGgzOG9tampxeElfSlBDT2RNTk1yZDZldw?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 16,
+          "title": "时隔9年，浙江河长制要变了",
+          "source": "温州新闻网",
+          "pub_date": "2026年07月31日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1URXNPUHE5eXlFUkY5ZW8tZ1pJYlRuSF93aG15NXFYRXlCN2pHUl9hMHlpdjg3dklSa3F0U0dOSnZSR1RyRTR1em9YOU14eU5qOHVHU2lDTmNDWE5oQTFlcnZCLThPZ0tOWGN3Vg?oc=5"
+        },
+        {
+          "id": 17,
+          "title": "赓续红色闽西血脉守护绿色幸福河湖——福州大学实践队赴闽西开展暑期社会实践活动- 教育",
+          "source": "东南网",
+          "pub_date": "2026年07月31日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vMV8yRTRlSVVpQUNYWFgtWGxVeDRVTi1temRXUlRXLXIxaG4xS1RINTVPeXJTOVNjYXJfR2lXYXhoTHgxd1RfbFhHSFp2TVhwN3pINEZ0NlZCSnBiSmFUbQ?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年07月31日",
     "news_date": "2026年07月30日",
     "update_time": "2026-07-31 00:00",
