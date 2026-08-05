@@ -1,5 +1,188 @@
 [
   {
+    "date": "2026年08月05日",
+    "news_date": "2026年08月04日",
+    "update_time": "2026-08-05 00:00",
+    "total_news": 18,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部部长李国英赴广西指导防汛抗洪工作",
+          "source": "新浪财经",
+          "pub_date": "2026年08月04日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazh1YU9Ec2U4ckNRMGRLYVVUVmFyRVNwWGJUN3hGczFWd2dZaUUxZWI2TnhQQzlibFljSlRiQ2h3RDJfcG5TczJob3IyZ094Zk13R3Y0bWR5ZG9fZzRZVG0zODBUUjRkZzAzYmJyUTNudy03VTI0Y2NOSDNGX1NpS2c1OVA4SVVhazNwN1pUdw?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "水利部：目前全国16条河流仍维持超警",
+          "source": "china.zjol.com.cn",
+          "pub_date": "2026年08月04日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82cnFpZTNhV0xLSG4wRllBdHpWMWczOW1maV81YTV1WHc4MEFldHlJZ1NtZ2FtanMtbnc4b09oRzY3MWt4Ym92a2xIbHVQaGVWLTdJTmJWbVZIcC02ZWFhZlJRRlpCTkdnUnMwUWp3?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "群防群治·百日攻坚｜隐患排查+闭环管理 重庆全力筑牢3075座水库防汛安全堤",
+          "source": "华龙网",
+          "pub_date": "2026年08月04日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tbVhtOWNITzVLX2w1QmdSWkN1YWN3ZEduTThBZ2FfOGdLYUF4VVVIWTJqM3BTbElOcklLd2lpSWpYejJuZDE4ekVjWUM0TkhhLVBXeGd2UlNWT1JKREF1MkZQdzhGVEVpTnk4?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "水利部和中国气象局8月4日18时联合发布橙色山洪灾害气象预警",
+          "source": "欧洲头条",
+          "pub_date": "2026年08月04日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcGtSZThVMUVWTkc3bWhYTEdjNEhiZ2dtV0M4TnhhMFJ2RXdxWW9CVmdkOEs0LTZXUlp0aWgyclNqRzZaa19ubTJEb0hTcnpuOHdHZGpnWXJ4cHpJWFR0MUNWZXljQ09jVGhUSUJWR0VCLWpMMmI0bnlFV3JSWnVSOVVQcXh4cWJmTmliN0QwMVdhMF91dFZoZ1Buc1M5c0RpMXJQX2gwa2Mzb0ctWm9MYnhGTnZkWWJXWEg1aXRDOHIwZFcyay0zS0Y1VFhjX24zVHRweEh4OHpSNmJkVUpVcw?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 5,
+          "title": "水利部部长李国英赴北京、天津调研水库安全度汛和中小河流治理工作",
+          "source": "搜狐网",
+          "pub_date": "2026年08月04日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1owQnVTdnAxSlFEZ2tvZ0F1dlBJM2MxVlNiTWU2b3ZlRjZDZkJUcDRDUm1nV2dhZWlIN21vbkZWZkloVnhxZ0UwRDhyUGlBUlhLLVhMWTVWcHpyZ3R6aDRRZHoyWHZ1YzVkWGluTUJ3emo0OGFnM2NvODIwRzJNMV94Z2pwU1g2?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "环北部湾广东水资源配置工程建设取得新进展",
+          "source": "中山网",
+          "pub_date": "2026年08月04日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85SU93ZFVGSlA1bW5PdnBRRkloWDlRRHFKLWo3ZW1zM3h5V3ZGU3RJblFaVEgtaEVWQ0dlUEJZamtsLU9URTFIcUdSQXh6R2xpUUViQjNmdVA3MzNnUXptNkxUcjhhaDlnNFZKWkpFNA?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "一座病险水库的度汛日常：有常规巡查，也有定期“体检”丨水润蜀乡",
+          "source": "川观新闻",
+          "pub_date": "2026年08月04日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WNFRKZUdUcU1kMG84Zi1yZ2ZVdzBDN2JYM1NHVmt6X2VjaW1nT3dQTUxUT0ZqNHdVSXB6N3Y1SDZQRlFBUzRDS2ZFYmFMZw?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 8,
+          "title": "浦城县举办水利科技前沿讲座 赋能水利高质量发展",
+          "source": "中国网海丝频道",
+          "pub_date": "2026年08月04日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03S0plNFpKVVNCOTEtci0tc05TUy12Vk5lTFJiQUN6LVVrZ1M0NFpyY05kRXVWWWpCMlQ4dVRLSXF0UHZEMy1KblBSMTlLUWNkanUycVF5Q0FfeUVOSjZaOVBZX3JkQQ?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "山西农业大学城乡建设学院作品获第五届华维杯全国大学生农业水利工程及相关专业创新设计大赛特等奖",
+          "source": "搜狐网",
+          "pub_date": "2026年08月04日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYnZ0MTF1ZjNqMVFBTC02ZFpzanR6RFRtSFJ6SE1yYUJ5THFuUkdyWFF5ZFNOSG1BUERad1I3cklXUVM5SVdUVEZTcFdGMHJaT2Nua1p6Mk9pbnhWN2luZUhib1NMWnB1aHpmbzlBQUktbG9pQV9YOHpwZXZBMW13REdtcVNNSjEzdV9YTg?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 10,
+          "title": "中国电建打造肯尼亚供水工程，干旱小镇迎来稳定清水",
+          "source": "见道网",
+          "pub_date": "2026年08月04日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EakIyUTJjc3JUaElfZmZpNWYyVTFZNnR2RGNuYVhJc2VZdWgwUjJnYTFTOHRtSVhkQWd3emNCVF9NVkFiTEt6S3M0Snd5ZWF1ck1sVA?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "高温干旱致缺水成现实……山清郡部分地区启动限量供水- 阿视亚经济",
+          "source": "아시아경제",
+          "pub_date": "2026年08月04日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hbjRLaGVTNDdrS1VTT05MRktJOVRMMWpLLXFkTVBtN3EtNGxrRnJHWUZjTjNzWDR4Mzl3anFXRklVeklFWXR3SXplTzlRcDBlR3RHbHJ1Snp6RXJHWmhuSkdKRzA?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "喜报！江西获国务院水资源管理制度考核“八连优”",
+          "source": "新浪财经",
+          "pub_date": "2026年08月04日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOERxVklGNF9waDNBWlRUV0hOaWN5NEVqUTZLdGxzejYyX0J5WjJUX2N3bElzSzBmandUb3EwU1FURHp5b1N0NzNMdHhDSXZnYTE2Q19QSHdQTG11c3d4ZnJROVFwaDE4M2xGbGpCNUhmcVVPak1ZTU5ZajJkclFNcTlFN2lPWU5HdkJnZkxiVHVaT1hPQWNIcEpsTzMyUEVDSWE5cEhGNFVfcFA5dnVhNUhSRjZBMTllaEZobTc2cG5JeHlNZ2hYdjYyRzZ4WkJUN2c4d18zNmhjQQ?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 13,
+          "title": "财政部等三部门下达21.54亿元农业防灾减灾和水利救灾资金 日前，财政部会同农业农村部、水利部下达农业防灾减灾和水利救灾资金21.54亿元支持农业防灾减灾和水利工程设施水毁修复",
+          "source": "搜狐网",
+          "pub_date": "2026年08月04日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFlwbTlDVWJsUnlyb2JoNlBsQ3dkS3FpWi1SQ2tOV29TM00tN0hWdG5sMHRMX2N6MmZCY1BxWjJLN3dtTUFRX0hnbWxyTzh5eFFyMmVZdkJSMTlPLTZsRGpuX2dPMnppXy00UjBiaUduTXJneUhaNXZoenNOY1hISHNWc05CYjRtN01ENg?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "溯源渠首担使命 逐梦水网践初心 ——慧泉书院“慧泉涌流”暑期社会实践队",
+          "source": "中华网",
+          "pub_date": "2026年08月04日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LVWcyay14TTJMTVFPUlZYUk5kcWZWLTlpNGQ0UTlUT2ZXRWRQS0VMLWdLU3B1SHFmeDVjdkNXZGRtNnVNTFdEd1BfZnUyUEZ6OFpsZExPX2taMFJWdUE?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 15,
+          "title": "永泰县“三水统筹”全域治水 擦亮大樟溪“美丽河湖”金名片",
+          "source": "fj.chinanews.com.cn",
+          "pub_date": "2026年08月04日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhdmhPMlV2eGJtMm1ocTdWbjRKcnpwdndtSEFUYTR4NEE3OGFPSHVTTF9VR0hrdjVKMWQ3aVVwaDBHNXhYaTlPQy1yNzV6VDdjR01IWDdCRUxmb1V4cUhsVWVGQktsWUkwSlJSdmlpVnR1dw?oc=5"
+        },
+        {
+          "id": 16,
+          "title": "10年12道总河长令 三湘河湖展新颜",
+          "source": "icswb.com",
+          "pub_date": "2026年08月04日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HeU1pdUw2WTVZeXNudTFOMEN5SGlVUTVoeEhDb1Rwei1vdks0cGpxZldfeU52OGJvc1U1ZEhHcWpzMWNfVnlJbWcwODhTdWhhR0pSQ3B2YXZ3RUwt?oc=5"
+        },
+        {
+          "id": 17,
+          "title": "从“点状示范”向“全域开花”，闵行区将力争2035年全域建成美丽幸福河湖",
+          "source": "shobserver.com",
+          "pub_date": "2026年08月04日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UT29BYWIydEt0MjV5SlpHcXFRWXF5aUFaOGZZN2xtOVZPdlZLeVl1LUk5dUlZNDYwMXBnTmVJWnZFSjN3VkhhdEswaGVwekhEbEk4b2ZlMkZLZkx0TlE?oc=5"
+        },
+        {
+          "id": 18,
+          "title": "齐鲁见 | 山东美丽河湖“变形记”",
+          "source": "新浪新闻_手机新浪网",
+          "pub_date": "2026年08月04日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0a29BZ0JxMktuODZLYy1PSlhLN1VWam5TYlQ0UGJjbmpmejRNWVZ0UVUxVGNzX1dvM1RFR0VhUHVHck13SVF6LVBnX3dXZlZpazhIT0liNlMwSmNlaG0xbGU2dmRnbGVITHQ5U3VpR09VRVdKWFE?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年08月04日",
     "news_date": "2026年08月03日",
     "update_time": "2026-08-04 00:00",
