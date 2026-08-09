@@ -1,5 +1,170 @@
 [
   {
+    "date": "2026年08月09日",
+    "news_date": "2026年08月08日",
+    "update_time": "2026-08-09 00:00",
+    "total_news": 16,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "刘宁王凯在郑州市督导调研防汛备汛工作时强调 绷紧防汛安全之弦 守牢安全生产底线 坚决维护人民群众生命财产安全",
+          "source": "搜狐网",
+          "pub_date": "2026年08月08日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPODV5VEhhZzFaaUJFdFBXVC1KdEI3bkhoMFZyUEN3NFZ2ZzdBWjRmai1VX2NWVG9waHkwekU4a2l6WDBTRUNSdWZSaFRSZ0wzalFXZXpfWUhUTmFWeFg0aDZKZV9GMXhHVXZLY1lHOTBWZUs0Z2tMRUxuNmljWmxRS3kyY1k3dmxMOGozMQ?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "浙江省水利厅提升水旱灾害防御（防台）应急响应至Ⅰ级",
+          "source": "浙江新闻",
+          "pub_date": "2026年08月08日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10Y1k4SXF0MFFmd0c3SWxnMjJ3Q1pMUldPQVAzdFRpc3VqRnlPNmdEdktublZnYjhMNmZ4UFRYZHBjNXBTemJJenEwU0l1YXA3UEJ3R2N3M2I2YXJLUzg1aFdVS0QtTldHS21fMFJIM1Brdzg?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "水利部针对浙江省洪水防御应急响应提升至Ⅲ级",
+          "source": "新京报",
+          "pub_date": "2026年08月08日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mWGp2RGhoN0dGZmxnbXJ0XzBGOHpfR0pMTzhDVXlpQkNTUlZ0RnVjTDI1cHpwc3N1TVBEN01fT05ZWm45MFFZTXdWQTQwWWVCSXozTUN4cVZmTTZaVHdaWk5EMWs?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "群防群治·百日攻坚丨聚焦六大领域除险固安 重庆全面提升水旱灾害防御和水利安全生产能力",
+          "source": "华龙网",
+          "pub_date": "2026年08月08日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jaWZlMW02aHBWU3FxZ2ZLT05qRFhBcnpQeHpNTVFzQjhqQmpQUDR0TkU0UEhOWVNQSFdhSUNPLS1XUEN5T29zc3ZXZlZCemlZU290QmkteEctdzY2SWVPOTN1Q2o4Nm9vMi1n?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "宁波提升水旱灾害防御应急响应至Ⅰ级",
+          "source": "中国宁波网",
+          "pub_date": "2026年08月08日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZ1drTDZRRnBIYk5tQXlqY3FKNWtyMUVJbnlZOWdQdEhzdTdFbi00R0Rpa2VTbjlZRG9hY2ZuRDNHUzNybVpDSzhtWnltZURZWTJEZVNCV3N0Q3M0NDBmM2NuUFZDaHB1?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "浙江省水利厅将水旱灾害防御（防台）应急响应提升至Ⅰ级",
+          "source": "新浪财经",
+          "pub_date": "2026年08月08日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLQXN2MVFpVjg4U0lIb01NMGl2Tm9jV0pBV0x5b0dCS0tTaGpBeXV5dDZITnktMUlCcTd3NEFGUVB6cmtERE1uNnZfOA?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 7,
+          "title": "国家防办、应急管理部组织中国气象局、水利部、自然资源部、工信部、住建部、交通部及浙江、福建、河北等省，联合会商研判“白海豚”趋势",
+          "source": "搜狐网",
+          "pub_date": "2026年08月08日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR0RlU2hnZ3puWnJiTDRaSXNPNExvMWxJejVkM3lYY29IRWVJcVFpVG1xSmhjaGlrMGtFNkFUcE1HZUhzRXdWT2FBdzh1VGpVbG9NS3ZaWndHX0FzeHRsRjJIR2pub2k2NlBSZnZ3cWxGbFZDV2xyT3Fkc0NGLXczNk1udmdiUGRo?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "三峡集团、水利部黄河水利委员会座谈",
+          "source": "gdshe.org",
+          "pub_date": "2026年08月07日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84Z2UyY0pVdlVra3NUYkVIbVltd1J1eE81T1RKOG5BT0N5Y1BtQVduWDhtenpmN3VnU1dnN3ZZWWZiU2xlSXFEV3pGVjRlaWVrZVE?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 9,
+          "title": "国务总理Han Seongsuk检查庆尚北道清道干旱·酷暑灾害情况……指示启动应急供水体系- 阿视亚经济",
+          "source": "아시아경제",
+          "pub_date": "2026年08月08日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44cE5rSzJSbzRjMWxkN0c5b2RnNU9rall0cjJpVEUzMXB6VWxZeU9yRG5ROGlHMTZ2VmJPTnptVjZXQTVQZWxCV2w4R2MzcGMtODZiLUVOX254cV81bF9vUHR0a2Y?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "梁子湖应急水厂建成通水武汉构筑“一江一湖”双水源供水格局- 中国日报网",
+          "source": "China Daily",
+          "pub_date": "2026年08月08日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jdHJNSGVCQU1pSEk3T0dObDJISUtBTTZjWXhSb1NBRXpCQS1PWnNRNGt1ZmFnRTVhc2JHVi1semtMd21PVHZvRHhNYUdWckR2dlc5dlowR3NUcGhVM0sxYjl5VElPMTRlOEZ3a0x1T1FUY1hjSGdkd193MmE?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "武汉梁子湖应急水厂通水 保障660万居民饮水安全",
+          "source": "搜狐网",
+          "pub_date": "2026年08月08日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZzBUVklybDJyYzZaSlVRSWlPSXFrUEh4eWg5LVFka0xmZEF2bERBdmFDVXB3X05saFMzNVdlNzFrRnk2c1ZUTkEyU3BjTlZObHZUYXlWVG5ueTMzb005dTlINGRpdFJEWnZOY1E2MGJCNWd6SGNMbVBWakJ4QnE0T2hGUzdfNzNk?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "第五届新疆水博会举办 以“数字水利”突破水资源瓶颈制约",
+          "source": "aksxw.com",
+          "pub_date": "2026年08月08日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kQll3dndfNlc0QjFCekFyc1pOUmtvYXVrZ21ER2x5UnY0ZDgxVF8tcENldFZFbHBpamFNbFB6LUxLSEFBbHd1dVV5TzdQcVJWQVpkVjJ4cFJZckpCNzJtM1hqOGltVzU0QWUzUnVnbnc?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 13,
+          "title": "广东财政安排下达农业防灾减灾和水利救灾资金3.64亿元",
+          "source": "搜狐网",
+          "pub_date": "2026年08月07日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN3hlTkRHRnU1QkJ1V3doLWRkTF96empJU2MzODFadV9DMERoM21zSXJlZGpGVWpmVWVRQXgxZVhhYzAzQzY5aXhaUmwyVjhKSkNnMHFNOFJ3NnFIN3VDVFo4SlNlYVdPbDl0NjZGNF94ZjFGbEoxdklXNE8zcjFNR3c4VGJMc0Yt?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 14,
+          "title": "油汀水库拓展越南东南部绿色经济发展新空间",
+          "source": "Vietnam+ (VietnamPlus)",
+          "pub_date": "2026年08月08日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aX01aRUx5ME03RllVN1NLSXZMdGc1M3hHVUJIOVNjOWJLS1FnSWVQOXNhQW5ZVWVxVTdnZmlPQVRTelg0RUVLeTFLRkhyREprS21ZTjRpWmwwck5N?oc=5"
+        },
+        {
+          "id": 15,
+          "title": "宜春公布2起水利工程建设招标投标违法违规典型案例",
+          "source": "凤凰网江西",
+          "pub_date": "2026年08月08日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9pVVdQcl9ad2dOeWdmUmJpQTNqd2pYY3EwbGt6WHdQNEU5MmIzdmREUTI0cWdqc2xaTTVYTThFZHhFWlRLSURWeGFR?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 16,
+          "title": "理论中原 | 左雯：打造以河湖水系为依托的绿色产业链",
+          "source": "搜狐网",
+          "pub_date": "2026年08月07日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYWVhbDhCb1EzOUpwZkdYUFdvRjZrMVBiby1kQkVuNzF5YjQ1VjhmcnhNZFUwbWV2VGplVWVhcHYzSE1ybDRrN3ExSktLbFF0dnJ6eWRBdE1FbzF1MjJBa2ZQdzE5Zy03VWRRUnlhWnpjc1BDbVdqbVZ1MUJJaVdrYVBxc3BhcFQxcTJuWQ?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年08月08日",
     "news_date": "2026年08月07日",
     "update_time": "2026-08-08 00:00",
