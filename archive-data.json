@@ -1,5 +1,132 @@
 [
   {
+    "date": "2026年08月10日",
+    "news_date": "2026年08月09日",
+    "update_time": "2026-08-10 00:00",
+    "total_news": 12,
+    "category_count": 5,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "四川81部水利测雨雷达改变防汛局面，覆盖近六成山洪灾害危险区",
+          "source": "thepaper.cn",
+          "pub_date": "2026年08月09日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lbHBmNVBHQnV3NDVzVnFwR3FYYzRVZW9RaVgwMHBUbmg0TW1xS1g0WEpUU3h2bEdYcUx4Z2tReWdWVmVWT2dMd003SkFFRzhOUkhuZDc5Mzg3blFNSXZ0bg?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "应急抢险队雨中排涝，筑牢城市防汛防线",
+          "source": "新浪网",
+          "pub_date": "2026年08月09日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNTmxZalRxTlFQcElKWVJvdkxUTVVSNE9fZjN3S2VieWh5ZFlwZWhpMm5HN3ZTRF96REhTX2M5NHFpN056R01xc2RLRGFkRjFrUWRQTG9hVHAtV2RMM0ZsbTdtMGR1MGlrc09UY1IxVUFrSVNPME0xNg?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "排查除险，浙江水利部门积极迎战台风“白海豚”",
+          "source": "thepaper.cn",
+          "pub_date": "2026年08月09日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wMzk3d0JKNGRkd2U5X3NUcHV6cmNmZGNXRUJRMVJmWjMycnQ5cEhpRzAxal9ZUkxwN3ZudlhTNzQ1SWYta1gxQWktV1VjU0t4Ui1wSzRxM2NoR2d2c3VJUw?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "黑龙江省水利厅召开水旱灾害防御会商会议",
+          "source": "搜狐网",
+          "pub_date": "2026年08月09日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWm1JcnpvclE2bG5aZEd1U0d4WVJHWmNZaUV5SnB1QndGRUVpSEFQUGZLbXZpMjJaNEc4TDNJcFRCWWNWZFBkRnlkLVNKZHJiRHRQbUJpSzJ5YWVVdlJyZkNKOURicGVtZnIxTWFPV0FEYnNEOUpxVEFGSmpmTHlMNElpY2JwdkdzUlNycw?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "涉湖北东部地区，水利部和中国气象局联合发布山洪灾害气象预警",
+          "source": "搜狐网",
+          "pub_date": "2026年08月09日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVXZlRjg1TFJjNlFiMHhJWmNTamI3Zm9FNHUwdkhDX0J6LXNnOUdFU3RXOVRfcjZKekY1LWtISVlUQ00zdmJWWnpfMlZubWRaVXJmZ1dBMnhnU3Y1eEdNTDBTWktwN3JONi00NDFlWlVCRVFMbjY2N3pIV0xuQWJxTlFPMnltR0owQmNkdA?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 6,
+          "title": "浙江水利水电学院学子暑期赴南浔调研红美人柑橘产业——以跨境视野探索乡村特色果业品牌化路径",
+          "source": "潮新闻客户端",
+          "pub_date": "2026年08月09日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zMEUzLWZHQ2J0cU5nMGU0OHNrMDhxNXNyMG8yVzhBaGNiTWZzZE5kcXhnaEtaU2E0REp2UVN6MXJ2N1BmQi1ZM1hpSkFUM0ViYWlSb2hzUlI0eVpvREFld084bEVIZ1Z2U3ZtdHZiS2lsVWM?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "国家防办、应急管理部组织中国气象局、水利部、自然资源部、工信部、住建部、交通部及浙江、福建、河北等省，联合会商研判“白海豚”趋势",
+          "source": "搜狐网",
+          "pub_date": "2026年08月08日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR0RlU2hnZ3puWnJiTDRaSXNPNExvMWxJejVkM3lYY29IRWVJcVFpVG1xSmhjaGlrMGtFNkFUcE1HZUhzRXdWT2FBdzh1VGpVbG9NS3ZaWndHX0FzeHRsRjJIR2pub2k2NlBSZnZ3cWxGbFZDV2xyT3Fkc0NGLXczNk1udmdiUGRo?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 8,
+          "title": "第五届新疆水博会举办 以“数字水利”突破水资源瓶颈制约",
+          "source": "tlfw.net",
+          "pub_date": "2026年08月09日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aSFlKeDRMb2dGbG9ENjR4emE5R0JVaWVZa05USzNkZ1Z0c2dMTjZBejZTYXl3V1ZWV2ktLUREZ3NlTG9BTUxFemQ0SEFONkpKaVA0ejBZWWlraDNCbHhva1Jzd2U?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "国务总理Han Seongsuk检查庆尚北道清道干旱·酷暑灾害情况……指示启动应急供水体系- 阿视亚经济",
+          "source": "아시아경제",
+          "pub_date": "2026年08月08日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82TVBuSVgxZ09KOE1hSmRNdDVXWmR3TGpuZUNta2JHVUtpV2RXV2lobl8xWTNpVDA4RmpBMWVBU3lqbTBHdjZfVDVYVHllNFZTTWJDLXVTLUwyUVpCX1hGLUowVFVOQQ?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 10,
+          "title": "盛秋平调研水网建设情况",
+          "source": "新浪网",
+          "pub_date": "2026年08月09日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1pkdVkxYjRkSXFWNUtrTG1QOGpCcDVwalI0eDJma1FvY3pZc21xeHhQWTFwSVduZDVyLXk4U1lIdm01U1JBOUdybGRaTXdjTGo1MzJ0Uk5TNkduX2FIOWg3YjNZeGRnSHpGRDJDYXU2MUdsaWFRdlFxUVVQMGRLTEpyWTN0WjJBVXQtMXEtd2VpZzBEdUtXQw?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 11,
+          "title": "孟家水库“瘦身”?",
+          "source": "新浪网",
+          "pub_date": "2026年08月09日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQckJ3Y2Z4RHhEX0VNVWc3RzNlOUtBWHRKdXNYQnNiWGE5SHVPTy1fWHNrUUVCLVh3UGRuSVF5M0JrZDlqa0VaYXpidXpPeVBCT3Z2SHJCUWVDcnk4Nk5RZkc2YXZGWEVYOXBQUXltMkFjUjNsSkxlUG5FejRtNkVQTW1fdThEQnZKakhoWVpxQ01nYVY5NHpJZw?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "油汀水库拓展越南东南部绿色经济发展新空间",
+          "source": "Vietnam+ (VietnamPlus)",
+          "pub_date": "2026年08月08日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aX01aRUx5ME03RllVN1NLSXZMdGc1M3hHVUJIOVNjOWJLS1FnSWVQOXNhQW5ZVWVxVTdnZmlPQVRTelg0RUVLeTFLRkhyREprS21ZTjRpWmwwck5N?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年08月09日",
     "news_date": "2026年08月08日",
     "update_time": "2026-08-09 00:00",
