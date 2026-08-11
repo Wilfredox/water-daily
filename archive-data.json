@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026年08月11日",
+    "news_date": "2026年08月10日",
+    "update_time": "2026-08-11 00:00",
+    "total_news": 13,
+    "category_count": 5,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "陈敏尔张工到市防汛抗旱指挥部办公室调度防汛防台风工作时强调：坚持人民至上生命至上，落实落细防汛防台风各项措施",
+          "source": "搜狐网",
+          "pub_date": "2026年08月10日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU21mdVJ6YjM4ZUdyZ3dNV296UVQ0NmZDc1dpdVFVNXhraGJZZTIzcU9XcDhJckJXQk9BeWN5RXdNcXlLaHJDUmF3bWtlVW5CUnBjeURwTlhudG1YWkR4NEZaVGRPanVSSkdQOVgyR1RDWThSei1uSDNuSkM4S0Q3Y01qc0tPRmRpYUF3bw?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "海河防总、海委分别启动防汛Ⅳ级应急响应和洪水防御Ⅳ级应急响应",
+          "source": "chinanews.com.cn",
+          "pub_date": "2026年08月10日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCeUFJcnhLQ0xGWnZKd2FfUlJsdDFTUWVfVkM3Mkc4NHc2R3NEVGF1ZmMxbEhpNERTcENCaDI5OWZqNmgxQW84SDhzLWZSUnI0b3IxRTAxN3NYQTloeHVpVjY0U1B0XzdX?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "水利部：黄河、太湖、滁河等河流可能发生编号洪水",
+          "source": "新浪财经",
+          "pub_date": "2026年08月10日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdVU3bUNyaUwybW5SMVc0eWFZTm1FZm9nek5LVldfNVhQT0hucmNtRmZrbUtiQm1WRW1pSTZvRGRYdWZjTnU2bzB1SFMtYXhzSkhjUlRjUVNPSUN6NFVZS1JER3JXN2hOMnhLZ1FmZzNHQmMxa05XUnpxZlZWWFloMGFGQzBodFdJSHdVajRuTDk0ekJHaWk0Rw?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "水利部门全力做好台风暴雨洪水防御",
+          "source": "新浪财经",
+          "pub_date": "2026年08月10日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUnpoaEsxb3hMYnlrUWh2QVk5cVNQRVNxMHVnLWM0QVRtSlYybTd4QW12SW54RmF0OGlsTjRTeVEyUGdTS1FqbkZiSHpTVzk2OGVOQzVNcFo0dE9WSmtKVndnXzR6ckp3aDBhVU13NDF0YWxoalZzSktHOE05UnpiclQ0azVObHpESXBNLXNaZGtwRWpBZTJmbQ?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "延庆开展应急防汛演练",
+          "source": "京报网",
+          "pub_date": "2026年08月10日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5acU9FeHliQzVKdWpQUmQ0d3Nha1k2azRmRjdwNEVQaU5IQlJ5RkhCVGpUaXdPOHNwZ3gwMl9ObXBhZm90d2RITnFub3o0UkVYX1pTbGVlOUtUS2xzUUNKaE04SXJHTkhxRkRPcS16amZ3QQ?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "水利部针对冀鲁豫鄂4省启动洪水防御Ⅳ级应急响应",
+          "source": "bjnews.com.cn",
+          "pub_date": "2026年08月10日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WMkwwN2ZVdjNUcFdnTGtRX3NhSlJpTjVPdWZTV3RfcktCV2JCcWtFb2E2YTVvQnBhX0tRNGd2Y3UteDNwWFVvTjVKb2VmV1hpLW9UczZJQXY5UUpWS3dzR3FNY0g?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 7,
+          "title": "山西采取六举措推动水利建设提质提速落地见效",
+          "source": "搜狐网",
+          "pub_date": "2026年08月10日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQy15MFFNYjZzbGNEemRFWHVEbHB5RzQ3WU8yLVBmM040TXRnM2YwQlNTdjVxY2sxRERWbm9KSkNDMjVmb0dMMi14LWlIcUliZVBTc3NDa2doN3dFdDg5eUJoM05RcEhDdkZhOFFpS2hIWGtobGVIYTBzTTIyUWpYMlRYSFVFLVk4TkNnZQ?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "什么是“潮水顶托”？浙江永嘉水利专家解读为何退水慢",
+          "source": "搜狐网",
+          "pub_date": "2026年08月10日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQamRLX19LR19KU2pQUmFSaDJaQmlGRnlKSlRSRjIwN01DNFN3cVhLdGFSVk1KclV4dGpxTm5rQXhvNU9BSVo0UTRsTzFLQjU0NlZlcUtVb3J5c2RNUDBmbERsVDJlZ3ZVNGlXaG1oaDJPR3JUOTFGSkFhSkViQ0VxelBXUF82UUMy?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "新兴铸管重磅亮相2026新疆水博会 硬核赋能新疆水利高质量发展",
+          "source": "中华网",
+          "pub_date": "2026年08月10日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tTUl6RWtLc25DQWhOb2lzT3h6blN2cWt6blR3cU41eEJNcUowajh4Z0c0VmYwMXRPbjlVRV9hNGkzWGliMmo4ZHgtbUZ0SlV3VW9wbVF6WlI1LUJDSFE?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 10,
+          "title": "城乡供水同步提质！神木市全力守护群众饮水安全",
+          "source": "搜狐网",
+          "pub_date": "2026年08月10日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYWlVNy1FckpRQm9PbXBOQnAwTTg2bzd3SzBmdHE2OG85SmVFZ1JCT3lFVmdhYURwc28tUlRQQloza0d4Q1h5Q3RWdC1hTWo1ZTFWRDFzbHA3Um5xdVlTTWlmODBKbUJZbWYtTjJ0M0VZTWtPNlpqTjI5SGxJVXEzM2tnTnBNdGdnS3lvWA?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "第五届新疆水博会举办 以“数字水利”突破水资源瓶颈制约",
+          "source": "tlfw.net",
+          "pub_date": "2026年08月09日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aSFlKeDRMb2dGbG9ENjR4emE5R0JVaWVZa05USzNkZ1Z0c2dMTjZBejZTYXl3V1ZWV2ktLUREZ3NlTG9BTUxFemQ0SEFONkpKaVA0ejBZWWlraDNCbHhva1Jzd2U?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 12,
+          "title": "盛秋平调研水网建设情况",
+          "source": "凤凰网江西",
+          "pub_date": "2026年08月10日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0wZUYySDRVS2FIVzFpamU1Q0o3Z1BvRnpoUGNFNmVNNG1jci1sU3BzV29PRmR0RkozT25QVzJhdDd1dTl3UkFiZ0R3?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 13,
+          "title": "孟家水库“瘦身”?",
+          "source": "新浪财经",
+          "pub_date": "2026年08月09日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQckJ3Y2Z4RHhEX0VNVWc3RzNlOUtBWHRKdXNYQnNiWGE5SHVPTy1fWHNrUUVCLVh3UGRuSVF5M0JrZDlqa0VaYXpidXpPeVBCT3Z2SHJCUWVDcnk4Nk5RZkc2YXZGWEVYOXBQUXltMkFjUjNsSkxlUG5FejRtNkVQTW1fdThEQnZKakhoWVpxQ01nYVY5NHpJZw?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年08月10日",
     "news_date": "2026年08月09日",
     "update_time": "2026-08-10 00:00",
