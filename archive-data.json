@@ -1,5 +1,188 @@
 [
   {
+    "date": "2026年08月12日",
+    "news_date": "2026年08月11日",
+    "update_time": "2026-08-12 00:00",
+    "total_news": 18,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部针对北京、天津启动洪水防御Ⅳ级应急响应",
+          "source": "新京报",
+          "pub_date": "2026年08月11日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16UG82OUNndkMxS0dGbXh6TW1YNWNidG9vX3IxX2ZJZzBPQWxBa3gtNjRSTTNTYWdVVFh2VHJNc2syOG1OZjRYM0J1S1hteWZhNFRQSXVLYURQQVVuUXVQLUh6OXc?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "12支专项抢险队伍分级备勤，房山区15万余件防汛物资随时可用",
+          "source": "新京报",
+          "pub_date": "2026年08月11日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41M0VDbEREcEZCVjRBUXVwTTF1QjNXNEwwbDE1azhzTmxaUE0taDN3WVJkT0hqdXFLcnZrM1NwTFpTWlJnbDQ1WG8yeXFMM1pPZm83NDlGTXBCb1NxLTRaMWh3S1g?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "国网北京电力启动防汛一级应急响应，335台应急发电车前置到位",
+          "source": "搜狐网",
+          "pub_date": "2026年08月11日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNGdVSGE1aFRvRjVVMmlzaEVodDRfYVY3R3NZVEhVV3BhQTczak1JSDNiYldtNm5Xb0JrNExDRE9SanpxeWc2ZXlvYkNVLWZqN3IxUHRuWVJpZ0lESHE2TWhETmZzMmJMaldYZ2RCbGpMMWpBazc2TGhyZ1J2MENycURmeHF1LUY0?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "湖南省水利厅专题调度部署台风“白海豚”洪水防御工作",
+          "source": "湖南红网",
+          "pub_date": "2026年08月11日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YOUlKQktfVW0wdTVyQ3pMS0lDV1hBR2VfNFlhcDJ6MWdZREZSQzJrdkppSUduQ3hrUXdTY1BxamlxWjJRdFFJTFdWamJ0RjdHNDhBWVJVU21BRUExZjlaU0NpYw?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "襄阳近万人备勤 水库、山洪、城区易涝点严防死守",
+          "source": "hb.chinanews.com.cn",
+          "pub_date": "2026年08月11日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0ydkhMd1NnQ2xfbHhKa2UxbnJRX0s0SUk0M0N6LUpnLUZzV29uWG95NVBreUVncUxOME9wWGYyMzRKc0M0enV1SnJKTlB1dW5DcUtvNHRnN21fNTJoT3IxOXhQRUVIMS1j?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "台风影响仍在持续 我省统筹推进防汛防台和应急恢复建设",
+          "source": "台州新闻",
+          "pub_date": "2026年08月11日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWYWVoWUtNMGxsLWtzTWg3VXpfUHJXancxWmRrNEFXRVAzTFBSQUJqejBVMi1JWlROZTRMMWtSLThnV3JvS0pYWUlsYVpVOGFnbmtpNXEySjJiOWxsM1F2Tld0OUtlRXNnbGE2RkZjaHFaVXZnaEtQSUl3?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 7,
+          "title": "青春脚步丈量基层安全需求 浙江水利水电学院“生命之舟”实践队探寻防灾急救“知行转化”路径",
+          "source": "教育在线",
+          "pub_date": "2026年08月11日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UdVZfWjhkWkhBMUFTbmJIQlF1a29kZm9pZGRsRzdQOEtyVFZuNGFqQ3JNSjI0X3g1eUdrMDlXbUx4NVI1VXg1ODN2NldjWkR1eGNPX1VSLVpiY0EtbkNMN0ZJX1JwcVdiQTUw?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "山西采取六举措推动水利建设提质提速落地见效",
+          "source": "搜狐网",
+          "pub_date": "2026年08月10日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQy15MFFNYjZzbGNEemRFWHVEbHB5RzQ3WU8yLVBmM040TXRnM2YwQlNTdjVxY2sxRERWbm9KSkNDMjVmb0dMMi14LWlIcUliZVBTc3NDa2doN3dFdDg5eUJoM05RcEhDdkZhOFFpS2hIWGtobGVIYTBzTTIyUWpYMlRYSFVFLVk4TkNnZQ?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 9,
+          "title": "南水北调东中线一期工程累计调水突破900亿立方米",
+          "source": "中国科技网",
+          "pub_date": "2026年08月11日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXVHFmMzV1bjc1aTZqOVh1T3J1LV9NOVdyS3RHanYyODlONi02YkNsc2prR1JVYW1LcUtzMUlpbk16cDYwamY0emR3RWFVaWNYdmtreGNNMnA5VGJibEswb2d5dGRBLVNsb0Utek9yMEE?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "城乡供水同步提质！神木市全力守护群众饮水安全",
+          "source": "搜狐网",
+          "pub_date": "2026年08月10日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYWlVNy1FckpRQm9PbXBOQnAwTTg2bzd3SzBmdHE2OG85SmVFZ1JCT3lFVmdhYURwc28tUlRQQloza0d4Q1h5Q3RWdC1hTWo1ZTFWRDFzbHA3Um5xdVlTTWlmODBKbUJZbWYtTjJ0M0VZTWtPNlpqTjI5SGxJVXEzM2tnTnBNdGdnS3lvWA?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 11,
+          "title": "北京市80座水库均低于汛限水位，迎战强降雨",
+          "source": "新京报",
+          "pub_date": "2026年08月11日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FUnJOQkFsWEpxaGdBOXgyTnpiM1BicFMyY1NfcFFVQzMzOHdkSGQ0QzF1YVdRMFJDNEtoZWJ4WjFEb0ZMajg5QjE2Y1gyS2JmSG43WGJySWhKU2V3SklId3NUMjc?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "从精细管水到智慧灌溉——陕西灌区节水一线见闻",
+          "source": "cnwest.com",
+          "pub_date": "2026年08月11日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iejljV2xJbG95MXMxVFotV0JsVWgydHcydXN2YlZFUWx3VGZCNVNpT21zYTFhSUFPM2U1bXNCeE5CUmlZeFF4WTczaWozNlB2T1RyVFlyZGVSZHRlMFBJbTQ2Zw?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 13,
+          "title": "盛秋平调研水网建设情况",
+          "source": "jx.ifeng.com",
+          "pub_date": "2026年08月10日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0wZUYySDRVS2FIVzFpamU1Q0o3Z1BvRnpoUGNFNmVNNG1jci1sU3BzV29PRmR0RkozT25QVzJhdDd1dTl3UkFiZ0R3?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "毛伟明主持省政府第97次常务会议部署智能机器人产业发展、水网新型电网物流网建设、城市更新等工作",
+          "source": "华声在线",
+          "pub_date": "2026年08月10日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8ta1p5THItSDQzUl9adm5JUUM4cVZzYjBXX1Mxb0lsbFlyd1p3cjlkZERWMWpZMGNhSjJrUEE1Ny00dzNMVVFnLWJ5enZDZlhncFhxMzBwSHBOVTV6U2FR?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 15,
+          "title": "江苏常州：统筹河湖治理让“家门口”水更清、景更美",
+          "source": "新浪财经",
+          "pub_date": "2026年08月11日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRlIxTWhIZUV5OEliQTRGQzFRVHBpbms4Z05BTzZQcE1zZlZOMnNmNUN1Z1J4aFdTOWJHM2ZMY3JuOThwRjBHVnlNTUM3djlsNWxRbTFnNFB1RWdRbldGTDNzVXVhdkh3VDFwZEFNQ3dIWDFZZU9fOHFTQUNDWjYtUWQ1R1gzYXEtNHpfSmg3SFI5bExXdmMtVw?oc=5"
+        },
+        {
+          "id": 16,
+          "title": "灵石县|县委副书记、代县长刘明在汾河灵石段调研水污染防治工作并开展巡河时强调 统筹抓好水环境综合治理 以高水平水生态环境支撑高质量发展",
+          "source": "搜狐网",
+          "pub_date": "2026年08月11日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWENNSTd6anJfRGRNYS15czBnRWRxNlp5WkhPbmNLazFFV3Bmd1J6a09PeDJ4UXRtdnFvRkFmRURndDdMbmg0Tk5GTDU1NkVLMDZILVNfajBXckhjbTFlTXBRZFNsTEU5dG1xQl80MHdmLTJETlpUU29UdC1FMERTRU9jY01QdUVydlJFWA?oc=5"
+        },
+        {
+          "id": 17,
+          "title": "2026年幸福河湖建设项目清单公布 内蒙古锡泊河幸福河湖建设项目入列",
+          "source": "新浪财经",
+          "pub_date": "2026年08月11日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS1M1NWkyTzNlemRJMV84WnZZazBjTVJjM2RkYkRubkxXUldSbF8wSGRTRTFDTEhGWDVkQVRwOWpSZHZIcmtIRFlYREFxVFNlTjFydllTSzI5Z1VzUGNOcldpTHYyNXBXenFsVDkyTFYyem1EZHZWc0Z2QjBIWlEyaGI3dHFTVTRDWnh4di1mZjd2b2trQTRaLQ?oc=5"
+        },
+        {
+          "id": 18,
+          "title": "张君毅“四不两直”督导城区水环境治理工作时强调高标准规划高质量建设高水平管护推动水环境质量持续改善",
+          "source": "新浪网",
+          "pub_date": "2026年08月11日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3cllDa28tcV9nc1RVdGY1RlAwVUhsWDVYbERVb3NhQjBRaHZhSzZfQUhiVlZDNWIwTURTeGRNOWd1dU0tb0RJU2t3VnlUWk9zUVZFT3Z6MnB0am9hLS1NdnJTWVY4N3JsU2RUcFU3UHFwdTN4TlNQMQ?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年08月11日",
     "news_date": "2026年08月10日",
     "update_time": "2026-08-11 00:00",
