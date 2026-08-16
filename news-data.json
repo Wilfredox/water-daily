@@ -1,75 +1,75 @@
 {
-  "date": "2026年08月16日",
-  "news_date": "2026年08月15日",
-  "update_time": "2026-08-16 00:00",
+  "date": "2026年08月17日",
+  "news_date": "2026年08月16日",
+  "update_time": "2026-08-17 00:00",
   "total_news": 15,
-  "category_count": 5,
+  "category_count": 6,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "水利部部长李国英赴沙颍河泥河洼蓄滞洪区指导",
-        "source": "京报网",
-        "pub_date": "2026年08月15日",
+        "title": "水利部：太湖流域将发生流域性大洪水",
+        "source": "新浪财经",
+        "pub_date": "2026年08月16日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WdHZLZDBFUXVBYkRtUFVaQlZpejBBcFotR2l4bFNtOVExd0lPbUExR3QtX0FidTR2OGpFWEs5clhyQjBTQnE4Si1SSTVKS0Z5SVhtSjdMMUtpZUZ3Rlo5RGJjREpYU0twWUxTWEg1Vl9wUQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTUtCZnlZMTF3UkJhTGxXcHM0YWdHZmJEdjBGMTR5cUZjWU5jeHRlTGtpNTdkTGF1aXNmYVhBRmYyaHdINlVqSFZoM0FhdlBQODhCZWVvWWtpN2tpQmlrdENsMTJVSkpjcFNiNktOY0trLU5GSmNEX2hXWVhKSjYzNlkwQ2hhNk9XRkJtbE1KYlRKRXE3UEhqTA?oc=5"
       },
       {
         "id": 2,
-        "title": "河南出现入汛以来最强暴雨过程，水利部部长李国英、省委书记刘宁指导调度防汛救灾",
-        "source": "凤凰网",
-        "pub_date": "2026年08月15日",
+        "title": "水利部：全国52条河流仍维持超警",
+        "source": "chinanews.com.cn",
+        "pub_date": "2026年08月16日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04RHBDcU0yVDFCM1dIU05BV0FrN09yNnEwbi11VUpHZm5zNmpLRVRMdExkRzVIZWZuUjctbmJEV1RqeVJ5R3AtejdvYWU?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82YTVzTUg2VGotdGZtSVAwVDZlcWliUmRjU21YQ3RvUlAyVHUwN2dpM2xnc1YyRHBzempRUzFfWkVGYmNCLUNiUTl6WUVKWHFiZjlxOGgzdGFZQWdPM3ltMGgwMk9pWG5n?oc=5"
       },
       {
         "id": 3,
-        "title": "【水利部：#太湖流域将发生流域性大洪水 】今天（15日）上午，水利部举行会商，分析研判全国的防汛形势，目前全国59条河流仍维持超警，太湖流域将发生流域性大洪水。（央视新闻）",
-        "source": "Sohu",
-        "pub_date": "2026年08月15日",
+        "title": "闻“汛”而动！舞阳县企业防汛指挥所全力筑牢防汛安全屏障",
+        "source": "lhrb.com.cn",
+        "pub_date": "2026年08月16日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmxLWllPS1NxNlpFN2xnUTRIb1Q1N0RoclpmWG1SZkJOLVlZX3VDWDNkU3ExN0ZhTFVFWDRKeHROVlRpZHM0Z1NseGNrMVI4MGV0RXg2bEdCeXY0Z3ItV2RscWRFdmdMV3h5aE5yRmhLRnhERjJZRWZZRm5XS0xnMHNzNjJMUEF1?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ld0Y1VTRscXRfeERMV21JNF81QzBDMG5qSzBKVWhyU3VBY0s2aFh5UDM0UzVoc0MzLVFpd2ZDSkx4S3V5b1NDR0Q4LWtRTmEtYnVBOUhyZGFFM3B0?oc=5"
       },
       {
         "id": 4,
-        "title": "水利部：太湖流域将发生流域性大洪水",
-        "source": "news.bjd.com.cn",
-        "pub_date": "2026年08月15日",
+        "title": "浙江省水利厅调整水旱灾害防御应急响应至Ⅲ级（三级）",
+        "source": "川观新闻",
+        "pub_date": "2026年08月16日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1VkVZVmRnZkRKUVNpM0gtZ0FDbUVad3A1bHprSzVXdnU5d3BwVHZIQ3ZzSHp4N3VkdnJMV3I0emhJcGdoSmkta1dOTUZTU3VwRnpyeXFlZnVKVUJfT3c?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxZ21jbjJiOGhjdnhTU0lYZWFjLVFyR2lXMXdteTYxQ1lsMF9WbVBTNHplVjNPRGNSb0NLSnI4VHg3aURFUDZwb1BoQmVCQQ?oc=5"
       },
       {
         "id": 5,
-        "title": "国家东北区域应急救援中心组织开展防汛抢险实战化拉动演练",
-        "source": "mem.gov.cn",
-        "pub_date": "2026年08月15日",
+        "title": "浙江调整水旱灾害防御应急响应至三级",
+        "source": "chinanews.com.cn",
+        "pub_date": "2026年08月16日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lR1F5TzNDSWFwaHYyN3F4ZldnZTQzQ1BBYXBERjZETUszeTJUUHBBZG1RVWwxN2NJRU1DcFpHSTB4enMzeVJ1T3BkMFlKU1FWS09KcmVad1RtcUR6ajdBSVNldkc4MWJ6YVlHUQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrUVdWWDNvWklOXzZlemNUaEhyeUFmYzdxRzNxdUdQc1hUUXg2c1VGdm5uTXFWZVd3RGFZdDRweGhMTkk1N3NBaDBIVGQwUG5sRVVUNzRwTW1UNExHdGVmSGxiYkpiSS1M?oc=5"
       },
       {
         "id": 6,
-        "title": "风雨鏖战守安澜水利铁军昼夜逆行！襄阳迎战台风“白海豚”防汛纪实- 湖北日报新闻客户端",
-        "source": "湖北日报传媒集团",
-        "pub_date": "2026年08月15日",
+        "title": "水利部和中国气象局联合发布橙色山洪灾害气象预警",
+        "source": "chinanews.com.cn",
+        "pub_date": "2026年08月16日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjbE9RUFpFSWpiQUNSaVFpWG9HZWs2cVlIelBscU5DaWdTYkhrZHFWNExvTjExWXdWZDdPbjhCOEtBcXZPZkJzdFJVclVEQkljMWFvQUk5cno?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kdEJqdGRqal9QNUNSRmlhcU9IWGJDcWZiX0hQMmxNcnhQemctclhXWFpNRnB0eHotVnMwc0ZWM2Mwamt1SjZMbnhfd2FmUnIwQUFEaXlicWdqTm91OFNFVWkwQ2tnQVNh?oc=5"
       }
     ],
     "水利工程": [
       {
         "id": 7,
-        "title": "水利部迅即安排部署贾鲁河堤防险情应急处置工作",
-        "source": "新浪财经",
-        "pub_date": "2026年08月15日",
+        "title": "朱溪水库8月16日13时起放水，沿线请注意安全",
+        "source": "潮新闻客户端",
+        "pub_date": "2026年08月16日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaE9hdkRjLVVTSVpZbjFpTXp1ZnFxOXF4dU5sT3otMVZHcHZlQXlhZHktc0pObS1jVl9Sb2NUNGRjVlBnSWUxdzRMMTRWNHhuWW93c3NEekpkM0lfaTdGWXVDLUZqem0zUmkxeE12ei03QldUWlpuakhQcDFtbEJnYnFKU25jQW56S3VDZWYtU1d4dnJHemhjWA?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsMDF1cjgxb1RXZFFYVmxxYnB2enRLazRpNHpGaWhTTkVJMGhhQ2tQUWxldHQ0MDFXWWpNd1NGemxaR0VaU083OWRKVXpvTFRETGRwUENSUEZ6VDVLMVpiU09EYmRsLU1CQjVZRjU4WkFFVTg?oc=5"
       },
       {
         "id": 8,
@@ -79,35 +79,37 @@
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
         "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CeS1ObVY4NHVRaHJuNUs4ZHdXN3FQUkZsZEFuNG9TbVJXUEptRVFESkpxa3JGcDJCUm1BT1JuSm5CNkFWTEJUSS1BeUNxWXYzdWVLSmpJbko?oc=5"
-      },
-      {
-        "id": 9,
-        "title": "日供水能力跃升近4倍，桂山水厂新建一体化净水设备竣工投用",
-        "source": "珠海网",
-        "pub_date": "2026年08月15日",
-        "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BdlBPY29GandYQ2tYSTIxaVZnTmt3YzlDWERySl9sTzhoaHpfX21BZlZWM3FVTWVEQkVXWEphaGRSWExFa0U3dFpvMDl5ZENBbnRxVV9yZXZZVFV5M0RQdmZCNnNVd3ZUNkdtb0ZGMU5jbjl0eTlJ?oc=5"
       }
     ],
     "政策法规": [
       {
-        "id": 10,
+        "id": 9,
         "title": "介休市构建全域现代水网 清泉活水润泽介休城乡",
-        "source": "Sohu",
+        "source": "搜狐网",
         "pub_date": "2026年08月15日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
         "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXRaajFRZGxRZFlibWR2VTFmckF4d19BQ0xHanhsNzlVdkVCMGQwTGs4U0ZQMWtHeUd3RGZOZFllZ3lXbXU5dGp1dXFMeEhjY3RocVhZcC1HOTNDNU04SVVGa0dIeDdaWVMtWDRkekMxVHRscDRQaDJuVzNlNGVKYmc3TmRTU0hKSmo2Yg?oc=5"
       },
       {
-        "id": 11,
+        "id": 10,
         "title": "水安全保障看山西丨省水利厅召开水利领域中央资金项目谋划暨“十五五”水安全保障规划项目推进会",
-        "source": "Sohu",
+        "source": "搜狐网",
         "pub_date": "2026年08月15日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
         "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOamlDQ0pvMkJsajVNRlRFRmVEeWFESzZyWE9wMjdyNUpnZ2ZBLVpuTzkxS2FLbUYyRHlRaTNGUFpLMlAtc1AwbllZY3UyX05ON3BHMDZHZG9HT29lQVlmRG5EQ3RIdUFSeXA4dmZSbHJwWW5HTFE2S2lRWER2aFFGSFc2OXFuaUF0NDJWag?oc=5"
+      }
+    ],
+    "综合要闻": [
+      {
+        "id": 11,
+        "title": "​信宜粤海水务开展全国生态日系列宣传活动",
+        "source": "mm111.net",
+        "pub_date": "2026年08月15日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1abzFPOFpieGdBaGpfN2J2U3g4ZmxJLVdGWVphU3RQM09RbU1QTzZFdy1nWEJDdjFUTWsxYUtSclVIS2txUHhIY19xOFRRNFdYQ1l2NndhckNKTUU?oc=5"
       }
     ],
     "水资源管理": [
@@ -123,7 +125,7 @@
       {
         "id": 13,
         "title": "从“接得住”到“管得好”，乌当水务公司扎实推进乡村供水规范化治理",
-        "source": "Sohu",
+        "source": "搜狐网",
         "pub_date": "2026年08月15日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
@@ -142,12 +144,12 @@
       },
       {
         "id": 15,
-        "title": "我国生态环境近年成就几何？PM2.5降20%、水质优良率91.4%，蓝天碧水如何从新闻变为常态？",
-        "source": "新浪财经",
-        "pub_date": "2026年08月14日",
+        "title": "2026年上半年海珠河涌水质达Ⅳ类及以上比例达100%，创历年同期最好水平",
+        "source": "广州日报新花城",
+        "pub_date": "2026年08月15日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GX2o1bWZvazNmeVRQelI0VHVVNUdkTDN2cjJnS2lwc0lmZ1R4SXRWelBUUGR1b04tSS1GU0J2QVg3SHFqRGtwUV9VVWs1ZnZWcHZtODZJQXVKYTJQZkViZWUyNXRsNEMxRmRrMjZoNGRKaWI3d29sb2V3S01FQQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeldTUjFuQjRoLUVuVEF2aEpET0x0YjAxZ0kzak9ubE9kOFZvU0xkVFo3b3ZxYkh4YVlaSHBZOFJwTGtoRWhGRmc3RHh6MlQ2RWhzMVlKY1lxZkRoQXpEM1Zpa0sxMHVoWEp0a2k0OVp6d2N2YWJGd09BajZrbHI1UFZfeFVlclRhSVE?oc=5"
       }
     ]
   }
