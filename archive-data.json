@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026年08月17日",
+    "news_date": "2026年08月16日",
+    "update_time": "2026-08-17 00:00",
+    "total_news": 15,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部：太湖流域将发生流域性大洪水",
+          "source": "新浪财经",
+          "pub_date": "2026年08月16日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTUtCZnlZMTF3UkJhTGxXcHM0YWdHZmJEdjBGMTR5cUZjWU5jeHRlTGtpNTdkTGF1aXNmYVhBRmYyaHdINlVqSFZoM0FhdlBQODhCZWVvWWtpN2tpQmlrdENsMTJVSkpjcFNiNktOY0trLU5GSmNEX2hXWVhKSjYzNlkwQ2hhNk9XRkJtbE1KYlRKRXE3UEhqTA?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "水利部：全国52条河流仍维持超警",
+          "source": "chinanews.com.cn",
+          "pub_date": "2026年08月16日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82YTVzTUg2VGotdGZtSVAwVDZlcWliUmRjU21YQ3RvUlAyVHUwN2dpM2xnc1YyRHBzempRUzFfWkVGYmNCLUNiUTl6WUVKWHFiZjlxOGgzdGFZQWdPM3ltMGgwMk9pWG5n?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "闻“汛”而动！舞阳县企业防汛指挥所全力筑牢防汛安全屏障",
+          "source": "lhrb.com.cn",
+          "pub_date": "2026年08月16日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ld0Y1VTRscXRfeERMV21JNF81QzBDMG5qSzBKVWhyU3VBY0s2aFh5UDM0UzVoc0MzLVFpd2ZDSkx4S3V5b1NDR0Q4LWtRTmEtYnVBOUhyZGFFM3B0?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "浙江省水利厅调整水旱灾害防御应急响应至Ⅲ级（三级）",
+          "source": "川观新闻",
+          "pub_date": "2026年08月16日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxZ21jbjJiOGhjdnhTU0lYZWFjLVFyR2lXMXdteTYxQ1lsMF9WbVBTNHplVjNPRGNSb0NLSnI4VHg3aURFUDZwb1BoQmVCQQ?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "浙江调整水旱灾害防御应急响应至三级",
+          "source": "chinanews.com.cn",
+          "pub_date": "2026年08月16日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrUVdWWDNvWklOXzZlemNUaEhyeUFmYzdxRzNxdUdQc1hUUXg2c1VGdm5uTXFWZVd3RGFZdDRweGhMTkk1N3NBaDBIVGQwUG5sRVVUNzRwTW1UNExHdGVmSGxiYkpiSS1M?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "水利部和中国气象局联合发布橙色山洪灾害气象预警",
+          "source": "chinanews.com.cn",
+          "pub_date": "2026年08月16日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kdEJqdGRqal9QNUNSRmlhcU9IWGJDcWZiX0hQMmxNcnhQemctclhXWFpNRnB0eHotVnMwc0ZWM2Mwamt1SjZMbnhfd2FmUnIwQUFEaXlicWdqTm91OFNFVWkwQ2tnQVNh?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 7,
+          "title": "朱溪水库8月16日13时起放水，沿线请注意安全",
+          "source": "潮新闻客户端",
+          "pub_date": "2026年08月16日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsMDF1cjgxb1RXZFFYVmxxYnB2enRLazRpNHpGaWhTTkVJMGhhQ2tQUWxldHQ0MDFXWWpNd1NGemxaR0VaU083OWRKVXpvTFRETGRwUENSUEZ6VDVLMVpiU09EYmRsLU1CQjVZRjU4WkFFVTg?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "​保康20座水库平稳度汛，205公里灾毁公路恢复畅通- 湖北日报新闻客户端",
+          "source": "湖北日报传媒集团",
+          "pub_date": "2026年08月15日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CeS1ObVY4NHVRaHJuNUs4ZHdXN3FQUkZsZEFuNG9TbVJXUEptRVFESkpxa3JGcDJCUm1BT1JuSm5CNkFWTEJUSS1BeUNxWXYzdWVLSmpJbko?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 9,
+          "title": "介休市构建全域现代水网 清泉活水润泽介休城乡",
+          "source": "搜狐网",
+          "pub_date": "2026年08月15日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXRaajFRZGxRZFlibWR2VTFmckF4d19BQ0xHanhsNzlVdkVCMGQwTGs4U0ZQMWtHeUd3RGZOZFllZ3lXbXU5dGp1dXFMeEhjY3RocVhZcC1HOTNDNU04SVVGa0dIeDdaWVMtWDRkekMxVHRscDRQaDJuVzNlNGVKYmc3TmRTU0hKSmo2Yg?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "水安全保障看山西丨省水利厅召开水利领域中央资金项目谋划暨“十五五”水安全保障规划项目推进会",
+          "source": "搜狐网",
+          "pub_date": "2026年08月15日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOamlDQ0pvMkJsajVNRlRFRmVEeWFESzZyWE9wMjdyNUpnZ2ZBLVpuTzkxS2FLbUYyRHlRaTNGUFpLMlAtc1AwbllZY3UyX05ON3BHMDZHZG9HT29lQVlmRG5EQ3RIdUFSeXA4dmZSbHJwWW5HTFE2S2lRWER2aFFGSFc2OXFuaUF0NDJWag?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 11,
+          "title": "​信宜粤海水务开展全国生态日系列宣传活动",
+          "source": "mm111.net",
+          "pub_date": "2026年08月15日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1abzFPOFpieGdBaGpfN2J2U3g4ZmxJLVdGWVphU3RQM09RbU1QTzZFdy1nWEJDdjFUTWsxYUtSclVIS2txUHhIY19xOFRRNFdYQ1l2NndhckNKTUU?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 12,
+          "title": "重庆获最严格水资源考核“五连优”",
+          "source": "重庆市人民政府",
+          "pub_date": "2026年08月15日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80U1FWdk1YUWoxZGtuRDJhVFBZZUJ4ckJfX0ZfbkI4cjFPbkI0YUtSVUVfSDhoR1lfa2NQY3Rncm52Qjc3SG1mOENJQl9MazJHM09IZGxuMGtGZE53OFNZTk4zZEFVYzRCUl9RUXZtS3BDd2Qt?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "从“接得住”到“管得好”，乌当水务公司扎实推进乡村供水规范化治理",
+          "source": "搜狐网",
+          "pub_date": "2026年08月15日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUHlWYVpKb3hoR05XMW5NTGNxRjJQbkFQZ2dYVjlaVy1rMnFfMl9wemRaUTQ5QUFnbWxHbVFMTjAtdjVic1NhUGk5OG1GZ19ZQ3RMY2Nnb3QwSlRsOUkzZFcyb1VNRUpKdG1JMEdHTmFTM3ZZYnlQLWFBQmdZdGRPbWNOeFowcjdXV3Etdg?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 14,
+          "title": "《浙江省河湖长制规定》今起施行 释放了哪些“真管用”的信号？",
+          "source": "gongshunews.com",
+          "pub_date": "2026年08月15日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZNUxpZU5HQ3Jpem05OHJUSUQyVVR2bDQ1NmxRODgzQUdhTV9mdURMeHROYzF3NjV5RC1IYUx5a2RaY3JVMGJkTzVkNFFJUXdEVTk3N0hIY1kyTmkzbk1RYUdPNXN0TU00T2NCMnAwOEpQdlQ4R0E?oc=5"
+        },
+        {
+          "id": 15,
+          "title": "2026年上半年海珠河涌水质达Ⅳ类及以上比例达100%，创历年同期最好水平",
+          "source": "广州日报新花城",
+          "pub_date": "2026年08月15日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeldTUjFuQjRoLUVuVEF2aEpET0x0YjAxZ0kzak9ubE9kOFZvU0xkVFo3b3ZxYkh4YVlaSHBZOFJwTGtoRWhGRmc3RHh6MlQ2RWhzMVlKY1lxZkRoQXpEM1Zpa0sxMHVoWEp0a2k0OVp6d2N2YWJGd09BajZrbHI1UFZfeFVlclRhSVE?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年08月16日",
     "news_date": "2026年08月15日",
     "update_time": "2026-08-16 00:00",
