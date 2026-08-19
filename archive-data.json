@@ -1,5 +1,159 @@
 [
   {
+    "date": "2026年08月19日",
+    "news_date": "2026年08月18日",
+    "update_time": "2026-08-19 00:00",
+    "total_news": 15,
+    "category_count": 5,
+    "news": {
+      "综合要闻": [
+        {
+          "id": 1,
+          "title": "中国一冶集团被水利部门行政处罚6.3万元",
+          "source": "搜狐网",
+          "pub_date": "2026年08月18日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTDdVT1ZsM3ktTVRoZUstSkVzZ0ZkTDcxMHB6WXBZSkZkcmwyRHlNQVE3UW40SGJGVlZsZ19rNWVLZDdEVFRvRnpWMkVZVi1WNlJtdzRzVWgwamp0UmxKM0s0aGpwclRsOUt1SWNXOFBBOHVOV3B2c21Eeldva19icVBOWlp3S29uQVZMUw?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "专访水利部黄委专家：极端天气下，6万座淤地坝如何守住黄河安澜？",
+          "source": "thepaper.cn",
+          "pub_date": "2026年08月17日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UYlVFOFlkbFVvN0U3X1VYajVKYmpHOUUtSGZLbEJQeU5wMTNzRXVjdXJJUlJrU0swZWdUbVNNM2N0eExEbGhkUjV5QTdicXBSXzBZV3lRaVExclQxbU1Icw?oc=5"
+        }
+      ],
+      "防汛抗旱": [
+        {
+          "id": 3,
+          "title": "两部门再次预拨6000万元支持河南做好防汛应急抢险救灾工作",
+          "source": "新京报",
+          "pub_date": "2026年08月18日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kdjY3X0N1SFc1TGhTNWowVXJTOEViUnhuVHloOWo0dV9oSV9WOGFEVWlCT3VvS3UtVkF6WDFMcXlkTmJ4Qm0yaXJ0RTdEWmNFNUVialRjcXRDNVdLeDV5MXF5dFI?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "两部门再次预拨6000万元，支持河南做好防汛应急抢险救灾工作",
+          "source": "新浪财经",
+          "pub_date": "2026年08月18日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOWhlOUgzdW50R040S0dIN3B4UGtFRHEyak1FZnBxMU9SRTB6b1pjRWF1a0N5Y0pjRHoxb0tvcjYwN19WaDNkODhtWTZ1dGo3dDZDcmlTcUZqc3VSWkdCSDZ1LXZneC1kZnBEWWdTOVRsUmphRjRBdE0xWHRYTjRfMVRuV29iTUZ3UDl4WmxsQllLYzlldllBcnpxenlMYjJOZ2ZhYmZ0LWVMejRxVnZtaHF4b3I3cE1BMnVPTDl6VUdBeUFWdTdsSHYzTDFXaEVNNW5Qc0k5cEQ?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "中国两部门再预拨6000万元支持河南防汛应急抢险救灾",
+          "source": "chinanews.com.cn",
+          "pub_date": "2026年08月18日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LelBuODhfYkczaGcxMElDMlRiaWE2c2ZkRV9WRDJ5VTJuX3VKQVFMbkZjNHV1RDFmcENpMHllRzE4YVk1cVpFdk8ydDQ3TEpuZW9WeVNGbUcxY3d0a1hLdFdGYTUzVllD?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "群防群治·百日攻坚丨山洪避险知识送上门 重庆水利开展防灾知识进社区现场宣传活动",
+          "source": "华龙网",
+          "pub_date": "2026年08月18日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nVUtVdmtWOE9OMEpXR2NaUnhhWkQ5X2J3d3Q4cV9ZeFd5QXhKV24xZmRoX050czVHOE02c0w0Z1lCZERGLUZkRy1PVWVJVGhiYmJDb1ljQ3N6ZlBub05POHlnSWl0ODJCeXZn?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "四川启动四级防汛应急响应、洪水灾害防御四级响应 | 早读四川",
+          "source": "新浪财经",
+          "pub_date": "2026年08月18日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOXRiZ3IxdFRkMUVMak9ZWmVoaUMxT3FydFl4TnJwTkNqd0l3a29NWjdYMXZ6TUg0QlVWNEpVUzJUdE5HY1dWdzNMZDhQV2NwUVNjTmo4NUUteXFiWGU1SFVOQ25TTXoxY25lRnBwUWZsYVdpd2JSeWlyQlcyWTlWM0h4eGRCUnFaeE9iS09mMklFZlFGOVpydUpyUGJaSHRqNEhuZXVQVm4tLTBQRnhXWTVDaFlDcWRBNU9tTEpoUVlaUmNtSWRhelhTakxETzNBdTAxaTZtbw?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "广东加快水文现代化建设，全力保障大湾区水安全",
+          "source": "新浪财经",
+          "pub_date": "2026年08月18日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHE0bTlQTW5ia0hIZGNfTU1wTnI0RGRPNkswQ3FvbW1jWjl3ZHROaHdfTDFONHFicGJXaE1rZHFxdXFRczFlWnZYazNiZkJVWENZN0xXN0hRUm9MdExSMG42WGxhenFMajBhNXNjMGNqYlRSbHIxd3JMb3dFam04anNIR2VSZF90a0E0Z0lmeDN2elIzVUJKdw?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 9,
+          "title": "鄂苏探法，护水谋治 | 河海大学实践团赴湖北、江苏开展水利行政执法规范化调研",
+          "source": "中华网生活",
+          "pub_date": "2026年08月18日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3R0VxUkdpMmhja1hZUFVaNW9xNU1vNEY1bjlZVm14Z3NfbmQ4c2t1U1JtcEFaTzBlazIyMlBwbDZmQXNHRW1xSVBKbVJDbmZxQmY5eVNOOFJoMGRfVm41T2dndw?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "国家水网加速成型，微柏软件用电子档案为水利工程“留痕”",
+          "source": "中华网科技频道",
+          "pub_date": "2026年08月17日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1emNSdS00cG9uUU8tYW5PRWJlbUdTUWVVTnZvOGNfTzY1SFI2b214NlpQcng1MWZXYTNFalNLRklkdDRiODRfTmQ4YTRyWURSeTJxUU5Fenp0U3hITkNDYmxkOUs5bEhDNE1YZzd3?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 11,
+          "title": "农村自来水普及率达95.5% 江西多点发力筑牢农村饮水安全防线",
+          "source": "凤凰网江西",
+          "pub_date": "2026年08月18日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TdDQzZ0hSWEM2YzMzZ1ZKNkRSMmtuTVVDTElZU09hb1RtOE5FUjlfQ0hIX3BfSjlDRHlXUlZfeVM1UVJ2NG9HQnZB?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "守护农村饮水安全",
+          "source": "新浪财经",
+          "pub_date": "2026年08月18日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWR3QVdEQnVwOWJORUdFVUJ6akFtc0swSzNlb2NGalVsQkZseFJ4ZFNSaEF3SkxYdnVXaGpHQTBVZFBWekFzS1g5bDA3eTlwNGV5Tk5LRk9VUktUUFhXbWJzNUU0eW1zMFhVcGNVeTJFd0M4RXRQNWJtckp3OHBnSFRTM2ZPY0lWZ3o3Mk13NnJjY3E0SXptTA?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 13,
+          "title": "深化幸福河湖建设 推动生态价值转化再上新台阶",
+          "source": "fj.chinanews.com.cn",
+          "pub_date": "2026年08月18日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2dDI0VUs1RjJSZmJycDVkbWtGOFZkYzZGUEhZRFd3NllMTE5temQxOWxFakFRN0NjbUdUU0xTbTlmQzNEVTIzc1ZkLUJOWVpvQmxzU0ZyNlU1RlUxdjdDZ1A3Nl80VnZTdWRGZDZqejBhZw?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "杨浦建成3条美丽幸福河湖，就在家门口→",
+          "source": "搜狐网",
+          "pub_date": "2026年08月18日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMlg1dXZ1Ny0wSFFfcFE0VjNSdlNXOHdKbml2Q0xhUHYzcEZMVFhEdjJoR2djYUVNbTU3bzRNUUhjQ2F0NHpiZ0xFWF9XRVlUaG9jWGxoVDlRYkhzQ1hWbXVvb01QTm9PNlI0eXJQVl9yQVVvVDY5bUc0Y0NPYmpMQkpudEhuZ0hGYmhNOA?oc=5"
+        },
+        {
+          "id": 15,
+          "title": "治水固土绘新卷 万家坪小流域综合治理项目有序推进(图)",
+          "source": "tianshui.com.cn",
+          "pub_date": "2026年08月18日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0ZmhuN1RicnRLWlhnaW9Kd1I0eWEzLU1rTzQtajBodEhxMHU0WWpiVE5wWENIdmw2VWE4YjFsa0tGeEYwY1MxbDEzSzI5MG5fbXd6YmM3TXh3SWt5ZzdXMVUzekdjZmh0VDFV?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年08月18日",
     "news_date": "2026年08月17日",
     "update_time": "2026-08-18 00:00",
