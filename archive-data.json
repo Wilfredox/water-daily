@@ -1,5 +1,94 @@
 [
   {
+    "date": "2026年08月24日",
+    "news_date": "2026年08月23日",
+    "update_time": "2026-08-24 00:00",
+    "total_news": 8,
+    "category_count": 4,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "珠江防总将防汛防台风Ⅳ级应急响应提升至Ⅲ级",
+          "source": "chinanews.com.cn",
+          "pub_date": "2026年08月23日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xRWt0ZEd3RHN3Mllmc2lteFlibXRxTmZISWFNRnJaTnFXenE0d1RZYU5HWkNsSTdnWGpISmp5MHRNbFdXUktYNW4zbkg5cE9hdVJVWndtY3hlb091OEQ4UGFzZDZWdzFm?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "大连启动全市防汛四级应急响应",
+          "source": "手机新浪网",
+          "pub_date": "2026年08月23日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MOGdlZUdYcGIzb0RDWWZIRVFrSm8zRU5RR2hCQ2NoRDlsLWZBWW4xb3MzdnVTcEJ3TjJReXZzNGtwREZtSjI2R012NHVzX3VLbzgzN1dxYWg1dkRnOVlkRmZZQnd3X3RPOEhhXzFNSk43S1dfQ1RqU1JlZzVZQQ?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 3,
+          "title": "农田装上“智能水表” 乐清智慧灌溉年省120万立方米",
+          "source": "温州新闻网",
+          "pub_date": "2026年08月23日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DeVBLWTZMT0d2UXlzeVZEZ1J6cjhQN0Vrb1h6bTFjRXpYNm16X1cwYjRnTHFTU29VVkpUNzNNaHJFWXVNbWpTbXNHR1R1cWR5cExfcjRKbk5tRG8xTVY3cENLc0xsUQ?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "重庆渝宁水利水电开发有限责任公司获20年发电类电力业务许可证，水电运营资质落地",
+          "source": "新浪财经",
+          "pub_date": "2026年08月23日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1ZGcybFdveHN4ZG5fRzM0Q0U4Wm51NzY0WDdPc0lSVjFKdWhBVVlmeWQ4eGl2XzVwOTBuTXd5T05qdzdmOHAtNkF3QnFqYjdPbllHZm82RnpZVmVJaGRBeUxFLVR6Tko1Z1JyX2k1UVlSTnA4a29kZQ?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 5,
+          "title": "用科学智慧、科技力量，加快国家水网建设_手机新浪网",
+          "source": "新浪财经",
+          "pub_date": "2026年08月23日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNUFdrQlUyR1RDVmVhcGtaRmlSZURydTRNNzIybHEtUWlrWHRaTFU2Y0VybXZlbGlLbVNkb21NTF9lQ0d0SVVpSlFBeTM0MXpWZFZjdzJFS1V2TjBISWw3M1VaZ2VXSXl2amk4aXVTZFdzc1BBYjBST3FILXVpNmdKXzlmU3pRM3o3Y3N5cFEweHZhTDdRbFhfUTdyR0FVN3JRR2NnYzlpUmpIenY3NW9nT0gycG8wWFBMTE45TkFfUzBEMGxfSC0xSjNSNGRCNGlpUWdRaGZyZ2pVN053Zm16ZGJJNFljbllFamxBZER5WF80ZzQtR3ItOUxxYnNXRTJKM1o4MDZzd2Z5NzdZV3JIRlg1TjZIZk5ETEYtTVVhWHpFOUJIT2pjWXF3dmRtRlNySHBEU2VXNmg3R1dE?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "水法修订草案将二审，拟与生态环境法典做好衔接",
+          "source": "京报网",
+          "pub_date": "2026年08月22日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HNk1JWl9Hbm5Ya19TUm1sdkpuQWJVZ2JFRHhCZS02TEhDeDJCWjNvWW1aeEhjbDhTS3JhZzJPSGtRMjF5TjBLaVFIYW9LV2pFRlRsTXNfM3k2LWFJNFV1ckZGZHp3U28xNkYxY1M5QzcyUQ?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 7,
+          "title": "皖江工学院“溯源派河”实践团队赴肥西县调研水环境治理",
+          "source": "中华网",
+          "pub_date": "2026年08月22日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12YVhQQ0YxQlozbnQtbV95cXphb19zVHV6RXBheGVXci1pNkhVR2JPZWhEQTRWLUJsaHBTM1JJNDNmc3N6dC1veVF2LUs0bTIxNTJKdTNLSDJDSF84Snc?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "珠江水生态保护与修复系列成果发布，流域健康及以上等级河湖占比达85%",
+          "source": "搜狐网",
+          "pub_date": "2026年08月22日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNnRqTVFUNERlUjlza3lMbnFDc0c1d2FMRTd1eUJrWWNuWHhReVY0cWMxaGhTd2g1RmpZc1NwWExGY1lSemQ1OTI1NlJ4bjJNS3ZsQkFHNHYtUUFVNTUyMWp5d09Hd25zREVscWFUMWNfX2F6VkpFQl9DSk40TUxHbWx3VDUwQ1c0b3ZQWA?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年08月23日",
     "news_date": "2026年08月22日",
     "update_time": "2026-08-23 00:00",
