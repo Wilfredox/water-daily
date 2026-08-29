@@ -1,118 +1,82 @@
 {
-  "date": "2026年08月29日",
-  "news_date": "2026年08月28日",
-  "update_time": "2026-08-29 00:00",
-  "total_news": 16,
-  "category_count": 6,
+  "date": "2026年08月30日",
+  "news_date": "2026年08月29日",
+  "update_time": "2026-08-30 00:00",
+  "total_news": 9,
+  "category_count": 4,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "水利部调度水利工程应对台风“沙德尔”影响",
-        "source": "央广网",
-        "pub_date": "2026年08月28日",
+        "title": "水利部和中国气象局联合发布红色山洪灾害气象预警",
+        "source": "chinanews.com.cn",
+        "pub_date": "2026年08月29日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ua3NzcWZHTGhNcFgyVk12Ym9mVEQ1SU91Zkc0UjQtTUlHb25qWGZWMkFGOE5wS3FCNE5leTh3SmhncU95MHl1Q3VkTUhXeEtpLXNrT3ZadGdfTWprbVdleTQ3RzdFazgyQlVVRVkzNzN4dw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQaXdOWUVERVZXbk5MQVAzX1RUa0dGM2luci00VUpZcGxqMlNRdXNPQzJHZFFEMnZvUk9uTi0zT3VoRzBVUzMyZjA5TVZJaFVMcEgzTFQ4Wmp6c3c2dV8yekJ0RzU1cVpH?oc=5"
       },
       {
         "id": 2,
-        "title": "两部门紧急拨付1.5亿元 支持浙闽桂3省（区）做好防汛防台风应急抢险救灾工作",
-        "source": "新京报",
-        "pub_date": "2026年08月28日",
+        "title": "水利部持续部署吉隆县泥石流灾害抢险救援工作",
+        "source": "新浪财经",
+        "pub_date": "2026年08月29日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxd2ZGaWNnT3FIXzNhbUhsMHEtUTJ6Yl9CaFlfMktGTXlPWG9aaTdraEZQbWxlYTktb3B3bkswcGM0cWc1WkJXTUw4WEZ2Q092dC0tWmVKajF0bWs3UXN5cjRFNVA?oc=5"
-      },
-      {
-        "id": 3,
-        "title": "两部门紧急拨付1.5亿元支持浙闽桂防汛防台风抢险救灾",
-        "source": "thepaper.cn",
-        "pub_date": "2026年08月28日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55VXFHUll6d254Q3Z4X3YwdjR1bWF1WjhlWlhMeXVKc3FzWUV1LVlGaWl1eENZaTlocHp3VkNnbmRjd0pqYTFqRjFyTi1oa2dObkRrZG5rYWlWa2ZGM1JTcQ?oc=5"
-      },
-      {
-        "id": 4,
-        "title": "天生桥二级水电站今年汛期首次泄洪安全平稳完成",
-        "source": "中国科技网",
-        "pub_date": "2026年08月28日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zaS1lSmlBTmJuRTl5V0lSUHFjS1loUmRDRmtldjRuZ0VVMHdXZmVBN3FUNkVBY1NLT1ZNbGpvR1FBRzRlZzRVZWQ2VEdsdWt3Z3dQcktMbEZlVVVjVUl1RUpzX1FDTVNWclRWYy0tRWY?oc=5"
-      },
-      {
-        "id": 5,
-        "title": "天生桥二级水电站今年汛期首次泄洪安全完成",
-        "source": "央广网",
-        "pub_date": "2026年08月28日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41Sms4S0k3NUQtTEhTbzdLV2xTUmJCVXdmcEt3TmJQQVZXSUMzdm5lTnRGYmN2ZVRZVF9xSXRvTnF1WXp3OWtYM3ZsUGRTWnpYQUJ6M1RmcHcwWnlFVnZmbVFtWGJCY3RXS1QtLW9RT18?oc=5"
-      },
-      {
-        "id": 6,
-        "title": "国家发改委答澎湃：全面推进大江大河大湖堤防达标建设，形成完整闭合防洪保护圈",
-        "source": "thepaper.cn",
-        "pub_date": "2026年08月28日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hM01TU1VFdVE3WjRGY0t0eXhaZGRkVmpOd1diaUlxa3FHTDJfTzM1R05abDA4OUVVZEIzaGxQTFFKc0pNMXBiVlM1NGtFY0ZpY3dqdVBMWGs0SzVrUlpnaw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVFNXM194bVJyMnNOcWpsMi1nRDk5T3B6QXVHYU0td2p0S0NWSnFBSVhkb2hrZjBZWHJKc2diMmFuREhLM0NsTHA1UlN5YzhBcGN2MXNxWTN3V1M4T29uU0g5UGd0VkswN3V1Ym1kNkU3bVY5eExFQnVpMDFPTEZZdy1SNmtfLWVRTDdhYW90Um00Nms?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 7,
-        "title": "水润万家惠民生 宣汉城乡水务一体化让群众喝上放心水",
-        "source": "四川在线",
-        "pub_date": "2026年08月28日",
+        "id": 3,
+        "title": "视频丨西藏吉隆堰塞湖部分区域已见底 水利部研判最新情况",
+        "source": "新京报",
+        "pub_date": "2026年08月29日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmZkZVTXBUSW5sS1kyS1pGcS1kSnRvX01KV2p6WDhWZ0E0dWY3UE14ZWZlOXdHZGh4X3hWNWVMLXhhODRYRzFmZF9sak04S1ZpektxNF9iamh4Tzk2TERvdlZVTmc?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpVExtNG03MlR5NGxrRkROa2J1dkJYeGlrMl96T3g1ZnNfRm9SZkt6VW0tQ3BCWjRlM3BpZ0dJSC1BUDZTeTJLbmF4MVdwekI3WFczZVF3MnB6b0t3bndaWFpJMlM?oc=5"
       },
       {
-        "id": 8,
-        "title": "水利部：普热普强藏布堰塞湖水面面积比昨日减少 影像对比→",
-        "source": "欧洲头条",
-        "pub_date": "2026年08月28日",
+        "id": 4,
+        "title": "水利部部署普热普强藏布堰塞湖险情处置水利支持工作",
+        "source": "新浪财经",
+        "pub_date": "2026年08月29日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOemRpbG51c1R0bnJJSjhFbGlRWVhsWDRBdG1tNXAzZE94WEpiRWZKd0lNRTEwSjZCY05yV0ZQX21vXzFNNkZSNTYzUzFqQlFXNHYwVWtCVlhsWUZtbmVLeTdtdGdCNnF5SWV6U2Z6b1pnUVFFQlNidXg1MXRKMEZGaGRwb1p0QW15c29uWV9vWHA3WmVYaFJqUTFjREpHYTVWZ0dOSW4yQjhhR0U1SmlZSk04dmcycmxSdmRBNnZwVk5IM0VfcWRxejZQOXo3bUxJdEZQTm1uaWIwQQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMikglBVV95cUxNLWxYMVpEN1RYNkdGOVV6cmxCbDVXWjVBSFo1UkNyYzB3eUNTemk1MTJBM3IxYmFEbWNKTExSTkxzbHlZeGY1cGtCQ3RubzRqbmlNOVRDX3JYNE5ERUIwTEhjbkNOWmplVHcyM056V3Z6enExVGVZUHVadk9mWUhaSGNKczNpQTVlaUJKOG1VS3BPNnZidGg5eXBjcE5xaWQtbmp0RmwtUXNPLS1mVFFwSUxneFNudE9LSl9qY0h5aGRWc05qSi1CTVB3SlFfeWNhb3BHX2hCeHNYX19rRjdfSHI2ejFwTnJueEtTSm84M2ZjYjBjd090Y21scWdjdGFwWGdPcVg5OXZHcU9palFtUVZHeEgtMXpuaHRyS2hINXA1eW44Nm1BZUFvUnB3aFVwSV9ZVUFrRXBvVmZJNkdtdTVwTnk1bEtsQ1lzaXNpTDRVNWZnUUozbk1QeVVZUjYtR2hDMkx3OVQxLWxWVy1oeFVNcUNtMXk4eUVVQlh2NHBGSGZYcHI5eWxNWnhXWHdnb0EtQ24ydDlBVWFZcVExRmhCak12dlpCQnJHN3N0aFJVOE9zY2NxMDRFUktIY25ITXJ4MDZSaFZ3X0lETUFKUzBaOTV5bnVzT0ZWb1FWMlM1TklmWTJHOGx1LXdKR1JxVzdnQUtCd2l3VE0tWDkxVTMzeEFTS2dVTHlnUTd0Nl85bUNqbk10SGp1YmNudGNjVjlwUWlwQWEwRUxHUXVjS1E5Ym1fdENWNWVHUEdWYm1MbXg0ckhTb213TGRSTUFsU3pSOFU0emhwQjB6OEZKcXpXVWhLVjQyNks4WmhDS2t5a2x6UU9RN1lUNmFLeURONGtBYm54RzlUd29COUMyZGFoOGZSX3M3Vm1lMFlPbXVfSjI1WHhPSXZJcmZ2cVVFYTB0UEFDcDFlUE9xY20xLVpndHd6dEIwenlyaWc1RHFvSEhvMXJlZk1RUlhxcHgzWVNqRk03cFRLM3h0VjV4aG1fMGZsQ2MxRDNicS10aUxqWTlvSy1scFBYT01DaWhWNkpLVFVEUnpYbW1nWHY1aWhvbEwxRTNCMlFCY24wUkdJcXoyNTBzNjVSUGxvRGZ2RWxyaW52dGg2ZUhhaVBvQUhabGoxckhMclN1WVVCZGszUldQV1YzdWZkQVZBTWppVUI3cGxwYlk0THdSN094QUxmXzl3a0FiTXRCb2hmTExNUEJhZzNTcDZVNXZkclp0dkhaM2RnSHQydlNQd2Zyekc3bmtmLVU2UktCMnVmSVV5b2pXTjZ6VkRDdmxoZEhjS3FZeGx5NlFxUTBOLTNoY090N0tVUDhHLU5WYm5GQlhGdTVPZ3RvZjFEaHM2ejBQRVI5bjIxdl9YaUNuV3pPcExqMWZpVlVGSlplYlRPWWYxelJVZ3Nxd3lxenFQZ09IbGxuWGM0aHNJaGJ5OTBNQ1R4ZUxUM0NNWWtiN0dIcVF5V3dSLXFjbHRyT2pWSEF0MXlrUGo4bEE3bGJrODF2LUExU2tUX1dQRjkwcTJDMVJvemRja2V4QlFkeVREZjBWUUE?oc=5"
+      },
+      {
+        "id": 5,
+        "title": "市水利局举办2026年全市水利系统行政执法培训班",
+        "source": "九江新闻网",
+        "pub_date": "2026年08月29日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2SW1HWmFWTlFCazZPaTlKdUptOE9xakVOLWN3OVluZjNMMWxGZzh1MEY1SFlYQURGYmpOWk4xU01Xb29CWDlhRlI5RGxubW1fUVVmdC1KMXhkbHhyX3Nr?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 9,
+        "id": 6,
+        "title": "甘肃省推动水资源更高水平节约集约利用",
+        "source": "新浪财经",
+        "pub_date": "2026年08月29日",
+        "content": "",
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxQUXhydUFpWXVIOHdqalNNMHpNOS1tSVNGcUdINDhmcmZ1REg4a2dkSGFQZVh6QW5YQ2pRTGlyeUhvQ042eldRZ3MteXk2UXBKVHlGYVo5aUZqbXlMOE8xdnEtX21uNGNSUDliYm1NaVpkZGI2MGVsemhUYWUxVkZ0aFFKcU5veE9tckNmZV9ua3Q3MTVGeWpHeWVncU9oem16dTRBVlVxei10OVEzMnhtWUUxQUN1MnVDQ0ZrUlFtVWdwZ25HTUZxYVhvcUhSVTdiOFB1a2Z4LVNMTTFsd2M4ZDRUV3BTSHpEU19kX1FkNUttTGc1Q0VoRVNobkZHUmMtNlU3SGVEWHRCWWh2V1BRbnRaZnhjYURMaFBzaGxsb1FTand6MlhGUWk4alpiblNuRE9XZ0hhQmxCLXFzMmZiSjdDS3UyYXlkdFFjMHMtQkc5akZpNk1iZjIzcGtWbm5QeEZhT3A1cTNUWk5nTHJjdFNrRmI3dlVVa19PQUNsb3RWNXJ4b0VrYk9HV2V0TmppcGJXLUpkc1c4T0pIclgzQ0w5YWd2RHpwMDJDdmtTbnphbjlqWm5hMXh0LWhjak9iZGw4NV8zekw5ekhFX3RsaFhJSndaU2ZhOENLc0I0cXN3dHBqODdWeDg4c0J4LUMxdkhRVg?oc=5"
+      },
+      {
+        "id": 7,
         "title": "水法修订草案二审：拟完善与用水户承受能力相适应的水价形成机制",
         "source": "新京报",
         "pub_date": "2026年08月28日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
         "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EZFhOLUxJQkxqMVFBdzc4Y1psSks3TDM1TVlLdHI2ZkptTldXSFQ2dUQySWg3VHZfeUVhT0NVd0dSeDEybl9XVXhzRllkT2dfWDhnTjZheDZySGliN2JOcW5hSnE?oc=5"
-      },
-      {
-        "id": 10,
-        "title": "莆田城厢区多部门联合开展农村饮水水质巡检- 综合资讯",
-        "source": "莆田新闻",
-        "pub_date": "2026年08月28日",
-        "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ya2djSkdpcmZSTTVyYzBLRzBsR01rdUdvNlM1VmtON1kyWkpQa2NZOUlCekZBYk5ZMjZnMTZMX3ZDX1FCU1dNUkpjdmNHZ3F5Q0ZfcVlTeVdNMGo3bFViSEFxYlk?oc=5"
-      },
-      {
-        "id": 11,
-        "title": "治水兴水七十载 水润民生启新程——临夏州用心答好饮水安全民生卷",
-        "source": "每日甘肃网",
-        "pub_date": "2026年08月28日",
-        "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DQkUxSmdyQ2lFdGtiNWY3MllIR2VQb3hDYkNQWnRsRmFGYnRqVF9IeHJpbnIzLTZGSG5SYU5SeVRMYkNTYmZiaEppcURvbGtubHMyTmdTcDI1RWRlTEhpN0lHWTFmcWZxMnQ4UXhLTXpaUzg?oc=5"
       }
     ],
     "水利工程": [
       {
-        "id": 12,
+        "id": 8,
         "title": "国家发改委：系统推动老旧水库改造提升 增强水库大坝安全韧性",
         "source": "华商网",
         "pub_date": "2026年08月28日",
@@ -121,44 +85,13 @@
         "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aUUJpd1BoTTA5THN1aF9XbENGczVrcnpGZnJsdWpTbk5RaUNDS0VSVzVSZTBwNW9YSWd1QUFVdFd1UlljSHA3U3l2NmlUZkItc05jRkZxeTAtLV9NcTRJ?oc=5"
       },
       {
-        "id": 13,
+        "id": 9,
         "title": "陈飞赴岳阳县联系走访省人大代表时强调：补齐灌溉水系短板 加快高标准农田建设 夯实粮食安全根基",
         "source": "搜狐网",
         "pub_date": "2026年08月28日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
         "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVkxyMzI0SVBFRG5sTi01Z0ZicE9QcTJKVjgycUN4bHBENHZsRjg4QzlvSTFtaWg2V09PV1dmQW9OdjdQdEZ2dDctX2UxdWFkTVJGZmZReWVKU251VERpTkg3N1RNcmNucUtzMmNhdWZ3czRpaXB0WjVzczdwdW5GU0laRnVMWjZGbHh0cg?oc=5"
-      }
-    ],
-    "政策法规": [
-      {
-        "id": 14,
-        "title": "三部门下达农业防灾减灾和水利救灾资金21.54亿元",
-        "source": "新浪新闻_手机新浪网",
-        "pub_date": "2026年08月27日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiggVBVV95cUxPSGlya1RHb1NjOGFEV1E3QmNZX2ZhbEh2S3JMc2dhZmtjYXZIam5zLTVtanRhd20xWUtudzNrTWRSZjVvelhxYldFbWhPRWRNRm84SUJJR3llWFIzdE5vTkdwZjQ0Z2FhTHpDNmZYb25scEtuWWtUTTRmaU1XZTZGa2ZBVm9Pby1xUnMycUVXMzZHYXBMaVh1MFc0SXBSSmhCQmlPTVV4QnB5NUVJb292cnVIYWN3S0dWTVM1TU55VTdyMDF1TmNWWmlGMzU5MUtwakEyZDUtVm1NVmhfYm5HTUszWnNyZEN1OTlERER5Z094TkpyeFFaV0pHd3ctSllrMk5ZSDRhVWVTc3BNYmI2UkFWeGktX0JQQUh4RGZrTDNGYzhYa1oxTGlYU0t3U1E2Q2xOYmx5Y19BMV8yVlJ6WGFPZXM4NTJzX0h4MWRYZU5oU3BiMUwteU94TnFxenlhMDl5ODJYalZGbkJqT3ItOTlBX2YzQWFrZXQ4M3JWekV3U3BjZk1vSXRHQXNJQlRQRWdMM1p5ek45V3BQWnBMR0dKV0dzR3hySnVqSmNDaS1kNEItUUNnRXUwTEZyeVRqVG45dG13MVk2Mm9iN0FOcktLblZsaENFcXBSZjVGeDA3TFl6bnV1ZkNkZ1gzVUFfUHBJYmhpUl9va0d3aE41WUtrdHdMdUh6Tkg5eFRpcEJfcGtJX3Vtd0Z1M19IYmwtMkVZQUx0a2ZDdW1aMG8zYVp2Zk1LZDVvUlh1UFBVM3BmOVdwNERDVGNQQUdMRkVRMGgwSWhmWEVPTklNQk92S01LQUlfTk10b19iNU85Mjhid2ZOOXk1WTExR1dFcXh1Mmc?oc=5"
-      },
-      {
-        "id": 15,
-        "title": "深水规院2026年半年报：受益水网建设政策，公司实现扭亏为盈",
-        "source": "东方财富",
-        "pub_date": "2026年08月27日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90c3ctYThiOW9DdjEtS0xlaWxCOUR1aThjbEpKZUhoa09ZMVJJcExFNWVFV3ZoQ1BZdldFazA0Ym1ZS1dibElBRFVGUUNCVF9HUDJQNTBSRTBjcWJhS0FzdQ?oc=5"
-      }
-    ],
-    "水生态环境": [
-      {
-        "id": 16,
-        "title": "幸福河湖海｜一城碧水润民心 两岸清流惠民生",
-        "source": "搜狐网",
-        "pub_date": "2026年08月27日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSEFoY2dzcEdSQ1k5dWtTWEZzLWhmYUJjWThmU3NxNEZFSHMtc3l5ZmRwWF9RTTZocW5hWDFMVzRqdjQtcjZIWWZ6Sld6MVMycUxuUEpMRmJRa1BXeGxkTGY5ckhVcDU4UFBQUWdIak9QSTIzVTdMVE5hQTVzaGJWYzVwM21wSTFOM2Exeg?oc=5"
       }
     ]
   }
