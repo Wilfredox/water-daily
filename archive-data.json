@@ -1,5 +1,105 @@
 [
   {
+    "date": "2026年09月01日",
+    "news_date": "2026年08月31日",
+    "update_time": "2026-09-01 00:00",
+    "total_news": 9,
+    "category_count": 5,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "四川省水利厅：将冰湖风险防范纳入水旱灾害防御体系",
+          "source": "京报网",
+          "pub_date": "2026年08月31日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfSWE5a1RPU1JwdVhPM05MVG9Td0s1bUlSdEl2ZE1DYzIwTTR3MWVwMGxLM05haTczWGZLajViNmt0OVpncXhLU0ZwdVdQalRlcHNJLXFIQzBkbEZLelE?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "注意！今日11时30分起，萍乡市山口岩水库开始泄洪",
+          "source": "凤凰网江西",
+          "pub_date": "2026年08月31日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UTjBTNkw0NHF2ekMyalNQTjBWdFJGZThYanZ0MzNXRm11ZWJYOVRCc2ZwWk9zVXdNSWtqajZueGY0aEpwb0o1YVJ3?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 3,
+          "title": "水利部：尼泊尔错坚河冲击坑周边冰川仍有崩落可能",
+          "source": "新京报",
+          "pub_date": "2026年08月31日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Rcm1CSV9ZV1p3VHNDWE5IZ3FVdzh1UTZ2MTQxbjBxUldmcTMtY2hIV1JZeVNFb3FuTkh6dUJRNWRBUGh2MXFDNWhIZXlEYmtiM19RbXJqWW9RNDdmMG1pcGt3LXo?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "水利水电学院赴西藏多地开展校地产学研交流合作",
+          "source": "四川农业大学新闻网",
+          "pub_date": "2026年08月31日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IMFJFOE1UT3BQMy1VZTZTRTZwZVp5TjNhdV8tNEs3emFDeF9iVkx4WDJPZWpNSUFQVU0tM0tuZndwUXN5S2pkNU9Hd0ZPaVRhZk1qVHIzald2QQ?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 5,
+          "title": "聚焦供水产业改革，40余家水司共探全链条韧性升级之路",
+          "source": "中国科技网",
+          "pub_date": "2026年08月31日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9USEE5VGFQd0J1RFJ4eXFITHZCN3A5Uk9za3gybTZCb1F3MDFCVFdXQ203N21SY01KdkNYeGpfVkxiUTRIYTZEVEY4S1Awd3BJT0FnWF9OOFRsUk1mUHhkSWU5cHAyVVhWblBoRFlLdVM?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "到2025年，深圳城市用水效率将跻身国际先进行列，形成人水城共融共生的绿色发展模式，建成节水典范城市。",
+          "source": "content.foshanplus.com",
+          "pub_date": "2026年08月30日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Gb0dsZWp5MjFyVDdDdXp6ek5VZmNOOGd6QzFCcksxNkVfVWgtTnFneTdCTXlFRkc1aWZJeGE0cFl4VDI5TlE5WGkzQXIwcnBoZFZ2OExCak9MbkpqbERKVlFxYUFyNGJkTzRvTXltTk1HZ2d5TGc?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 7,
+          "title": "烟台河道治理跑出“加速度”，治理重点河段40公里",
+          "source": "凤凰网山东",
+          "pub_date": "2026年08月31日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8xSG1lZ2gya1puVV9QOE1zUjdHLTZrRWZTMVBTUnJYcDMtZUREbU1WLWFpTDhJVDdsTmt0eUJNY3pXSnBWcXZ0bVd3?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "厦门上李水库建成百年 华侨兴水工程变身文旅新地标",
+          "source": "azchinesenews1.com",
+          "pub_date": "2026年08月31日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNem05VTFsNnRSYzJ2c3daVW9QVWljX2w5ZWtTZ1N5Q3Y3eUhjYThjUlk2SDRzaVZscUVpRkVCNU9ZX2RqWndNVVZPcXhJN3p2VVpzRzQ2YVVzajFrODZqeGRYZVVOODdSN3BXWThGTkNGaVBPWERIOXdkQVlvLWgzei10Mm1RSVlISlN0aA?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 9,
+          "title": "山西以“河湖长+”协同管护擦亮三晋幸福河湖生态名片",
+          "source": "新浪网",
+          "pub_date": "2026年08月31日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5td3oyaTRxZDRlT0dQVHg2bHJHeFBrMmdRYTY5aVRaV0RhY190UmJWaUxYOUlER1V4d2l6aUg3YlZLMkJwM1FaNmRnRHZLMWM3SEFudzJmc2VGWk45c2cwU0NQa3pIYWVGYWRsam1BenUya2dxVGRyT3J4TmtDZ3c?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年08月31日",
     "news_date": "2026年08月30日",
     "update_time": "2026-08-31 00:00",
