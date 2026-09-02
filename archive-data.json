@@ -1,5 +1,152 @@
 [
   {
+    "date": "2026年09月02日",
+    "news_date": "2026年09月01日",
+    "update_time": "2026-09-02 00:00",
+    "total_news": 14,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "江西：台风 “沙德尔” 带来强降雨 水库泄洪腾库迎洪",
+          "source": "Sohu",
+          "pub_date": "2026年09月01日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWVd3ZGJCc1pOVHpHOVRBcV9MSHdnUE81SnBqX19WbGxRSV9LQk93STc4elRPTU54ZkJzRUp0anhqZkZnUHZxSnRoal9zU2xGWVpQa0V6MTYyNE5td0dCNzVwR18za2NDSVFzdU5zZGlyTUtJZkd4UHpRU25tSE5yeXkzTWpobGRi?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "水利部和中国气象局9月1日18时联合发布橙色山洪灾害气象预警",
+          "source": "欧洲头条",
+          "pub_date": "2026年09月01日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZUIyam9FcWZVYXRuenJ4bmhEVnFMd0NSbG1HZll5UWFYWllJS3ZLbHl3QWtpaFBIMlNJTExNR1hZWk1oUUp0VGt2cVhOOWJ5RnppYm5MQmdSWVZXdjN5cUVRbVV6cFZUSGJUVHJJbGlSVHVHN09ua3hrWFJ1Wll1eDBuRlVjOUlXLTJSREc2aGhtTTlyTHA2blhqTHJ0dHBCVTEwZ2lrdlNJUXJvOEVWOGlLMHJPZV9KR01wZ1FtQ2Z0M3pzcWV4ZnNGYnhvU0lKWjg4OWxsSkNkNXlLVXF6Tw?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 3,
+          "title": "【图解】8月31日省政府常务会议：研究部署防灾减灾、当前经济重点工作、水利现代化建设、推进“金芙蓉”跃升行动等",
+          "source": "hunan.gov.cn",
+          "pub_date": "2026年09月01日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzNF9lODNCVmFZVEhzdmdzLVZzM3Bpb0k4anlCV01jLXpiVTJsRk40cWdjY01VUUthbWxOdTVsaU1BbUhramNCU05CTUw0eGRaZmpsRVFWcGU4OVZVeXgwMkhGOE43NERaMWhsZksxWFBkQkFkOXlxRUpSLTU?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "兵团水利系统聚焦民生办实事",
+          "source": "Sohu",
+          "pub_date": "2026年09月01日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQVNpTHlZLXRrVVlvUS1ac1FmSXl2cERwQ2g5RmNoTkgtVzl2dm1TYWlHZG5Dd3p2UzlJQ3Z2bDVOZ3d3ak9vT29wWFN5NVhwQjdSVnV3NkhJOUZ0RkNNaGtNM0w3UjdRWE9yV0FhUzZhblF1THZObGZoTFFiWkRJSzhSeXNWdVVrSUh3Yg?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "无棣县润禹水务集团：“三维赋能”强党建 实干兴水惠民生",
+          "source": "Sohu",
+          "pub_date": "2026年09月01日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVjFMRkhFeFZzR3NqYXFVOTJ3QnNQVDJ1QURKZnFQMFRseTYzS0NVUk00bzBBc1NEQ3k0aVVFT1ZXbGpnZmFQdUVmVVdQdVhmZ1o3MWNwREpDTTJxdkJsbnJLZHhZWTdIVzJ4dkI2eXM4SDZXTXhXdlVrSkJweGFKVzIxSVRZMDJHTjlzTg?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "南网储能广州启安众智公司与华北电力大学水利与水电工程学院达成战略合作",
+          "source": "gdshe.org",
+          "pub_date": "2026年09月01日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDZ0t1QjhaQlRBaUFrLUJyOVNDVUpDWHJ4VlhDcVBrRDQ1aXhRTTdRd2tkRDl1VjFEZFBuRVlWYjZxN01uR1NJd1hucGZsMnNsN2c?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 7,
+          "title": "“一泓清水”背后的江苏智慧，看南水北调如何越调越“聪明”",
+          "source": "Sohu",
+          "pub_date": "2026年09月01日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUc1RjZudW9vcFVMNzJwNkQ5dHc1eUVkLVJMeWw1V2VvcHdGa0pReWhTVjl6cDJZamxQZ21jR2owYXJ5enljMU1GXzJVNHd4ZDZ0SFAtTXhJUWQyODhaMDBnaGhHOEJCV0FxNVZmRk5MSDl0QXkzeGhSWEVjS2tVUFd4NkNsQzVlTXJ2Ng?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "四川实现“国考”四连优 水资源管理“优等生”的进阶路丨水润蜀乡",
+          "source": "sichuan.scol.com.cn",
+          "pub_date": "2026年09月01日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56eGYyMFVjbzg5eVY3RVdIbU9wUGNReXpuc3ZRQWZWWWRRSXZIam5xUV81R0liUjZoNWJ4M0F4bEFTVk85WXhKZ3ZZYU5FLWFPNjhOWmh2TjEybmJGTzBWdTBXOA?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "三年，江西如何破解地下水治理难题？",
+          "source": "chinawater.com.cn",
+          "pub_date": "2026年09月01日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EblVmQUtsVjFpVFotTmxJbXgzX1A0MnZFSVBlUE5NRmpQZUlaSkZWalhUMnVGdnJJZDgycWZXTVRHckVOcUtMUGhWUG5aaTV4Wm9wVm9EWE9hR0swcFpLVDFjZ1pLQ1EyRnljLXYxWXVrQQ?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 10,
+          "title": "烟台河道治理跑出“加速度”，治理重点河段40公里",
+          "source": "凤凰网山东",
+          "pub_date": "2026年08月31日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8xSG1lZ2gya1puVV9QOE1zUjdHLTZrRWZTMVBTUnJYcDMtZUREbU1WLWFpTDhJVDdsTmt0eUJNY3pXSnBWcXZ0bVd3?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "厦门上李水库建成百年 华侨兴水工程变身文旅新地标",
+          "source": "azchinesenews1.com",
+          "pub_date": "2026年08月31日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNem05VTFsNnRSYzJ2c3daVW9QVWljX2w5ZWtTZ1N5Q3Y3eUhjYThjUlk2SDRzaVZscUVpRkVCNU9ZX2RqWndNVVZPcXhJN3p2VVpzRzQ2YVVzajFrODZqeGRYZVVOODdSN3BXWThGTkNGaVBPWERIOXdkQVlvLWgzei10Mm1RSVlISlN0aA?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 12,
+          "title": "从冶金到治水：中国中冶如何跨界水网建设丨“六张网”新机遇 上市公司在行动",
+          "source": "新浪财经",
+          "pub_date": "2026年09月01日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jN2hoQ1RxRGhRbUV6SE45bFZRM3FPYktVdFBGQkdDWDdsTDJ5WnBKa2tCeFhwcHVNR3JUbk9uMldNQ3ltNmxtYVZKbldMZEJPNU1rQ1JYXzFYVUpaSFVvcFUxUmhrNEoydEU3YzZnZkVmZ2tFalE?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 13,
+          "title": "长沙县：十年治水，河湖蝶变",
+          "source": "Sohu",
+          "pub_date": "2026年09月01日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMU52LVJBdmxCdWR1Y09jdFo1Uzh4R3VMNlpQdGttdDBOR2djdnd2bmtrelNYNFotbm0zdV8zRnZWa2d4XzlWTnRNUExiSm9aNDNqeWQ2Z21CNVFkVUlSeXJzX3ZOZFR1dUpJUXJlMTM5aGxOR2VIZ0taSWttcE9uMmF0TEJBczJE?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "山西以“河湖长+”协同管护擦亮三晋幸福河湖生态名片",
+          "source": "新浪网",
+          "pub_date": "2026年08月31日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5td3oyaTRxZDRlT0dQVHg2bHJHeFBrMmdRYTY5aVRaV0RhY190UmJWaUxYOUlER1V4d2l6aUg3YlZLMkJwM1FaNmRnRHZLMWM3SEFudzJmc2VGWk45c2cwU0NQa3pIYWVGYWRsam1BenUya2dxVGRyT3J4TmtDZ3c?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年09月01日",
     "news_date": "2026年08月31日",
     "update_time": "2026-09-01 00:00",
