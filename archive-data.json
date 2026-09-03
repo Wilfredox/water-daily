@@ -1,5 +1,116 @@
 [
   {
+    "date": "2026年09月03日",
+    "news_date": "2026年09月02日",
+    "update_time": "2026-09-03 00:00",
+    "total_news": 10,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "浙江温州提升防汛应急响应为Ⅰ级",
+          "source": "京报网",
+          "pub_date": "2026年09月02日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44dGJaek55NFlaQmgxaUgwVC1WeXRxY3BSaDZtblUzNzBHVVlSUkJvbTljdGVveEpFd0U3MjBFLUFENjBvc3NxY3FXUm9JQUtOc09MRjhCVFhzQXBYRkFmeVhMQ2lZdFZTVDkxcW5MSWxsdw?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "罕见暴雨中的温州：防汛Ⅰ级应急响应、全市停课、多地抢险",
+          "source": "温州新闻",
+          "pub_date": "2026年09月02日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qcTBXYTRURDJYZnhYMmR1TndRWkJpZzRacWk0dWVFS2hIWFNZTWRDbVZ2ZnpDVDZsbGRYd1VONFpzT0YyZ3RLeVYtUkZ2blZzbDFIMFptWHpreHdsc2xtRkdkcWFhUUtRZUlneQ?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "水利部、中国气象局联合发布红色山洪灾害气象预警",
+          "source": "央广网",
+          "pub_date": "2026年09月02日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IWUFZV2hpOUhSdm5qd3pLS0NYTndJSG9kR1NOVFJKYmJCN2lYckUtRVNnOFgwMzAyeXNPVjNNMFhBZGg0MW43cFV6NXF1WThQT0FQeTM2YTN6TXNnSU1LWTU0UG1SdFR4cHRMOGc3OFpUZkFTb1dDdERMaTY?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 4,
+          "title": "【图解】8月31日省政府常务会议：研究部署防灾减灾、当前经济重点工作、水利现代化建设、推进“金芙蓉”跃升行动等",
+          "source": "湖南省人民政府",
+          "pub_date": "2026年09月01日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzNF9lODNCVmFZVEhzdmdzLVZzM3Bpb0k4anlCV01jLXpiVTJsRk40cWdjY01VUUthbWxOdTVsaU1BbUhramNCU05CTUw0eGRaZmpsRVFWcGU4OVZVeXgwMkhGOE43NERaMWhsZksxWFBkQkFkOXlxRUpSLTU?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "兵团水利系统聚焦民生办实事",
+          "source": "Sohu",
+          "pub_date": "2026年09月01日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQVNpTHlZLXRrVVlvUS1ac1FmSXl2cERwQ2g5RmNoTkgtVzl2dm1TYWlHZG5Dd3p2UzlJQ3Z2bDVOZ3d3ak9vT29wWFN5NVhwQjdSVnV3NkhJOUZ0RkNNaGtNM0w3UjdRWE9yV0FhUzZhblF1THZObGZoTFFiWkRJSzhSeXNWdVVrSUh3Yg?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 6,
+          "title": "省交口抽渭灌区全力保障玉米关键期用水",
+          "source": "群众新闻网",
+          "pub_date": "2026年09月01日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WRlhHeEhlbWFzbEVTLUw1dGpIMVdIVXFmNk0xXzBlTTRWTmNnYUFkejE2ZlRvZ25Qa3FiZ2xBQWE2bVl2SGVJV0xIS3RyTFZKVW8xVVRnNnJ4VXlPSmw4TVVBY3Y0NzF2Rnlr?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 7,
+          "title": "从冶金到治水：中国中冶如何跨界水网建设丨“六张网”新机遇 上市公司在行动",
+          "source": "Sohu",
+          "pub_date": "2026年09月01日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaVRITlB3SUpLZU1ySmJHakJ2eTVka0dPc3lLVnY2cjlia1BtSlQ2ZW5GYTFtSHJlMjZDejRLd3ZFZ0NqQUFPMGNMVjVZZWtaMk54bWhGUUVTbC1MbzJacnEwdnNjVGdfUmUwdC1HbEFIVk1SNDNJOHU4aGNrSG90QXdEckRMa28xZi0wZA?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 8,
+          "title": "长沙县：十年治水，河湖蝶变",
+          "source": "Sohu",
+          "pub_date": "2026年09月01日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMU52LVJBdmxCdWR1Y09jdFo1Uzh4R3VMNlpQdGttdDBOR2djdnd2bmtrelNYNFotbm0zdV8zRnZWa2d4XzlWTnRNUExiSm9aNDNqeWQ2Z21CNVFkVUlSeXJzX3ZOZFR1dUpJUXJlMTM5aGxOR2VIZ0taSWttcE9uMmF0TEJBczJE?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 9,
+          "title": "“一泓清水”背后的江苏智慧，看南水北调如何越调越“聪明”",
+          "source": "Sohu",
+          "pub_date": "2026年09月01日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUc1RjZudW9vcFVMNzJwNkQ5dHc1eUVkLVJMeWw1V2VvcHdGa0pReWhTVjl6cDJZamxQZ21jR2owYXJ5enljMU1GXzJVNHd4ZDZ0SFAtTXhJUWQyODhaMDBnaGhHOEJCV0FxNVZmRk5MSDl0QXkzeGhSWEVjS2tVUFd4NkNsQzVlTXJ2Ng?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "水资源管理“优等生”的进阶路",
+          "source": "新浪财经",
+          "pub_date": "2026年09月01日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xTjUxR3hIQVFSbzgzVWhPMjBSZHR5TnNuUDFLZF9pMjcwQTUwRUF4bnVRNFJxb20tSlBhOFFsUllOcE1NNzI0UHNucXBpU3ZIY0wyeHlZdFFJOFhNYjZ4eDByM3dWZ2YzbmZ5RFJlYUlMMGcwNU5NRA?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年09月02日",
     "news_date": "2026年09月01日",
     "update_time": "2026-09-02 00:00",
