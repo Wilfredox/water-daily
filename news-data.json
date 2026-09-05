@@ -1,102 +1,122 @@
 {
-  "date": "2026年09月05日",
-  "news_date": "2026年09月04日",
-  "update_time": "2026-09-05 00:00",
+  "date": "2026年09月06日",
+  "news_date": "2026年09月05日",
+  "update_time": "2026-09-06 00:00",
   "total_news": 13,
-  "category_count": 5,
+  "category_count": 6,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "削峰率96%+！台州朱溪水库三战台风守护安澜-台州频道",
-        "source": "台州新闻",
-        "pub_date": "2026年09月04日",
+        "title": "闻“汛”而动！晋安快速集结，全力防汛防台风！",
+        "source": "fznews.com.cn",
+        "pub_date": "2026年09月05日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1cHAwX3NaMWJ3a1lIeHh5TFVWaC0weUZaU2czNlc3OGZfNWpzcjY3Z1pxVGZEbU00ME9lVmllZmZIYzBFQm95MThra3NxNDY2b01PaFMtbVFzcHpDWWpVay1KQzAzZnJKbENR?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96Sm1RbDNOZFBvRHdMdkhKUWM3S0tQSWJ6WV9sLV91SFYxVDNDM0l3bTlwWGxsRTVkZEdmemE0VWU5SjcxM25KSVJvMnVuakxzbDhvY0lJZTZDVlQ3MmFWZGxLUjF6Zw?oc=5"
       },
       {
         "id": 2,
-        "title": "广东水利防汛防台风Ⅳ级应急响应提升至Ⅲ级",
-        "source": "chinanews.com.cn",
-        "pub_date": "2026年09月04日",
+        "title": "福建终止防汛应急响应 从防汛抢险转向逐步恢复生产生活秩序",
+        "source": "Sohu",
+        "pub_date": "2026年09月05日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tNHJ2ZGxDTTlyZ2pxQVJmM1hyd3RNbTJOeUlKZDhPT1RpQjFMNmVWbkFHcXRBY3hSOVdOVm9lbzJ2ckgxeXpzOC1hdG5xdDRxdG5oOE92b3FLc3NsYU4zOFZWaFZnVDFn?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUUZnX0xDOUpvdXhjMm55YnpTbGEweXQwRmN5dG9adlJFRkoxTDVOUEVJR0NlVVFkaTZqQWJhdjBvT1ZqZTFKWkVYX0Y2QkM5T2RZaW9lQjVDakJzRVRXT3BaTHltdGlVc1ZPQ0lhLXUzM0hDcVhOVzNMV0ZOWHRPY1JZWDd4VmpP?oc=5"
       },
       {
         "id": 3,
-        "title": "台州市朱溪水库三战台风守护安澜",
-        "source": "cs.zjol.com.cn",
-        "pub_date": "2026年09月04日",
+        "title": "江西全省河道7站超警 583座水库超汛限",
+        "source": "chinanews.com.cn",
+        "pub_date": "2026年09月05日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vY0YtOXRVWV9WTFF0YlFERzMwQkdObmhQTUdaMGoxNDAydGllQlhSV1Z4ZC01clU4bUtVd2c5czZFYnU1c2RkeF9pdlEyUXYzcDBSZFFGSUxhTXN2aG5MdW1SNE1FWUNiTmc?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96RTEzSjlRdkllT0tlR0hTLWc1TmZzVU11QlU1RndkaWY0anotcDlIVVZEWEZzMDl4RVRtNWs4ZG9vdEpCam5lLXhWX0EzYkM5bXBWdFA0Rm1jeURGZzRzOG5sYzRfcHNX?oc=5"
+      },
+      {
+        "id": 4,
+        "title": "江西583座水库超汛限",
+        "source": "新浪财经",
+        "pub_date": "2026年09月05日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PWXpNRUdORGh4SFRjSktjekdZZ3ZUY2YzNTlkMnFNVU9PMEJiblVxazhYNnpJc2IzOTFmaTBLUDJYMlJkYlFEQ2FCVHo3eFd0X1pYYTVQUkJDLWV4UzNGZXVYRXBMSzJNY2thRndZbnZORzNRYmoyMg?oc=5"
+      },
+      {
+        "id": 5,
+        "title": "受“沙德尔”残余环流影响，江西虎头陂水库开闸泄洪腾库",
+        "source": "Sohu",
+        "pub_date": "2026年09月05日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUJqd1ptOEhMbmU2Nlp3MEpSa1hTV1BidFpneVpCeGZCZ3VUUUxOaWMzeDBwT2QxOGJ1ODczLTJyM1BvdnZpLW5XVlhsVW1UYnFsaU9aZ1ExZGdjcUhQbldwNU5ZcWQzMS1jLUJEdzdMbVcyc3pwNlp4MXJ6YmtuN016MERQUXI3?oc=5"
+      },
+      {
+        "id": 6,
+        "title": "水利部和中国气象局9月5日18时联合发布黄色山洪灾害气象预警",
+        "source": "界面新闻",
+        "pub_date": "2026年09月05日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZRUtpemQ5VTJGV1Vmd1A3ZnBhS0NhaEluVkgtdXNnYmtWa2JRanFybzFuQmtJVndjY040cHlsYXZYUmwySFNBOVEwTVNqX0dOR1ZWOXNxcUo?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 4,
+        "id": 7,
+        "title": "水利建设跑出“加速度”",
+        "source": "新浪网",
+        "pub_date": "2026年09月05日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeXgxRXI1VlZ4NzA4YWI5RFpBLUZtUGMycUJnRTN5Y2poNjJaeS1YWVdJTEl4am81TFZHM0lxbFlGRWRSNUtCWWVHT3Vmajg1b04ycGRMN0hEclhfenVOMm1hVXdILWtQOW0tTWRwa0gzblB5Ylc4MEM1OHQxZHhON19mTW5IcEhSaXZBeHFnOFcxdkxnVWV3NA?oc=5"
+      },
+      {
+        "id": 8,
         "title": "水利部：西藏吉隆堰塞湖河道过流正常 冰湖整体稳定",
         "source": "闪电新闻",
         "pub_date": "2026年09月04日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
         "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TdlpESGtrS2Z0cHZPREw5NkNBMFlJdG1RSExUNDE3RGpCb2FnOU80aGxYRU42aFBQYmgycUxPem8xUFBaRDJDOHVDRTgyQWFMSDJvbXBrS2xNNWh1SHo3TnpR?oc=5"
-      },
+      }
+    ],
+    "水资源管理": [
       {
-        "id": 5,
-        "title": "中国能建华南区域总部与福建省水利厅共商合作",
-        "source": "power.in-en.com",
-        "pub_date": "2026年09月03日",
+        "id": 9,
+        "title": "四川：水资源管理“优等生”的进阶路",
+        "source": "chinawater.com.cn",
+        "pub_date": "2026年09月05日",
         "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJLUJiYlNMRGNjLUY0bklacEJudEpYVktpLU1pU191aTZRaHVjeVBmU0RrZHNFVnNHSjNHeUNfVUpNRl9EdUgwWXF1dWQ5ZmlMeGY4dWItRVZocldZ?oc=5"
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CcW9TV041ZXlYcm45bV90cHl5Z3N2NXp0S0VhTmk2V3VneHk0UHlSc3QwSkd2aXlqYzNTWmQ3dFhKaUhYcmFBWTRXQUtaa2lQSUwwaDg1NXRjV1pwT29LZExFQTNmX2RwWUwteDNhNkNPZw?oc=5"
       }
     ],
     "水利工程": [
       {
-        "id": 6,
-        "title": "哈萨克斯坦计划新建42座水库",
-        "source": "TV BRICS",
-        "pub_date": "2026年09月04日",
+        "id": 10,
+        "title": "“重器浚河湖，碧水润兵团”水库清淤观摩会在新疆成功举办",
+        "source": "xj.chinanews.com.cn",
+        "pub_date": "2026年09月05日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tRThRQ1Q1X2tCakFjWFNEcjRNMENzQmlJdnRQZWxjUVZ0RjRKYzJ6MGVlRHRNZlMweHpqWXZfQkVQbERsX1ZZakhkVzgxNWF5c2xuaEZkdEZyUXlKVDNVOHA1R3paNVdUQlY1eGFERGoyUzRFZDZRajFpMkM3eFU?oc=5"
-      },
-      {
-        "id": 7,
-        "title": "新疆昆玉为水库蓄水安上“节水防护罩”",
-        "source": "新浪网",
-        "pub_date": "2026年09月03日",
-        "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOekhKV20zRGY4dGdIOGF6SURraUlhZDQ1SzdMZXdwakpIZklGRXRHZEoyZy1fZGtKN0hEbWpwcE9kSnloZkxhTW5mMWwtM2MzbnV1RE9reW9zQ2ltR2d2ZnBvQlh6dUNzQnNVQVlzMXVTaWVoSG9QUG11U3JWc0NWa3JwcVRibzg1MHNLWGw0TTFkNFVWTlFEdw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYmxvZlNveFktalkxM2RCb0VqX3B5N2lCY281TGxncmw2X3g0VDBnQUUycE5NVmI2X2JhQlBFcDBGbHBCakpaUk15ZXJrRVNDTnhDWVJhTW01b1ZJN2pYN0N5UGNWLXBMVWpfM1lza01tUTBVVU5VQnNIVWhzaUdDTjVoRQ?oc=5"
       }
     ],
     "政策法规": [
       {
-        "id": 8,
+        "id": 11,
         "title": "三峡集团与水利部水利水电规划设计总院座谈",
-        "source": "新浪财经",
-        "pub_date": "2026年09月04日",
+        "source": "新浪网",
+        "pub_date": "2026年09月05日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oQ2NmQ1lZYVdqOG9LZ0FNUFI2cmgtR2hoYTZwLXRtWkRvRXZrbFdVNkhIRGgwMGZ1Mm9CME80Y1I0QnNwbG91RkVNNTJ3ejRCZEwyeXpRQU41T0ZtbVlkN2U5Y2ZrYUd1cFB1WGlNdmU3T0kyQ2c?oc=5"
-      },
-      {
-        "id": 9,
-        "title": "聚力科技创新 赋能水利强省建设—— 山东省水利科学研究院推进科技成果转化机制改革综合试点成效",
-        "source": "山东省科学技术厅",
-        "pub_date": "2026年09月03日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2Tks3cy1HQnZGS054RDZxSjZ0T05kWjBNRTZIc2dUYlRWdUhVOGZvTVNta19pLWFVdzdXWkhDOV95WHhlbEEySEMzWUpwaEsySHd5RjVWNElISVpJeW8xT1BRUTVEY1U0R012d3IwUWc?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUktsVmRuX1habG5wc1pzVlVsZzFYNjg0WVJYOG1aZXZGYnM1eDZvc2ZzV3BhTnE3UEc1bG5jRnp4cHJkaTMwcjF5X1FwQWpEUGVmWlNMUjV3OU15YkFwcldud0M4WVNLNllNcTdRS3FZRnpRNjJ4MGlLT2QyaWNWYmp2VncwMWlDcTlGa1YyM2FHcEpzRlU3Xw?oc=5"
       }
     ],
     "水生态环境": [
       {
-        "id": 10,
+        "id": 12,
         "title": "1.7万处问题清理、43条幸福河湖县域全覆盖、超千万人次游“水韵琅琊”——临沂交出“六河贯通、八水绕城”十年河湖长制答卷",
         "source": "鲁网",
         "pub_date": "2026年09月04日",
@@ -105,31 +125,13 @@
         "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11UGxaZDRQQXRlejI3Rk1MV2pZV3RWR0thYndwdmhNdTYzTUYxbzJVVnRyMUVmVkFkVEhLT0kxWDdaTTZOOXp6Sk0tRER2ZG5ZNjNrQjBLMTZxb3djYWZVVWhLYmMzcTlRWVVDcg?oc=5"
       },
       {
-        "id": 11,
+        "id": 13,
         "title": "甘肃庄浪推进小流域综合治理",
         "source": "新华网客户端",
         "pub_date": "2026年09月04日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
         "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT29QUVdoSzFhUUh2Yy13TmxHTkNtZ2I5dVpldjBCUUNLSjhYZ1U5VEpBcVlpU0tnajcycXY4REFISTJFVm5NWG10enhGOXMzNDRKVG1Vd0cyM0pfemhmWEVkUVhVV1V2Q1BXQ2IwNVFYUFJyVW5jMjJKMC14WHQtQVRBbWtuN2lZWEhDTGhJS29vb01HYWlaRFJ2UmEyOEUxSGl5RHZtSUN6R1hyUUdB?oc=5"
-      },
-      {
-        "id": 12,
-        "title": "【图片新闻】宕昌县鹅嫚沟小流域综合治理提质增效项目加紧建设",
-        "source": "每日甘肃网",
-        "pub_date": "2026年09月04日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zeGZ6VlU3R21mTTFKejB4YmRLNE1JaHRfdFQ3WkhqdVJ6cWxVVzg2YUk3VFBsc3JJVmUxQjBGazR4Y2JGUEVxNXpJdy1nSXlKbGxacmc3Z3RiRUh0b1RnUnpZQmNpcmVaVnRXOVM0NTU1V1U?oc=5"
-      },
-      {
-        "id": 13,
-        "title": "宕昌鹅嫚沟小流域综合治理项目正在加紧建设",
-        "source": "新华网-甘肃",
-        "pub_date": "2026年09月04日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdjRIcE9ZQ19EZEZ5bXdyMUxWZU1GWmhiLXYxb2pqNkpYeUtCUmRXSUZ1TWRPMGp6Z3FCcWpTa2hObWpvU2tiOFpMQWpIc0gyQ0tTLXZEb3FwRnZMckpBZGRUb043dWppNlhvR0JBY0V1ekJCNXdfME9DWkdOVXVsazN3?oc=5"
       }
     ]
   }

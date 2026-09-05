@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026年09月05日",
+    "news_date": "2026年09月04日",
+    "update_time": "2026-09-05 00:00",
+    "total_news": 13,
+    "category_count": 5,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "削峰率96%+！台州朱溪水库三战台风守护安澜-台州频道",
+          "source": "台州新闻",
+          "pub_date": "2026年09月04日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1cHAwX3NaMWJ3a1lIeHh5TFVWaC0weUZaU2czNlc3OGZfNWpzcjY3Z1pxVGZEbU00ME9lVmllZmZIYzBFQm95MThra3NxNDY2b01PaFMtbVFzcHpDWWpVay1KQzAzZnJKbENR?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "广东水利防汛防台风Ⅳ级应急响应提升至Ⅲ级",
+          "source": "chinanews.com.cn",
+          "pub_date": "2026年09月04日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tNHJ2ZGxDTTlyZ2pxQVJmM1hyd3RNbTJOeUlKZDhPT1RpQjFMNmVWbkFHcXRBY3hSOVdOVm9lbzJ2ckgxeXpzOC1hdG5xdDRxdG5oOE92b3FLc3NsYU4zOFZWaFZnVDFn?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "台州市朱溪水库三战台风守护安澜",
+          "source": "cs.zjol.com.cn",
+          "pub_date": "2026年09月04日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vY0YtOXRVWV9WTFF0YlFERzMwQkdObmhQTUdaMGoxNDAydGllQlhSV1Z4ZC01clU4bUtVd2c5czZFYnU1c2RkeF9pdlEyUXYzcDBSZFFGSUxhTXN2aG5MdW1SNE1FWUNiTmc?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 4,
+          "title": "水利部：西藏吉隆堰塞湖河道过流正常 冰湖整体稳定",
+          "source": "闪电新闻",
+          "pub_date": "2026年09月04日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TdlpESGtrS2Z0cHZPREw5NkNBMFlJdG1RSExUNDE3RGpCb2FnOU80aGxYRU42aFBQYmgycUxPem8xUFBaRDJDOHVDRTgyQWFMSDJvbXBrS2xNNWh1SHo3TnpR?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "中国能建华南区域总部与福建省水利厅共商合作",
+          "source": "power.in-en.com",
+          "pub_date": "2026年09月03日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJLUJiYlNMRGNjLUY0bklacEJudEpYVktpLU1pU191aTZRaHVjeVBmU0RrZHNFVnNHSjNHeUNfVUpNRl9EdUgwWXF1dWQ5ZmlMeGY4dWItRVZocldZ?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 6,
+          "title": "哈萨克斯坦计划新建42座水库",
+          "source": "TV BRICS",
+          "pub_date": "2026年09月04日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tRThRQ1Q1X2tCakFjWFNEcjRNMENzQmlJdnRQZWxjUVZ0RjRKYzJ6MGVlRHRNZlMweHpqWXZfQkVQbERsX1ZZakhkVzgxNWF5c2xuaEZkdEZyUXlKVDNVOHA1R3paNVdUQlY1eGFERGoyUzRFZDZRajFpMkM3eFU?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "新疆昆玉为水库蓄水安上“节水防护罩”",
+          "source": "新浪网",
+          "pub_date": "2026年09月03日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOekhKV20zRGY4dGdIOGF6SURraUlhZDQ1SzdMZXdwakpIZklGRXRHZEoyZy1fZGtKN0hEbWpwcE9kSnloZkxhTW5mMWwtM2MzbnV1RE9reW9zQ2ltR2d2ZnBvQlh6dUNzQnNVQVlzMXVTaWVoSG9QUG11U3JWc0NWa3JwcVRibzg1MHNLWGw0TTFkNFVWTlFEdw?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 8,
+          "title": "三峡集团与水利部水利水电规划设计总院座谈",
+          "source": "新浪财经",
+          "pub_date": "2026年09月04日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oQ2NmQ1lZYVdqOG9LZ0FNUFI2cmgtR2hoYTZwLXRtWkRvRXZrbFdVNkhIRGgwMGZ1Mm9CME80Y1I0QnNwbG91RkVNNTJ3ejRCZEwyeXpRQU41T0ZtbVlkN2U5Y2ZrYUd1cFB1WGlNdmU3T0kyQ2c?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "聚力科技创新 赋能水利强省建设—— 山东省水利科学研究院推进科技成果转化机制改革综合试点成效",
+          "source": "山东省科学技术厅",
+          "pub_date": "2026年09月03日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2Tks3cy1HQnZGS054RDZxSjZ0T05kWjBNRTZIc2dUYlRWdUhVOGZvTVNta19pLWFVdzdXWkhDOV95WHhlbEEySEMzWUpwaEsySHd5RjVWNElISVpJeW8xT1BRUTVEY1U0R012d3IwUWc?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 10,
+          "title": "1.7万处问题清理、43条幸福河湖县域全覆盖、超千万人次游“水韵琅琊”——临沂交出“六河贯通、八水绕城”十年河湖长制答卷",
+          "source": "鲁网",
+          "pub_date": "2026年09月04日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11UGxaZDRQQXRlejI3Rk1MV2pZV3RWR0thYndwdmhNdTYzTUYxbzJVVnRyMUVmVkFkVEhLT0kxWDdaTTZOOXp6Sk0tRER2ZG5ZNjNrQjBLMTZxb3djYWZVVWhLYmMzcTlRWVVDcg?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "甘肃庄浪推进小流域综合治理",
+          "source": "新华网客户端",
+          "pub_date": "2026年09月04日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT29QUVdoSzFhUUh2Yy13TmxHTkNtZ2I5dVpldjBCUUNLSjhYZ1U5VEpBcVlpU0tnajcycXY4REFISTJFVm5NWG10enhGOXMzNDRKVG1Vd0cyM0pfemhmWEVkUVhVV1V2Q1BXQ2IwNVFYUFJyVW5jMjJKMC14WHQtQVRBbWtuN2lZWEhDTGhJS29vb01HYWlaRFJ2UmEyOEUxSGl5RHZtSUN6R1hyUUdB?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "【图片新闻】宕昌县鹅嫚沟小流域综合治理提质增效项目加紧建设",
+          "source": "每日甘肃网",
+          "pub_date": "2026年09月04日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zeGZ6VlU3R21mTTFKejB4YmRLNE1JaHRfdFQ3WkhqdVJ6cWxVVzg2YUk3VFBsc3JJVmUxQjBGazR4Y2JGUEVxNXpJdy1nSXlKbGxacmc3Z3RiRUh0b1RnUnpZQmNpcmVaVnRXOVM0NTU1V1U?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "宕昌鹅嫚沟小流域综合治理项目正在加紧建设",
+          "source": "新华网-甘肃",
+          "pub_date": "2026年09月04日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdjRIcE9ZQ19EZEZ5bXdyMUxWZU1GWmhiLXYxb2pqNkpYeUtCUmRXSUZ1TWRPMGp6Z3FCcWpTa2hObWpvU2tiOFpMQWpIc0gyQ0tTLXZEb3FwRnZMckpBZGRUb043dWppNlhvR0JBY0V1ekJCNXdfME9DWkdOVXVsazN3?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年09月04日",
     "news_date": "2026年09月03日",
     "update_time": "2026-09-04 00:00",
