@@ -1,9 +1,9 @@
 {
-  "date": "2026年09月07日",
-  "news_date": "2026年09月06日",
-  "update_time": "2026-09-07 00:00",
-  "total_news": 7,
-  "category_count": 4,
+  "date": "2026年09月08日",
+  "news_date": "2026年09月07日",
+  "update_time": "2026-09-08 00:00",
+  "total_news": 8,
+  "category_count": 5,
   "news": {
     "防汛抗旱": [
       {
@@ -14,66 +14,77 @@
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
         "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Vbml3Z1dMYmVPRlRiTVlwNGRsYnlVLWZLTkxQV3psaDNXTlRuX09vWW9BamNVTkJ3dzNQLVFTVGwxTUhDdE9xQnpscDY2NUZrV2dnNWZYdnNJZ3RDOE05VWlSekE?oc=5"
-      },
-      {
-        "id": 2,
-        "title": "闻“汛”而动！晋安快速集结，全力防汛防台风！",
-        "source": "fznews.com.cn",
-        "pub_date": "2026年09月05日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96Sm1RbDNOZFBvRHdMdkhKUWM3S0tQSWJ6WV9sLV91SFYxVDNDM0l3bTlwWGxsRTVkZEdmemE0VWU5SjcxM25KSVJvMnVuakxzbDhvY0lJZTZDVlQ3MmFWZGxLUjF6Zw?oc=5"
-      }
-    ],
-    "水利工程": [
-      {
-        "id": 3,
-        "title": "韩江水库群拦洪2.5亿立方米",
-        "source": "新浪财经",
-        "pub_date": "2026年09月05日",
-        "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGNzdlcXNUeUFXTEJkX2otNkNQYzBNdGNCOHdpbW9XN2N3U0RZbjEzVHBjdkQyNDNBaUZIM2NPejZONHdiMjEwMzFkekRzbFp0TnpkS2lkZW5zdFpONF9NRHZZOXFkcjRoZE9tdGFyYXdPcm1HeVY1UQ?oc=5"
-      },
-      {
-        "id": 4,
-        "title": "“重器浚河湖，碧水润兵团”水库清淤观摩会在新疆成功举办",
-        "source": "xj.chinanews.com.cn",
-        "pub_date": "2026年09月05日",
-        "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYmxvZlNveFktalkxM2RCb0VqX3B5N2lCY281TGxncmw2X3g0VDBnQUUycE5NVmI2X2JhQlBFcDBGbHBCakpaUk15ZXJrRVNDTnhDWVJhTW01b1ZJN2pYN0N5UGNWLXBMVWpfM1lza01tUTBVVU5VQnNIVWhzaUdDTjVoRQ?oc=5"
-      }
-    ],
-    "综合要闻": [
-      {
-        "id": 5,
-        "title": "水利部：西藏吉隆堰塞湖河道过流正常 冰湖整体稳定",
-        "source": "新浪财经",
-        "pub_date": "2026年09月06日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6WlJYQlV2SmNLemsyelMzZWRheGNIbzRXQVBEUGszQVN4MkNDVW5hMk5hNllLVEVReFljdFdPMkhJQjRBUWcxSlNLbGVTRjhrLUhiWjg3cmZES1JPZ0V2bWt4djVEOEpfWHRNTkVNZzU4TlZiUDR0WQ?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 6,
-        "title": "四川：水资源管理“优等生”的进阶路",
-        "source": "chinawater.com.cn",
-        "pub_date": "2026年09月05日",
+        "id": 2,
+        "title": "甘肃省石羊河流域地下水资源管理办法",
+        "source": "新浪财经",
+        "pub_date": "2026年09月07日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CcW9TV041ZXlYcm45bV90cHl5Z3N2NXp0S0VhTmk2V3VneHk0UHlSc3QwSkd2aXlqYzNTWmQ3dFhKaUhYcmFBWTRXQUtaa2lQSUwwaDg1NXRjV1pwT29LZExFQTNmX2RwWUwteDNhNkNPZw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVUVVRVNMajhFd1BjdzlaNkw1alN5UmcyRGVHWkN0WTlhV1RCMEFNYm85QnM4SzVydnZGMjRRdXlVdG1wY0xiempCcjQzRHJWM3liM2wyUnQzaVdJc3FmM0VZekxPQ3NMaXpMSkhuakwxdnIxV1VMMWZnOHlHVmxlQzBDWmxjR0xLWlJrZnRmeUJCSFlFV0FwNg?oc=5"
       },
       {
-        "id": 7,
-        "title": "【政策资讯】《2025年长江流域及西南诸河水资源公报》发布",
-        "source": "新浪财经",
-        "pub_date": "2026年09月05日",
+        "id": 3,
+        "title": "“一泓清水”背后的江苏智慧，看南水北调如何越调越“聪明”",
+        "source": "新浪新闻_手机新浪网",
+        "pub_date": "2026年09月07日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbnVCV3oybE5PSURqak55LW85WFU4TFkzVkZUUXBCdzFzRXhVMjJoMEViSHM3ZVkxcmlpQlV6dk9DNF8zX0ZHZmlLdC1DTXdSX3hUeDZQSHAwMGZ5aEJGN1h5MEhobVo2TXNXWjNNQU9zenBjS1ZsUFVaZWI3T3pvcTd0TnEwZVNzd0pGN1RMbmNfUFVsQ2xUUWJ1Y3NQZw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HMGxlanNsZU5lYjdCcFVITDQtdGszbGthRUdCcmh5dS15cmw0Ym5FcGJXbEQwSGJLel9VVE1IZy1DNFc0Skd3UFhZSXlUYVVlRUctZXNrb252dnRYblhlY19rY1FqYll5RS04SzN2cm15Z1NaUV9GUEJ3?oc=5"
+      }
+    ],
+    "综合要闻": [
+      {
+        "id": 4,
+        "title": "水利部：尼泊尔错坚河冲击坑上下游过流正常",
+        "source": "川观新闻",
+        "pub_date": "2026年09月07日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02RF9JaDBCeGJ6Mm00Z1BremlLMU96TlQwdnNzV0FuUURIRjBMR2ZHd1VxMmZ3T1ZqelVwc003Q2NNTkdFTzRGXzVyWVR1Zw?oc=5"
+      }
+    ],
+    "水利工程": [
+      {
+        "id": 5,
+        "title": "通过验收！马鹿坑水库投入运行",
+        "source": "新浪财经",
+        "pub_date": "2026年09月07日",
+        "content": "",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvR3R0WkNNQVdsWVoyX3BQcUNPV2dJV2xSdG5ZTnpQd2NnVnFRZFFqVnRna1FsdEFrQVFTYTVZVjVHajVwUHJGSUg0czFqb040R0o1QTVFb2VmbDk4NW1Oc3VEU1FZdkY5elgzNWxiRWtUMTFva3c?oc=5"
+      },
+      {
+        "id": 6,
+        "title": "136.26万亩良田提质！土左旗高标准农田筑牢丰收底气",
+        "source": "Sohu",
+        "pub_date": "2026年09月07日",
+        "content": "",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTmtnUjVUdVhEaDFLMkdKOHpFRTRGci1DSjVXR3lBVUQ4U0U5MkNfRDNsTmxBaG1QM2hBRTZ0aVRoa1ktZDFMdnlpdWxiWUF5d2w4bERSaWpnM0xleVJFaXp1TU9Rb3kxY2ZKRG9aajBHeXc0b0haU2UwZlhPMGhEMmVGVndtUkpoRG1mNQ?oc=5"
+      }
+    ],
+    "政策法规": [
+      {
+        "id": 7,
+        "title": "打通水网堵点 激活民生脉络",
+        "source": "新浪财经",
+        "pub_date": "2026年09月07日",
+        "content": "",
+        "impact": "将进一步规范水利管理秩序，推动依法治水。",
+        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93TVZVVE9YVnRJZVlaUFFUejMyNkpKR2NjU21mWTZteTVPRmpRVmRIN3ctdm9TT3BkZGd6QU83Y2U0SS1WR1RPd1Y2WUlYaWxtS3JjQWtlRm02TDk4WFNwOHd4elNBS2dfX0c5ajhoUnlHZHFrZUQ4Rg?oc=5"
+      },
+      {
+        "id": 8,
+        "title": "我省持续推进“四干十脉”水网建设",
+        "source": "新浪财经",
+        "pub_date": "2026年09月07日",
+        "content": "",
+        "impact": "将进一步规范水利管理秩序，推动依法治水。",
+        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRUFiSEZFbGlCMmRtMUh4ZVB0Z2p0TUNCVTNQb2tmNUNGYjJhVVVsTVJlZ2l6NzAwTVIwRHFrQnV3cnNiTktmSjJLbFdEVGRQN1RmaFFTbmx3ZG41Ty1jR0Z6a1RsSnp6aWUxb0gzRmVEcm9KNmdSbE1Md3FwRk1HeUhEVEFhLVA4Wk9MNXg5eElCdzJWT1dyNg?oc=5"
       }
     ]
   }
