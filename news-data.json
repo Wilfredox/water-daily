@@ -1,128 +1,97 @@
 {
-  "date": "2026年09月13日",
-  "news_date": "2026年09月12日",
-  "update_time": "2026-09-13 00:00",
-  "total_news": 12,
-  "category_count": 6,
+  "date": "2026年09月14日",
+  "news_date": "2026年09月13日",
+  "update_time": "2026-09-14 00:00",
+  "total_news": 9,
+  "category_count": 4,
   "news": {
-    "水利工程": [
+    "防汛抗旱": [
       {
         "id": 1,
-        "title": "三门东屏水库通过下闸蓄水阶段验收，惠及20万群众 一库清水解“三难”",
-        "source": "台州新闻",
-        "pub_date": "2026年09月12日",
+        "title": "水利部针对海南启动洪水防御Ⅳ级应急响应",
+        "source": "新京报",
+        "pub_date": "2026年09月13日",
         "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBacUhxMWxxRGpDYnp5T254N2kyZlk5SU8wMzFyUGYzUVVrWmlPSVJXZVJ4V2NvcWhRZC1WZW5pR3VPY1NYZlFMbkdtUDZZVDVMMUg0bjZneDEwMWRsa1pQX25pNTFNQjBfRFg4?oc=5"
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yU3pHbXRiYWotVFA2VThtWVdjek51TmtBbXBOT3dKQnJXMjR5ekwwczdYQ0RPZWs1bjJqQlQ5OGJBQlhqZ1llZ0pBTkZKZ2NWWnZPNnlKd1ppRjNKajRFaHZKXzM?oc=5"
       },
       {
         "id": 2,
-        "title": "正式投运！余姚首个大型水利骨干工程通过竣工验收",
-        "source": "潮新闻客户端",
-        "pub_date": "2026年09月12日",
+        "title": "攻坚克难强管控 锚定目标保水质——平谷区全力保障汛期水环境质量稳定",
+        "source": "首都文明网",
+        "pub_date": "2026年09月13日",
         "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEX0lDX0JSSk9Ld0hHT2VqUWxza29UWkRZNjdSU2NDckdEY1ViWHdnSzh2WkpIcktmZWt0TDQ3WEdIampjcGVCVTA1cXdBeHVES3RjN1B5bk5UYUg5TFN6RjVmbXNyYUdpZDY1SDFJcmFoZ0U?oc=5"
-      }
-    ],
-    "防汛抗旱": [
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRd0hCbnd2RWFZdEZyenM2NGVERDZfSk5mWlE5eXJmczVqbjE4M2lNSFV6ZnhoN1VUYjFFRy1PMllfRnhmeGJHNGktLWZ1azQteG9FNDdZU3B5RzQ?oc=5"
+      },
       {
         "id": 3,
-        "title": "水利部和中国气象局联合发布黄色山洪灾害气象预警",
-        "source": "央视网",
-        "pub_date": "2026年09月12日",
+        "title": "水利部和中国气象局联合发布橙色山洪灾害气象预警",
+        "source": "央广网",
+        "pub_date": "2026年09月13日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JUHg2bm5WQkF0ZVVIVHZoRDl3QmdNYXowVUZYQkktbkFiOGo3ZlJpaWVxUmhBLVYySDBTMmhwMmprWjhKeEFmYWdxa29HM2otckgxRXd0bUFES3BObk9NTFQtQzNPUndNekNncU05V2c0TnhzdEhMVQ?oc=5"
-      },
-      {
-        "id": 4,
-        "title": "水利部和中国气象局9月12日18时联合发布黄色山洪灾害气象预警",
-        "source": "欧洲头条",
-        "pub_date": "2026年09月12日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRlpxMXpOVklja25RcXNYNklGZVVPUGwwbEJ0UklkM0FkYUcxR2lRNGhjSmNIU2Y4VlBidmFYbXp3ZWF4Z0RPbm1DTDFiUm1ucGtFYXB5UElTeDNheWhwcm51bTRNU3dkUjJiWkhuWXdkWFlBNzVCSXFQdU4yRFpPM0FDMGtqVHU1LWxkd1NlWEdCY0tyU2JfTk5nbkFCN2RUZ0cwbDM5MGJoYmVJeWxyV3VqemhvZjl0VzA4UlBQSXpjQWdSLVlwWFc3aXhYeDlNZHFsb0p6dS01TjZzcVV4eUVn?oc=5"
-      }
-    ],
-    "水资源管理": [
-      {
-        "id": 5,
-        "title": "筑牢农村饮水安全屏障",
-        "source": "抚州新闻网",
-        "pub_date": "2026年09月11日",
-        "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KcEdUR2ZRWlRLckpQMzFOcFVpTU91MmhQVGhIblRTOTFMdDlmUmVpdkVxNC12VzMteVVfcmpEbnRhU2dGZ0lXRFhMYVBJNnY2bjBpZnJWUFEydw?oc=5"
-      },
-      {
-        "id": 6,
-        "title": "【实干笃行】偏关县人大常委会视察调研全县农村饮水安全巩固提升工程实施情况",
-        "source": "新浪网",
-        "pub_date": "2026年09月11日",
-        "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMHBpVWttdjNMSWR2eTMwdXhUdHAyd084Z09XaDVuN2ZsalU4eTNyZW5CeHhWOE5lNDVwQWc1R0R2QkEtUXJ3RWU4RVF2N1h2WlNLbTZUajhUTk5Hajd5cWoySjJJczlXcW11aWhhVjVHZ1lfX01yU1hhVElUS2J3U3FuaFJWQlJFZUcxU0xLMmhKaDlsc3VBZw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0bjVtWkRWTGdIbEprZkx5SW5XYkNsbkZhR2JYdHAzMTFJQXo5d0x3b1NodjZOcFZCZUQwSWNuenR5dkJLVGhJTG8xai1SSjJTVklwcXFpcUltMzFoYXhkdkRYTEhmX2Y1b1ZpU3dmWXlBVjJBMGI0NzlrdjFfT0k?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 7,
+        "id": 4,
+        "title": "我省已累计完成30余万条水利数据上图",
+        "source": "sxwbs.com",
+        "pub_date": "2026年09月13日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOHR1ejB4Q3MzSk9vZ2RRd2JSbEs2bWJURTJtOHo0MDBfWjJEb1MzY0k2MFFxanJvR01YRW1CSUxYVTRXMnRIaS1XdF9veFZDVm03ZndyZzJhXzU4TmNHcXd6TUpObTRWZHZ6cXJqZGFyWl9GRDdzMEk1VXdQSGVrT3Z5UjR2ajUtU0ZiMUdfbjd5eTlrTmU0Z1N3?oc=5"
+      },
+      {
+        "id": 5,
         "title": "钱塘江秋汛大潮开启，浙江水利提醒：切勿越界观潮！",
         "source": "jrsh.hangzhou.com.cn",
         "pub_date": "2026年09月12日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
         "full_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHSHp5YWUxR2VFV184UW1ockRJN3ZuQng0WGZ1TnBlNkczdFIyMFppQVZiR2htWmdIT3BjNUdJTDk1ZWs3eUFIU1dSWEZSX0FpUVJWR0ZWVktKSWVGN05kSkhhYk9JZkRqTzRYRmR1Q2lTTmlSMEcw?oc=5"
-      },
-      {
-        "id": 8,
-        "title": "山西深化水利“一张图”应用",
-        "source": "Sohu",
-        "pub_date": "2026年09月12日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOEdsQUZDOE5vZ1NrdUJFMXNZanhtbjRNX3ZST25FMDJoTHUzVTRsQ0ZxMzdJODhncDNZNlhJdlMwdk90SzBIbm0yUU9fa0g4WmxibEwwdmxyT2VfUzdxRFpxUWRrRnNQWEpjdVo1SERrRU5KcGFpMHVyS1ZYMFBpSndrQWUxbW1Hb25ldg?oc=5"
       }
     ],
-    "政策法规": [
+    "水利工程": [
       {
-        "id": 9,
-        "title": "一张水网，“解渴”润民",
-        "source": "新浪新闻_手机新浪网",
-        "pub_date": "2026年09月11日",
+        "id": 6,
+        "title": "三门东屏水库工程通过验收 可正式下闸蓄水",
+        "source": "新华网浙江",
+        "pub_date": "2026年09月13日",
         "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NVUVEX1g3aV9XQV9mdHRDWGtQcnpQOFFQbEF3cUtKX2g3ejVKX1dTYzk0U0hUSHRfOFpwTFNFMHZkempkS1FQOG9JRUh6SE9rZEl1Nk1WZUQ0U0hjTDc5VzI2cDI1S1NYY2VCM2N4Mm5GdWNHUEE?oc=5"
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdUlrT1hZbEZ2ZEF1RWRzQmJjdEd6eUExMGlzTjdrZWphVE96Y2I0RENBbTIwcXpGVzlxd24xbEF1OW4tR0kyM2s4NzB5LTNteVhsMjcwc1ByUElMMHNNc0NBeVN0bHZmd0FnSnhVQVFnVXhxZFlKcksxOF90TFRKQWtn?oc=5"
       },
       {
-        "id": 10,
-        "title": "江苏以科技赋能国家水网“大动脉”",
-        "source": "新浪网",
-        "pub_date": "2026年09月11日",
+        "id": 7,
+        "title": "三门东屏水库通过下闸蓄水阶段验收，惠及20万群众 一库清水解“三难”",
+        "source": "台州新闻",
+        "pub_date": "2026年09月12日",
         "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GZlc0Z01JRnJwN2ZFaHVBUTRVbFpQTklick9SbEFRQkY5ZTBtd0xYck9JR1RCWjQ3dHdBeHBXc1lBZW04MzR5empybnRBb01maUVhYkFrYmtsYWUwcXNVdVhHR0RqN21OVnhLOU05dUVjM3VPWkFzWQ?oc=5"
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBacUhxMWxxRGpDYnp5T254N2kyZlk5SU8wMzFyUGYzUVVrWmlPSVJXZVJ4V2NvcWhRZC1WZW5pR3VPY1NYZlFMbkdtUDZZVDVMMUg0bjZneDEwMWRsa1pQX25pNTFNQjBfRFg4?oc=5"
       }
     ],
     "水生态环境": [
       {
-        "id": 11,
-        "title": "邢台城区“四河”秋季生态补水全面启动",
+        "id": 8,
+        "title": "佛山“幸福河湖地图”上线！滨水打卡指南，看这里就够了→",
         "source": "新浪财经",
-        "pub_date": "2026年09月12日",
+        "pub_date": "2026年09月13日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NcDVWbnE3QWljajFMMUhERUhpWlN1SGxyY08zcDBPQUJFSEt4REpLUzFhOVBlQXhIb1BrTzZyWjZJS3pfRkVkNG8zRjdJUGdCYThEdXlRRUt6amMtZkxWajdmNUp5MVlULXJEZy1mRWlwYjd0aEhhLQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT2Q2a2FyTVdLTFVwOUpWRWlJcnBOYUZzNmNtNkpjbnpaWTVoNGx2bEE3N215X3U0bDFzMjRqZHVLMXIweWVGNXBudWliYVlZaU8zdFkxN3FQd0htSlVBUkFEckdMSS1KR2xCbVc4aEQyWVZoN2RHQzVfT3N0MWVmRnNQbTdTRHc?oc=5"
       },
       {
-        "id": 12,
-        "title": "空气优良天数超九成，水质改善率跻身全省前十！威远亮出这份绿色答卷",
-        "source": "neijiang.scol.com.cn",
-        "pub_date": "2026年09月11日",
+        "id": 9,
+        "title": "【奋进“十五五” 阔步向未来】黑龙江35条美丽河湖描绘生态画卷",
+        "source": "新浪财经",
+        "pub_date": "2026年09月13日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50bm5wTGFtU1JLc3VLX0taVXR4dWVtNzZ0aDlVekxxMnlqZVhLbjU3RExmeFkwOVhvSU1udmo3NFRrRnEtTXVIWVUtTllQZ1U5b2ltcFAtV2xpV251cUIxaEY4U1c?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVRJZWlxQWJuMHhFRFItQ015N25FVUdYcHV1UDBGTXpocEY4T01Lc2dOOWxaN2NDbDZxdFAyVEYzZGtNSHFXMVJlQkFFYXdNUFhFOUREUEFBcmZaOFZtQlYtbDB3cDZqU25QSGdKOTRMZmt6M1VYemY0eFgyVmhJMHhyTk8ydHVQTkMtVV81bmF0MlFjSWRNaw?oc=5"
       }
     ]
   }
