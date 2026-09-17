@@ -1,5 +1,114 @@
 [
   {
+    "date": "2026年09月17日",
+    "news_date": "2026年09月16日",
+    "update_time": "2026-09-17 00:00",
+    "total_news": 10,
+    "category_count": 5,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "北京将新建5座水库，形成一道由水库群组成的防洪屏障",
+          "source": "Sohu",
+          "pub_date": "2026年09月16日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmZsWXRGd3ltUzloX0p2UjZyX1FfN2RiQ21wM3QyWk1nOEs1bmZESDVKUVFDM3ZLQjFhSUJCZU4xUFItLVhObUV5ZFItc3dCNThsQ3FxOEhjZlFoZjFYemZ3RXJFMTBzcERSQmlidzFZanFfUkhyMzNMbHVLVU10dmc0U2dBRUE1?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "水利部和中国气象局16日联合发布黄色山洪灾害气象预警",
+          "source": "Sohu",
+          "pub_date": "2026年09月16日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbm16TWZibnJxaUlrRFR2bmJ2em5xWDMyTFlDN01lMkxXME1ycWFaZlpjbkVtMEt1ZVRqbmNuSmxoR0g3cmYxQXpGOXEzMGFEekZUQTRuTFNwMzVOQy1zeHpYNXdqR3R3VXZKT1JZRjUzVWEzNzBtX1FsZ3JxeWoyWWxZYXlfeEFv?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 3,
+          "title": "宁夏引黄灌区2026年夏秋灌收官",
+          "source": "chinawater.com.cn",
+          "pub_date": "2026年09月16日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MR242VGY5Z0Q4UG1PaGVPamNZTTdldTYtOUVHS1dvRHQ3eXhpaXRpTk1rOGtzcjYtek9YcnpRdzBEVG4zcHd6XzFaMldQSk9DLXkyOVFfWnZ5LVJaeVI1UldfQ1VJMkJnbUVJRTI1SFhqQQ?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "蓄水成景！清淤、引水、种水草……丽水古街颜值升级",
+          "source": "温州新闻",
+          "pub_date": "2026年09月16日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85OWNQNUx6UzhoNmxNSXB2bUUydjFhOVI3RHVtZnNJT3Q5S2UzS2lvYm53Z3IzdmtjQ2VzYTlRNEhnV2JlQUhpSl9CXzcyejliRmp6ZXNJRmVrbzVYTFJ3TUQ1a1hiUkZmMzNXdA?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 5,
+          "title": "“青海一号水利工程”三年累计增殖放流鱼苗79万尾",
+          "source": "Sohu",
+          "pub_date": "2026年09月15日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVndIZUYweWFLVXhfNFBVQktyZHliVlZfVjhiY3hJaTR3eTdnejVpUXVRTXRId3pIMU9Fd0NhSmtKdVJnaVZqQUstUzdrRFlJNHNISmtDbzZIeUhveDVLVmtrdzh1Y1VhOGVKaktuQ2pVQnJyRm9fVnJfNXlVQ08tYlZJekxzWkZ5?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "湖南省水利厅召开厅安委会2026年第三次全体会议",
+          "source": "湖南红网",
+          "pub_date": "2026年09月15日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LQUxKOVd1TkwtM2hzejIzMHp2VUJ0ZHBOcFdkQnJBUWM3WWljb0dFbkh5T1JYcl9tOEpSNFdDZW5xcVNmaVhNa0JDTEwtQkpBQl80V1dCU2VNSU5yd1VDVlppMA?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 7,
+          "title": "福建松溪：深耕河湖长制 绘就幸福河湖新画卷",
+          "source": "光明网",
+          "pub_date": "2026年09月15日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCNExGTFlqeWhvV21NSGNTUHhVS1lnVzBlTUo1ZTZ0STF3OC1IM1Nvb1hTNXc2a1JqSVR2UTdpQ3FxUXpicjdTLWFSenlWR1EtVmdVMVR4WWRHTWRvdzh0YUtrbmk1STA?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "南靖：河湖长制“开学第一课”进校园，童心守护碧水清流",
+          "source": "东南网",
+          "pub_date": "2026年09月15日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95c1lZMlZoVEVNd3RiWG9LUEJUT1FDUjRKRXhFSjhJLVBJcmFrYkVpLWhBY2FjRUtDSmZoajhSRlplVW9WSkdTTUNKZG5xR1puTWw5djdFaFUtYXlWVWxQa3pJeTU?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 9,
+          "title": "大通：抓实水质检测守好群众饮水安全",
+          "source": "新浪财经",
+          "pub_date": "2026年09月16日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGs2N21MX1ZOQ0hFQWVhOU9OenJ5eUpHeWxHakgyenlPNTZTZm5XX3BYV095dW9YTU5za1VrUnJ4NkRFU3FtQ3RnRy04WnRpYzl0cGtXWnlqUTkzUXBXeUxFbkIxZGVDUUdWZmpac3RhaVM1NUttWHVXZkx6dzQxSEk1dVVRM25rRTg1NkU1dDY1cUFrZjlCWA?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "水利部联合中国农业银行出台支持节水产业高质量发展金融服务措施_财经_24H快讯",
+          "source": "bihainews.com",
+          "pub_date": "2026年09月15日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pVXZkVksxV3g0U1hFTFJpc3pWY1FxclRPWWtpWDg3bEtUY2JGRWxTcHB0UHhINjctWWg4ZnUyRGpmcmVNQnVUSGVBTTd0TUxnZW94SWFlRGY3YXlkcDloTElvMEg2UQ?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年09月16日",
     "news_date": "2026年09月15日",
     "update_time": "2026-09-16 00:00",
