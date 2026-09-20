@@ -1,5 +1,114 @@
 [
   {
+    "date": "2026年09月20日",
+    "news_date": "2026年09月19日",
+    "update_time": "2026-09-20 00:00",
+    "total_news": 10,
+    "category_count": 5,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部和中国气象局9月19日18时联合发布蓝色山洪灾害气象预警",
+          "source": "欧洲头条",
+          "pub_date": "2026年09月19日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcWZuSnlsOGRwbEQzb19UaUF5bDZIcFpOeDlkMjNWb3U3UVJMLWx5WEs5NlEtVE5YUkd5YlZWdkQ1M2xIWW5ia25MOUF6UlRENVpyQlpkaEl5QjdLdXpvUlVpcXdnak1lN1U1Zk0xMy0wdmVqazJkc2JRX3c3Y21PaDRHOGliVXFRYWVBYkt4UjdtM2lFR1IzeGRkT3ptM05jSHZ0RUNDTUlaR1VBN2x1bEw1dkdaUVVkT2xYT0lVbGxqbTd5Z1FSTVZlNGo1Z2NXeFJFeGpzaTZiWm5CbHBj?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "水利部：正加快推进构建水文化保护、传承、弘扬三大体系",
+          "source": "thepaper.cn",
+          "pub_date": "2026年09月19日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tUEtQQzBMRjVzYmZSTy1YLXl4Sm04NjU4eV9wT0RUR0NWaXBpMkFZY3VtaHgwZGJjWDdRdmJfSjdMNzAtNHI2TG9yNDhxWWRUVWhIS3lIeGRPYVVtTVdVYw?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 3,
+          "title": "前8个月全国完成水利建设投资近7000亿元",
+          "source": "sohu.com",
+          "pub_date": "2026年09月19日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFJPbzFXUnpRcHo0OVpVWnlIWU10OVBFVWp6TFlrajZnY2dwRVlLM2dzTlhqREdDMjFCa0dDTG1faGNvWFhsMGRkUVVwU3FKX0RRRGpGdXBOa0YwdWtWSjNkMXRlRW5vQlhsMEJNTWFPLU1LaWVYQTRCazZQcFJ3aTZNeEo1RUxr?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "循两江水脉 察治水新篇 ——四川大学水利学子赴岷江、沱江流域开展暑期实践",
+          "source": "中华网",
+          "pub_date": "2026年09月18日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xcF8zYUZLVjhFVjhIaF9LdE9SaUtaaU9rb1JVdVhPQ1oyLWxzLVBqbzNJNVNkaVZNUHVJc0FpbjFva3RiVkJhOUdYQmNXUC1QNElWZnU4QVl6MG94S25YV21nTW16TjJtT2wtbVB3?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 5,
+          "title": "罗兴贵在“政见楚雄·见大姚”现场办公会上强调：农村饮水安全事关千家万户 要精准整治供水保障短板 全力守护群众饮水安全",
+          "source": "sohu.com",
+          "pub_date": "2026年09月18日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWWhCQ2U2Q1BCeW9DQmdtYWloS0NSaWxXTy1zZkEtcmdzSDBlN3ZzTzNPZm0wbVdldm10SVl6R2w1WnY1SlpHNkx1SzZZN2YyblA0b2gxY3ktZnNoak02eVlUUk9zWUsyRGdHXzdoemdTamFFRFhLUXlIOG90VktmWVZhWVVSeTRCM1M1bQ?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "支持节水产业高质量发展，水利部联合中国农业银行出台金融服务措施",
+          "source": "thepaper.cn",
+          "pub_date": "2026年09月18日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KYkF6XzVEeG0wT2NnTk54Sm1wOXN2Nk5sRGtZNXNYbF9OOTNOYXowbm9OUVNNMkpOTzMteGNiSGVYVDg1bmxnc2JUT3RJNDllNloxbHNfY0c3ZVM2U2pPZw?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 7,
+          "title": "粤港澳大湾区首个变速抽水蓄能工程全面蓄水",
+          "source": "sohu.com",
+          "pub_date": "2026年09月18日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWDlTVHZzQktFOENGQmxqZXZYa0dNSTRSTjlKcHdQVFd3a1pYNlNFLXVBbF8yZlNfQ0plaFdybWVxZXhjYUhxc3U4Z3JFaUJlTUY1b1VRS2FNanctdmxpNkZ6ZDRaWVFqbERja3pGME8ybXZxUmNsVFJFR0tvOFNzVEhGQVpjYWEy?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "石台抽水蓄能电站下水库蓄水在即",
+          "source": "新浪财经",
+          "pub_date": "2026年09月18日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVdiNXNkTlEySjhKdHh3X19yYkpwcXRocjZyNnZHYVhIRUlJVDhIbGZMMTNHWldWX1pMNTZHUTlYN1JXTlJQdXhESDFFYm1aT3hOUHNIQ0drSE05d216YTlyQ0RZdTI4cWtLMkdEdjFpOE40WUpReEFoTVN6WGZUNkVyZUI?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 9,
+          "title": "聚力河湖守护 彰显退役担当",
+          "source": "jxcn.cn",
+          "pub_date": "2026年09月18日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BM2NOOGhVVlpvN3pLM1AtdGxmS2FLcDBvTm4tRGE3VVpmTTdmX1ZVbGhrOXlFQjFtT044bml4VDhtR09tcGN0X2tRcG9rcWMzZDRkMktPWTVzS0xadVg2OXR6bw?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "宁波河湖空间开发潜力何在？15个项目寻求合作-新闻中心",
+          "source": "中国宁波网",
+          "pub_date": "2026年09月18日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sclJnVm9YVHNXbDEwbWRncFVqSzM5NnhlaTJ3blM5MGNYalJuTnZaVGJWSUZOQWowWm9DNkhSQ21CRU80TVJzN3Z3bWVMUktQdXd5RjJEQkFqbVJaRFI3VGFxNlg2b1BB?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年09月19日",
     "news_date": "2026年09月18日",
     "update_time": "2026-09-19 00:00",
