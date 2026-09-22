@@ -1,8 +1,8 @@
 {
-  "date": "2026年09月22日",
-  "news_date": "2026年09月21日",
-  "update_time": "2026-09-22 00:00",
-  "total_news": 11,
+  "date": "2026年09月23日",
+  "news_date": "2026年09月22日",
+  "update_time": "2026-09-23 00:00",
+  "total_news": 10,
   "category_count": 6,
   "news": {
     "防汛抗旱": [
@@ -14,106 +14,97 @@
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
         "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN3JMTmtNTHU4cHdLYkJvblRKdkU4alNCdWdPLXRTTTBkOTNHdTl1Z2RINlQ3Mmh6UDBZS1Y4OHRnbTdTS3BnanV0OURkcGFuOW8wTVA5Q08tbGdDeTlFeGdaYWdid1I5bjk4Yk9wSGJqQnpqS0FEejVDaVJrejdKb2FydTEya0VWRzllX1RvM1h4NXZyVmQ0TQ?oc=5"
-      },
-      {
-        "id": 2,
-        "title": "新田：黄永英主持召开防汛备汛视频调度会议",
-        "source": "永州市人民政府",
-        "pub_date": "2026年09月20日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZWp0aUtwZ1dWdDl2YklkOGVkTTMycjZlWlBCY0hNamNsVkgtdXRXLU5QMEdNeEhtaHVBRjc1eDA2WHB1b2hPVU5RTXUxZ1pHdjJHZ1ZOWG95MlVlNlRaYUV2SlFQNldjb2swcWFvWllkTF9kbDNzamdkdEJhM1UtVkhsLXM2NWpk?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 3,
-        "title": "莎车县：水渠建设跑出“加速度” 筑牢农业灌溉保障线",
-        "source": "xj.chinanews.com.cn",
-        "pub_date": "2026年09月21日",
+        "id": 2,
+        "title": "AI来当评标 “裁判”，浙江水利工程招投标开启智能新模式",
+        "source": "sohu.com",
+        "pub_date": "2026年09月22日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHFycVdfcWRSbVdmbEFiajBwTkU3dEVCdDJ0VW0xVmktM09SSFgzbU1uVXEtVjZyN19tT1VKTktfQVZnT2RxQVdpMV9TN3VPc204VVNla1RtZ043ZXYwZjE0cnZmSEtueFVRX0RxaVI4OVlsUUFsRXB3R2VTX3dxWDdRVQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORE9OS2NEY2lFamVYU0IzeWNFZWtVd2FvenUwcm1nN1pRNUhmNnVjVVQ5ZFZDZm9TeFNnVDlLWm9TOUY3d2JuMzFFMGZpdXVDTGZEMTdPcXViZkpnSUNHbTZLWEdqQjFFQ2szMERpMUJwc3RtRnVfRjJzMkNNa01jeVBqTmhsdWdqemFITg?oc=5"
       },
       {
-        "id": 4,
-        "title": "盐城：全市水利重点工程“加速跑”",
-        "source": "chinawater.com.cn",
-        "pub_date": "2026年09月20日",
+        "id": 3,
+        "title": "浙江水利工程招投标迈入AI辅助评审新阶段",
+        "source": "新浪财经",
+        "pub_date": "2026年09月22日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tbVZfMUpuRUVkUEpzTEt4TDdyb1F2WHVYZkZzbEpLYUVPMFRneHB5UkptQ29iQm1VQ2JNRENVRjdlZG9XUnFSNVhWYmtxWHhLUjE5WUlrTm9jaDVkNkZVN2pWdFBMekxnc3NEQ2ZBN1pxRm1ZdWcwaldB?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNUlKRTVXcXFFMzhtVHdnd2Y5M3FzSGdIamtTZ2NZZFctcU5jYmNSZ3RvaHFUTnlKYVRYcmJlRFJCV2dKTjhJbHBlUW5OUmUzdmFwOF9FUmxRam5GdUZUVGxwQldURTZtdzhzV0tZUEpWMHBmZHk5RUxhOVhvWHd3M0J1cHRxQ0ZMZkpLUERncUUxeXpYYlBzUw?oc=5"
+      }
+    ],
+    "水利工程": [
+      {
+        "id": 4,
+        "title": "善用筹策保安澜，精守大坝固安澜——广东水利电力职业技术学院水利工程学院师生以科创技术守护水库安全",
+        "source": "凤凰网",
+        "pub_date": "2026年09月22日",
+        "content": "",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZQXU1N2xyUTFtRnp3eGozLUNiMzFkTnNIRE43QTRaS2pSQnZsOWM4cC13SGk4c2o2bFJXUnBQeFBtZzVYb3I2SjA5MS1GRzA?oc=5"
+      },
+      {
+        "id": 5,
+        "title": "​全国首例全线顶管引调水工程取得突破引隆补水工程780米试验段贯通- 湖北日报新闻客户端",
+        "source": "news.hubeidaily.net",
+        "pub_date": "2026年09月21日",
+        "content": "",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wWWo2azFWTXM1SlZuTm81dFlJbS1tUktqSjRKUG8tSEM1MGFneXFlRGlnbWtzTEREek9YdVpadkEyRzJmTWl1ME8xN1RDZ2RZV3lBMkRzekhFdDN2S0E?oc=5"
       }
     ],
     "政策法规": [
       {
-        "id": 5,
+        "id": 6,
         "title": "李洪开展巡林巡河并督导安全生产工作",
         "source": "px.jxnews.com.cn",
         "pub_date": "2026年09月21日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
         "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mTVk0ZlZrRTdXNWRjYXNJbHVxQllNbkdudjN0MUZGLW1XQ0ZjX0h1Wk9NOUtTZ08tWTI1WkhwV0NKbHgzR1RibkhsOTZ5M2g4TlBSTkg1UFRKSDA1TzI2dmZKblhCMEwwcFE?oc=5"
-      },
-      {
-        "id": 6,
-        "title": "《中安在线》：启航“十五五” 铜陵往前赶丨筑牢水安全屏障 铜陵绘就现代水网新蓝图",
-        "source": "铜陵市人民政府",
-        "pub_date": "2026年09月20日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVkpObjc1XzVzLTZ2VE94ckxwcldycUR6TnMtNG5PRFBWaWFMamlwemp2SmtSQjViY1BEQWlmM28xU2U3aHpxck53ejdua293MExNRUQ0bUFuWnp2ZUpMOEtZSUUyTE50R3EwWnkyRC14NmxrRjVGdTdzTGM3QlJSYTFjdzg?oc=5"
-      }
-    ],
-    "水利工程": [
-      {
-        "id": 7,
-        "title": "​全国首例全线顶管引调水工程取得突破 引隆补水工程780米试验段贯通",
-        "source": "极目新闻",
-        "pub_date": "2026年09月21日",
-        "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14ZXlkLUVUTkYxZHNBV0hNcmtwcHRIblVUckh6ZW5uWlBXejBabHhIZWNCckJGYjZWSG4tN0p0T0Vjdlo1YVpyZ1ZqTC1HX1NSNVEtV21lTmRQNnc?oc=5"
-      },
-      {
-        "id": 8,
-        "title": "荆门市水库安全管理和汉江秋汛防范应对工作会议召开",
-        "source": "新浪财经",
-        "pub_date": "2026年09月20日",
-        "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGc5TTRqVU80YWczU3NfdEs4VHdsNVdKUkJPWG5BT1VMMWFIeXItWHNlYnM0UzhuQ2xvaklEYXdQY3BPWVptZFQ0Q0s5aGhOT1lxa2d2akJ5bnRiSFU0X0lzZ1ZveW5STmZfYmZCUHUxazBwakE2cW9XSzhvelExajlCY2FCeU1MRlg1WUk5TG9PZ1hweEwycg?oc=5"
       }
     ],
     "水生态环境": [
       {
-        "id": 9,
-        "title": "浙江27个县（市、区）率先建成全域幸福河湖基本格局",
-        "source": "华人头条",
-        "pub_date": "2026年09月20日",
+        "id": 7,
+        "title": "光谷关东街道河湖长制进校园 共护碧水家园",
+        "source": "极目新闻",
+        "pub_date": "2026年09月22日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZXY2cEZuNXRTczg0SElXM1hhZndQLVQxbzI2aWhIbGlWcE5Iby1YNHlHa0FIYUNUbDNUaHQtemdaendRYWY0R0FOUlVTS1l2WkxPQnliU0dCa0dtOXVfYl9velhkNllBZGlXZmJJM1hzZ2Nfbjl0bjlUWkxFZ0FlU1ZJN2NEdms?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KaGt1Q3NQY0ktbS1FRXZjY3J6XzNTc0g2eVpEWUNpX0JMcVpEaGV4M3BkNHdQaERveGhEek9wdFM1WE1yT1ZYWVc1b1U4NXZhOXNwNmFyczVtN2s?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 10,
-        "title": "一池“活水”解用水之困！张家港以“集中收储+分散供给”破解县域水权交易难题",
+        "id": 8,
+        "title": "曲靖市麒麟区：以水价改革破题 用心做好特色产业“水经济”",
         "source": "新浪财经",
-        "pub_date": "2026年09月21日",
+        "pub_date": "2026年09月22日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNl9RRjkySkR1dmJYTEoyZnpYYnprSUlhNUZQTlZoaFVXdWFLdW0xcTdLSTNaN0VEby1Ccnh4SjJqY2pKUkROOWl4dGFOY2c3R25lajRHSFNHZW5LcHZtelRTZW80aVlnRDA0V1RBNEVqRV9IZkJKNmlBM3IySXIzQVZhYTQ4RDZrUjJ6WFhmSy1PcnVheE4zWQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxQbHVpYWhRbVpOcUNhcG1iX0MtLW5FVDdHWU5UUDh0NmhNUXVmSXpTYmNYOFlDN2dEVHExcXlRQm1iSERDWkJham5OMUY1X1pIYk1kTjdNYkdtcTZlNFdBMHAzak1sd295MVdKRE5saE9PR1doWDdMUy1nOTdKN2tRbDR2TENUc09kYjZ6VzBjUElTQjk5YlhHSWRjRm5kQXBXWGQtVm1uQ203b0M1LWZPM21aNzlSbXZZWWdvaFdOQnNLRmswWC00dWhJZ3kwUzNCSG1QZWZnQjg4ZnBCdnpJQTdjc1NvaVBVNFJNMlFmVmZ0Mk1oem5YWE5IdHdtT3NWY1RhZDdNUmFrRl9kVXFlVUpvYzhFVlVwY0xCdlh5MEFOQ3hrR1A2c0dodklkZnY0QXNIcnBidGsxbWp3a2JaYWxMT1Y2ZHEycjg0UXdJRVVELUxFWV9IeENaVnpMbUpoZjF4N3ZXOEFrSWYzNGZaTjhPTm9PaFBxeV9MVE53YzAtVEwtYXNFUktRanhlTEpYT0JZZHEwR1RhVm9tTWxaeEFudXhoalp3M0wzQUlic2N1TElMUGNBTlcwTEMyQmtxZjdtNDBzTmZJZlBQZGVFV0d1NHh4dzdYRUs0bzVzd2V4TnFaQnVEanU0dVp4V0gxR1Y0TnFYaHhER2tyaE1zOUVVajVEQ0toRWNtZ1ZWNlROYVRPNE1IeEFxU3VpVHBRaDBxY0poVFNVVUJYeGx0ZEJtbjBwcmo0QkJhRm94dzV5di0xVm9vdF83eDBMMkhGZERRTA?oc=5"
       },
       {
-        "id": 11,
-        "title": "全线通水！山西东山供水工程领跑全省现代水网建设",
-        "source": "搜狐网",
-        "pub_date": "2026年09月20日",
+        "id": 9,
+        "title": "海南区：拧紧水资源“阀门” 激活发展“活水”",
+        "source": "央广网",
+        "pub_date": "2026年09月22日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVThTS3N0ZGNoSUlxWmc2c0d3ejdoN1EtSl9SVERDRjMxblRvZmlzSkJ2QXJvNWxGVnNYSlhnVFY3N3dKaHlIdS1JeU5PQ0tNeWttcDQ0bXo2a2JfQ3MtZG4yRFBmdkFtS21Ebk9kZDRkS2JLM0lXc1NiTUl4SFEwVXFMX0RSTXJHcGxRWg?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTcDNHMUkwYVB1WjQ5U2ttcmU1cjN6V1MyX1JwVzBYSmM0UlVsaGJ1T3VuV2pPTldSM0UzWTY3d2ZlclR5MURoUTdrNUdudGJwRlU5anBNdFRFa1RMUFNoTFFqNG1Gd3ZyVThnZzRXakdQcms?oc=5"
+      },
+      {
+        "id": 10,
+        "title": "吉木乃县实施农村饮水安全提升工程 筑牢乡村振兴民生底色",
+        "source": "xj.chinanews.com.cn",
+        "pub_date": "2026年09月22日",
+        "content": "",
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSEpyRy1YSTVRTWxnRjFsUkxzR0FtRXlhOXdoR1M3S2pLRkJjTWNkSnFDQjlzYmdpR0k5WDU3S3JYbXZFOENWX2J5WDQ1eDJJZ1cwR2JfQjJlUVhnRFJoZDZFcUhOeFlfVzZ0MkNjUDMwY0xVeXExNXA4bVIzQkY3SE5RZw?oc=5"
       }
     ]
   }
