@@ -1,5 +1,116 @@
 [
   {
+    "date": "2026年09月27日",
+    "news_date": "2026年09月26日",
+    "update_time": "2026-09-27 00:00",
+    "total_news": 10,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部和中国气象局联合发布橙色山洪灾害气象预警",
+          "source": "news.cctv.com",
+          "pub_date": "2026年09月26日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wbUJpYjA4NFVMcVZtMFhfYWVielI4cEtRcEpfWjBqSVB3NnlZQVVIdUNsZ29VSDQyV1NwT1ZIWXF6VXlIZG1TWnp2S0hreDNKREE2cUJHeGw1a251bWU0dHZVVXoyZVBtdkl6SHJYa2htUnpHTk5ONQ?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "水利部和中国气象局9月25日18时联合发布橙色山洪灾害气象预警",
+          "source": "川观新闻",
+          "pub_date": "2026年09月25日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GWk94dzNUMGhiYm5NNHdnMzk3TWFUcV8xTUZsYWJlZDIyOFBzZHZCMlVqckRaQ1F5Q2dRZDRvZVg2VEZJRUhKblFGMHVKZw?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 3,
+          "title": "新疆葛洲坝大石峡水利枢纽开发有限公司获20年发电类电力业务许可证，发电运营资质落定",
+          "source": "finance.sina.cn",
+          "pub_date": "2026年09月25日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSDdPVm1IcUdSU1QzM2tJWUZnaXdxZGlBVVZVNEhlN19kX1NhTzlFVEpaaUZOME5ZQWdhVFdvNGV4SnV2TkhJbHBvYWotWU5feUlKY0lONC1qZlpBdHcySmU5b0F0TmE4V0JNLVgtQkFCenNWU2RPMktpelVLdlZZYWg0cXNJemZLOFZVR3JaeHBXcGdBSWI2c0FxcWhXS2ZXaExHYVZpcG1zNEN1VW0zdVBRaHA5d1JteTV1cVQwQmFvdzU5UWxHdkZIa25ZOHlqRjVpd201Y1k1eWFKTnhqbTc2WVZZR0ZiR0VLQzBoTlFlbWhUbFU5WA?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 4,
+          "title": "一批重大水利工程建设加速推进！",
+          "source": "finance.sina.cn",
+          "pub_date": "2026年09月26日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXpLNU5yQWJHVGNSZHJGTXQtcVU0MWtqSTI3eVNiSU1EYjJ6T0l2X3AzRS1lM0hOQVk5U0RuTFJqWkJVMUh1YjgxTi1sa1FVal9PNjY0YzNOdm1aMWtDd3pfOXo3SVFwam9JNkxURnliX3dwajJ4MTJKZDJyTEpOMXcyX3h5cjdmTEVLckQxSmExLWozLUdaLQ?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "安徽石台抽水蓄能电站下水库工程通过蓄水验收",
+          "source": "finance.sina.cn",
+          "pub_date": "2026年09月26日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOFZWa0JHaVVBMmxGUkdJbmpYMXRDdlFJZWVCc1ZFUkpiZ2IwRG52YlFoZXR4eERyUXJ3UFc4Z2FyMHBxcklQOURBTFYxNUttMHpFU3AxNkM0V21TUExoM1lmUWlpT0ZXa2FPVGhweXdPcGFBYmEyQmthUkVDNUpkUHhENXlYQQ?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 6,
+          "title": "大连入选全国第三批市级水网先导区建设试点",
+          "source": "finance.sina.cn",
+          "pub_date": "2026年09月26日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fQV9XVkNtUV9OY2FKSjk1ZVA1d2hFenNfTHVCV1ZSN0JZXzA2Nm9JelFPVWpOSkI5WHdLZW9YbV80WDJjRjZBRzcxN2FndHpVMFdXWFJVbTBWV196QmRoeFpqb3E3ZDJob3dSdW9yTXdPcWxCV0twNQ?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 7,
+          "title": "同样是农村供水，两个村子为何差别这么大？",
+          "source": "finance.sina.cn",
+          "pub_date": "2026年09月26日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeHlPZWFyeE5UaFFDTXlWRVFUeEtRY0pBVm5ZOTFIWFltUnQ0a2hVMUJoejZrSEJrNWFOMmdGVnI5ODc1T0R4dUtxV0RuUExzUjZuellFUzZ4Z3l1cE5ydi1wZm5IUGRZX25SZkppUDhGb3Vfcm1xYXZkejVGS0hVbU8xVGMycWRjcTM4VTYtbVcwa3ZIVGFvcA?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "7月至今青岛市区供水超7000万立方米！中秋假期守好城市供水“生命线”",
+          "source": "news.qingdaonews.com",
+          "pub_date": "2026年09月25日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aRy1maVNvQkN0VlFDZ0lPei1OekFxenhsbXhlMjJ0YnpIQnpncHFlMUFsQldGYjdfOG5KOGJ6ZTlNSXJFX3ZJQjBHVjI5eG9xbDdEaHNvSzd3R3l2NHNxZmd6eXZRMlFvaWdjVkZROGZBZw?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 9,
+          "title": "家门口遇见幸福河湖 温州15分钟亲水圈覆盖率达97%",
+          "source": "xinouzhou.com",
+          "pub_date": "2026年09月25日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWkdYM0JDTDVOekNwUS14akVfV3UxejktYndib0lqek9KcWR4ZFRuZ0xTM0NsRmlKdE1UQ3pfZjRZTU5fWVpTYUVnQ2VKdEhvNEVCc0FoZ2NCdjRhM1lVZ1pTSHBfS1hNYW45enEtb210Y1ZBbm1EMnJobWZ6ZlU3M1JkWWdXaExjanBodVc1VlFKNTJCc0lzbzJZQV9nQTF0bk9qeV9YUVdJZjc1Q2pKNEVoUnItZTN4VUZaX3lGTlM1dw?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "我省系统推进美丽河湖保护与建设",
+          "source": "sxwbs.com",
+          "pub_date": "2026年09月25日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkgyYmZxeTlhb2JKYnpURzRUTC1VSGx3OTYwSGptYzdOVUwtUnFoSXpUV2ZhblpnblhuMVVsVm5pQWU5U0x3ZXhnRDdwai0zV2pKdHI5M3RwQ0dXcW1fMDg3Z3ZVc05jYV9GbXlNMDBOU3FRYW5KUUNwY1dkYVFTSVd3ZnV1bXNZX0N5MEJpM0pmakQtd0pvS3p3?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年09月26日",
     "news_date": "2026年09月25日",
     "update_time": "2026-09-26 00:00",
