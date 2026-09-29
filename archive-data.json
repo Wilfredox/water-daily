@@ -1,5 +1,143 @@
 [
   {
+    "date": "2026年09月29日",
+    "news_date": "2026年09月28日",
+    "update_time": "2026-09-29 00:00",
+    "total_news": 13,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "受强降雨影响，重庆针对3区县启动水旱灾害防御Ⅳ级应急响应",
+          "source": "新浪财经",
+          "pub_date": "2026年09月28日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HR0FiT1Bmd0lGVDVZMlpOYUI0Y3JVZ2Q2Rm5xQ2cxNmdSWlh0aEdkRXV4X1Fzd0piLWprb0drcy1UalFjaDgyN3owbmp4NFFPY0l1d2pXUjVoWWRvdHY1a3NTT2huVGFya25FRDhfbEZtNUkyNFU1bVJ0Zm9MWXM?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "水利部和中国气象局联合发布蓝色山洪灾害气象预警",
+          "source": "京报网",
+          "pub_date": "2026年09月28日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiU1drcWlmNHRjbzlrRWVTcmdJWTZhb1lDUENtRi1hNldWR0NadFp6c05yLTdxOS14LTNmdk1kSy0xR21abm9qaXM0bDRHQjJNdE14eW1TYUc1TXJaNkE?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "水利部 中国气象局联合发布黄色山洪灾害气象预警：川渝陕部分地区发生山洪灾害可能性较大",
+          "source": "chinanews.com.cn",
+          "pub_date": "2026年09月28日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qbUEtcExQOGowZ1NUdUxyMEZvZ0VHRVVRVzh6emZ1TVJWVl82YmU4VzVwb18xcVhWM3ZQei15b2o4MUZHandOZkNVU045Nm9QMV9TV1ZqYXRaSkxZOWVOUnFiWmxmRTRxcFhBdUNVXzdPeUozcGc?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 4,
+          "title": "湖南水利首次规模化应用TBM掘进技术获新进展",
+          "source": "21财经",
+          "pub_date": "2026年09月27日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcmhkZW1nWjhaNjFlblZOSDl0UjJpZFpVVUF2cnpoZWJqN3RzSE91Mnpfc0pILXhacE96M2JaWkg1bC1FR0pMYWczZ2dzYkxnUXdDZTR6WGVsbl9pd0xwVm5EZFAwc28xT0FpQzRtS2VyeHpHTXJBRnVIOHV2UU11RlNOdUxYdDNZY3ByRHJTSQ?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 5,
+          "title": "国网新源山西垣曲抽水蓄能电站下水库正式下闸蓄水",
+          "source": "新浪财经",
+          "pub_date": "2026年09月28日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRDhkX0Zkb1o2c3oxNzVtQWhLWkJuU2pBRDZ5WXg0Um9rTDI3dmlyd1Y3R2JrNGptUTVqVXBGMFRPVGUwTTlQVXAtM1F2S1BCN3Ywck1WbF9ISnpxYm1zUl9SQnhQY1ppN3VGVERKTmUwM1R6Ynd6dnQxSmFYM19sMlJNZ3FRWnZfdFg0Mlc2dFJOQ0VBSlZMcDZsOXhRZ3V4VzVOZEk0ZERCcGNBU05qSVVzOXpNRXRxQXVkaWF4WmZsbXdEV1F4akhadThTZnd0S0dHQXB3NENhSUNMSjBDbFMxMW4wdkZqbzVveEVYT05JRWpkQU0wTG53QjZXVC0tSjJ6SzE2YUFaUHFHTTZudHo5QjVFRE5nQkhEVVRTRVE?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 6,
+          "title": "再获佳绩！济南、曲阜入选国家市级、县级水网先导区建设试点",
+          "source": "搜狐网",
+          "pub_date": "2026年09月28日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTjk5UWMxU29Bc1Y0Z2hnQ2ZjaTVkUnVRUGp5UnptS0RTLUkxb0xrcXRjbWhvcmRzVHZvYnVwU2l1elF5QUhnUkhaek1MWXRJTk9IbFI4dERrUTZfdEdNT0RycDBuMnBpcEUtaGk5TW11bVFja1hiRk1OTUk1eXJnYXkxTUJwbmt1T2tIdQ?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "大连成为东北地区首个全国市级水网先导区",
+          "source": "搜狐网",
+          "pub_date": "2026年09月28日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMVpSNXFGbm9ENGZ1azYyMGo0REVXeVFzT3lhQU9BT1Z3bFl5QzNyRjZVS0NTTXF1TDkzZUhKYzJSWWNOOTRqMTg4Ql9nUGRNbGt0QTgwWkJackEyQkszRUpmcmRzZzU1cUE4Y2RieTRITEdtMm9FUHBMcXBWSUNfMG1HNGR0Tkkx?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "兴水惠民担使命 实干攻坚筑水网",
+          "source": "新浪财经",
+          "pub_date": "2026年09月28日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOekxQNWNnN2tGeDdwd0RIZERBUFByWUZkRkFOaUljMlRmdnZ4WWh1bVZJZm5LOG5HR1NEUXZpM3hrNDlGMGhlTHREQ29INWRXcjhIV29OcnNMN0ZyR1JBZkJvUTdiWWdNR1lkYk1WSWpWNm9SeVlTVE1DVGNUMVZjTVZWVTlnQTN1MjF4UGN3SktVNVl0eEZqMDJtRUFHYlNLN2lyQTVkdTlWd055dURmcVJ5em5WcFVOaXlHX3Bpaml4WDMzY2VMdEZERHROR0NjTkxlTEQ4MF84WGZKdkFCR2NobG4xLS1YVnZvdzNkNEFKUnlTM1ZITGVCU0RmQ01MZVFxRk1TWGVRNl9XTWJZMS1JTEE3dzhuMFFZQUVXMUdvb3hscllfdko5WmNxbGpYS0tkNnVIdG80WnNoWmxCOE9FeEl1YWVqWTd1TXZJRDhsMUZzZlZuMFgyVjhrVG5SMFoyVTUybm9QT243cmMzMGJGa1lvMlNzQlAyeFhzSEJmU3N2aERJZk0zVmRnWHdIMGxYQmJhUjlIVGF5UVluU2wyYVR0MGtKZ3MtelJibV9RMnZPMTN6Z29tRm9yMHRZeUFsaXYtaEpOMTNpSHFGQXNzaDBsd3JoT21fWTN4QXo2UQ?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "深度参与国家水网建设，共享发展机遇 “民营企业在重大工程全链条各展所长”（高质量发展微视角）",
+          "source": "济南新闻",
+          "pub_date": "2026年09月28日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxWU10YXlEX0tuNk5WZ2M3b3hKZERTSFlmNHVtQVIzbTJNX1RlNXdzT1FyUzFxdF9ZMzNNQm5zcFROVUtLUmZINkNuVGVKd2Z2SkVwOWVHeXd2LWVuY3FGWjRUMEhycWM?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 10,
+          "title": "广东首批县（市、区）全域幸福河湖建设全面实施",
+          "source": "chinanews.com.cn",
+          "pub_date": "2026年09月28日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hWUJUQVQxQUs0Y1pZLS1KdktZaGpXNmVFLVVOSkx5WUlPSkhmVDhfbDUyamdPcG1IZjV0cjlZUTZQb0lRR0w3UDNUWmZaRGFFendwU1I4TXZvMXFmRGNwRUgwMkJZU0Vn?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "樟木头石马河支流官仓水整治提升项目完工，幸福河湖建设再添新景",
+          "source": "搜狐网",
+          "pub_date": "2026年09月28日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU09oOWsza0xNUUJFbjBtTUFTeS1qZzBwWmFmRmpCUlFQcHhpU2lVUHNTRW02RFNDdUMzUnFXSlVKblhpRS1jRjFhX0hwc2tidUNlcFJIYjNhdzZLSDl2RXdUR0xvbS1hMjVOM2dmdkVkYnRueEpiNVpjSHhJb2tMUUtPX0o0ZVM2bl9sdQ?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "从外来游客的“第一站”到一座城的“亲水圈” 温州全域幸福河湖“生金”有道-温州都市报",
+          "source": "温州新闻",
+          "pub_date": "2026年09月28日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9La2NmejVKM0VGX1VPOFFkbjRrVnE1OGk3VTg1UllmYUUwcGJVT2kzZ1NvQ2p4bUdfbl95aEpyZ01TanJ2U0puUzdqWnFiS1VGYVNhNDJQUnp2MFMzZ0J2UEhNaV93aGFrbTVsbw?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 13,
+          "title": "滹沱河供水工程正式向太原市供水",
+          "source": "新浪财经",
+          "pub_date": "2026年09月27日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQTk5zMzd1M01KSHZxc2hDZzcwb1A0aV9uSHZCM1RmajBiSGRUdzcyRnFFYzdqMnAxQlhsbGhXTFF1V3pkQWd5WHNneHg3M0Q2SHBnTGxKM05KMDNXUGFkRno0X0dESk5scHpzRmQ3RFA5V3NZMTY1azNkeXZpLUQ0ZDFYWkRreWVLZVUxNV9wUnhzMTg5MTRXa2M5eXF3dUg3ckF5SURwTlBkelI1UmNjMm9FajNibDlYLTJVRERwRXhMSGJkTXdFRWloTXFfQWxPZF9TRFFNNEw1TjM5V3JuQm43eXNLZzZESk5vel8ydjdodFZvX3htUnI1ZnV6YlRxNVZrWDI1WkhHRWNzenBKdWFNd1NsREM5M3lRTklNZTF0WlhILWhod3JURVBNZjZpOVFjTHluN0llN1JoVmZiUThBZF9nNmY5S28yN2U4VHJvOXNTSmhyMC1meGFPOUlNNXdHdlJob09NV1lBai1EUXJlTFNuaVl6LVMtdUcyUm1LUHNMMml1SXdwSHpreFk0NlhDdlN2cTJ0ZXFoYnczOXZGRHhnOEJDUFB3WnZDRnoxYk5YS0R1RW9yRVN2Y2NON3I0Ujh3a3VmdU1zYjZLV3BEYXNKTUh4blJKQkphV09tQQ?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年09月28日",
     "news_date": "2026年09月27日",
     "update_time": "2026-09-28 00:00",
