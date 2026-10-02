@@ -1,5 +1,152 @@
 [
   {
+    "date": "2026年10月02日",
+    "news_date": "2026年10月01日",
+    "update_time": "2026-10-02 00:00",
+    "total_news": 14,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "提前算雨、提前腾库，广州黄埔南岗河有了小流域防洪排涝“智慧大脑”",
+          "source": "搜狐网",
+          "pub_date": "2026年10月01日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFlFMVJOa2tmT19Ea3p4NkRaZkZ6b0RuZTlFbXUzd3g3dnlIVVpXOGFicjhSN1NBNmhrQkkzWGxudEhtN191anRoVnhfOVliWUVwUGVMRG00ZnJXT2gzUGFPMzQwYUFKc2lQZndMcS1uNFNyYlZIdjlIaWdzOXlaYlNnd0VwVmlu?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "水利部和中国气象局10月1日18时联合发布黄色山洪灾害气象预警",
+          "source": "Jiemian.com",
+          "pub_date": "2026年10月01日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tdG9vNEVMdnh3TmJES1ZSekprMnNZMEU4Z29jMGlsVTRHN1R6MXJKRV9ldnFZazBBMU1DV3BkN0RYR04yLUZKbEU2M3ZENk54WWM4TjNDbG4?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 3,
+          "title": "水利投资高位运行：前9月完成7950亿元，年底冲刺1万亿",
+          "source": "新浪财经",
+          "pub_date": "2026年10月01日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNdWZVOE1QNEVqSEhrU25tU3M4Z3FjcUJPT2VmQXduSzZYdVJPSEpPZ1lYN2VZZnVremhHS0NydVU4QkdQY2JoQy1nSHNmQ0d4clUzY09Kd1V1Z0FzMTIyaDl3U3d3UUVMcnN4TXh5a2Vpc3dJMEJEX1BnUVl4SEpPdnBNZktFbTRWUUdDTUFsMTU5b1dWOXZFbzd6cFpid2ZqaVUwT2NobjRHOS1fS053bTFZWnh5MHlaLVhTYjNNWVFnYWVmYkY1RTlKNWVMc3pQdXFuUnl5bXVqTHQ2YTdfaGFHTklCNm9CSV8ybzgwZFdCMGhLcExnQ3dXTFUxc2d3VlhmRVJHUnJwUDd2WU5YT1JqS3hvOU1NWmZ6WEdETkdCSUdoeVJiMWVaaEZzZGFRd1VCMlZjdnZMalAteEtsR0JZdzFoY21LREVZOTJFQUNiY3dmTXFIYjVVazh3ZTNoMUlZa0w1cWhEM0NrQWprcVg2Qzl0SHVlUTJHdmMyUERzbEw1bllmR0pOMC1NcWVsYnVxZWFiRFF4T3RaMUFaSWxNbUlnTE9XSWhENXhRR1JIVnZWOGdmTXVPMFpkX2NEc3A2N3FKUlZ4djU3R2ctVDB6UlNOdXhWdW9ING5BYUZiUQ?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "【城建】长乐三溪水库小型引调水工程报建，总投资14538.59万！",
+          "source": "搜狐网",
+          "pub_date": "2026年10月01日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODU3OVlpZXhOakczY1BlS2ZQM1hkNEc0SU5kQ3BZSi1SUGktV25PRW9kLS0wUnNTNU8zRl9STDdKbW9Ca2w2eEJnd0tCTnlwOGRkY3d6d1pfRVNJUHVzbTNfemlWNkRBZ2hUSXAwUWdMbzNqUWw1NWJjeUhXTld2bU51cDcxUkRE?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "水利部：全面系统推进老旧水库改造提升、病险水库除险加固，加快江河堤防建设和河道整治_手机新浪网",
+          "source": "新浪财经",
+          "pub_date": "2026年10月01日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSFlUMlZWSmo2MkNkLVdVLUpyVmFOSFBzVGJwLTJHa1R1eUVTM05PbDVGM1dDN0pmQ0ZHV0JuMDZjaGlmVnFXM1ZkNS1UTHlHTFpkMkUxYjRKMjdPSjdLekF3cWktSFV4WWhTU2lIV3NpSHNabm9TdnJ6MEk3U2wwUzVqRnhFT0pHQVI0bEg4d1hfYUUyanF4QW1JRmk0cjE5SHVTdmIyQQ?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "跨流域调水对水库蓄量与区域干旱依赖结构的影响——基于SNWD-MRP、RS-HRDI与Copula函数的分析",
+          "source": "生物通",
+          "pub_date": "2026年10月01日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VMUk2cDZMUVVld0p3S1Zhdm5WVVJ4Mk4xSVRubmJZeE1hcVJNWm1ZWUt3U1J4U1lVQlM0eHJ4Ql9JN0RNaU15YTZZS1VWTUdBSnd4UXhMWWFZSlVSWlJIMjVpc0ZDUV95ZjdCVnBR?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 7,
+          "title": "国新办举行“开局起步‘十五五’”系列主题新闻发布会 介绍加快建设现代化水网有关情况",
+          "source": "scio.gov.cn",
+          "pub_date": "2026年10月01日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WV2hSNlNQUTk2YlRxRkZHdlN3MFk1emg1NjFmSHhDTV9EX1F0c3RXbDZELXZkU29MM3hlNy1rbE44cS16bzdBNFl0cFU2d21ZUXFMQXAyNF81dkMwLUE?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "水网“硬投资”“软建设”齐头并进 “数”看水网纵横感受大国经济脉动",
+          "source": "搜狐网",
+          "pub_date": "2026年10月01日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQazFqX0tMMGVUN0hUdDhUUWtQMllCRnhXRzlteFRkbVd6cm1yU1VsN0d5UnNFMThOdk1KamUzUml4czJ4ci1JQy1JS1ZSeXlMZS0tZEJVNEZhazgtSHlMaUR4dV9Vb3RNUXNVS3JJU28xX0hObU1xRlBZSXpwc1ZQR29yUlg5Mmc2Mnh1cg?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 9,
+          "title": "湖南省水利厅召开月工作碰头会",
+          "source": "红网",
+          "pub_date": "2026年10月01日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWaFd2cjNONVVBRHdPMV9MRFZfTm5vT3drR2ZoM09DVlBEaXVYV0xiS3dveGhaWVktY2RDY1B0VUxzamVjTUY0TWUxVUJRREVzYm91UUlYaUZFV0pEYVEwanhVUQ?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "许甲明工程获5.17亿砂州水利基建设施升级合同",
+          "source": "The Edge Malaysia",
+          "pub_date": "2026年10月01日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96N3BIRjRaRXRjZXNLQTc4QnRHLURNRTBQZktJbXJuX1pTSkZWQURUY1NjU3RVR0lncUxLZzdZVjRjTnVkaDVGS2xRWXR0V2pu?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 11,
+          "title": "全省61家！陕西节水展馆和非常规水利用科普基地开放，邀你沉浸式学节水",
+          "source": "群众新闻网",
+          "pub_date": "2026年10月01日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjTVhUZTcxcnhZeW9henJGT09iVkdaV29MdzFsZFhfdXlsemkzYkM5MDh6cmdGdGF6dUJYeDlTNzJ4a3hscm15b1lpamc0WTM0cHAzMlJMOXh0VV8wWjVrNTVFZ2doQUdIZTJB?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "华北平原区地下水超采治理交出硬核答卷！水利部：地下水超采量减少75%_手机新浪网",
+          "source": "新浪财经",
+          "pub_date": "2026年10月01日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSXRtdUx2UlBjLTl1Rl91NGVaUVFSTlJERkZxR25sd1U1YlIwd1VWTEhSZWhKUlRYcjQ4Tmc5Y09mV0pZZFV4dGpOdkNMdG9ZOHF5OHBoOVA3NzIzUWtYYTBhT2NmXzVHVk1EejlLbmNISkZVNmRuZkhBMnJmSXZLU0Ezd0NlYk5LaERnUmIyc0ZzNm5zb3phU0xZQkdTako2YzZ5ZWlxcw?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 13,
+          "title": "广西河湖长制十周年巡礼",
+          "source": "gx.chinanews.com.cn",
+          "pub_date": "2026年10月01日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qRUpnNS0tTVpsX2VqeWdlOVRtNTZGcXNDR1lDNmd2WDJJOW5VWVBXdjVqcm5QU0hpSUFteTJtNS1YSTlzemFDNHRUc1pwYXk1SUFXTEhTX18xVjEwcmNpWlRCYjdudXM?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "数字赋能，广州黄埔打造中心城区河湖治理样本",
+          "source": "广州日报新花城",
+          "pub_date": "2026年10月01日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXhUc2Ryay1TaFY1Q1A1NEdkZUhFaHhHc1VpQmlZS3FMdGtuZ1RZZXE0LVRrM3Y5djRJXy1aTDNTUmU0aEVybk1ZR3gzT05lMUUxanN1bV8tT0RuZnc2T2k2UHZqRUhLVlBsdGhkZ2xRNXlYV2RXUFhFQ2hVd0JnZmFvNHRhVEpZQVE?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年10月01日",
     "news_date": "2026年09月30日",
     "update_time": "2026-10-01 00:00",
