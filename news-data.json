@@ -1,73 +1,62 @@
 {
-  "date": "2026年10月03日",
-  "news_date": "2026年10月02日",
-  "update_time": "2026-10-03 00:00",
-  "total_news": 11,
-  "category_count": 6,
+  "date": "2026年10月04日",
+  "news_date": "2026年10月03日",
+  "update_time": "2026-10-04 00:00",
+  "total_news": 7,
+  "category_count": 4,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "提前算雨、提前腾库，广州黄埔南岗河有了小流域防洪排涝“智慧大脑”",
-        "source": "21财经",
-        "pub_date": "2026年10月01日",
+        "title": "庆和省气象水文站正积极准备应对今年剩余月份的降雨和洪水预报。",
+        "source": "Vietnam.vn",
+        "pub_date": "2026年10月03日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVldILUdBNDNQcFJ5aVc4UHJrS0NGR21uQmlTWktyLXU2dmJWVV9nVW1wbHBHUVo0dW5ZTnMxWDNwaUM2WUJzS1pJRm9BSnZLTzFSMlg2RGEwdXUyU0F6RHZZX3VsUFFsM1hCcWotd2ZSOEk1NDNqNEhzY1VWV1Y2T0JyR3g2Z3lFeE85MkJ3RQ?oc=5"
-      }
-    ],
-    "综合要闻": [
-      {
-        "id": 2,
-        "title": "湖南省水利厅召开月工作碰头会",
-        "source": "红网",
-        "pub_date": "2026年10月01日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWaFd2cjNONVVBRHdPMV9MRFZfTm5vT3drR2ZoM09DVlBEaXVYV0xiS3dveGhaWVktY2RDY1B0VUxzamVjTUY0TWUxVUJRREVzYm91UUlYaUZFV0pEYVEwanhVUQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWlpMllPSWVvdnJ5a0M1RzJiT3RGWHpycVR2QV9DelpJNkMwT1cwYlVDajdkbXIwZkVyQmlIa1NWTFJyZjZvaExqZTRvYWNfQXpPbW5PRjI5Qk43cVhPOE51c1RaMWs2clJzMFB3eElJV0J4cl9KU3lZQXRqckE4M0NtcGNfazhhYmVxSVB1am1EMFpNYmp1ejgxbGhDZUl1YmRVYzU0T2k5aEluMkhfRkE4QnNwSzhZeFZF?oc=5"
       },
       {
-        "id": 3,
-        "title": "许甲明工程获5.17亿砂州水利基建设施升级合同",
-        "source": "The Edge Malaysia",
-        "pub_date": "2026年10月01日",
+        "id": 2,
+        "title": "水利部和中国气象局10月3日18时联合发布黄色山洪灾害气象预警",
+        "source": "欧洲头条",
+        "pub_date": "2026年10月03日",
         "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96N3BIRjRaRXRjZXNLQTc4QnRHLURNRTBQZktJbXJuX1pTSkZWQURUY1NjU3RVR0lncUxLZzdZVjRjTnVkaDVGS2xRWXR0V2pu?oc=5"
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSHQ2THVhcWFCUHZOOG5Wak1kOVFtQ0d6S0pQdmJnbW84UlNQV1dJbWVtQnJHbEFsZXgzTzlBZEg4Z0kxVUxxcjV0bXphTURCRDFoOVAzcDJ1b2ZNN1l1VkVDSXVCamQtR1VNang1eTRUSEZDUFhPRThveEVBZks5bDhjOV9nd19lOHN4YlZ1NFhvQVplbU14OUFCb1V2YW5SSHZFRnp1VzloN2NpY2w3VWpFWnlHekhCanN5ZzRQQTMwaWxGdnNJVkZHT0c3V1BPOW9OX2hOVFB3bmdiSzlLU3dB?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 4,
-        "title": "全省61家！陕西节水展馆和非常规水利用科普基地开放，邀你沉浸式学节水",
-        "source": "群众新闻网",
-        "pub_date": "2026年10月01日",
+        "id": 3,
+        "title": "【深化“三抓三促”行动】瓜州：改造农村供水管网惠民生",
+        "source": "新浪财经",
+        "pub_date": "2026年10月02日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjTVhUZTcxcnhZeW9henJGT09iVkdaV29MdzFsZFhfdXlsemkzYkM5MDh6cmdGdGF6dUJYeDlTNzJ4a3hscm15b1lpamc0WTM0cHAzMlJMOXh0VV8wWjVrNTVFZ2doQUdIZTJB?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOLUhkMHhWYURVMDFydjFtTlVUZG9YY1VFV2cyX0VmdXNhWXQ4c3FIZ3dua3RGNGNHVncwRWJSTTRjSVdwYWlhZVpFTjNqOG94RXNDejAxbFBqb3dYSThlUXYtREtGZW9FMmZJcmNSbC0xQ1BXdnRhbTYxcXpIU2l3RUhjSEdGZ043dU9JRk5Uc3ZQVGl3cmVpRjJlSS1BU1BrZXVrTVFteTJ5V21BeTBPYWRVS3U5TXhIZVExSm1XU2JySVk0OTloV0xGS3RKWEtBclRIbGh3dXFoTjltSExOUVo5bVlXNnNCejlGV2h6N3IxeHRZNTh5a2FydVVUUVl6WTdsNXpEeGhpYU9kbEc1VklPODJhTzZzSW42S3BqVHQwa29ob2dTemxscV9udGV3Y3E2WXdxTQ?oc=5"
       },
       {
-        "id": 5,
-        "title": "华北平原区地下水超采治理交出硬核答卷！水利部：地下水超采量减少75%_手机新浪网",
+        "id": 4,
+        "title": "2025年四川降水量可灌满近214个泸沽湖！盘一盘四川最新水资源家底",
         "source": "新浪财经",
-        "pub_date": "2026年10月01日",
+        "pub_date": "2026年10月02日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSXRtdUx2UlBjLTl1Rl91NGVaUVFSTlJERkZxR25sd1U1YlIwd1VWTEhSZWhKUlRYcjQ4Tmc5Y09mV0pZZFV4dGpOdkNMdG9ZOHF5OHBoOVA3NzIzUWtYYTBhT2NmXzVHVk1EejlLbmNISkZVNmRuZkhBMnJmSXZLU0Ezd0NlYk5LaERnUmIyc0ZzNm5zb3phU0xZQkdTako2YzZ5ZWlxcw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxOdWVYYkF5b18tR1R0TVl2NGZSUjJoY3hubHpoTExidTRSdTdDSDVNZGRZbnhOU1EtWnFUb0JpeDZhekhDZHl6RF95Qk9MSXZBUDRPMWhJN2E3SVBJYllXdTRrejVMeldTSWFuS3ZjeTNmV0dwQ1duaGw5eVJFZFJqLWItWlNBbkhOSzdvRURXYXEweWtvcjA1QjFyb3RMbEh0MmlVb3U4N2VvLXI4REQtV294Szl4Y2FoV19HNEVTZDNYSmlFaVNhbVJiVjJkc2RXakF2WktGck9rRGxvUTRjOE9FOXBWOW1iVVI5bnhRdWdBYVhqTk1LNTNZWFp4bDN5SmZYVnJrUkJob2oyREZBYUFYemd6S2dmczFzUGpOR1k0UWI4Nm82YkVhb1FXT25kTFNMYzZlZEZLVzA5SlFBRUtaZVh0TjdSSG9UdHN6VWxaa2VwUnJRZ0pRWDJNNnBPWWNFUmpuZzVnRzlQVS1xUGw5UEIxQU9rTHJ5dlc0cWxlWFNXV1duZ1kzY1hscl90OFFSNG9HVEx3UXRHczNMLWw1YVN2T3Rhb0hWbEp5OERDdHltckxpREpCQTBld1BvOEdJUDFsMWxFYWhfYU01eHFWQVFGaFdLdkZwMVN2SkozOW5aVmRoXzNhR3lmQktab1otaHN1Rkgxb1cwRlBqbHBQODg0aUhwM1I5cGxjX1ExTEhISC1sUHNPOFYzSFM4NjBDbUtzb3lJVHdvYm9oUHRR?oc=5"
       }
     ],
     "水利工程": [
       {
-        "id": 6,
+        "id": 5,
         "title": "水库安澜背后的四步战法",
-        "source": "finance.sina.cn",
+        "source": "新浪财经",
         "pub_date": "2026年10月02日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
         "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjNtV0J3aWpvUlpoTWVFVGNOdGVUcTVBRmJxTzFJMVlUSjdYTjZrUWFYaGNTWmFGd1B6ZC1PZDA3dzl4RjNMUXY2NC16aGlzS2tuUWVCNWVLX0JXYVZrSDRTQTFoRVU0M2pCU1dLeldlOHpxaVhyOUNHdVZ5b0I1WWUxQTRTUlFIdDBfVnVkaERSbXh1bnk1TQ?oc=5"
       },
       {
-        "id": 7,
+        "id": 6,
         "title": "弋阳朱坑创新推行“田长制+水库水管员” 双轮管护模式",
         "source": "大江网",
         "pub_date": "2026年10月02日",
@@ -78,42 +67,13 @@
     ],
     "政策法规": [
       {
-        "id": 8,
+        "id": 7,
         "title": "从“大动脉”到“毛细血管”！枣庄山亭“3+1”，解码山东水网的基层样本",
         "source": "新浪新闻_手机新浪网",
-        "pub_date": "2026年10月02日",
+        "pub_date": "2026年10月03日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
         "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NNXk5VG40Vjl5QjJPOVFjTmxCNHZqV1BaRlRCR0E2VDRxUGFtUWt2RXZoV2NCS29reFFTRnBkb3MtUHo3azdEbm5pblVjdmp1N2tLa0VDRTNEbDJPbVBhMGlHcHpIV2JPNTFibU8ybzhrOFhUelE?oc=5"
-      },
-      {
-        "id": 9,
-        "title": "水网“硬投资”“软建设”齐头并进 “数”看水网纵横感受大国经济脉动",
-        "source": "凤凰网",
-        "pub_date": "2026年10月01日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FSVMyQW1mdHpRR3YwempHUDl6ZmpaN2Y1SXY0aUp1WlZjTzV3SkNOZ1V6ZG1vMk8wSGNwSmxjU0FXNnJZdlJDVl9VS1E?oc=5"
-      }
-    ],
-    "水生态环境": [
-      {
-        "id": 10,
-        "title": "广西河湖长制十周年巡礼",
-        "source": "gx.chinanews.com.cn",
-        "pub_date": "2026年10月01日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qRUpnNS0tTVpsX2VqeWdlOVRtNTZGcXNDR1lDNmd2WDJJOW5VWVBXdjVqcm5QU0hpSUFteTJtNS1YSTlzemFDNHRUc1pwYXk1SUFXTEhTX18xVjEwcmNpWlRCYjdudXM?oc=5"
-      },
-      {
-        "id": 11,
-        "title": "数字赋能，广州黄埔打造中心城区河湖治理样本",
-        "source": "广州日报新花城",
-        "pub_date": "2026年10月01日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXhUc2Ryay1TaFY1Q1A1NEdkZUhFaHhHc1VpQmlZS3FMdGtuZ1RZZXE0LVRrM3Y5djRJXy1aTDNTUmU0aEVybk1ZR3gzT05lMUUxanN1bV8tT0RuZnc2T2k2UHZqRUhLVlBsdGhkZ2xRNXlYV2RXUFhFQ2hVd0JnZmFvNHRhVEpZQVE?oc=5"
       }
     ]
   }
