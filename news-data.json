@@ -1,79 +1,61 @@
 {
-  "date": "2026年10月04日",
-  "news_date": "2026年10月03日",
-  "update_time": "2026-10-04 00:00",
-  "total_news": 7,
+  "date": "2026年10月05日",
+  "news_date": "2026年10月04日",
+  "update_time": "2026-10-05 00:00",
+  "total_news": 5,
   "category_count": 4,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
+        "title": "水利部和中国气象局联合发布黄色山洪灾害气象预警",
+        "source": "新浪财经",
+        "pub_date": "2026年10月04日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRWFSSlNrQURMSHZNbGh3cmt6SGdjOGdScTRoRjNFQ3lsSGc0QnJaamhacXV0OHhBQXJvc19oODQxSVQ2Ry1QLS01aG10TTlzc0NPMU1xQV9aaHNSRldwT3V2RlNRSmtXVEZFWVZvVktRMDBvc3N6MDJnNGh3emJXRjV6LVZsdw?oc=5"
+      },
+      {
+        "id": 2,
         "title": "庆和省气象水文站正积极准备应对今年剩余月份的降雨和洪水预报。",
         "source": "Vietnam.vn",
         "pub_date": "2026年10月03日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
         "full_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWlpMllPSWVvdnJ5a0M1RzJiT3RGWHpycVR2QV9DelpJNkMwT1cwYlVDajdkbXIwZkVyQmlIa1NWTFJyZjZvaExqZTRvYWNfQXpPbW5PRjI5Qk43cVhPOE51c1RaMWs2clJzMFB3eElJV0J4cl9KU3lZQXRqckE4M0NtcGNfazhhYmVxSVB1am1EMFpNYmp1ejgxbGhDZUl1YmRVYzU0T2k5aEluMkhfRkE4QnNwSzhZeFZF?oc=5"
-      },
+      }
+    ],
+    "综合要闻": [
       {
-        "id": 2,
-        "title": "水利部和中国气象局10月3日18时联合发布黄色山洪灾害气象预警",
-        "source": "欧洲头条",
-        "pub_date": "2026年10月03日",
+        "id": 3,
+        "title": "基层党建丨区水利局深化党建融合以高质量党建引领水利事业高质量发展",
+        "source": "新浪财经",
+        "pub_date": "2026年10月04日",
         "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSHQ2THVhcWFCUHZOOG5Wak1kOVFtQ0d6S0pQdmJnbW84UlNQV1dJbWVtQnJHbEFsZXgzTzlBZEg4Z0kxVUxxcjV0bXphTURCRDFoOVAzcDJ1b2ZNN1l1VkVDSXVCamQtR1VNang1eTRUSEZDUFhPRThveEVBZks5bDhjOV9nd19lOHN4YlZ1NFhvQVplbU14OUFCb1V2YW5SSHZFRnp1VzloN2NpY2w3VWpFWnlHekhCanN5ZzRQQTMwaWxGdnNJVkZHT0c3V1BPOW9OX2hOVFB3bmdiSzlLU3dB?oc=5"
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HWlJMZTBnY0ZqUlN5MS1ndjZzZV85M1NjbnJhcU0zOHd1UFpxNmU4NzNaTUUtbkNNSFkzTllqZWFYaVRTUFV3NkF4N2JNSWc1TVhDdzNTczBWdlhaZzFvMU5xWnRKWWlET2VyZmNPa09rYkd2QlE?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 3,
-        "title": "【深化“三抓三促”行动】瓜州：改造农村供水管网惠民生",
-        "source": "新浪财经",
-        "pub_date": "2026年10月02日",
-        "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOLUhkMHhWYURVMDFydjFtTlVUZG9YY1VFV2cyX0VmdXNhWXQ4c3FIZ3dua3RGNGNHVncwRWJSTTRjSVdwYWlhZVpFTjNqOG94RXNDejAxbFBqb3dYSThlUXYtREtGZW9FMmZJcmNSbC0xQ1BXdnRhbTYxcXpIU2l3RUhjSEdGZ043dU9JRk5Uc3ZQVGl3cmVpRjJlSS1BU1BrZXVrTVFteTJ5V21BeTBPYWRVS3U5TXhIZVExSm1XU2JySVk0OTloV0xGS3RKWEtBclRIbGh3dXFoTjltSExOUVo5bVlXNnNCejlGV2h6N3IxeHRZNTh5a2FydVVUUVl6WTdsNXpEeGhpYU9kbEc1VklPODJhTzZzSW42S3BqVHQwa29ob2dTemxscV9udGV3Y3E2WXdxTQ?oc=5"
-      },
-      {
         "id": 4,
-        "title": "2025年四川降水量可灌满近214个泸沽湖！盘一盘四川最新水资源家底",
-        "source": "新浪财经",
-        "pub_date": "2026年10月02日",
+        "title": "明确44项具体措施！我省深耕节水治理，到2030年将全面建成节水制度体系",
+        "source": "搜狐网",
+        "pub_date": "2026年10月03日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxOdWVYYkF5b18tR1R0TVl2NGZSUjJoY3hubHpoTExidTRSdTdDSDVNZGRZbnhOU1EtWnFUb0JpeDZhekhDZHl6RF95Qk9MSXZBUDRPMWhJN2E3SVBJYllXdTRrejVMeldTSWFuS3ZjeTNmV0dwQ1duaGw5eVJFZFJqLWItWlNBbkhOSzdvRURXYXEweWtvcjA1QjFyb3RMbEh0MmlVb3U4N2VvLXI4REQtV294Szl4Y2FoV19HNEVTZDNYSmlFaVNhbVJiVjJkc2RXakF2WktGck9rRGxvUTRjOE9FOXBWOW1iVVI5bnhRdWdBYVhqTk1LNTNZWFp4bDN5SmZYVnJrUkJob2oyREZBYUFYemd6S2dmczFzUGpOR1k0UWI4Nm82YkVhb1FXT25kTFNMYzZlZEZLVzA5SlFBRUtaZVh0TjdSSG9UdHN6VWxaa2VwUnJRZ0pRWDJNNnBPWWNFUmpuZzVnRzlQVS1xUGw5UEIxQU9rTHJ5dlc0cWxlWFNXV1duZ1kzY1hscl90OFFSNG9HVEx3UXRHczNMLWw1YVN2T3Rhb0hWbEp5OERDdHltckxpREpCQTBld1BvOEdJUDFsMWxFYWhfYU01eHFWQVFGaFdLdkZwMVN2SkozOW5aVmRoXzNhR3lmQktab1otaHN1Rkgxb1cwRlBqbHBQODg0aUhwM1I5cGxjX1ExTEhISC1sUHNPOFYzSFM4NjBDbUtzb3lJVHdvYm9oUHRR?oc=5"
-      }
-    ],
-    "水利工程": [
-      {
-        "id": 5,
-        "title": "水库安澜背后的四步战法",
-        "source": "新浪财经",
-        "pub_date": "2026年10月02日",
-        "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjNtV0J3aWpvUlpoTWVFVGNOdGVUcTVBRmJxTzFJMVlUSjdYTjZrUWFYaGNTWmFGd1B6ZC1PZDA3dzl4RjNMUXY2NC16aGlzS2tuUWVCNWVLX0JXYVZrSDRTQTFoRVU0M2pCU1dLeldlOHpxaVhyOUNHdVZ5b0I1WWUxQTRTUlFIdDBfVnVkaERSbXh1bnk1TQ?oc=5"
-      },
-      {
-        "id": 6,
-        "title": "弋阳朱坑创新推行“田长制+水库水管员” 双轮管护模式",
-        "source": "大江网",
-        "pub_date": "2026年10月02日",
-        "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZYkFUUjF1SGFaUml6U2podGlzaWQ0TFU3LTFSVjBZcFJOLUphX2dZVmpEQ1d6amZQRnU5b3V2dDRIVG42bk55U21FQ3hNQ1YxZE9wT1lfa3NQYmZKTXQ5MzRaakdETFNEb0lvMw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS2FHM1NsWVUzQTVNQlNVdlVfNTgzUmJCM1p5LU8wOGc0enh1UFlWbnRBSlNud250Um5Od1lZdEg1ZFdYSHNLeVJFSlNMRUJBbURUMGVzSlQxNGw5aUhoaFNHM19rMXdQZkxORXNIbEdYSHVOYll5MllJT0VyUlRuV3RCRTFYbW9zMVhCcUExTQ?oc=5"
       }
     ],
     "政策法规": [
       {
-        "id": 7,
+        "id": 5,
         "title": "从“大动脉”到“毛细血管”！枣庄山亭“3+1”，解码山东水网的基层样本",
         "source": "新浪新闻_手机新浪网",
         "pub_date": "2026年10月03日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NNXk5VG40Vjl5QjJPOVFjTmxCNHZqV1BaRlRCR0E2VDRxUGFtUWt2RXZoV2NCS29reFFTRnBkb3MtUHo3azdEbm5pblVjdmp1N2tLa0VDRTNEbDJPbVBhMGlHcHpIV2JPNTFibU8ybzhrOFhUelE?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55aGhFZ2d3UWhRV0ZwczdvRXdPTm92Q00yNkxPOHpBdUh0cXZMMkpZSmNBUUFpUE1jUEx0UFh1WHl2TlpSRmJPNXNfMG5DdU9UVDY5Wjh0MW5Vdk12Q1VNdFEyS1c3blZQNU1SaEJ6S001SDd2TEpSQUZn?oc=5"
       }
     ]
   }
