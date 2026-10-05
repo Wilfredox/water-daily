@@ -1,5 +1,67 @@
 [
   {
+    "date": "2026年10月05日",
+    "news_date": "2026年10月04日",
+    "update_time": "2026-10-05 00:00",
+    "total_news": 5,
+    "category_count": 4,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部和中国气象局联合发布黄色山洪灾害气象预警",
+          "source": "新浪财经",
+          "pub_date": "2026年10月04日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRWFSSlNrQURMSHZNbGh3cmt6SGdjOGdScTRoRjNFQ3lsSGc0QnJaamhacXV0OHhBQXJvc19oODQxSVQ2Ry1QLS01aG10TTlzc0NPMU1xQV9aaHNSRldwT3V2RlNRSmtXVEZFWVZvVktRMDBvc3N6MDJnNGh3emJXRjV6LVZsdw?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "庆和省气象水文站正积极准备应对今年剩余月份的降雨和洪水预报。",
+          "source": "Vietnam.vn",
+          "pub_date": "2026年10月03日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWlpMllPSWVvdnJ5a0M1RzJiT3RGWHpycVR2QV9DelpJNkMwT1cwYlVDajdkbXIwZkVyQmlIa1NWTFJyZjZvaExqZTRvYWNfQXpPbW5PRjI5Qk43cVhPOE51c1RaMWs2clJzMFB3eElJV0J4cl9KU3lZQXRqckE4M0NtcGNfazhhYmVxSVB1am1EMFpNYmp1ejgxbGhDZUl1YmRVYzU0T2k5aEluMkhfRkE4QnNwSzhZeFZF?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 3,
+          "title": "基层党建丨区水利局深化党建融合以高质量党建引领水利事业高质量发展",
+          "source": "新浪财经",
+          "pub_date": "2026年10月04日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HWlJMZTBnY0ZqUlN5MS1ndjZzZV85M1NjbnJhcU0zOHd1UFpxNmU4NzNaTUUtbkNNSFkzTllqZWFYaVRTUFV3NkF4N2JNSWc1TVhDdzNTczBWdlhaZzFvMU5xWnRKWWlET2VyZmNPa09rYkd2QlE?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 4,
+          "title": "明确44项具体措施！我省深耕节水治理，到2030年将全面建成节水制度体系",
+          "source": "搜狐网",
+          "pub_date": "2026年10月03日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS2FHM1NsWVUzQTVNQlNVdlVfNTgzUmJCM1p5LU8wOGc0enh1UFlWbnRBSlNud250Um5Od1lZdEg1ZFdYSHNLeVJFSlNMRUJBbURUMGVzSlQxNGw5aUhoaFNHM19rMXdQZkxORXNIbEdYSHVOYll5MllJT0VyUlRuV3RCRTFYbW9zMVhCcUExTQ?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 5,
+          "title": "从“大动脉”到“毛细血管”！枣庄山亭“3+1”，解码山东水网的基层样本",
+          "source": "新浪新闻_手机新浪网",
+          "pub_date": "2026年10月03日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55aGhFZ2d3UWhRV0ZwczdvRXdPTm92Q00yNkxPOHpBdUh0cXZMMkpZSmNBUUFpUE1jUEx0UFh1WHl2TlpSRmJPNXNfMG5DdU9UVDY5Wjh0MW5Vdk12Q1VNdFEyS1c3blZQNU1SaEJ6S001SDd2TEpSQUZn?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年10月04日",
     "news_date": "2026年10月03日",
     "update_time": "2026-10-04 00:00",
