@@ -1,8 +1,8 @@
 {
-  "date": "2026年10月06日",
-  "news_date": "2026年10月05日",
-  "update_time": "2026-10-06 00:00",
-  "total_news": 7,
+  "date": "2026年10月07日",
+  "news_date": "2026年10月06日",
+  "update_time": "2026-10-07 00:00",
+  "total_news": 10,
   "category_count": 5,
   "news": {
     "防汛抗旱": [
@@ -22,60 +22,87 @@
         "pub_date": "2026年10月05日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jMEJrM3Nkd1lVSFNfclg4WWNlczU2NGdMVm9HdVJWZUZ4aDMyVnFkbXR0UlhzSWhjR3I5SHc3UnpSWmhWQ3FIeTVLTE42VnBfRGI5dkNocTdSOGJ1cWdwdGxvcnA?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56aGV5Qm5aNW5iU3VTVDFaWC00LXE0WVlSOUY5RlFZNWlKajRTOElYQzdCdkRicmpWWmJFN0NRUVRiWU5lYWdER3FNaVRYZktmRDdTSHVSZVpUU2tsMmhEYy0wOHNPdw?oc=5"
       }
     ],
     "水资源管理": [
       {
         "id": 3,
+        "title": "屯昌县水务局：从“有水喝”到“喝好水” 绘就城乡供水民生新图景",
+        "source": "中国新闻网",
+        "pub_date": "2026年10月06日",
+        "content": "",
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QaE9US1FsVXVGZlJwRlgxNGZYcFVUWldYMlZIS2ZwYURYb0d0LVlrWE1CQ2F4YTZISXcxd0VoMGhQX3VPWGwyZDh0SFZoaE1ZVWVtSmNDUk5LZkhleFduWjBNRkRMVnFjUXpDVw?oc=5"
+      },
+      {
+        "id": 4,
         "title": "活水润乡野 清泉惠万家——临洮县提质升级农村供水筑牢民生根基",
         "source": "新浪财经",
         "pub_date": "2026年10月05日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
         "full_link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOSGtWREFkQUZlbkNCRUdGMEs3ODhDNWwzenZjSF9sdHdvaVktR0FKaGVsQmdDSTExNVRnZWNCU3JhcGRvaTNGVGtkeWlsUUZwVXBOM3RyWVc5UlhocWdWdTJ3SjZIX3BRV1RGSnJkLVFJeWRRaWsxSWxaYmV5QzFMLWVHT0VxTVlnNU9VQ2pmMWdfV2VERGFhWVBJLU5JZ1pNV1ExLWo4cmhWZEZSTTNPZ1ZMam44ZnZKZmtHS2dHVndnWnNFdWU4dlVCRV9TdjcwRm5UM0pHdFlSU1JjR2E3bTRFblNSTFV4M1d2OGdweHJxUGtIaHR1SDEtUWlZdnFkRGpEZXd1dXlXcXEycVFzeS1BTHFFZWtxZmdqTnkwV1V1SWZjMDd4U0ZtWjg4amt4NGhDa0NjdDNqaU84bElGY2FsUGo3c3czUTM0OUF3cw?oc=5"
-      },
-      {
-        "id": 4,
-        "title": "2025年度水资源管理“国考”结果公布！黑龙江省再获优秀",
-        "source": "新浪财经",
-        "pub_date": "2026年10月05日",
-        "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMGZsNkJvRGtmeERxV2RxbVVvV3RyTnRQM0NVYnlZUF9rS3lxcWpiaG5CS0hiM3JBRjRtQlprVVZ0eEFPRC1pMlp1YS14YWlJWUc2bjlYclFrLXZKRHF2ZmduX0Ixb2FOd0N6YTlJbFZhTmRGOGZqN1lNNlZCTVZ3ZmdlaXZPLXpSYmExRVIyejQtbVhsaHBGUQ?oc=5"
-      }
-    ],
-    "综合要闻": [
-      {
-        "id": 5,
-        "title": "基层党建丨区水利局深化党建融合以高质量党建引领水利事业高质量发展",
-        "source": "新浪财经",
-        "pub_date": "2026年10月04日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HWlJMZTBnY0ZqUlN5MS1ndjZzZV85M1NjbnJhcU0zOHd1UFpxNmU4NzNaTUUtbkNNSFkzTllqZWFYaVRTUFV3NkF4N2JNSWc1TVhDdzNTczBWdlhaZzFvMU5xWnRKWWlET2VyZmNPa09rYkd2QlE?oc=5"
       }
     ],
     "水利工程": [
       {
-        "id": 6,
-        "title": "在全县高标准农田建设突出问题整治整改工作推进会议上的讲话",
-        "source": "biganzigongwen.com",
-        "pub_date": "2026年10月05日",
+        "id": 5,
+        "title": "我国加快推进现代化水网建设 前三季度新开工数量超去年全年",
+        "source": "央广网",
+        "pub_date": "2026年10月06日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTWXdyWDhCekpOUUFRX1ZmRTdvQURLUmlIbmo0T2cwanRBTTVYaW5rcDl6alVNS19HRmd5aElPQWEzVHNNSG9TWm9VNy14ZjZnZk80RHZHZU1aM1ZPV2E4?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aSGxFeV8xdWZPMGNMV29sUVhST0l2TUMyb1dhOVN2NE9YSWUyc1pQR18yb1BJd3FRSEEwZkxKc3FzdnVsTlE1ckxRTHQtQWR6dXdfR1FSb3NVOUV6azh2YUtyRkkzMm9tLTFHWTg3ekRJUQ?oc=5"
+      },
+      {
+        "id": 6,
+        "title": "全国水网建设提速：前三季度新开工项目数量超去年全年",
+        "source": "21财经",
+        "pub_date": "2026年10月06日",
+        "content": "",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdlJUSElvQ2xZVmwwSVRZZ0NjYkZYYm9uN0JmdjNzTzJDUkpPaWFzQU0zNXVKQ0wxbWV4VlFEd2ZZSGNVYW1fSXFFRTllNnRhaUVsUDVobzhJemxDRTZSS2hnOURHOWREa0xHRW4zN01QRVVrbHlwVXY2enVuZGxSSnMwWXZFSXd6RWRmdkZnUQ?oc=5"
       }
     ],
     "政策法规": [
       {
         "id": 7,
-        "title": "三部门下达农业防灾减灾和水利救灾资金21.54亿元",
-        "source": "新浪新闻_手机新浪网",
-        "pub_date": "2026年10月04日",
+        "title": "“十五五”末水网织成什么样？水利部给出六组目标数据",
+        "source": "华声在线",
+        "pub_date": "2026年10月06日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQNDhhYnZNUk5kbWhfNDlzZWV0UkpKSm0zZnQtMld5S1BVSmlCTFR1WVp5b2ZITkVqazFZOHd2VlV0SHlOOFU1M3FaX2xkaWFhUzlTVno1bWI1REw5dEZUaldxLUEtbUQyNFFUUVdfYmFCalp3aHE5VXRKZ2JxZkpUYmlOZDFSQlBEZ19UU3ZmVHlaek52b05VdVhRRWdMUnoxUnotM0J2aUFLOXJ3SjMzSHpIa2p5cGFQdXJjekc5QWF4QWQtWlM4cFg3aHRkYzdnOHFnMFEyWktHU2h6cU9HQ2N3NWJLRF9zMlF4VFktVThNaVZ1LVVzQXNXOEtTWGp6YTNFVTNnN0Nzcjc4OFhGRnU0eFlBTGFVR25NNHZyeV90bkpTQmRleU9SNmxJRy03RjVkUlhPb1ItQnowdnh0RWRpQnZWSTRSbEJiT0ZiVUlYR2Uy?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xMUZ5Wkl4NV9HYjNJV002ZTZURzVjUzFLaExFOFZha2laV2hrZmZTWHRDM0JUNzd1am1XSk9DMDYtNjF0S1p2b2s2ZG1KWTQybXk2d3hLVF9Oa0RnTlE?oc=5"
+      },
+      {
+        "id": 8,
+        "title": "视频丨国家水网到底是张什么网？三个问题讲明白",
+        "source": "新浪新闻_手机新浪网",
+        "pub_date": "2026年10月06日",
+        "content": "",
+        "impact": "将进一步规范水利管理秩序，推动依法治水。",
+        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfSVRGMGV4NHpBVjdnNTZoRnJ5cDdmWE5ic19fd1BCdUNyUDc3WmpGVGVETWx3bnp0TGdkRlJQX1haa3BTMFNLWnEzMExqWWdJcU12ZE5HY1pPYWtuUXp3U29aRFRmUk1kTVBVVFV3Z0EtZHNqUFE?oc=5"
+      },
+      {
+        "id": 9,
+        "title": "国家水网到底是张什么网？有多强？",
+        "source": "新浪财经",
+        "pub_date": "2026年10月06日",
+        "content": "",
+        "impact": "将进一步规范水利管理秩序，推动依法治水。",
+        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xWGI2aEJ6Q3Y1Z1JUb1QyNjh6Qi1XMGFTMU05R1o3aWwwMlItS1FCV20yQ1g3Q2hwOEJKTTZDMnNxYlpyUENpdXFzQ2pzejJreGhSdHNpVVNKenB3bjRUOG5jOEFLdEQtRjJYSjhQMnJHNDA0bVkyQg?oc=5"
+      }
+    ],
+    "水生态环境": [
+      {
+        "id": 10,
+        "title": "会元乡统筹灾后重建与河湖治理 集中开展域内河流“清四乱”专项行动",
+        "source": "新浪财经",
+        "pub_date": "2026年10月06日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTDZSRHNydldVZXdsOWY4MkZzU3VCWTc1akNHX0piN0ZhRlhOWHhsbG5DNXp5OS1jRFNldFg0NzJfQkdGS3hmXy1SQzMtX2VMaHhXQjREWUlaNnE0Zm4zeVBNM2x5V09uTGNNcTlCS1diNE9ZQVdsakhnYUZHVl9Cdmdwa3pMcFJVeEY5ZHB2NkJFWGJTaGc1eA?oc=5"
       }
     ]
   }

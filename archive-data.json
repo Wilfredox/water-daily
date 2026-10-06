@@ -1,5 +1,87 @@
 [
   {
+    "date": "2026年10月06日",
+    "news_date": "2026年10月05日",
+    "update_time": "2026-10-06 00:00",
+    "total_news": 7,
+    "category_count": 5,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部和中国气象局10月5日18时联合发布黄色山洪灾害气象预警",
+          "source": "新浪财经",
+          "pub_date": "2026年10月05日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTng4Sk9ISnpwMEpjUEYwUU1YWUJ4ZzNUYk16XzlBQUxwWkVzWUxwanU5dDBKN19KdHY4TnV2TlptRUZNOVhYY25aYWRqYmtxRlNTTWRFcTFxanFzUG5COWJ4dkdCYUNvRmpyVjdZbW9fZDh6dU1MdXJCUGVJX0lONkNGM0xNU1JzaGtadWg2TEM5N3J0SUI2dVF1aURwTHJM?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "水利部和中国气象局联合发布黄色山洪灾害气象预警",
+          "source": "东方财富",
+          "pub_date": "2026年10月05日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jMEJrM3Nkd1lVSFNfclg4WWNlczU2NGdMVm9HdVJWZUZ4aDMyVnFkbXR0UlhzSWhjR3I5SHc3UnpSWmhWQ3FIeTVLTE42VnBfRGI5dkNocTdSOGJ1cWdwdGxvcnA?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 3,
+          "title": "活水润乡野 清泉惠万家——临洮县提质升级农村供水筑牢民生根基",
+          "source": "新浪财经",
+          "pub_date": "2026年10月05日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOSGtWREFkQUZlbkNCRUdGMEs3ODhDNWwzenZjSF9sdHdvaVktR0FKaGVsQmdDSTExNVRnZWNCU3JhcGRvaTNGVGtkeWlsUUZwVXBOM3RyWVc5UlhocWdWdTJ3SjZIX3BRV1RGSnJkLVFJeWRRaWsxSWxaYmV5QzFMLWVHT0VxTVlnNU9VQ2pmMWdfV2VERGFhWVBJLU5JZ1pNV1ExLWo4cmhWZEZSTTNPZ1ZMam44ZnZKZmtHS2dHVndnWnNFdWU4dlVCRV9TdjcwRm5UM0pHdFlSU1JjR2E3bTRFblNSTFV4M1d2OGdweHJxUGtIaHR1SDEtUWlZdnFkRGpEZXd1dXlXcXEycVFzeS1BTHFFZWtxZmdqTnkwV1V1SWZjMDd4U0ZtWjg4amt4NGhDa0NjdDNqaU84bElGY2FsUGo3c3czUTM0OUF3cw?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "2025年度水资源管理“国考”结果公布！黑龙江省再获优秀",
+          "source": "新浪财经",
+          "pub_date": "2026年10月05日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMGZsNkJvRGtmeERxV2RxbVVvV3RyTnRQM0NVYnlZUF9rS3lxcWpiaG5CS0hiM3JBRjRtQlprVVZ0eEFPRC1pMlp1YS14YWlJWUc2bjlYclFrLXZKRHF2ZmduX0Ixb2FOd0N6YTlJbFZhTmRGOGZqN1lNNlZCTVZ3ZmdlaXZPLXpSYmExRVIyejQtbVhsaHBGUQ?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 5,
+          "title": "基层党建丨区水利局深化党建融合以高质量党建引领水利事业高质量发展",
+          "source": "新浪财经",
+          "pub_date": "2026年10月04日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HWlJMZTBnY0ZqUlN5MS1ndjZzZV85M1NjbnJhcU0zOHd1UFpxNmU4NzNaTUUtbkNNSFkzTllqZWFYaVRTUFV3NkF4N2JNSWc1TVhDdzNTczBWdlhaZzFvMU5xWnRKWWlET2VyZmNPa09rYkd2QlE?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 6,
+          "title": "在全县高标准农田建设突出问题整治整改工作推进会议上的讲话",
+          "source": "biganzigongwen.com",
+          "pub_date": "2026年10月05日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTWXdyWDhCekpOUUFRX1ZmRTdvQURLUmlIbmo0T2cwanRBTTVYaW5rcDl6alVNS19HRmd5aElPQWEzVHNNSG9TWm9VNy14ZjZnZk80RHZHZU1aM1ZPV2E4?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 7,
+          "title": "三部门下达农业防灾减灾和水利救灾资金21.54亿元",
+          "source": "新浪新闻_手机新浪网",
+          "pub_date": "2026年10月04日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQNDhhYnZNUk5kbWhfNDlzZWV0UkpKSm0zZnQtMld5S1BVSmlCTFR1WVp5b2ZITkVqazFZOHd2VlV0SHlOOFU1M3FaX2xkaWFhUzlTVno1bWI1REw5dEZUaldxLUEtbUQyNFFUUVdfYmFCalp3aHE5VXRKZ2JxZkpUYmlOZDFSQlBEZ19UU3ZmVHlaek52b05VdVhRRWdMUnoxUnotM0J2aUFLOXJ3SjMzSHpIa2p5cGFQdXJjekc5QWF4QWQtWlM4cFg3aHRkYzdnOHFnMFEyWktHU2h6cU9HQ2N3NWJLRF9zMlF4VFktVThNaVZ1LVVzQXNXOEtTWGp6YTNFVTNnN0Nzcjc4OFhGRnU0eFlBTGFVR25NNHZyeV90bkpTQmRleU9SNmxJRy03RjVkUlhPb1ItQnowdnh0RWRpQnZWSTRSbEJiT0ZiVUlYR2Uy?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年10月05日",
     "news_date": "2026年10月04日",
     "update_time": "2026-10-05 00:00",
