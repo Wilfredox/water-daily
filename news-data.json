@@ -1,88 +1,88 @@
 {
-  "date": "2026年10月09日",
-  "news_date": "2026年10月08日",
-  "update_time": "2026-10-09 00:00",
+  "date": "2026年10月10日",
+  "news_date": "2026年10月09日",
+  "update_time": "2026-10-10 00:00",
   "total_news": 11,
   "category_count": 6,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
+        "title": "电鳗财经｜围海股份预中标1.62亿苕溪防洪工程主业承压新订单能否扭转局面？_公司新闻",
+        "source": "证券之星",
+        "pub_date": "2026年10月09日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fcUR0Q2tfUjBodi1BOUJqaExCZjJmbHhrTUNRNElPSm9xSkF5NEVhSHNXN1ZUMWxCQVZRRWZNQzJjLU9aSV8zQ1ZwLWszLWV1emFobnlBWFoyLU1FVFlHTg?oc=5"
+      },
+      {
+        "id": 2,
         "title": "主要江河堤防无一决口 浙江台州成功抵御三轮强台风",
         "source": "中国经济网",
         "pub_date": "2026年10月08日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
         "full_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80OHFzbXlLRmhvRExRdEVyaFUtdXNaSXBpUEs0QjFoZ0Vka2x2OVplaDViNHk5amRyemNUVmFRa3R5S1djVWNlQmE2NE1IZnJ2b0poek9ZcjNkaWtZNXlzQ0JkM0g4dFJnZFFvNllRbTNhVE1jN09v?oc=5"
-      },
-      {
-        "id": 2,
-        "title": "围海股份：约1.62亿元预中标苕溪防洪治理工程施工2标项目",
-        "source": "东方财富",
-        "pub_date": "2026年10月07日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ib3BlVllqMlM4NTAtY1UzXzhfUU12SXd6U1k1V2M4bmp5MVF3YXZSTGk3R0xBWGxUMDdXUXp4Z1g5d2p2TjBjZ3hhenJIS1lrYUItbHVlWUZ0bnNJNVJ6WjR2Sm0?oc=5"
       }
     ],
     "水资源管理": [
       {
         "id": 3,
+        "title": "积极应对厄尔尼诺现象可能造成的水资源短缺风险，确保旱季供水……",
+        "source": "Vietnam.vn",
+        "pub_date": "2026年10月09日",
+        "content": "",
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGdnSXNvbnFnU25RcGU5VjBuRWZaY1BQbzU3bk4xazRucVctb2FkbG5WdmhJaDNCaUhDRG51UDNnakVzeDd4Y0I3M094NF80dzk0eXB2aEhHSGx6X2dMY19IamtMYUxpOTU5b2tqQTNLY1NEMzVxdjN3cTlEVWxQWXp6Wmd6TTJZcVJ4T3hXaEdIdWFxVjJIVkY5bHNlMWdEZUJJM2V0bW9GZHJiTi1SUm1STEJPcEduV21PNU9CaFQwZw?oc=5"
+      },
+      {
+        "id": 4,
         "title": "“六张网”建设，福建如何破局②丨现代水网加快成型，水资源配置更高效",
         "source": "新浪新闻",
         "pub_date": "2026年10月08日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
         "full_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMkZvUE9pX0lBSWd6TU1PRTBLNjdEQTJ6Vm1CdUgzVkJDNU1iaGlRaThCZjZlRFVZSTM5bFBNWV9LeU9WZVNET3pWUXcxVEdzNFF2bWR0bm9TMmloSWZGc1Zwd1NheWNsSnl1VjB1ajhSclk3Z2k0S3licFhiTDM5Mk5yTWJ6QXZTR1d4cWVpME1hZ0tXTG1UR084ZWhWOURWdmxKNUpKQlZURkhjUklTS084bXk2Ykk3YUJKc1N3UDNSZjZzU3FheGlHY3UwdWJVUTQwbzF1MkM?oc=5"
-      },
-      {
-        "id": 4,
-        "title": "2026AIIC｜智慧保泉，地下水AI大模型打造治理新范式",
-        "source": "新浪网",
-        "pub_date": "2026年10月08日",
-        "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SaDQ5MmlwakE2VzZwM2otNmRtSHNpSk1RaDBhWHUzbjZTSG9UNlJHZ3NodHA5Z0IwM28xblBDWDV2QXhZMUk0NXlsS3hNbGt0QmdZWnFkUlJ3YVBfVmZMUFVRUE16VE83VFRCSUlIazVEMGdLMGNWSXNzdEpidw?oc=5"
       }
     ],
     "综合要闻": [
       {
         "id": 5,
-        "title": "三峡大学：引导人才扎根水利一线",
-        "source": "人民网教育",
-        "pub_date": "2026年10月08日",
+        "title": "兵团全力推进水利工程项目建设提速增效",
+        "source": "新华网",
+        "pub_date": "2026年10月09日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01YUdNUjEwVVRZdVlhU19rdmVuNEhhQW5rQkl2OUdNeEljTF9pMmhCYWRtbnQ0T2ZLUnRRZWhNX2M0UU9pWlNFVE5EUk5BM0NMVmRBcXF5MFRWSTdxR3NHbFEzN3RyT1NN?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DRWt1SXZfdjVIMndCYno3NjMyLUtFTzl4NElrVFdJS2xsZC1VcjdNYlpFMEVEa3JZVXlOS2xMb0JyR3dlNDg3SFB5UDRnUmlHS1Z0RFFoOTJUa1dWMzdHeFBZWkFVMGxjaF9XMGYzZEMzUkZ3TWc?oc=5"
       },
       {
         "id": 6,
-        "title": "水利部：确保全年完成水利建设投资1万亿元 前9月已完成7950亿元",
-        "source": "观点网",
-        "pub_date": "2026年10月07日",
+        "title": "抢抓秋冬窗口期 株洲水利建设全面提速",
+        "source": "红网",
+        "pub_date": "2026年10月09日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtdXQ3d3FPa1VocnY3Q2NDczhTa2wtNTlkWTA2aklSWlhwd2xZMy1KQTBsWjBzajFGclBEYkV0QWYyR2d1TWRCS3A2TUo0cjFJY2RyaEtGQWxTT1JUX1lZS0dB?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6Z2JHdVdPbnlYVFlVcG9PNFBNcGxiTmRnbWdlSXE5RUxtOGpLczBkTThGcVNQZS1fV2xUYWZ0NEY0VTRrZ2tEazgtc0YzWFMwOEFVVU42bktianpIRTV1YTBB?oc=5"
       }
     ],
     "水利工程": [
       {
         "id": 7,
+        "title": "【祁连山下是我家】高台：加快重点水利项目建设筑牢高质量发展水支撑_张掖",
+        "source": "中国甘肃网",
+        "pub_date": "2026年10月09日",
+        "content": "",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxcUhMWkN4em8wOEhPWndpZU90cGt4Z1lWNUEtNWk4LWc1bTJydHBaSWlscWs4UjVXbGpXZHZYMkdJX2JRSkxKUlYwakc3T25ZbVIwaDlqdHNYcTZoZzNQRDNsYjFkOU83b1Nv?oc=5"
+      },
+      {
+        "id": 8,
         "title": "环北部湾广东水资源配置工程松竹泵站主体结构封顶",
         "source": "国务院国有资产监督管理委员会",
         "pub_date": "2026年10月08日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
         "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vMnlnN2c5X3hVeGVucUVMUUZFTmhrVHp0THNzemt1MzNHemtzWV9BU2dVd3FtekRtNXdfYnlrc0J5X2FvRUFmQ2tJREdkdzM4Qi1vdE1GS3hOcGFfY2JlSlBVNTdSUWs3WG9jNm1zUkFWUQ?oc=5"
-      },
-      {
-        "id": 8,
-        "title": "水利招标：安庆下浒山水库灌区 35 亿工程公开招标",
-        "source": "见道网",
-        "pub_date": "2026年10月07日",
-        "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NOEsxNm5MYnhSb0N4dHhQcDdDalBiZ1h0MC0zSjVMeXFOd1Y3d1UyMGJ1XzN0THlMbGdPX3FsTWdkdkhHZk4xcjdud3hKeGhISndZTg?oc=5"
       }
     ],
     "政策法规": [
@@ -94,18 +94,18 @@
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
         "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV2pPVFhxSDE3OFZwQTAtVkt1ejJMTXpQcEpxUmp0RE84aTNteW9uTm9LUDdXcExNTDdyRXBqWGFwUDhwLXNVR3FnVjd3dGh1aEkyMDJZX3VhZlVaY1loaGhzc2d6R09UQUVnYW1YaTBkM2hkdldvajhDdjgyWlJxSDgxRUJTak5q?oc=5"
-      },
-      {
-        "id": 10,
-        "title": "从省级“打样”到市县“接棒”，山东水网何以频频“出圈”？",
-        "source": "凤凰网山东",
-        "pub_date": "2026年10月08日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vR3B6UEdsNzNnaFNKSWpmZGU1RHBpRnktQ1dHWlJBRm1IWEdNc3k2OThFcDNMMzkyS3NrR2ZlbnBZYkZOeGVHbWxB?oc=5"
       }
     ],
     "水生态环境": [
+      {
+        "id": 10,
+        "title": "龙岗区三大水体成功创建“美丽河湖”",
+        "source": "龙岗政府在线",
+        "pub_date": "2026年10月09日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QYWpNMjdIUFlRMkZfamxzM3hYbWstanc0eXFlX09ndVlZNlZKeFZCN2dUVV9fWXU4cTg3TmxJWkdfVnRVdGxrSWxzLWhXUFRQMUswMjZseUFSUEFxTW1iTEN1aWFueGcxYVFMRGxoNFNTLTdKU2t2UzdseUI?oc=5"
+      },
       {
         "id": 11,
         "title": "三部门联合印发全国重要饮用水水源地名录",
@@ -113,7 +113,7 @@
         "pub_date": "2026年10月08日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fZkh4dnhobFpRWmhCcXRnRE1IWF90T0xmMzQ2em1jNFphdGtURG94V1czSjBlWWRUVkoteDItckVReUFXSVdEQ29tSnFrYy1pR2F6ZXY5bTlFenYwUFRXTnRReDE?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uWndKMFFwTTRwaXJSYW44WHB5YzFDdVpKdWE4QUJXdzBnTkU3V3ZQWW1adXdjV0E2Y1lkb041MG9oSjdVaUdMNHYyc0NkODB1YXVOazBmUnplMEtTZi1FSDlR?oc=5"
       }
     ]
   }
