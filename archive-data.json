@@ -1,5 +1,143 @@
 [
   {
+    "date": "2026年10月12日",
+    "news_date": "2026年10月11日",
+    "update_time": "2026-10-12 00:00",
+    "total_news": 13,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部和中国气象局联合发布蓝色山洪灾害气象预警",
+          "source": "央视网",
+          "pub_date": "2026年10月11日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mMGZWOGlqUS1rdEl3UUNMZFZxMGlMekNXSy00bUdKTl83TUxVMlVCTmRrMG81ekJzZGRKNlA1RTcwb0F1ZkhXM2NwcWhVZ0ZOZVlfLTFCWFlQWW9KLTdpNXpIRmlJMnhfY2JtclVZNTJBX09UcWdSSw?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "“安澜-2026”福州市水旱灾害防御综合演练举行",
+          "source": "人民网-福建频道",
+          "pub_date": "2026年10月10日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxVTRPMzBOY1V1SEdZRV9peGt3Ympyazhab0FsVDNDSnJVU3czZWljcnlxcVZNNXNuMElxb0lVVWFtVXNScy1xcWsxVndldGZYcFppakFxMzl3SU5CYmRFZWZyX3R5a04yWHc?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 3,
+          "title": "王维洛 | 从1975年的板桥溃坝到2026年的 六蓝水库溃坝，看文化大革命还在继续",
+          "source": "议报",
+          "pub_date": "2026年10月11日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5TUnB1QUhEcW1ZRlZ0SHphWGhnOS1SbGlZSXNjdklKQjlDRkZyaTZJell3ejRkSDNERUZyeG56OUJtaDlESy1Z?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "前三季度新开工重大水利工程数量超去年全年",
+          "source": "央视网",
+          "pub_date": "2026年10月11日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VdTd5WU1Ld2Nwdk5sRlNfVXIxRnJKcHVoaWxDTTVqODdhaWtpMlFrY2UyMzVpaFF5SGhrN2tjTjFwVGJJSDQzaVFsYlNJNFNOZGNkQXEtS1hsUDJXeWZJYVpwV0lOc01zMWdtc1FJZWJoTl9YYUx2eg?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "171套安置房迎来主人！密云水库腾退群众开启“看得见的幸福”|村民|小区|保障|养老|移民",
+          "source": "新浪财经",
+          "pub_date": "2026年10月11日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMVR3dnFldlc3VndRbnI1dnhlbHUwdHlfbC1qdFEzeEVrckszWkpHOGZTYi1NTlNONHMxODNYTnVESUNtVHFIRl82X0Q3dVZaZGY4YkhpejBuRzZDbFlRYlhvdDFCdEx3M2doXzVPUjBrbzluVU1ldHMwOFJPMkthelU4eUNVR2txT2taUjlvMWtJVUNfWk81aA?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 6,
+          "title": "严打“砂霸”和强揽工程行为！湖南娄底征集水利领域涉黑涉恶线索",
+          "source": "搜狐",
+          "pub_date": "2026年10月11日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUozZXVtcEt3WHFmcWpLOVNWVVh1S3A5RzJjMHpJNDUwbjdnR1JIRGFDZFZtcmRMVEsxalAxX2Z5NDBGVDd4aXdlTFhMZGxmUGY0YTY1bGF2OUN5NFk4REFKQ1VSNnFCOU5NOXh0WEhlZGZ5RXZQcXFBd1hBTXZTR3FSclUtWkthVkVuTg?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "湖北水科院两项技术入选水利部重点推广目录- 湖北日报新闻客户端",
+          "source": "湖北日报传媒集团",
+          "pub_date": "2026年10月11日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jTl9CMHRyTkg1QzNDaUY3MTdtajZjYVpLSmRKMl9qejhYYTM2bEdlVnFDSWZVdGdPeWpyZldvWHVPby1ZbGJZejFjNjAtSHB1MTRubkpnWU0?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 8,
+          "title": "虚拟电厂、水网先导区、乌镇峰会：浙江新基建三件事的联动密码",
+          "source": "潮新闻客户端",
+          "pub_date": "2026年10月11日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zUTVsNEw3ckVydE5DQ0lWaUdqaFpjLWJkV0swVFhtYjRtWlhELTcwRzVwWGVWa21sR2FLeVpTMGZFWTV5X2ZpeHZ3ZW1PSGQyZkxFLU1VNlduUVZpcEVmZk1wRnlJcDk2Vl9RMHBTNUg2bkE?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "水利部发布8项水利行业标准",
+          "source": "中国新闻网",
+          "pub_date": "2026年10月10日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XZnVfc0xGVklsS0NvcGY2WF9CSW9aSnpfRDc5TzFiUUtaazZ3MzllT3EyU2FHQmt3MUZEY0lMRFQ5dEY3M2VtTVZVWUY0VkFTbEltVXJQbTJiT0hwV1FJck9GblM4dXNI?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 10,
+          "title": "童心绘水脉 共话幸福河湖 第二届经开区河湖长制主题少儿绘画展开幕",
+          "source": "搜狐",
+          "pub_date": "2026年10月11日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa1FMMnAtc0VkSFNvY3pHQjdRSmtFVEZMN09nY0h0azN4WGEtcE9uamhuRGdoN3BnVUptVGVzbVp5elJIcVNqS3MyREF6emFwUkxaWFhjOTBGMm91SDZuSnBwdVlCZ1lIN3J0WG1SLWFxbUg5YVE5Rlowa1pRU2d3aWpkdThfZXJIZW9pMA?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "以持续深化河湖长制为抓手 奋力谱写高原幸福河湖建设新篇章——写在全面推行河湖长制10周年之际",
+          "source": "青海省人民政府",
+          "pub_date": "2026年10月10日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uOWNUSzVOM04yX09pQU5ZSTA4MTk2eVI3SzdTbXpvOWREOXg2bGlLRUNOT0lPdXVGOEZOLXpWZFdlaWRXNXZlb3UzSWtYdy1QNFlmU0liYThmOXVNNDh3NGNpek1VYXYzd3V5OGIzQ0t0dw?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 12,
+          "title": "皖美这五年｜水润江淮 安徽农村供水工程惠及4535万人",
+          "source": "新浪新闻_手机新浪网",
+          "pub_date": "2026年10月11日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PUlJ5X2R0U3lkRkhMbDVvVlB3cVNPZjc5U0NUbDBXUkxUU0JZWUZaRmYtaUV6MWJ6RVRGSmVXYjNTcnEyY3JrTUtzdnhWZzJkN3lYQWJ2QlN3QWdfaW5sQWFZVVZMT0EwRFBVeUE2Unc5U3g4dnc?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "“以税促节” ！贵州水资源税改革助推城镇公共供水高质量发展",
+          "source": "搜狐网",
+          "pub_date": "2026年10月10日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPckJtbWhfZEN6S2kwYTFnZXZwSEJMX0xLanp2NWFRZnlEVWVDVXlRbkNnZHN2bDNlcTJLb0VVQkh2WWQ2dGZvYUd6OXlYVEZfOU9aRTRWRU5NOWlGbW9FWU9tZVRHYUpZSWJBaUktajFyTU5MWUd5R0E1SXliZjZZT21mWUJudXBRbU1ZRg?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年10月11日",
     "news_date": "2026年10月10日",
     "update_time": "2026-10-11 00:00",

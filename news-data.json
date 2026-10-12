@@ -1,137 +1,173 @@
 {
-  "date": "2026年10月12日",
-  "news_date": "2026年10月11日",
-  "update_time": "2026-10-12 00:00",
-  "total_news": 13,
+  "date": "2026年10月13日",
+  "news_date": "2026年10月12日",
+  "update_time": "2026-10-13 00:00",
+  "total_news": 17,
   "category_count": 6,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "水利部和中国气象局联合发布蓝色山洪灾害气象预警",
-        "source": "央视网",
-        "pub_date": "2026年10月11日",
+        "title": "内自同城 | 内江市：连续14年实现防汛“三零”，3项“内江经验”在全省推广",
+        "source": "自贡网",
+        "pub_date": "2026年10月12日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mMGZWOGlqUS1rdEl3UUNMZFZxMGlMekNXSy00bUdKTl83TUxVMlVCTmRrMG81ekJzZGRKNlA1RTcwb0F1ZkhXM2NwcWhVZ0ZOZVlfLTFCWFlQWW9KLTdpNXpIRmlJMnhfY2JtclVZNTJBX09UcWdSSw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45OEJVaHlZbjcydXRhdkJHT2RCSzY5VEgtdURyVllacTZZZllkRmJueldpUnByZ01LVlh0VEs3eGpTdmJTX2Jxc19rNWZnSncybmc?oc=5"
       },
       {
         "id": 2,
-        "title": "“安澜-2026”福州市水旱灾害防御综合演练举行",
-        "source": "人民网-福建频道",
-        "pub_date": "2026年10月10日",
+        "title": "秦淮河63亿防洪重大工程迎来建设新进展",
+        "source": "见道网",
+        "pub_date": "2026年10月12日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxVTRPMzBOY1V1SEdZRV9peGt3Ympyazhab0FsVDNDSnJVU3czZWljcnlxcVZNNXNuMElxb0lVVWFtVXNScy1xcWsxVndldGZYcFppakFxMzl3SU5CYmRFZWZyX3R5a04yWHc?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02cmhXb3c0YkdES0ZNLVZZN0czLWFxWnE2N1c0N2JCczVZdmJqNDZXX0RMVC1ZRGtOWkFLYm51VElXZXZtLXJ4T2Q5RFpHVllVbG1WZw?oc=5"
       }
     ],
     "水利工程": [
       {
         "id": 3,
-        "title": "王维洛 | 从1975年的板桥溃坝到2026年的 六蓝水库溃坝，看文化大革命还在继续",
-        "source": "议报",
-        "pub_date": "2026年10月11日",
+        "title": "前三季度新开工重大水利工程数量超去年全年(含视频)",
+        "source": "新浪新闻_手机新浪网",
+        "pub_date": "2026年10月12日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5TUnB1QUhEcW1ZRlZ0SHphWGhnOS1SbGlZSXNjdklKQjlDRkZyaTZJell3ejRkSDNERUZyeG56OUJtaDlESy1Z?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92aTViRTM0NnBwa05CRC1BamxKSlZpVmFMTXA5UWhaRHUwZ1NkUnU4LXFrSE1rcTJnLUNMRjBJajljSUJ0SDZkWGxlQ0ZMODZnZGpLcUd5V2VOdjhkSFJPSXdPX0QwenNpV0JDaTh2bUZnUEFEZ2c?oc=5"
       },
       {
         "id": 4,
-        "title": "前三季度新开工重大水利工程数量超去年全年",
-        "source": "央视网",
-        "pub_date": "2026年10月11日",
+        "title": "国家电网解读《水电站大坝运行安全监督管理规定》",
+        "source": "https://www.gdshe.org/",
+        "pub_date": "2026年10月12日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VdTd5WU1Ld2Nwdk5sRlNfVXIxRnJKcHVoaWxDTTVqODdhaWtpMlFrY2UyMzVpaFF5SGhrN2tjTjFwVGJJSDQzaVFsYlNJNFNOZGNkQXEtS1hsUDJXeWZJYVpwV0lOc01zMWdtc1FJZWJoTl9YYUx2eg?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zM3EwQVFfM043YWNIMmRFQ3hySlFXRElZRUp6NjNjNEpfVXpudklOUjVLWFJYaVNTODNJb0lyaWY5MDFoUHVGZ3U0NEVKU1hHd2c?oc=5"
       },
       {
         "id": 5,
-        "title": "171套安置房迎来主人！密云水库腾退群众开启“看得见的幸福”|村民|小区|保障|养老|移民",
-        "source": "新浪财经",
-        "pub_date": "2026年10月11日",
+        "title": "171套安置房迎来主人！密云水库腾退群众开启“看得见的幸福”",
+        "source": "新浪网",
+        "pub_date": "2026年10月12日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMVR3dnFldlc3VndRbnI1dnhlbHUwdHlfbC1qdFEzeEVrckszWkpHOGZTYi1NTlNONHMxODNYTnVESUNtVHFIRl82X0Q3dVZaZGY4YkhpejBuRzZDbFlRYlhvdDFCdEx3M2doXzVPUjBrbzluVU1ldHMwOFJPMkthelU4eUNVR2txT2taUjlvMWtJVUNfWk81aA?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNend0SzlrRUNTRUtFTTZ6REFUNEJxQVBKdTVWbWotTk1pRWxpMmUxaGVwdGh4a3VGcFMwb2R0MTFNdHhNblBaRE9YLWdWbi1pNklKNHhLeTRyMUxhdDdkbXN0cU5WQVlQejFWSFh6WmRnNS11Ti0wWlVzU25EQVFwMDln?oc=5"
+      },
+      {
+        "id": 6,
+        "title": "前三季度新开工重大水利工程数量超去年全年- 时政",
+        "source": "中工网",
+        "pub_date": "2026年10月12日",
+        "content": "",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LQlhOS2lxcmlpaDlTaHc2VjVxdlRoTm1sRFRpNW5yTHpiTlc5OW81RnJyTEU3dHJFdEtMcFctLTcxY3JfMzNha2pwWVlYeDFYN0R3MnFxLTJmekdUdjdj?oc=5"
+      },
+      {
+        "id": 7,
+        "title": "福建上白石水利枢纽工程建设提速_宁德新闻_福建频道_新闻中心",
+        "source": "海峡都市报",
+        "pub_date": "2026年10月12日",
+        "content": "",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lQWRHdGNCbkpQbXRaNTk5R1pYTF92QXpBX0ZhYkRvV05NNVQ4RVN0VHNPYmhTT1ZnMlhiTFM0ZkVuX1NpcWxSUmc0SnY3bXVuWkF5WDExbzA2M2Y0N2dld19BRXJCdDg?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 6,
-        "title": "严打“砂霸”和强揽工程行为！湖南娄底征集水利领域涉黑涉恶线索",
-        "source": "搜狐",
-        "pub_date": "2026年10月11日",
+        "id": 8,
+        "title": "基建巨头抢滩水利，买不到的入场券与绕不开的规则",
+        "source": "见道网",
+        "pub_date": "2026年10月12日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUozZXVtcEt3WHFmcWpLOVNWVVh1S3A5RzJjMHpJNDUwbjdnR1JIRGFDZFZtcmRMVEsxalAxX2Z5NDBGVDd4aXdlTFhMZGxmUGY0YTY1bGF2OUN5NFk4REFKQ1VSNnFCOU5NOXh0WEhlZGZ5RXZQcXFBd1hBTXZTR3FSclUtWkthVkVuTg?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RSE5pNkd5Y0tlQk9Fb252czBCRk45c1RfdWtFOXZzMmNKdXpSWWVPZTRvNUFwSXI5dm10RDFuYmdtOWo3TndtQi1zbnZtbXd2LU5aaA?oc=5"
       },
       {
-        "id": 7,
-        "title": "湖北水科院两项技术入选水利部重点推广目录- 湖北日报新闻客户端",
-        "source": "湖北日报传媒集团",
-        "pub_date": "2026年10月11日",
+        "id": 9,
+        "title": "中国能建：深耕“一带一路”能源电力水利和绿色基建领域合作",
+        "source": "https://www.gdshe.org/",
+        "pub_date": "2026年10月12日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jTl9CMHRyTkg1QzNDaUY3MTdtajZjYVpLSmRKMl9qejhYYTM2bEdlVnFDSWZVdGdPeWpyZldvWHVPby1ZbGJZejFjNjAtSHB1MTRubkpnWU0?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15R0dhVzg3N3lhRXlQMHh3YTVCb0tPVzRmeGhNRUVjV21LT1ZLdGQyODR1UEVGWVdsTS0xVXVoQzNCdWZjMms5N3dJM3dHRmU4UVE?oc=5"
+      },
+      {
+        "id": 10,
+        "title": "喜报丨威派格SC-CG型智能模块化水厂入选2026年度水利先进实用技术重点推广指导目录",
+        "source": "凤凰网",
+        "pub_date": "2026年10月12日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYa3hHcDRwcFU4WVJkbnV2OTl2X25Ca2Q2bzdBQmVWN19Ub2NkRWdfY1dZMUFDSWZla1cxT3hvdDNDeERZdjctd3pSN1dfNW8?oc=5"
       }
     ],
     "政策法规": [
       {
-        "id": 8,
-        "title": "虚拟电厂、水网先导区、乌镇峰会：浙江新基建三件事的联动密码",
-        "source": "潮新闻客户端",
+        "id": 11,
+        "title": "水利部：“十五五”国家水网建设投资需求将突破6万亿元",
+        "source": "观点网",
+        "pub_date": "2026年10月12日",
+        "content": "",
+        "impact": "将进一步规范水利管理秩序，推动依法治水。",
+        "full_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4MS04YjBMRXBxRHhrLXpJUmEtakl2TkdoT1l3NmQ3dXRKbTJNUzV5QVd3V1o1Z2U3RlJWalZuak41b2ZwNTJJaWgtaWx0Zw?oc=5"
+      },
+      {
+        "id": 12,
+        "title": "2027年预算将Resintech纳入水利基础设施支出规划",
+        "source": "Moomoo",
         "pub_date": "2026年10月11日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zUTVsNEw3ckVydE5DQ0lWaUdqaFpjLWJkV0swVFhtYjRtWlhELTcwRzVwWGVWa21sR2FLeVpTMGZFWTV5X2ZpeHZ3ZW1PSGQyZkxFLU1VNlduUVZpcEVmZk1wRnlJcDk2Vl9RMHBTNUg2bkE?oc=5"
-      },
-      {
-        "id": 9,
-        "title": "水利部发布8项水利行业标准",
-        "source": "中国新闻网",
-        "pub_date": "2026年10月10日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XZnVfc0xGVklsS0NvcGY2WF9CSW9aSnpfRDc5TzFiUUtaazZ3MzllT3EyU2FHQmt3MUZEY0lMRFQ5dEY3M2VtTVZVWUY0VkFTbEltVXJQbTJiT0hwV1FJck9GblM4dXNI?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTDNxS2lVYjZESW00UWwzdDZaZkJKVG83Z1N6V05ZczBQTnRMNll4WW53M0ZtVk12MnlnOEozU0NPbF8wem50dnhPOERab09VYWNWaXdfblAzUWRGQ0l5bWNITHdJM05kLW5xLTVId3NsdGpROXNVS09iVW42VnIyYUVnSzZYVzBwOW5SS09BRmx0QUFNSVFrNVhJTlBCTFhmeFRXNEswX0FiaVJDZVVuMjJfQTZmRTJERFJFMmx3TQ?oc=5"
       }
     ],
     "水生态环境": [
       {
-        "id": 10,
-        "title": "童心绘水脉 共话幸福河湖 第二届经开区河湖长制主题少儿绘画展开幕",
-        "source": "搜狐",
-        "pub_date": "2026年10月11日",
+        "id": 13,
+        "title": "补齐污水治理短板 红岛水质净化厂网站一体化项目加速推进",
+        "source": "信网",
+        "pub_date": "2026年10月12日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa1FMMnAtc0VkSFNvY3pHQjdRSmtFVEZMN09nY0h0azN4WGEtcE9uamhuRGdoN3BnVUptVGVzbVp5elJIcVNqS3MyREF6emFwUkxaWFhjOTBGMm91SDZuSnBwdVlCZ1lIN3J0WG1SLWFxbUg5YVE5Rlowa1pRU2d3aWpkdThfZXJIZW9pMA?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEWTBQT2FTUWgtcHhUZUpvUFFtVFVnZmtzQnJ5bk1ZQ0pFSER6RUlUd1ZHUlRPbkwwb19GVy10UWpaN0RlYVVhaXdYQ1M2cm1GRnVnbkViSQ?oc=5"
       },
       {
-        "id": 11,
-        "title": "以持续深化河湖长制为抓手 奋力谱写高原幸福河湖建设新篇章——写在全面推行河湖长制10周年之际",
-        "source": "青海省人民政府",
-        "pub_date": "2026年10月10日",
+        "id": 14,
+        "title": "天全河成功入选四川省美丽幸福河湖优秀案例",
+        "source": "搜狐",
+        "pub_date": "2026年10月12日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uOWNUSzVOM04yX09pQU5ZSTA4MTk2eVI3SzdTbXpvOWREOXg2bGlLRUNOT0lPdXVGOEZOLXpWZFdlaWRXNXZlb3UzSWtYdy1QNFlmU0liYThmOXVNNDh3NGNpek1VYXYzd3V5OGIzQ0t0dw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR19fQTBqVDE5YjUtdW5jclh1TFNHVFRtWndoaTBpM19fbGFBZF9PQmtXNjFwOHp1YTJJdHN2MnRyTHAzSjZJVGRtdUdyYjFOOUhPYUFaZng0N096cS1lZlRkZGxsXzhWZWUtWFludWxHQzd2b3hra1VOMkU4WjFOMXRweVNjQ2tYdnFBcA?oc=5"
+      },
+      {
+        "id": 15,
+        "title": "洛阳8处水源地入选国家级名录",
+        "source": "搜狐",
+        "pub_date": "2026年10月12日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMGEtTTloRFV3WVZOWTVxbkdvb3c3N2xzLXBQOTZwcG9LRmF6Njh0UFBiUjNiSmxNX0RWdExHYnNuc1FJNnZlb01VZFlTdjFXQllSMHVHbGhFRjlPNG12QmJJa25ybnE4UkRseVlPajBXX0lHeXZ3LTJtQjRvRVJQV24yblMxdkJG?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 12,
-        "title": "皖美这五年｜水润江淮 安徽农村供水工程惠及4535万人",
-        "source": "新浪新闻_手机新浪网",
-        "pub_date": "2026年10月11日",
+        "id": 16,
+        "title": "节水有方 水费有数——临泽县开展水资源管理领域突出问题专项整治小记",
+        "source": "搜狐",
+        "pub_date": "2026年10月12日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PUlJ5X2R0U3lkRkhMbDVvVlB3cVNPZjc5U0NUbDBXUkxUU0JZWUZaRmYtaUV6MWJ6RVRGSmVXYjNTcnEyY3JrTUtzdnhWZzJkN3lYQWJ2QlN3QWdfaW5sQWFZVVZMT0EwRFBVeUE2Unc5U3g4dnc?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNDRwVjNrX2ZPemdrQUJEZGsteFphcTU5ZmNTTUQ3MjJ4ZFlRaWxyWkVqel9lMjlHYkxDaG5NSVg0aXVBLUIzV2Z2bV92Z3hlMlBtQllnODNxRFdNMk1tNlJpcnJjc0R2QV93Um52MDgza3RJVTNsSFBVVEd6OWswWWNmT20xT1VRZE01TQ?oc=5"
       },
       {
-        "id": 13,
-        "title": "“以税促节” ！贵州水资源税改革助推城镇公共供水高质量发展",
-        "source": "搜狐网",
-        "pub_date": "2026年10月10日",
+        "id": 17,
+        "title": "胶州市将实施阶段性限时供水措施|山东省|青岛市|自来水|供水压力|我市",
+        "source": "新浪财经",
+        "pub_date": "2026年10月12日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPckJtbWhfZEN6S2kwYTFnZXZwSEJMX0xLanp2NWFRZnlEVWVDVXlRbkNnZHN2bDNlcTJLb0VVQkh2WWQ2dGZvYUd6OXlYVEZfOU9aRTRWRU5NOWlGbW9FWU9tZVRHYUpZSWJBaUktajFyTU5MWUd5R0E1SXliZjZZT21mWUJudXBRbU1ZRg?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcThaaFZ2aDIzZWdua2VuZHh6YVA0TU1SOXNGTDhudmxfU2FfUWNyRWxkN2VmYVprVHhUdS1xQUJRZTJqdkw1VEJibkRTc0VSZXF4anBrLUlBdTI3YWxuTC1ySXlpbzFPaU5KUW1wUVdkLURyQzA3QWRrUWpuLXdSdmhwVGp1QU9OV3JIc3NxQ3JKeTVadGVGMQ?oc=5"
       }
     ]
   }
