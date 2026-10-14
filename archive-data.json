@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026年10月14日",
+    "news_date": "2026年10月13日",
+    "update_time": "2026-10-14 00:00",
+    "total_news": 15,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "科学调度 严守底线 沾益区扎实做好后汛期水库安全蓄水工作",
+          "source": "曲靖珠江网",
+          "pub_date": "2026年10月13日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpVG8yS19hUTBwR212cUxFNUJUN05LQ1RSTEZxNTliT19paGgzV21yclQyR2FUcVBMazZTXzJLTUY2dnZDTlB1cFlrNA?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "内自同城 | 内江市：连续14年实现防汛“三零”，3项“内江经验”在全省推广",
+          "source": "自贡网",
+          "pub_date": "2026年10月12日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45OEJVaHlZbjcydXRhdkJHT2RCSzY5VEgtdURyVllacTZZZllkRmJueldpUnByZ01LVlh0VEs3eGpTdmJTX2Jxc19rNWZnSncybmc?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 3,
+          "title": "黑龙江尚志抽水蓄能电站下水库下闸蓄水",
+          "source": "碳索储能网",
+          "pub_date": "2026年10月13日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16ZDNFemFrU0d6OUtONmoxZFRleVN5VEFUZkpSNGZxZ2hHYlh2RERQZktJZ3JoNzRxeGNkRkxQV2F6WUtzbU1iTU9VY3pxc3V0MmFmX29UQ1dDeEV0OVZv?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "前三季度新开工重大水利工程数量超去年全年",
+          "source": "央广网",
+          "pub_date": "2026年10月12日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uQnpSUk5tVlJkTmllbnFycEN6Vk81cHJtcVdNMG5uNXRJbmRZbVYySndqTVAxRklxSjBJSnZDa2ktTEhTWUp6elYzcW0ySmlwa3J6ZTRmQ2p4SEt0UURVMXRkU2tqYzNQeXNjdTdCanduYk9KT1ZXN1JzWW40ekk?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 5,
+          "title": "湖南6个方面推进水利强省建设",
+          "source": "新湖南",
+          "pub_date": "2026年10月13日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SWmU3RVRBSXRUTF90QlRvS2JLZ1I2WnMyRmJVZXl2TW1WMjlRQWlQcEg1a0NSNWkxVEJZek5SVTVoWHNnU3NsZ0ZSTC1MaTVTX0hmT3pNWTFhYVg1bHAw?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "菏泽市水务集团召开第46次党委会议",
+          "source": "搜狐",
+          "pub_date": "2026年10月13日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS0d3ZEhzbXVlZzNvSkZyY1NzZG9wYTVwRGZmNDUyU0hzeFRVV3hGY3BtcGJhSFdlSHVreUdTVUFVMnFuMWUxM19uakRUVlg5cFpOWXhfempEQ3MxV29LdXhQS3JyN3RrcjVmWnBneXNCOXNQeWlZY2pWcE03MmpoemdqZE9kSFVleVQwWQ?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 7,
+          "title": "视频丨“十五五”时期国家水网建设投资需求将突破6万亿元",
+          "source": "千龙网",
+          "pub_date": "2026年10月13日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2dlItSVlEMWNVWTJqZUlzUHVHLXF4MGx2ZTliLVpuV194RV9ScWhoVnFwY1JBRVpESFdCZk1uSnRkbGNEdDNGdGFDV1RRR2ZlZk1JSFJlMUdINXFMTXdJ?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "织密三湘水网 筑牢安澜根基 ——湖南加快推进水利现代化建设水利强省",
+          "source": "新湖南",
+          "pub_date": "2026年10月13日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iemF6aGlzbXVRSW5pTV9YdklpTzdmaGowRmpmcS1pZTZfSnVlbUJ2M05sU1RldE5LTzRpbVVGWFNVMWtaaWEyMmV5T1h3UmI2cFMxRUdabzhNYVJ4a3VF?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "佳木斯市郊区水务局：筑牢水利安全生产防线",
+          "source": "搜狐",
+          "pub_date": "2026年10月13日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQblNNVmhtN0RUUGM5NUNLNVYwV2hMVzhCSmtqMmZtOVlfZWZYOVpLNnB3ZlV5VnBYSDRnMlRTVmNMUW9Bb28yTVFhTEVpTlBYZFBiMjh4RUVjTWNFcG5jYTI3aG1hSXNHVWJNYmZFUFdMRVFLcUg0ekVJQzBYMVFmSzRWR0tCU2xj?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 10,
+          "title": "福州7个！《全国重要饮用水水源地名录》发布_工作动态_福州市生态环境局",
+          "source": "福州市人民政府",
+          "pub_date": "2026年10月13日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeFZ1S3VFeVNyQlY1QWhveDRVYTVSTnJUMTQwNERuRElMU2s1TnpkR04wVkZlNU9RRGd6TlRvQVVnLTB3NnlJV3pJQmN5LUJMM1FaMmQ3RWZTaTdQcnl0TGZaOFlDUmZSUUh2dVFRZ2xxcVNDSlIwMnE4UFRfSEVITlR3?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "补齐污水治理短板 红岛水质净化厂网站一体化项目加速推进",
+          "source": "信网",
+          "pub_date": "2026年10月12日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEWTBQT2FTUWgtcHhUZUpvUFFtVFVnZmtzQnJ5bk1ZQ0pFSER6RUlUd1ZHUlRPbkwwb19GVy10UWpaN0RlYVVhaXdYQ1M2cm1GRnVnbkViSQ?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 12,
+          "title": "突破6万亿元！国家水网建设加速 重塑水资源与人口、产业、城镇、生态匹配关系- 经济",
+          "source": "中工网",
+          "pub_date": "2026年10月13日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQVdKUjB6dnVzemV3bzd5VEpRUGFXdy10dVNxd1M0ZEdua2txNE1FUEZLTVhZcjhxdFdteTdnV3RsNVJTUkVSZDVTRjNKZl9RTnVWbE1meTdfcmpLVHVv?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "【开局“十五五” 奋楫新征程】水润乡村惠民生甘泉入户暖人心伊犁州11.3万群众受惠农村供水养护",
+          "source": "伊犁日报",
+          "pub_date": "2026年10月13日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFTUh0TDFMWkZCUlZSZ0o1aTl1YW9wOEtqY25RN1VFNkhzcVdKR0hBaGhWOFJNZWtRM183WnNtNXVRQ3Itazg2WXBlUk91ZmFTNGRNSUNKYmpXMWNCZUVkUkg1TGpaR05EbWxpNmFFTQ?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "开封市城乡一体化供水工程开展“送温暖·鼓干劲”慰问一线工友活动",
+          "source": "中国网",
+          "pub_date": "2026年10月13日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xYmc4NlYyODRRUmZxaDI2c216NFd5S0ZWRG9nbFJvdHdvalNuM3RSQlBpck0ydlh4QTNQUGN4N1FFRF9DNU9DVW9OQXcxSU03YlhMV1VMZGx4LUNLdXJlY3BKaTJVd3RNY1pia0k2VQ?oc=5"
+        },
+        {
+          "id": 15,
+          "title": "水资源总量 41.56 亿立方米！镇江市完成全域水资源基础调查",
+          "source": "紫牛新闻",
+          "pub_date": "2026年10月13日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tZzZ1VG5UZ0JReEx0Q2tLdzdxNlR5TnhabVVtN3E2Qm9Eel9iQnJnVDNzcFdmdGwtU19Da09hU0RZbjM5NU1rbnF5SF95cW1OaVhGTm90aEwyWXNvVmxsR0t6bEsyUTFhVEc5a1M1cw?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年10月13日",
     "news_date": "2026年10月12日",
     "update_time": "2026-10-13 00:00",
