@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026年10月15日",
+    "news_date": "2026年10月14日",
+    "update_time": "2026-10-15 00:00",
+    "total_news": 15,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "科学调度 严守底线 沾益区扎实做好后汛期水库安全蓄水工作",
+          "source": "曲靖珠江网",
+          "pub_date": "2026年10月13日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpVG8yS19hUTBwR212cUxFNUJUN05LQ1RSTEZxNTliT19paGgzV21yclQyR2FUcVBMazZTXzJLTUY2dnZDTlB1cFlrNA?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 2,
+          "title": "湖南从6个方面推进水利强省建设",
+          "source": "华声在线",
+          "pub_date": "2026年10月13日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHaVZVS1Q3UXl3Nk5waTlHeE56UGJHR0dQMHpkaU9yZDkyNVRNNk1sOVFWME01WU02VHhWT2p4RTZYVTFRejVfX0xnMDJmS3F4anJyX3REbzlyblR1dk5B?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "胡云在眉山调研时强调：抓实抓好养老文旅水利工作",
+          "source": "川观新闻",
+          "pub_date": "2026年10月13日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Rd0JnYnhST0U3b0hPbkZYUlBJcXREZmprREVEeXlJdWQ4Y2FsclVENXZDTkNGUFNTUzhWQ2FIeDB6VVQ2VDU3ZnloUzlZUQ?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 4,
+          "title": "三峡水库生态蓄水超173米抵近满蓄目标- 湖北日报新闻客户端",
+          "source": "湖北日报传媒集团",
+          "pub_date": "2026年10月14日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZQUgyTjdjZHM5cnpYQlVRWl9zNk1aZTloNmh5Yy1hbzZIekdCT0ttYkQ5TEVKOXVuY3pFSW9xZlQ4WFMwV2ZUVHBjR2VxekYxcUFaaXR4TWs?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "岳阳市2026年冬种冬修冬储暨高标准农田建设工作推进会在汨罗召开",
+          "source": "华声在线",
+          "pub_date": "2026年10月14日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12N0VHVGFlX1UwdXZzRFBSXzhEa0tkdjhYeWFRYW9Dc29aTGFFbEVxYng1SlhMZUZvNWl4a3M5eVJUblljQjZScnNFQXZTajR1VUkzLXdyVHFCWTNqVTVpY2tpTkQ?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 6,
+          "title": "织密三湘水网 筑牢安澜根基——湖南大力推进水利现代化，加快建设水利强省",
+          "source": "华声在线",
+          "pub_date": "2026年10月13日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IQVJ2WkVZYXpkQXlmYUJ3TnJLQUNqb0pUMnhiZTVMOEgzWTNnaFVCYnNOTXoxYjBNMUxHczNXVG43YVRHTHRMTzNxOF95RElUVm1SSElqUF91Rzdma2xn?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "佳木斯市郊区水务局：筑牢水利安全生产防线",
+          "source": "搜狐",
+          "pub_date": "2026年10月13日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQblNNVmhtN0RUUGM5NUNLNVYwV2hMVzhCSmtqMmZtOVlfZWZYOVpLNnB3ZlV5VnBYSDRnMlRTVmNMUW9Bb28yTVFhTEVpTlBYZFBiMjh4RUVjTWNFcG5jYTI3aG1hSXNHVWJNYmZFUFdMRVFLcUg0ekVJQzBYMVFmSzRWR0tCU2xj?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 8,
+          "title": "3030名河长累计巡河408.6万次，整改河湖问题22万余宗！广州亮出河长制治水高质量答卷",
+          "source": "21财经",
+          "pub_date": "2026年10月14日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWUVVQkxfcjg0LVFyQWZqeDV6ODc5VG9zM0phRXFqckRnQ2lQLWFZcTNtNFpjSzE3bFZYSkRhZnpUaWpMMnUyRDBQMDlhN1BoZl91c3oxN0xWdjJOOU0wd01GX05pYXpQMXpfd3JGWTdmY2h1eHNjcjNUTm5ma21GN19XbzlkYkhNRW9RT2gwWQ?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "将昔日的劣Ⅴ类水体变为幸福河湖典范，黄埔下了哪些功夫？",
+          "source": "广州日报新花城",
+          "pub_date": "2026年10月14日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOXVxUzVfM0dDOUpVSFdVRDFoYmpZREVRVWNNRk13X3h4MENjeGhwTU9BZHRPWjJrOFhWUFl3LUpmWmtTbTdxcmJWZEo0bmp4STkyc3dmR0p4NC04R1pXMVI0bkhEYVI2OWJIOE5wdHZxYWZPUklYM1FIam9UQ0JhX3pQbnBTUXo4T1E?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "河长制十年，广州水环境满意度从19%跃升至83%",
+          "source": "搜狐",
+          "pub_date": "2026年10月14日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbDd2OFVOY0hSUzRoRHYybV9ReVRCc21ubFI3UnhlelE4bExZQkZ0WUJwcjJfejlKMmJNbTR0V1k1dHlZSFNLNXoxVDZNLWp6dUlHR2x5VmY2Q1N4ZmdBUlRNVEVxTm5vOTdCRU9hck5oSUxUckFjT0VURjd2aWhBY09TMFJoOXp2R2ZMRw?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "国考、省考断面水质优良率100%！广州推行河长制十年，河湖治理实现从“治污攻坚”到“品质跃升”",
+          "source": "搜狐",
+          "pub_date": "2026年10月14日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM0ZycklaNFhBalZ1eV9VSU5hbm9xeThxbVFKXzlTTnFfQVVNbEhRWnJmZ28xYjl5OVljM2h6QkdOMkNjejQydWs0Z0h5MnJnXy10ZW52RExvSVFaVTc0bHV5bFJEVEV6NXRfWTR5aThtdlpFbF9nMjdSQzdBOFpMWEtWRlNjdnIwVXM4NA?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "【新闻发布会】市政府新闻办举行天津市全面实行河湖长制十年成效专题新闻发布会- 中国日报网",
+          "source": "China Daily",
+          "pub_date": "2026年10月14日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NT3lfVkwyWVFyMmFzWWFaakFnTWNvc0lfdk1taWNuN0FxLURuU3kyMTNwSFdTN1FIYzRwX25HSVh1WG1VOFFPVXREWnVoR1hiYkl3RVpjTlRrcHEtbmZNZUU0QnNKY3lhcy1oU3BWaHkwZkk5SVFwUHRGams?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "满意度从19%升至83%！广州推行河长制十年，白鹭飞回城",
+          "source": "奥一网",
+          "pub_date": "2026年10月14日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MZWFTenJGWVFaa0cyaE5penJUVFo4ZmFXR1NiMW1jU1RjWGlFTktvYWdkNmZYU0dGUWdyYXhuRjhBZjQtdEtlbGpwNDNmOGZFMG9iRDdqdFRDa3VXX0Zmc091VVlqZw?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 14,
+          "title": "突破6万亿元！国家水网建设加速 重塑水资源与人口、产业、城镇、生态匹配关系- 经济",
+          "source": "中工网",
+          "pub_date": "2026年10月13日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQVdKUjB6dnVzemV3bzd5VEpRUGFXdy10dVNxd1M0ZEdua2txNE1FUEZLTVhZcjhxdFdteTdnV3RsNVJTUkVSZDVTRjNKZl9RTnVWbE1meTdfcmpLVHVv?oc=5"
+        },
+        {
+          "id": 15,
+          "title": "【开局“十五五” 奋楫新征程】水润乡村惠民生甘泉入户暖人心伊犁州11.3万群众受惠农村供水养护",
+          "source": "伊犁日报",
+          "pub_date": "2026年10月13日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFTUh0TDFMWkZCUlZSZ0o1aTl1YW9wOEtqY25RN1VFNkhzcVdKR0hBaGhWOFJNZWtRM183WnNtNXVRQ3Itazg2WXBlUk91ZmFTNGRNSUNKYmpXMWNCZUVkUkg1TGpaR05EbWxpNmFFTQ?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年10月14日",
     "news_date": "2026年10月13日",
     "update_time": "2026-10-14 00:00",
