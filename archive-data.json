@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026年10月17日",
+    "news_date": "2026年10月16日",
+    "update_time": "2026-10-17 00:00",
+    "total_news": 15,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "因除险加固，临翔区一水库段全封闭施工|非机动车|临沧市|防洪|云南省|路段",
+          "source": "finance.sina.com.cn",
+          "pub_date": "2026年10月16日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUI5VGpLbmRIRVVBa2VUOU9Wb2tvTHB2Ykh3S1NWeEJLXzgycUlPOGFfdWJVNUlYN0MxWkdPMmd1UUtVa0NmQmZqaEFDZmF0Q25JaXJFRTBCS1ByYlA5STg3TXdlM2dPNENRd3BSYndHdmR2NmpGUmxnNWpnWENQc3FnNUMxM2dfbTU0X1dKN2JiTGg2Rk1pMw?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "人水和谐绘就美丽河湖———生态安徽的“水文答卷”",
+          "source": "搜狐",
+          "pub_date": "2026年10月15日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVGZzalhMb2drczdpUGFpTzFROTdlV3kzS29XY2o4bTVsQWttalN5RzB4bjBuLW1IM3dZMk1kdFZhZzZ3bXMzaUVpeEFyNmoxTUNZTnVIdENMRU81cGcwVi1KZGtYa1RFMWZJYUgwYTBsUEhsQmZjSzd2UHBaaGlsdW5oSU5XYnVEMHJQTA?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 3,
+          "title": "2026中国水利学术大会在长沙召开",
+          "source": "华声在线",
+          "pub_date": "2026年10月16日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TUU9WUUNDenN6TTZ0c2xyM1QyTmVSMWJUN01STWVxTzNtZWc3SGZSUmQzeDU3S1Z6bTBXMGJNUEpSTWxCZUttMlZRZ3QtR2Q2NHRqdWpVeXBZN3llcEtN?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "2026中国水利学术大会在湖南长沙举行",
+          "source": "中国科技网",
+          "pub_date": "2026年10月16日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGTjFtRjQtcWZ5dGt4WW5yLURsWG9MNEVCRGFrMWZYeEQzU3U4V0I4Q2xWNndrcHB3a3pqanpOUnFibUpSSXlTaTkwa2p2WWZlcXdQanRtcnZlNW9xcTFrbW52bFRVdkNfaFBhM0gwVFI?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "2026中国水利学术大会在湖南长沙召开",
+          "source": "ThePaper.cn",
+          "pub_date": "2026年10月16日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FXzFIczhNM0owOHdhUzdjZ2QwODZHWnZyU195S1JkdEg4bG9OLTljR0pIWjlnQm5XVmw1elRoZjVlUE02cG5vM3ppV0ZyNktjUkMzTTd6a3BJVUpjX0NSbw?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "数字孪生+智慧水利！长沙理工大学为水利现代化注入“智慧大脑”",
+          "source": "新湖南",
+          "pub_date": "2026年10月16日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qcGpjTVdOTG83WFFTeXQyLXBuMm44VEhiSkJzai1COE9GMHBJTU1WV1pkakVlZ2lad0x5TVFMYkk1U29wQmtrWnVVSmJCbk9iYmxBbDFDeWoyazU5WjhF?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 7,
+          "title": "水利部：今年前三季度开工建设28项重大水利工程 水利建设完成投资7950亿元",
+          "source": "finance.sina.com.cn",
+          "pub_date": "2026年10月16日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbXFnbDF3T1A1UGhlWGNNZlJHR1BHOFdqN3BlWVREbEc4cEN3ZXBIQXZ4T2NablZyNUF3dEJDUXNnWl9fZWtYbkRPNnF2SGxxVmljM3BuMEZZX0NvU2JRSFZfdzFVN1dTZmpOYldhWFBYR2xNZTZDUjFzODVfMGxPV29TOTQ4VUFmT0p1bkNLa0xiWm82Qld5NQ?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "跨库牵线！济南太平、鹊山两大水库将实现水源互济",
+          "source": "搜狐",
+          "pub_date": "2026年10月16日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTE9MLVN5cXFNc19MTjdCSUFYc1p3ano4R0pZZEIzMGVyTVZrRmlpX1FiXzRoNnQzYmhOUWc0a2VvNjVSZFZlR1V6THV1XzZ6bEVzN2lTc1N2ZXpQaWU2OExrRURDcWhPWGJ6Nm1ieUZ3YkJDNFBYbHlha3ljTXhyWWJWSzd4Y3ZfaEUweQ?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "玉山县七一水库纳入《全国重要饮用水水源地名录》",
+          "source": "大江网",
+          "pub_date": "2026年10月16日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjQnVkLXprRmFzVnV1VWlWUWNZVDVJQWRvTHR3ZVByT0VrWUNpNENLbldmb3ZrcFFvQ3loYzVoY0RvUjFrZDFhQzB3dVplTHo1SkMteVFvMEpRanlwa0ZOVGdxbVBFcmNMNk03Qg?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 10,
+          "title": "党建引领筑水网 绵阳引通济安工程即将正式投用",
+          "source": "四川在线",
+          "pub_date": "2026年10月16日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82N2hXeVlXazJyZzk3elFYYXdNWGtIQVRrd3k2UUNJWXJhNVowSWUwc2Z5NmNORjhHTzRjNGxvMTNTZmhHWlR0OXpISWZEdDJxa3Nwd1pEa0VDNXJWejRFcy1oX2Q?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "达州水务：锚定党代会目标 织密达州现代水网",
+          "source": "四川在线",
+          "pub_date": "2026年10月15日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90WDVxeWx1Y2N5NnBGa0docU1ZZXVuVkdxREg2V0N3VDEtX0FaUFJ4WmlHQTh5OXBjQWZ0bC1vMzNtMS1CWFdfTDVZQlVhbWZnQ2VIMGRIZ0w5T0g0NEYzdmFn?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 12,
+          "title": "泰安河湖长制从“全面建立”迈向“全面见效”_泰安要闻",
+          "source": "齐鲁网",
+          "pub_date": "2026年10月16日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMZU5xTGZZNjdCQnBhOFdCVGVwSERreG9qU0pnWnFTcDlGdnZGX1ctSG9rZmxEMVdadDJnSGZYb2VILUVYcUl2QXlUWGlKa2FRRTFYWENETjFfSW1oSmprSWFLbGJkRVlBM3Jz?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "吉林水更清了！好水比例首次突破90% ——全省水生态环境治理成效显著，美丽河湖建设持续推进",
+          "source": "凤凰网",
+          "pub_date": "2026年10月16日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xc0JqMC1DX3BOTEdic3B4SzVXOGVlTjVCVUtSX0w1dXk0M1ZPRTk1eC1NSDhzbXJCQ2Z0Z1BTbU9QZGtWRHBkOGFB?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 14,
+          "title": "供水、蓄能，河南水投担当水网建设“主力军”丨牢记嘱托 出彩国企",
+          "source": "搜狐",
+          "pub_date": "2026年10月16日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYjZFUVNsbWw0U0xmVm02Rnl5NVF1RDZpOXR0bzNCZWY5NHo4SkM5RHBQYU43R015TW9SamNYLVRDa2pDdDk5ZENGRmd1NlRVTVpiS0Q5ME5kZFF5UHdjVFZuZWczMFY0WjlHRmlIRC1iYURXcG11N3BwRW4wckVBbE0wNUlkaDhDVlFWbQ?oc=5"
+        },
+        {
+          "id": 15,
+          "title": "皖苏携手开展水权交易 跨区域调配水源解砀山供水难题",
+          "source": "搜狐网",
+          "pub_date": "2026年10月16日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONVlPdl83UFVxbVd5aWc0Wlhub2p3amRPRU5aRFh4RlJSTDk3eEhzblh6S0NEanNKTE9LRE5tejRkZU4wWkVCLUhUaGpBV29tamZVNEQ4bUVETG9ObVdPdHM3RGVFQ2ROQmtwb2dmcVlVT2l3SHVvZ0ZQOEVCMDM5ak1QVjM2dHdLRTRZ?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年10月16日",
     "news_date": "2026年10月15日",
     "update_time": "2026-10-16 00:00",
