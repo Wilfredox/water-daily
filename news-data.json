@@ -1,9 +1,9 @@
 {
-  "date": "2026年10月18日",
-  "news_date": "2026年10月17日",
-  "update_time": "2026-10-18 00:00",
-  "total_news": 12,
-  "category_count": 6,
+  "date": "2026年10月19日",
+  "news_date": "2026年10月18日",
+  "update_time": "2026-10-19 00:00",
+  "total_news": 6,
+  "category_count": 4,
   "news": {
     "防汛抗旱": [
       {
@@ -14,115 +14,57 @@
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
         "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oLWUzRmVaTnBwX0RYN3g4MUNHbmVYbkJhdDVUMzdXN1Z1QzFqT1I0ZC1JSHdEMU5oTldJeFdjTnNFcVNVNUJXZXBLR3JYd1RGNnoteHRKLWY5ZVBZZHhzWVo5Mmo?oc=5"
-      },
-      {
-        "id": 2,
-        "title": "水利部和中国气象局10月17日18时联合发布黄色山洪灾害气象预警",
-        "source": "Jiemian.com",
-        "pub_date": "2026年10月17日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WVC1qOTBvZlZQZzVQRmdZTGh3QnA3Q1NydFJsaHlUM1pEWWxrNmxpd19zalJFRXlsUWRUTlJMZWwyNWNBbjBXc2lWQzdFLVNQcm9VRHBuVVM?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 3,
-        "title": "2026中国水利学术大会在长沙召开",
-        "source": "华声在线",
-        "pub_date": "2026年10月16日",
+        "id": 2,
+        "title": "珠江委会商加快推进洋溪水利枢纽前期工作",
+        "source": "中国新闻网",
+        "pub_date": "2026年10月18日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TUU9WUUNDenN6TTZ0c2xyM1QyTmVSMWJUN01STWVxTzNtZWc3SGZSUmQzeDU3S1Z6bTBXMGJNUEpSTWxCZUttMlZRZ3QtR2Q2NHRqdWpVeXBZN3llcEtN?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SQ3FTc29vNmgxT1dXaEhqTFU1YjJ0M0VXOGduVzhUYXFOcDZMMTA5bWhtMGZUYjJmNXF6X0FVVnlxdzVhdVFtcFh5WktqMFJIal9WTzlmR1ZocXU3OFNMYTd2NWFNcHhf?oc=5"
       },
       {
-        "id": 4,
-        "title": "2026中国水利学术大会在湖南长沙举行",
-        "source": "中国科技网",
-        "pub_date": "2026年10月16日",
+        "id": 3,
+        "title": "集智论水，赋能发展｜2026中国水利学术大会专题会议掠影",
+        "source": "红网",
+        "pub_date": "2026年10月18日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGTjFtRjQtcWZ5dGt4WW5yLURsWG9MNEVCRGFrMWZYeEQzU3U4V0I4Q2xWNndrcHB3a3pqanpOUnFibUpSSXlTaTkwa2p2WWZlcXdQanRtcnZlNW9xcTFrbW52bFRVdkNfaFBhM0gwVFI?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oQjFMVWhmVVBDbjFlckl3Y2tmTHFrYXlJLUVZWks4TlFTbHpJeGpybEd2bVhQYlVmZ3hwNU5VNHpVUXlTZXNLZERILWFXbXNKeEgwbUJNVGtsT29GY0t3eW5JNA?oc=5"
       }
     ],
     "水利工程": [
       {
-        "id": 5,
-        "title": "白盆珠水库装上“智慧大脑”",
-        "source": "新浪网",
-        "pub_date": "2026年10月16日",
+        "id": 4,
+        "title": "【微视频】甘肃：重大水利工程建设提速 为稳增长注入强劲动能",
+        "source": "凤凰网",
+        "pub_date": "2026年10月17日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFWml0ZWlMb3JzWVlNRjJSMjdGaGR6Q3RlZzNDZTFUZHFaeF9OWXpsa1FSRnVwTHRnSkUtQi1wYkxTYXJfNmY1WXItUDI2Z2pxNVFnX2s0OXpndlc1Z05NMkszcDF5OFh1NnFRcXpGSDIyZw?oc=5"
-      },
-      {
-        "id": 6,
-        "title": "门楼水库计划本月下旬调引客水入库",
-        "source": "finance.sina.com.cn",
-        "pub_date": "2026年10月16日",
-        "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeDdHLXJreTNqQmFMMXBYTFJ4RGlkVHBpMUxRWkRpX29yVERZT0piai1Td1l0NFVMZ0MtV1BYeUFMUEFMWWZuaUFFR1Vfdk1ORnREWEFIV1hiZTR0NUJNZkdwWnh5RURZOXR2aFZjcFFOVHZGM0EwN2pZcF9Xa2Q3V0pLYw?oc=5"
-      }
-    ],
-    "政策法规": [
-      {
-        "id": 7,
-        "title": "党建引领筑水网 绵阳引通济安工程即将正式投用",
-        "source": "四川在线",
-        "pub_date": "2026年10月16日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82N2hXeVlXazJyZzk3elFYYXdNWGtIQVRrd3k2UUNJWXJhNVowSWUwc2Z5NmNORjhHTzRjNGxvMTNTZmhHWlR0OXpISWZEdDJxa3Nwd1pEa0VDNXJWejRFcy1oX2Q?oc=5"
-      },
-      {
-        "id": 8,
-        "title": "全省水网建设推进会召开",
-        "source": "finance.sina.com.cn",
-        "pub_date": "2026年10月16日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX0FURDd4d3M4RGl5TlpyNzdNaFZQc01tam92OFRVanRJZjdIZGY3eU13RXN3bGNUa09jcEh4Q2ItRE51M0d1SkNVRWRacHBUVU5FSFlQcmxmazlsZkItZFV0MzFHR1ZvN1JmYXhPdmV2aTBnd0c4LWRISF9GZFJhbjFCbFhmTEE3Ry1CU3dkR0dmWmItQU0wcFR3Z2tHVVpQY1dJT1cyV2NqREhqWVNycDFVdGdXa2twYWl4S3lqY0M0TVdKNzFmaDFEZnN2Z0tTb2VRLW9jVW5YeEE?oc=5"
-      }
-    ],
-    "水生态环境": [
-      {
-        "id": 9,
-        "title": "泰安河湖长制从“全面建立”迈向“全面见效”_泰安要闻",
-        "source": "齐鲁网",
-        "pub_date": "2026年10月16日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMZU5xTGZZNjdCQnBhOFdCVGVwSERreG9qU0pnWnFTcDlGdnZGX1ctSG9rZmxEMVdadDJnSGZYb2VILUVYcUl2QXlUWGlKa2FRRTFYWENETjFfSW1oSmprSWFLbGJkRVlBM3Jz?oc=5"
-      },
-      {
-        "id": 10,
-        "title": "临夏州饮用水水源地水质连续十年100%达标",
-        "source": "finance.sina.com.cn",
-        "pub_date": "2026年10月16日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNT3hxSzNFMENOcE0ybU8xWUNiOXBQMkp5Y3pDdDJ6SWRERk5zT1JXWHhIaWUtV2ZXaklsWlFGSnk3dXRNdG8yN3YxS3QzZ0RFaGZ5Tk90S2FTRk0zSVBOcUR2SE9TdlpBOG1NU0NUVE5IYkRpekdnZ1l5VE05cndrZ2dzclNUVE1tUWNLMjM3NWlfQ3lsZDB2X2dmSWlyNXVvQmw4eU9MZ1NSTWJKeGFqb0F6SDd6Y1BKZTVOQ2hhMEhaSDZPUE5PU2lFdFRJQlR0eE0wZG96SXpib3BmSkFRQ2FoYThKQ0lOaFFLTjBNRWFReHMyTllsa2syeVptOVdieXFRUGNPdkZXN2w3OW9HSjNvZnkwVXMzbkI3ekpyLU5WSndla3E2VjhvaFFmZDZkanVxU0Jtbmc4d3hkeFhKNWZXMzRIbFFVUXQyc2NzcDJna3RLd2ZwZFFXNjQ2ZldjdkJxRkFYWVFVbW1MeG56Y1NKVWdockdzVGRfcXo0aHJ6cC1ndlJqZklGeUFLcy1MMUY3Vm9YNDhWUDlORldUU3E5REtmZmJBcXZ0N1NrOW9fS1pBWkNPWUVOb0tNT3drVEJhMnU0VVFWa3JGeVFod1FldkQtOGxhUFNfYkhZRjdKV3NDRk5MRkZJekM?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE00T2VhYzRSNm1jNHdNbzVjeWx5YjRTTGtqRXJrMDlUbEY0dloxM2RQUFlRWDB1VnlpaEZLVkk2ZjVOYkxYcU92Tw?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 11,
-        "title": "供水、蓄能，河南水投担当水网建设“主力军”丨牢记嘱托 出彩国企",
-        "source": "搜狐网",
-        "pub_date": "2026年10月16日",
+        "id": 5,
+        "title": "乌苏市西区合成生物集聚区供水工程加速推进",
+        "source": "央广网",
+        "pub_date": "2026年10月17日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5WEVKanJ6Vk9aNlJxU3NkRUFZYzVDelhxWHA2UEk3R3lfZDJMYjNCN1piUDRsek56bTMydkNwb1owTGpZWURvX0ZCRkMyWm9saGZCVEpn?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DWElYd1RHWkxlUXVGZ0pST2NCaG1YZGVUNnhIS2VldFFWZ2NybzR0YXFvUVVNenBWVDRkMXVESmlFNXhtWDZBTEwzaWZRLUZWQkg0NEJrRXFvZnRCa04xWHRDR1gzQk5kVWF6ckxvSm8tME92aHJFUjlR?oc=5"
       },
       {
-        "id": 12,
-        "title": "皖苏携手开展水权交易 跨区域调配水源解砀山供水难题",
-        "source": "搜狐网",
-        "pub_date": "2026年10月16日",
+        "id": 6,
+        "title": "到2030年城市再生水利用率达60%！山东出台水安全保障“十五五”规划",
+        "source": "搜狐",
+        "pub_date": "2026年10月17日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONVlPdl83UFVxbVd5aWc0Wlhub2p3amRPRU5aRFh4RlJSTDk3eEhzblh6S0NEanNKTE9LRE5tejRkZU4wWkVCLUhUaGpBV29tamZVNEQ4bUVETG9ObVdPdHM3RGVFQ2ROQmtwb2dmcVlVT2l3SHVvZ0ZQOEVCMDM5ak1QVjM2dHdLRTRZ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSXBIUDg0cUJ0eWJ6ZEh1Z0FmTFRBRTNWbDBTYi1PQ09WTzh5cEVrNU9QazNVdEdEeWJZWDlrbi1qeVpnY01wOEdnN0dGVUwyUHpOUXJoX0JLM2VwZWY5Vm9MYVVfdkRlOTM5TDBRSlhpOWE0dy1ieHJhZ1ZkVU9ZMU5UQVdyZlQwVE1kNg?oc=5"
       }
     ]
   }
