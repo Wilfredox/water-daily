@@ -1,5 +1,76 @@
 [
   {
+    "date": "2026年10月19日",
+    "news_date": "2026年10月18日",
+    "update_time": "2026-10-19 00:00",
+    "total_news": 6,
+    "category_count": 4,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "我国沿长江及以北地区有降雨过程 国家防总办公室调度部署防汛工作",
+          "source": "新京报",
+          "pub_date": "2026年10月17日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oLWUzRmVaTnBwX0RYN3g4MUNHbmVYbkJhdDVUMzdXN1Z1QzFqT1I0ZC1JSHdEMU5oTldJeFdjTnNFcVNVNUJXZXBLR3JYd1RGNnoteHRKLWY5ZVBZZHhzWVo5Mmo?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 2,
+          "title": "珠江委会商加快推进洋溪水利枢纽前期工作",
+          "source": "中国新闻网",
+          "pub_date": "2026年10月18日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SQ3FTc29vNmgxT1dXaEhqTFU1YjJ0M0VXOGduVzhUYXFOcDZMMTA5bWhtMGZUYjJmNXF6X0FVVnlxdzVhdVFtcFh5WktqMFJIal9WTzlmR1ZocXU3OFNMYTd2NWFNcHhf?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "集智论水，赋能发展｜2026中国水利学术大会专题会议掠影",
+          "source": "红网",
+          "pub_date": "2026年10月18日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oQjFMVWhmVVBDbjFlckl3Y2tmTHFrYXlJLUVZWks4TlFTbHpJeGpybEd2bVhQYlVmZ3hwNU5VNHpVUXlTZXNLZERILWFXbXNKeEgwbUJNVGtsT29GY0t3eW5JNA?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 4,
+          "title": "【微视频】甘肃：重大水利工程建设提速 为稳增长注入强劲动能",
+          "source": "凤凰网",
+          "pub_date": "2026年10月17日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE00T2VhYzRSNm1jNHdNbzVjeWx5YjRTTGtqRXJrMDlUbEY0dloxM2RQUFlRWDB1VnlpaEZLVkk2ZjVOYkxYcU92Tw?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 5,
+          "title": "乌苏市西区合成生物集聚区供水工程加速推进",
+          "source": "央广网",
+          "pub_date": "2026年10月17日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DWElYd1RHWkxlUXVGZ0pST2NCaG1YZGVUNnhIS2VldFFWZ2NybzR0YXFvUVVNenBWVDRkMXVESmlFNXhtWDZBTEwzaWZRLUZWQkg0NEJrRXFvZnRCa04xWHRDR1gzQk5kVWF6ckxvSm8tME92aHJFUjlR?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "到2030年城市再生水利用率达60%！山东出台水安全保障“十五五”规划",
+          "source": "搜狐",
+          "pub_date": "2026年10月17日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSXBIUDg0cUJ0eWJ6ZEh1Z0FmTFRBRTNWbDBTYi1PQ09WTzh5cEVrNU9QazNVdEdEeWJZWDlrbi1qeVpnY01wOEdnN0dGVUwyUHpOUXJoX0JLM2VwZWY5Vm9MYVVfdkRlOTM5TDBRSlhpOWE0dy1ieHJhZ1ZkVU9ZMU5UQVdyZlQwVE1kNg?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年10月18日",
     "news_date": "2026年10月17日",
     "update_time": "2026-10-18 00:00",
