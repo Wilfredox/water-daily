@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026年10月21日",
+    "news_date": "2026年10月20日",
+    "update_time": "2026-10-21 00:00",
+    "total_news": 15,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部：全国45条河流仍维持超警",
+          "source": "新京报",
+          "pub_date": "2026年10月20日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKclN4LWx4eHBqVng1S3NHbEt3WVI3TmU5MzRqMFZwcUVuc1NtazBDc0ExSk9kaGJvVi1QTEI4THZtWDRod2JnenhQWExOY1VwOUdZWkNoS2ZNMkVBTDR6SzFR?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 2,
+          "title": "哈萨克斯坦25名水利专业人员赴华参加专项研修",
+          "source": "哈通社",
+          "pub_date": "2026年10月20日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQU2JELTJOTUpFUHk2U3NVMjlGeVR3UWZEY3R1aTNYUVJxT25EdGFjNEsxdE1oNTdkMlFoT0Z3UkhnVzFyTE9XTFdFTXd2c3dIdzlDWmdn0gFUQVVfeXFMTS14LVpsckQ2OFBmYTdDd3pvQ0hLMDNJZXNQRUV0eFMwRVlab003UkZOa1Fqb0VsUjVxWWM1d3J3RnA1TlJLcFB4SGZxZWV6NmwzdnhZ?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "辽宁现代水利行业产教融合共同体在沈阳启动",
+          "source": "新浪新闻_手机新浪网",
+          "pub_date": "2026年10月20日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNd3FubVhJNEdsMHhNTllXdXktSWhKMU5zMTN1bFBmcnRZYmNQYllMTUlvZGZzYm5LMkNYMlFDVy1ILWp4U2NCbjZVeG51Z0xCdk1USXU2VDNva0VYN2NJYmJXRi1NeHZ0TnlBX2d1MHNUWFU5Y2M2aVBuUVNCdk4wLXZRODBMM1dIdlNsTWUzRGd2RERKd2M1cjM3b21HV2hRbDF1NGk0T3ZGQ1Y1S25yQk9ZSWs2SVNPYTdPWnhVbXpqMXVEVmV1amd1LXZiWVlqNWNJb3hTczhMNTd2REhZOE1zQXdpTU1CaWpZbnRnbEFvV204ZjV0bkxQWmVNa3FvSjlUaG1oOWtiNm9ZVE1UMk9pcXpzdnl2czhzbGZNVG1EaWtUMnBiSEFQOVFoX25mc21ZenBlbmhEWTNGeVZtdTU3eHNscGduWWJ3RjQ1NW9JRzh1a0plMk44YnFtdDdtVmRv?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 4,
+          "title": "广东郁南县水利工程安全运行治理项目进入收尾验收阶段- 中国日报网",
+          "source": "China Daily",
+          "pub_date": "2026年10月20日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QcDFnLW9VX3RCM3ZEX0VqSHZhWGJWUzhRTkk5WjdTTDJjV05ISnhqdHFlQlJoMzZRVUFsWVJfZENJTmlrczBqbGlMWTdwNGxPc3lLQmpwbmRuX0hfSlgyX3lwV3BBanlDNHhLSEhoc05qaHpBaEllcWRJdU4?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "樟树市中洲乡修复农田水利设施 筑牢粮食稳产增收根基",
+          "source": "江西新闻网",
+          "pub_date": "2026年10月20日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWZHBjLWREQ01kRE1LTTZ5ZmZhcWt1LTNpOXBkenktbnNOYkRENEx5RDRvM0k1ZVkzdGZKMloxUTFrb0ZabGxMdl9HM29PUk9jSXBJZmxJNjNrTnJUV1dhcGc3WQ?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "托克逊县开展2026年度生产建设项目水土保持设施验收核查工作",
+          "source": "中国新闻网",
+          "pub_date": "2026年10月20日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORVR2aEhpSzhEOHZNVGNxTXNpRjdiYUxrR2I5bDRzbGJDeFM2bVBXTlFIWlFIVzhYcDFZbGdCRDB4ejVjZGZIR0hwUWpUMXpNYi14cVhlOWlEbXNkT3FROTRTcEdRVE4wTnFBdXp5VENNN3lFNHMtdlJnblp5ckpRQlpkSQ?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 7,
+          "title": "国家水网与幸福黄河建设战略研讨会在郑州举行",
+          "source": "中国教育新闻网",
+          "pub_date": "2026年10月20日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42RmRxRjh1c1BoQ1BpVl8zYzB2RW9jZXJYcmwwbFBtZmxFQVU2V0lfb3JaQUgxc0Z0emdHeHRUY2lzdHljMGc4YTdyYkozTDl5MG5YaVZfaDdoQmlDOXp2VHNNeE5MMV8xNEFnZWFSNG9zSHF5?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "广东省水网调度中心揭牌成立",
+          "source": "21财经",
+          "pub_date": "2026年10月20日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc25RR1RBd2NTaFRNVVNEUUo1U0J5dUdQcmk3a1dBaE1pSTBIVHBJRzAtczY5VW9TQzRjY242Wi1Md3RVOS1GS0tDbmNjaXJmTXkzY3ZDUnJoazgtbENDeE5NdHZyZFpfMUVFRGhRRlpOOFhuNElEZ2Q5V1U4V3ZxQnlSLWJmbGZjd2pPU3BYWQ?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 9,
+          "title": "宁夏：全面推行河湖长制十年 奋力绘就人水和谐新画卷",
+          "source": "搜狐网",
+          "pub_date": "2026年10月20日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSy1xQ0FrOVFEcWNiRl9BdzhVVzZkMHU1NzZldktaUENmc3EwQUNHMm54Y09YRzYzX25NOTdvV2tLMFAwM2o0QmRZRHl0Z0dPV0syeDlaY3ZkUkdZM0JXSTF5VTVtX3Z5WkFCR2pBV0J3RnpEWWFBNDJnamJBQTRmbl9nZnVOSjRucHlr?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "宁夏4307名河湖长守护全域河湖 黄河干流宁夏段水质连续9年保持Ⅱ类",
+          "source": "中国新闻网",
+          "pub_date": "2026年10月20日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qQVdTTmY2bjJLOW0zMVkxempJa1NveTY0RWJLTHBlU3BlS0N5LWFiT3BBb284YmRBWTFkaTRtZGszTmFwbkp0NUxKYUdobjYyUWhlQjY5LTdkS3JvUDBKZ2x3TkpQdzFD?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "菏泽已配备各级河长湖长4875名，河湖管护直达“最后一公里”",
+          "source": "搜狐网",
+          "pub_date": "2026年10月20日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS2RENmJoMUFRdHdGTEVyclhKS2FWYlVNZzlOVFpPWXpDc0xRMno1VU42V09Dc2k3YXVmTVNuUlNRZHhpTEpEVjZvbldKcEhqd1V3ZDdpakhieDlnNlk5RGZ2WmFLNDFTTC13RF81VTl4NF9ZTlczbnkwZDNJNU9NSkdLSHNrTFA0VGFzWUZ6Zw?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "烟台借力河长制十周年招募民间河长43名大学生志愿者接棒巡河-烟台社会",
+          "source": "水母网",
+          "pub_date": "2026年10月20日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81eDVfeVI4RUktZWozSm83ejZSNGdrdTAtRG9pZlFwTElKTEg2ZHRXQmMzZGxhYTZhRmY4cGxuNFlOT1dYakdHQ01kbzVDNWFBMFFSNFN5bDVuNW1OVnVrTTIyUzU?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "银川河湖长制推行十年：塞上湖城建成“15分钟亲水圈”",
+          "source": "中国新闻网",
+          "pub_date": "2026年10月20日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55ZndERGlhYk5qX3JfTUtGSXY1RDFRQVppS3lheU5GMW9KVUdpOE5fZlpJNWtldDB1OUNuaWFDbThVUHE5bC1LUEx0UlVBejVoRTA3bXRzSkF4cXlKNXg2ajUyeEVmeVhn?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "福建将乐：十载深耕河湖治 碧水绘就生态华章",
+          "source": "中新网福建",
+          "pub_date": "2026年10月20日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WNTBJZ1ZzU1h5SXo1MW1pV0ZmZUlJUXg2Q2g1Uy1aclhES3Y2VHpfZ2h0dk1nRXNGYVQ4TmhxNmU4d0g1NG5GeEFxQlliR2QwOW5rNDRtaFhyOHBFaHNDc2l4eGdzQmxnSTU5MlNiVFdzdw?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 15,
+          "title": "引水兴滇工程跑出数字化加速度",
+          "source": "见道网",
+          "pub_date": "2026年10月19日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1POU1SVXB2dG05SnozdmphY0JuNDd5UEhDTjVUU19NWjdHYkFkZjVHRDJKSXZkUEFHWUZUUUw5VXVjRms0dDVOejlNa2luWXRUVXpmUg?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年10月20日",
     "news_date": "2026年10月19日",
     "update_time": "2026-10-20 00:00",
