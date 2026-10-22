@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026年10月22日",
+    "news_date": "2026年10月21日",
+    "update_time": "2026-10-22 00:00",
+    "total_news": 15,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部：全国45条河流仍维持超警",
+          "source": "新京报",
+          "pub_date": "2026年10月20日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKclN4LWx4eHBqVng1S3NHbEt3WVI3TmU5MzRqMFZwcUVuc1NtazBDc0ExSk9kaGJvVi1QTEI4THZtWDRod2JnenhQWExOY1VwOUdZWkNoS2ZNMkVBTDR6SzFR?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 2,
+          "title": "《中国水利报》入选“2026年度高学术影响力中国报纸”",
+          "source": "中国水利",
+          "pub_date": "2026年10月21日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96ZlM2MloxYmhtTHNiN1pGMUZpU3hxaWJyUXdpOUNfRXdnbEU1aEtkZ0tpNVZnNExpaG9WQzhpTUJvTDBMV3hCV0hmYTFBd1FRT0x6ZjRiZTFpTHhpLU5MNnBhQ3E3ZFMzbV9oYjM5ZXVySVRhQjBB?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "哈萨克斯坦25名水利专业人员赴华参加专项研修",
+          "source": "哈通社",
+          "pub_date": "2026年10月20日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQU2JELTJOTUpFUHk2U3NVMjlGeVR3UWZEY3R1aTNYUVJxT25EdGFjNEsxdE1oNTdkMlFoT0Z3UkhnVzFyTE9XTFdFTXd2c3dIdzlDWmdn0gFUQVVfeXFMTS14LVpsckQ2OFBmYTdDd3pvQ0hLMDNJZXNQRUV0eFMwRVlab003UkZOa1Fqb0VsUjVxWWM1d3J3RnA1TlJLcFB4SGZxZWV6NmwzdnhZ?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 4,
+          "title": "2026年前三季度新开工28项重大水利工程，超2025年全年",
+          "source": "见道网",
+          "pub_date": "2026年10月21日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LRUd2UmVhMVRmVTJaUVdEUFE1Q3Z6M0wxRnY5NjFad2Vwb3FxRzRGRXA0c0M0RjdOZ3VLdlFiR2Y0NXBBczRxMXFpbjR1aF9JYVVScw?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "筑世纪工程保淮河安澜——江苏盐城市水利工程建设管理中心高质量推进淮河入海水道二期工程建设",
+          "source": "中国江苏网",
+          "pub_date": "2026年10月21日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOUF5SHh5U1pUUnRTNVNvTXduX250dTU5RGJISnByMkxDSTBLMVc0ckV3QjNXejFWSk1xeFNSODd3bVgyUFBBbFlyS2FPMUxJRVJ2anlEYjJzbjM2Ul8tcURENExmRGlBWW9lYUVRZVRqNmFnM0lPSVluSV92aXJva0d0TmJRakh4b3VR?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "柯坪苏巴什灌区改造投用5.5万亩良田畅饮“幸福水”",
+          "source": "中新网·新疆",
+          "pub_date": "2026年10月21日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjRKYm5iV0NYenNGbVNYaXpYYjhvLWd0SklOYlp3ZXpyUmp4Ynk0ZVNISEQwQUFnUGd0VWFRMW1rb1JZOTROXzM5WTROUWYtYXBmalN4cHdranlaenoxRVJxU2luUTJyUS1LRlZRODM4Ukt6NnJiM0U1dmZ1OWd2V0JIYw?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 7,
+          "title": "国家水网与幸福黄河建设战略研讨会在华北水利水电大学举行",
+          "source": "中国青年网",
+          "pub_date": "2026年10月21日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5neWxKa2pqVWJRbi04Q0YtVVQ0T3JPMkhaU0pUcWVpU2M0SkFoNHl6RGlYWFA3bUdLR0FHaUJFVXpETzYyVzB3RzhCTG1OUHZXbVY5am5YYV9NaldsN2M4MUtBYkk?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "广东省水网调度中心揭牌成立",
+          "source": "21财经",
+          "pub_date": "2026年10月20日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc25RR1RBd2NTaFRNVVNEUUo1U0J5dUdQcmk3a1dBaE1pSTBIVHBJRzAtczY5VW9TQzRjY242Wi1Md3RVOS1GS0tDbmNjaXJmTXkzY3ZDUnJoazgtbENDeE5NdHZyZFpfMUVFRGhRRlpOOFhuNElEZ2Q5V1U4V3ZxQnlSLWJmbGZjd2pPU3BYWQ?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 9,
+          "title": "周敏在乐秋乡调研时强调：水源地保护是必须守牢的民生底线和生态屏障",
+          "source": "搜狐",
+          "pub_date": "2026年10月21日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeEp6QllOeEt1UHJGLVlpT1ZoQUxuNjVjcnNrbjBwZTM3cjRaMTFRQVJWek5kSnBROGpPdlowblRnMDlfLV9aS0xBbS1jbHBUbGpPcW9reno3aWNsa0t2N0UxdTROaWN3SnczcENja1UzaXE4M2tKODJhN1E0TVNDWWFtTGRlaWR0T09BYg?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "水利部出台母亲河复苏行动标准",
+          "source": "finance.sina.com.cn",
+          "pub_date": "2026年10月21日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSk41Q2ZMMzhneDQzTTJFYW91SU5qUElsN3ZaempCR0ZFTy1GTnVobWhqZ2V3cm5RMVZJZ1ZkRkRjY0dDa19ZaUI4SGhZSWxUdjItMzEtYnpJZlhDQUZsTFB1RXBPb0VzVDNDdnpzUHBVOVNvby04NWlDeTJaU0xVY2Q4QlNQWXNlZEw5dF9RSDVlRUlYdzBjNA?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "十年河湖治理 书写菏泽安澜答卷",
+          "source": "大众网",
+          "pub_date": "2026年10月21日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KdzdoUl9mb0FJb084cDRIN1dPME90UUlQSHliMlFkcHFHS0lfWkJUaUEycHJRS2s0TGtWY0ZfeVVZa1JLQTRqdFQ1dEVCc2dlMVpzZGtRVDNCdGRyWlgtdFdJV1FpUHBv?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "河流断流、湖泊萎缩怎么办？我国首部河湖复苏行业标准发布",
+          "source": "新京报",
+          "pub_date": "2026年10月21日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lMFkyUjU3cVg5cktEWDF6M05xUTB6NTRiZjBoUkpWby02d0ZUTC15Vy1jRGR1NW9qOS14M2dObTdteUZFakZSTEhVWXA0aFhzbzNONnRuOXhlZHBZV2tOeDRlTW0?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "连江县水利局陪同省站开展水土保持专项监督检查工作",
+          "source": "中新网福建",
+          "pub_date": "2026年10月21日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zNTNuQ25EQ0xBUWI5V19NU1YzNmdsekI5a0dNOWdUWnczOFNuaUU0T212RVNvMmhjVGI1MTZEcF9SNDBDQl92aV9OWXlYSVBQNGZITUZ3eExySU0tVkdFSjBPR2ZOYzNpUjBXWnFJTm5NQQ?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 14,
+          "title": "佳木斯市郊区水务局抓实农村饮水安全 筑牢民生保障防线",
+          "source": "搜狐网",
+          "pub_date": "2026年10月21日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUXR6cFlLeWxrcVNhU3FCU0JoVUl4YVg0RGJkRmVRWjE1SEt1eThCQktYNXF2ODlBcjhkLVBqelgwSzVYU0pTM0VfbVM3Rl9tSWo3TUFkbFBuRUNxSmItTnk0UTVwQ2F1c3Z4MXFOUUdYZVVtMUVQMzd3cVdLM1dwZ3VIY0hRVDg3SzU0?oc=5"
+        },
+        {
+          "id": 15,
+          "title": "精研设计补短板清泉润乡惠民生吉安水务集团设计公司全力助力吉安县水利局农村饮水提质升级",
+          "source": "大江网",
+          "pub_date": "2026年10月21日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tems0NUR6Q0sxd3FGWThXeU80UkV5ajM4VFFKVGc3ZS1pakpjV2JuTmFBeEwwczVjWHBZM2xpS0E4eWFaVjZLZXZNUGxZT0VoRU9fVlVnNFl1R3k3UFdiYTBhb1dUamtpeGY0TA?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年10月21日",
     "news_date": "2026年10月20日",
     "update_time": "2026-10-21 00:00",
