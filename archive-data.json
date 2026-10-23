@@ -1,5 +1,224 @@
 [
   {
+    "date": "2026年10月23日",
+    "news_date": "2026年10月22日",
+    "update_time": "2026-10-23 00:00",
+    "total_news": 22,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "温州市水利局启动水旱灾害防御（防台）Ⅳ级应急响应",
+          "source": "温州新闻",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lazV3dktzVVB5RFVmM3k2aWZOXzk2ZUhlbWNKSzByNmZoRnRvRWtGV3BvV3Fna2JLdGdxekVITjBZRFduaFJJWElQYkxEVVA5cVllSmhFb19HeXhpX042UTBucXRpdw?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "“三招”守牢安全底线！山东加快构建现代化防洪减灾新格局",
+          "source": "搜狐网",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU3lxZzdiSGdvRmI5UGdLYzczd0VyZUNENDE4RkxSUTNpTXpPb1hPR2E3aU9fV19MQ1lDNnRNSDN1cEhDV29zSmluZHByWUNoUlNYS3dQenZyaHNQQ3ViTDRESEpoSnZsVkF0eU45R0ZkZ1BvQURUc1ZBRzViNkZvTTVfRWRWWXlKTm52RWxvOA?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "超强厄尔尼诺下，山东如何筑牢防洪安全堤",
+          "source": "搜狐网",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUlJ6YnFfSC1JdzJ1cXR5cWdBSWZzYXhkMC1Bdnd6NnBXZ0dCR3lXN2pXczNJNE1HVjc4bHBEdURtanNQX3ZpUE9tUklIOGVEVzRwb3JKRF9ycVBCWDRFY085eUo1M1Fnd1ZzQVAyVVdWeEdTZWdKMk5UX0lPMFF0Wk96Y3g4WVFfS1ZDbURfMA?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "水利部针对上海江苏浙江福建启动洪水防御Ⅳ级应急响应",
+          "source": "京报网",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tOGR0MnlWRDFoMW9IdVFhdG01ZHRpSlFXSnctVW5pWVBySmt1SVVHMDlpdmwySktqS2UxSVFWMnB1REhLZmJHX3ZTODFoc0hwamlrcEdEeGNIVnltZ1E?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 5,
+          "title": "四举措强保障！山东推动重大水利项目提速落地，助力现代化水网建设",
+          "source": "搜狐网",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTXlJeWw4ajFHRnE0bW9qZloxTldQemE5VlZaZjZTVWhMbTNKTjJRSWFRSW5NUHFvNlVlMFhvakxrX28tMENmcnpHWVpjdGl4SnJTRi1zSTAyUWlDU09ub3UwaXlsNTV1SVI2a2w0NFdhaUFiNDZPVUFJbWdHQXZHOTBhZjFsS1JZOW1DbERYYw?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "奎屯抢抓施工期 推进高标准农田建设",
+          "source": "中国新闻网",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM3dlQnpETXFYZU92eWpVR1FJYVU1bGVrU1JnMXYtYlhHcVJDYUlseWdwdGtyZWVtTWZ6d21pZ0V1eE91QzRNQlVUaVhadndOekpFTDJNTjhKcXJ3LTJSUlFTV0FEZFRlc1NQYnJzWnRJMHBjbk5ET1MxWjNzTGw4MElhSQ?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "改善水质，赋能水源地生态保护！泽雅水库重点民生工程立项",
+          "source": "温州新闻",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ndFlhNUdZMWdYdy1MRXZkT2Q2MlBidXFheDRIdF9LNGs2VzZJZkNQVnY2TWZHZktVYk9jUFRZdkhxOE5BdHpzZ0d4VlFnSzcwN0FYbUVMYy1VcVh3VXVPbUpZSVQ0SWJSSDBmUg?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "财力支撑加码！山东多渠道强化财政资金保障，赋能现代化水网建设",
+          "source": "搜狐",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUm5HQ28zWkZDS1NGSWwtNlZ2UkxKUm10b2wxNTJPeENVNURvU2ZZUWNaekY2WmpPNW5kM2FHd3NLemNmU01Ob2QwZlZmRThvTkJDVGJEYzBoRENVZTlNY0ZhdWxwWC14c0M5NUFRYUdXWEM1bnhXejdHZnpxYXltT1NDSEdaSnlKZDI0aw?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "全国智能大坝试点浙江占4席，探访会思考的大坝",
+          "source": "搜狐",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRFhzLTBhX2NrRHdWaEZDSnQzYm1Bdm03TXJsMjRneFZpSHB3UUhRR2pJX0J6bTQ3Rjd2ZVA3VkxFWmRlWmJPRl9sQUNmb3gtUmxHX3E1SzYyR3kyMG5iSWtKamxTeVJqczgtU1luTzBabFdLUF9zS3ZSVlFBRjNhcE1wdkNZVFI3VXl5WA?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 10,
+          "title": "给水利装个“超级大脑”！山东力争2030年建成智慧水利平台",
+          "source": "搜狐网",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTmRjVFZPdHZ6MmUzOTZLbGE3MGNrRkZ4U2FZNmxkd1lzWEl0d0xlLVNOVEJBdFJyTW1oc1ZvOWlVeGNTQmtFZW9oUUg1MlB6UFFqOUVleVhHb05ESzdHSGtXWmNzU0t5clFOZjlxc0JSVGlNZlVxT0t3N1dqZjZBMUc3c09aX2lpeUw0QzB6aw?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "存史鉴今传水脉 笔耕不辍谱新篇 娄底部署推进《湖南水利史》（娄底篇）编撰工作",
+          "source": "娄底新闻网",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rRDgzU3RSVmh1NnpoMGRwT0dVNVJRNG12NFpXMmo4ekJDV253LU5JSmlxT09KNlVydm9kZXRYMl8yZFUtMHZLdE9Fd2E1dmp4NTFXb29ZZVZFdw?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "乌兰察布移动建成全市智慧水利平台 以数字力量筑牢我国北方重要生态安全屏障",
+          "source": "新浪财经",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85bDdHOGJTcHphdXdWbE1PYXZXQTJfOVN5UWVqYXJ4ZFVyLTdQcUE1blNWZVpiSlpzTWlQUVhGV3lVX3VBSjRFYktsWGtlY0dZb1lSTnk1eko4eWhqa05jNE5TUEFWT0t6ZV9pUDBiZmVoWmlQZHg5eQ?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 13,
+          "title": "“十五五”山东治水蓝图来了！2030年省级水网覆盖率达到92%",
+          "source": "凤凰网山东",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9QRHNZS0lRNFZZNWJLWEprQWtqUUswcXVyUVdZcFhuTE5OZ0c2TF9XYUF6cVZYRnREVkNiWnpvQm92QjNNTXF1TU9B?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "50余个重点项目纳入国家规划，山东系统推进重大水利工程落地实施",
+          "source": "搜狐网",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTlAxY1ZTZXpaenYtWW10YUlUaDRHa0p0cVVCWF93WUZDYTEwNTVCdktfSjItU05tY3JFOFo2RmIzdnZxdHFtUVprRFNYeE5QOVVkOHY5UmdWTjdjWTBjZDFpUkM4OElubDVXRVM0cHA4bzVmc25SeHJoeXhMbmtodTRjclpYZjlMdGhzX0l3Yw?oc=5"
+        },
+        {
+          "id": 15,
+          "title": "203.18亿元开局资金就位！山东夯实“十五五”水利建设财力保障底座",
+          "source": "搜狐",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaFR3QVdObmJzSVhVVERJeWdablJWM25TalRLM1NCaHRnX0FJZV94S2JTQklOUGpEY0VORm9rUWZOd0xEcUlwaWJHd0xrRC1RTHhWWHQ4MU93MTE3Zkx5RmpsR1MtSGxqWGVaOUNsa2R6bHBBbnFWeHFPY0o3dWFLS0xjV212SnJyU3BQRw?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 16,
+          "title": "潮州两处饮用水水源地入选全国重要名录",
+          "source": "潮州日报",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5iZUI1TXFMcXFnUzNkaUQ1MS1qVTJINVlBM1BwS1ppclZWRjZrNFQ2SElpUnhMUlk1X1B2bS16TFRXTFozbU9aVHNwRklmZ0tQUnYtLUxiYXJ0c0o0aG9QVDBOUXhEQTNaM0FibU1hQQ?oc=5"
+        },
+        {
+          "id": 17,
+          "title": "诸城市皇华镇：志愿护河清水岸 共建美丽幸福河湖",
+          "source": "半岛网",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcC1SaDJZbjB2NEJfcUp1WDNPcTFrVWxHXzFlX1BkaVlfNFNXQWwzTnZNQWtsWll0cThsWFRYelVHUjM5eWlrMlJoOFdUM0xVZndPeVFlWFZBVjhq?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 18,
+          "title": "山东“十五五”谋划实施一批水网重大工程，到2030年新增供水能力6亿立方米以上",
+          "source": "搜狐",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUkZTeGRnTXlnbHE5LXktY0xVYjZ5UjFvSE1tT05pck9lTkFTYlBOUENNZ1JJVGtLYUQ0Vk9nTkRBaUxGbzQzeGNRdV9aenplNDZ3SE5pZkhTaWFWemltU0FBaXRRQzRLc2lUS0tUbmZXdzgwb2QyMGNjX3pVeXppOXhPR0twTjVsa29qNQ?oc=5"
+        },
+        {
+          "id": 19,
+          "title": "固镇县水利局精打细算护好水资源",
+          "source": "中国新闻网",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XdFlubWprQmExVFRka1JCNkVwYzZ2RVktSTQzaGpFdW1vZE15bW45SEpyQkdMbm9sd0E1S1gzSG9uVkhPSndBMzQzZ01ISnBkdjBiWDhhOW8xOG82Y1dMbEtGUzB4bjEwVXc?oc=5"
+        },
+        {
+          "id": 20,
+          "title": "山东“十五五”聚力节水控水攻坚，力争到2030年非常规水利用量超25亿立方米",
+          "source": "搜狐",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX1N4RTlGZmQ4NmcxOVZZaXhQMTNQSkVMRDNhT3JwQWxjZXY2eUpyY3FidnBZbllydGxRU3g1bHhZS0xZQkdGWWdVMm9wdTFfcml1b2NkRnBBSmJ6ZDd2bU4wVzYxTHJQV2ZBM0hVNWZiaUE4anFHX2ZDQkNtTkRWRUl5ZkJzWTk5VlVjeg?oc=5"
+        },
+        {
+          "id": 21,
+          "title": "节水优先！“十五五”末山东万元GDP用水量瞄准再降7%",
+          "source": "搜狐网",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZVdvX29KbmdWLXA4QlBxWThEZEcxSjFQanNZbVdLajhsLTZDbmVTOFZiWFR5bEI0anBMc0JkOHZxclRLUDJ1V25lS3FuOVBqdmVaOU9HUnNpX05qdXNaMFdKVUVwR3J4cUc4bkRqdW9uZzgyUEE4Ym1lS1hUYm5iMF9kOEFJZExvOWdVRGY1VQ?oc=5"
+        },
+        {
+          "id": 22,
+          "title": "目标25亿立方米！山东持续加大再生水、淡化海水开发",
+          "source": "搜狐",
+          "pub_date": "2026年10月22日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUzFjdy1teTdaNHFBY0prRE1XRlJ3dEdyTXBSMXZfNWtGRU5faVdRT1YzdXNHeTczaTBHdG9pT2hQdFRqd3VTWWpsSkJGVUpZQzJFVTdseXFOaWk1Tlptdnhld1VZMzZreWR1dVZ4UUQzWlZFYk43T0NQTkRDdE12U09odFdLckJzQ2N0Tw?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年10月22日",
     "news_date": "2026年10月21日",
     "update_time": "2026-10-22 00:00",
