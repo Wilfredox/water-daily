@@ -1,69 +1,33 @@
 {
-  "date": "2026年10月24日",
-  "news_date": "2026年10月23日",
-  "update_time": "2026-10-24 00:00",
-  "total_news": 21,
+  "date": "2026年10月25日",
+  "news_date": "2026年10月24日",
+  "update_time": "2026-10-25 00:00",
+  "total_news": 11,
   "category_count": 6,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "市中区召开2026年防汛抗旱工作新闻发布会 四项举措筑牢水旱灾害防御防线",
-        "source": "鲁网",
-        "pub_date": "2026年10月23日",
+        "title": "34座水库一张图，防汛何以\"一眼看清\"？",
+        "source": "中国宁波网",
+        "pub_date": "2026年10月24日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sZnJjWFhBaDlNQVVWTGhjTGxuN3c1VGJYSGt2SHhVeGhPYnYxQWRJYzFjMVZ3TUdFZ1JzbGJwdGtJRnBsczBpSUJsdTVJdW53ZEtxald2UER1QV81QV8zNUZSRTdRRk8zb1MyQjJGZXc?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFcmR6bE85Y2VFUVNXNDdjU29nMmViVFpFV1g2TlBWLU5rOTlxUFZ3cE13VElkQUU5a2pMTmZCMmh6RnJMSTNDYWZHal9QZW41UENxT3EteUliVGY0YkhJQXFnTkZ6YTNZ?oc=5"
       },
       {
         "id": 2,
-        "title": "浙江省水利厅提升水旱灾害防御（防台）应急响应至Ⅲ级",
-        "source": "浙江新闻",
-        "pub_date": "2026年10月23日",
+        "title": "台风“蔷琵”移入东海南部海域 4地防汛防台风四级应急响应持续",
+        "source": "中国新闻网",
+        "pub_date": "2026年10月24日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55a3NoLW5JNnYxZ2R5dmIyaExvM29qSHJrQms5Yjc3QzVyYWVfRmh2aWxPSjEzd296ckVBcFRJeUo0aXNHN2M4czNPMTB6d3o5SXI2Qi1ydkRtTVdJN25ua2oxNFE1YlFnNW1uZ3FJR0IzUQ?oc=5"
-      },
-      {
-        "id": 3,
-        "title": "宁波水旱灾害防御应急响应提升至Ⅲ级",
-        "source": "中国宁波网",
-        "pub_date": "2026年10月23日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kM1Ytb1ZEcjgzZC1xUVo0dXZHUW1POHZ3RUk1QjNYUzVael80Z3preVdPa0otQXEyLWoxSzZFbnJHb3Bjc2F1UFJ2Vi0tNFRUVkhMWWNPemc5aF96ZTl2M0NNcVlMRWdT?oc=5"
-      },
-      {
-        "id": 4,
-        "title": "补短板、谋长远！台州一批防洪排涝重大水利谋划项目同台比拼-台州频道",
-        "source": "台州新闻",
-        "pub_date": "2026年10月23日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVVFlBSnNScmhsOVNWTXhwalJhdWdkaWEzcHI5NEthdlB3Mm1IaE5WNkFzSkhNZ2hhSjNpRjdDdzJacHlZNXQ1Z3pXOUdpdjBReVdhZlBDYnE1TkVXQmJtU3NyZ3BfTVZSZjVB?oc=5"
-      },
-      {
-        "id": 5,
-        "title": "开局“十五五” | 山东如何构建现代化防洪减灾新格局",
-        "source": "搜狐",
-        "pub_date": "2026年10月23日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT0tvT290blRzVzFmTC1FN3Y3d2ZjbllGTWtRRUxpQzd0aFBPSzFZWHVhWjgydXFlWW1DdnplZG4xMmFMdVUzd1ZRWlV4VjBGZktGRjdyN2pnZEczOXpESHo2MGZUUXpIMzNfS2xELVNQcU1zU2JjM3JXNTVEcmZXSURsTkZLYm0xSG95VA?oc=5"
-      },
-      {
-        "id": 6,
-        "title": "台风“蔷琵”靠近 浙江江河湖库水情如何？",
-        "source": "浙江新闻",
-        "pub_date": "2026年10月23日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3SDRVeG9YNVFBeGp5dGxuUmdCQkZSQjgyLUtuVjdvcVFxVnVXbnJRMEYtUWxTaVZRNHFoM0lfcURSNXg4TG9SNTdjNkhzUFFDV2o0NWU5LUtnMHZ1Mi1oRUpJN1dqUzdkamtyM0hLNDZIUQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rdzJOUHRWS0F0bmdpVWJYT05nWnZuT1UzY0hiNVFnTlpoUGQtNVg4NGZiVUQ1RlRFbHl0UGtmVW5ydEVETG1nV0xXaGJNUkZUVVp2YnlLTjVEUVFta2JLWE5JbE9wdWI1?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 7,
+        "id": 3,
         "title": "【喜迎党代会奋进新征程】清水县：清泉润万家 水利惠城乡(图)",
         "source": "天水在线",
         "pub_date": "2026年10月23日",
@@ -72,138 +36,84 @@
         "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56ZVRHQUxMQkRFZG5rbnFBc0ZSSS00QkRwalNHQU1VekJla21fTDJXVHZJTWtqLVM5NFVvaFFfbi1CODI3RExCUnNXUTVlbVU4TDcxeTVfMVJKNUxxOXBXTDlxZkM1ZUhLM1E?oc=5"
       },
       {
-        "id": 8,
+        "id": 4,
         "title": "隧洞里开进“巡检车”——甘肃水投集团引洮水务公司管护从“徒步时代”迈向机械化智慧管养",
         "source": "www.gsjb.com",
         "pub_date": "2026年10月23日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
         "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45a3cwU0VSNjFza3NMWTY5c08yZkFFc2hTY2lSdHhlUW1XRG56TzFweGgyUGY0WmRyZjU3MXQ3WDMyVjFBWHZ1bHEzNndxMGI0RHJOQ3pQdnp1MDJXMDFmeGM0ZDU?oc=5"
-      },
-      {
-        "id": 9,
-        "title": "开局“十五五” | 山东如何让水利更“智慧”",
-        "source": "搜狐网",
-        "pub_date": "2026年10月23日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RdUJ1Z1h0czQxemowTlhHQlNFVk96TWk3RFFlbzZrdTItR29PTWcyT2Z6cXBvTy1pS3Fub3FDalV4RTJwOHJIeWlCZGV2dEtxRVduVnN3?oc=5"
-      },
-      {
-        "id": 10,
-        "title": "中国水利水电第十六工程局有限公司被罚",
-        "source": "搜狐",
-        "pub_date": "2026年10月23日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYkpGVnBOZ2xDa3ZLOGMwY19ZV1VmRmtUTG9COGZ2UlFaRmZWQ3QzWld5SktOcGVjSi1NZkJYV0Z2Sk1vdWR5Uno1b0VfX2NLMElkRlVoQzFUb1Y4WElXR2VKMkE1SmEwWE1NLUhCV2tacUxWRHUwYzZvRVZlZXdKWGhjR3E3MDR2?oc=5"
-      },
-      {
-        "id": 11,
-        "title": "干部素质提升年 | 2026年全市水务系统人工智能和数智水务专题培训班开班",
-        "source": "武汉市水务局",
-        "pub_date": "2026年10月23日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZZTRpMjV0dlNuUGRqX09RbU9MdlY1OFMzaTFMb25FU08tTDZOY0pvcFNVa3RtTVFiWXk1RzVRcGw1NU5PNTJfUmM5bUVnakYxMk42OGZrNTZES2lVb21YRFpMeHdDaXBOSkxONjhTd0JpZw?oc=5"
       }
     ],
     "水利工程": [
       {
-        "id": 12,
+        "id": 5,
+        "title": "长江流域蓄水量再超千亿立方米｜即时新闻｜中港台｜on.cc东网",
+        "source": "on.cc東網",
+        "pub_date": "2026年10月24日",
+        "content": "",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOckdFYTdZTVBOeW11Snp3QzBpMVVFZ1hnSGdSWVRycHlTeGp3Q3ZmZGRKd0NKSWpObS10YTVIUk1ESDhEMm1nRS1mTzdqTlNtbVo4cjc4YzZ5OVZTanRGaUp0QVhMYUdWR3BTVVFyckFNcDZqbWVlSFpIUkRUWWwzcHYxZHRka0FTeDdxR1hFaw?oc=5"
+      },
+      {
+        "id": 6,
         "title": "玛尔挡水电站首次蓄水至正常蓄水位3275米",
         "source": "中国新闻网",
         "pub_date": "2026年10月23日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
         "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40R25NVkdLcFROLXhwMjlPUVQ4cTdrejFhUTIwVE5MNG53dk5WR1VXRXF5QlI1Z2xNdlJDLWhlcGI5dWkwQ0s3eVh2WXktdmFnYTJyVzVUWGdjWmhydmlhZ1ZTTHJza3RvN3pITThB?oc=5"
-      },
-      {
-        "id": 13,
-        "title": "【创建助力“百千万”】守护饮水安全红线！台山海宴开展桂南水库一级保护区拆违行动",
-        "source": "搜狐",
-        "pub_date": "2026年10月23日",
-        "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVWhleGJNRG1qOTVHZUhkcmE0ZExLV2lfc2hrS0JoOXowLUJtVlpROHg2SkFmRWhidnJHNU9feUZQRDlmVjRkM1p6V1FPbkJmSGpaVkkzYkJxckRldGlZOWQwWHZxTWhIVjFuUUlNemVjbHlEWGozbENuMXJNOEhHWF9MdEc2ZUdUazYtWA?oc=5"
-      },
-      {
-        "id": 14,
-        "title": "今年前9月，湖北在建水利项目1300多个，完成投资429亿元，同比增7%",
-        "source": "极目新闻",
-        "pub_date": "2026年10月23日",
-        "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yRzVLbTY0aTE2RlVfcDd5OElYaVFMLVhPT0w2dkFMaF9VMTZtWWNQLVdSMWh6cjQ3V0wtNncweWJFdVhqdzZEcWxHck1iT3FVbmE3ZFY4cTVFeW8?oc=5"
       }
     ],
     "政策法规": [
       {
-        "id": 15,
-        "title": "何以更强？ 山东水网作答“十五五”发展之问",
-        "source": "搜狐",
-        "pub_date": "2026年10月23日",
+        "id": 7,
+        "title": "湖北谋划158项水网项目 总投资7800亿元",
+        "source": "人民网－湖北频道",
+        "pub_date": "2026年10月24日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZk11ek53NWRULTlCOWwyWHJfdktfcnN3elJDcHg1OGhtZktscWxVeVhKLWRJNWdDX2U4dnVlM0lLY1dzcEk4OTA4Z2F0bHg0UU1PU1dtWG1zV3dka1NfZ1Z6bGphT1ptRVBSUlA3Z0txTFJ3aWVaUDRkd3hWU1dzTU5zSk9PTUQzbEpQSw?oc=5"
-      },
-      {
-        "id": 16,
-        "title": "水网打头阵，活水润三湘",
-        "source": "华声在线",
-        "pub_date": "2026年10月22日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DdTNBR0RkOW53SFIycjdiRVp0N2JXdG81U0hEbWY2MVZqcXhGVU5fR25BWkFfMGFZTUF3OTd5U0xRYThsaGxGZk9GcjlCaE56ZWpEUmxOT3R0LXJFYU5r?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LRFRzeTh0MTBkYUI5MExVYUxDeG1ZRzRadXJPaU5DLTlwUFFfMlVVMUpfSndCdUhiRjVaRkxFS2RQUlJTQmJjUWJqYlo2Wkc4SzV4MlhqWUdzcFROUTZhT0xwQnFROHJ2ZUE?oc=5"
       }
     ],
     "水生态环境": [
       {
-        "id": 17,
-        "title": "湖北发布丨“十五五”水土保持定下新目标：建设生态清洁小流域200条 水土保持率提升至86.10%以上",
-        "source": "湖北日报传媒集团",
-        "pub_date": "2026年10月23日",
+        "id": 8,
+        "title": "保亭保城河流域人工湿地项目预计年底交付使用",
+        "source": "中国新闻网",
+        "pub_date": "2026年10月24日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54OUxxTWlVU2lCUWdxYjZHbEtRQWE5R1ltcWxjSE5IX0NiR0RfVmpzOFU5YjVSQ1M1dnNrN2FjUDNtMDVrQ3RfbU1rbVlxa2pPR3NsYmE0c2o?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rM0NYRXJLZkRwYnVQM1VRVlM0aGNJWmdwYmFwNFQyWkdrenpEeVNkTFV0eTR2bmVlR014cTZfNGNrbFhZeWF1ZTNzSkkxOGNQWFdWYjV1WXBGdExFVnM0dmxXZ2cyVmJ0MVBZ?oc=5"
       },
       {
-        "id": 18,
-        "title": "绿水青山就是金山银山践行绿色发展理念建设生态美好家园| 水磨河幸福河湖项目稳步推进八道湾河段11月底完成建设",
-        "source": "新疆网",
-        "pub_date": "2026年10月23日",
+        "id": 9,
+        "title": "省级幸福河湖，孝感这里入选→",
+        "source": "新浪财经",
+        "pub_date": "2026年10月24日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41ZnVuUUo4MnA0VjE1T2g0dXl1c3RlLTVuWWN6RmVMVXRKWjR6NHk2Nl9UdXNZeUZDZC1WWUsxNXlqVDAtQUNMcDJCV2tPMjltUUd4b3lLUlRkbTJnWFRWbFJtTzhobll2bVZKaFU5NVJzdi1n?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42UjIwRlo0bk9IbTRiWFJfWjdjR2J6MXl2RS1fMFlGejdLeGpNUk5uT2ZWY2N0SThHN2VnYUw1MUNRd01UbkxhRXVhUURxWFcwVFF6RXVZM1FIX3BPelhueW5EdEhsR211Ny1jUGpvNmtKQS1jVEE?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 19,
+        "id": 10,
+        "title": "山东“十五五”谋划实施一批水网重大工程力争新增供水能力6亿立方米以上- 政经",
+        "source": "速豹新闻网",
+        "pub_date": "2026年10月23日",
+        "content": "",
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fbkFuWGctbzA3Z2M5ME1WRXFMSHBFX1F4aXJ1ejdOdUNaZ0F0aTVDM3hPbFJKYy1nUW1Sc0pCelpmZWdjTUJuWUhBNkJNVXEwQUtOOWs0b3R3UQ?oc=5"
+      },
+      {
+        "id": 11,
         "title": "宣城旌德：聚力城乡供水一体化 让山区群众喝上放心稳定水",
         "source": "人民网－安徽频道",
         "pub_date": "2026年10月23日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
         "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03R3BxTmJKcnUwR24zaVNUbkZhUTdZUi1DazBiZVFhdzVZT1ZDYVE4X1Y4X3l1ZmJLRV9aLWZCRGJFUGJNV3c1Mk5zRkRCTXpaSk41VDFzOUVlMjZJZ0tLWkVjV1pZQk8yNHc?oc=5"
-      },
-      {
-        "id": 20,
-        "title": "算好一本“水账”，平昌县破解城乡供水成本难题",
-        "source": "四川在线",
-        "pub_date": "2026年10月23日",
-        "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wQ2ZuR2toNFd3ZW1ORy1CWTZaQ3NCQ25JSEdzWjlTc2hFN3ZNRG9MNXJoT3NYQ2dXMzI2QWJMZzE2bVVFbmE2bHdES01tSF9fZEFjem54NFhsYXJVeVUwZWVfcw?oc=5"
-      },
-      {
-        "id": 21,
-        "title": "【普法惠民】灵寿县水利局开展“乱采河砂隐患大 私取水资源法不容”普法宣传",
-        "source": "搜狐",
-        "pub_date": "2026年10月23日",
-        "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRHQ5bldjNzlsZEkxSDBJd1pJQ2FhWWxBaXZSTE9Bb296dzNOQWZxZkZKNlE4NGh5OXlfa2F0emlwQlE1ZmQxOE0wYUxFLThQWTI0R2ZXd2s2SnJvLVNhd2JUalJTQTVSMEYteHAwazhpMlk4ZEpZWmx2a1ZFdEVHdkRDeUhnYzVaS2kyQg?oc=5"
       }
     ]
   }
