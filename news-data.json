@@ -1,119 +1,88 @@
 {
-  "date": "2026年10月25日",
-  "news_date": "2026年10月24日",
-  "update_time": "2026-10-25 00:00",
-  "total_news": 11,
-  "category_count": 6,
+  "date": "2026年10月26日",
+  "news_date": "2026年10月25日",
+  "update_time": "2026-10-26 00:00",
+  "total_news": 8,
+  "category_count": 4,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
+        "title": "水旱灾害防御应急响应调整至Ⅳ级",
+        "source": "中国宁波网",
+        "pub_date": "2026年10月25日",
+        "content": "",
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UM01DVXlLN0ozVlI4SnBrclkxWDNRWVhaRlp6ZFc0R3BUN1c1amdRR2V4bjZvWWxmR3FicVFUNGVURjlPRGozVEctSHZxMEh4Y2ltZ29HUVRYV2xUY3pNX0l3RHpvWlBt?oc=5"
+      },
+      {
+        "id": 2,
         "title": "34座水库一张图，防汛何以\"一眼看清\"？",
         "source": "中国宁波网",
         "pub_date": "2026年10月24日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
         "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFcmR6bE85Y2VFUVNXNDdjU29nMmViVFpFV1g2TlBWLU5rOTlxUFZ3cE13VElkQUU5a2pMTmZCMmh6RnJMSTNDYWZHal9QZW41UENxT3EteUliVGY0YkhJQXFnTkZ6YTNZ?oc=5"
-      },
-      {
-        "id": 2,
-        "title": "台风“蔷琵”移入东海南部海域 4地防汛防台风四级应急响应持续",
-        "source": "中国新闻网",
-        "pub_date": "2026年10月24日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rdzJOUHRWS0F0bmdpVWJYT05nWnZuT1UzY0hiNVFnTlpoUGQtNVg4NGZiVUQ1RlRFbHl0UGtmVW5ydEVETG1nV0xXaGJNUkZUVVp2YnlLTjVEUVFta2JLWE5JbE9wdWI1?oc=5"
       }
     ],
     "综合要闻": [
       {
         "id": 3,
-        "title": "【喜迎党代会奋进新征程】清水县：清泉润万家 水利惠城乡(图)",
-        "source": "天水在线",
-        "pub_date": "2026年10月23日",
+        "title": "西藏那曲巴青县发生5.7级强余震 水利部会商部署水利抗震救灾工作",
+        "source": "新浪财经",
+        "pub_date": "2026年10月25日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56ZVRHQUxMQkRFZG5rbnFBc0ZSSS00QkRwalNHQU1VekJla21fTDJXVHZJTWtqLVM5NFVvaFFfbi1CODI3RExCUnNXUTVlbVU4TDcxeTVfMVJKNUxxOXBXTDlxZkM1ZUhLM1E?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1McWNDVEYtbENwT090RE0xNmVLaGpTU1h6QnJKWEJWOTBSSVBiMmVBV1daejJQd2dtNU1BbzlXNDVqR3hXV1lVaWcwNzRteWhCRmZQZVlDR05jOG8xVDE5Z3dkSW5mTTV5am5FeENzcFB3SmY4Ymc?oc=5"
       },
       {
         "id": 4,
-        "title": "隧洞里开进“巡检车”——甘肃水投集团引洮水务公司管护从“徒步时代”迈向机械化智慧管养",
-        "source": "www.gsjb.com",
-        "pub_date": "2026年10月23日",
+        "title": "KU游安卓app注册入口赋能深圳智慧水务，开启水务管理新范式",
+        "source": "TGBUS",
+        "pub_date": "2026年10月25日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45a3cwU0VSNjFza3NMWTY5c08yZkFFc2hTY2lSdHhlUW1XRG56TzFweGgyUGY0WmRyZjU3MXQ3WDMyVjFBWHZ1bHEzNndxMGI0RHJOQ3pQdnp1MDJXMDFmeGM0ZDU?oc=5"
-      }
-    ],
-    "水利工程": [
-      {
-        "id": 5,
-        "title": "长江流域蓄水量再超千亿立方米｜即时新闻｜中港台｜on.cc东网",
-        "source": "on.cc東網",
-        "pub_date": "2026年10月24日",
-        "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOckdFYTdZTVBOeW11Snp3QzBpMVVFZ1hnSGdSWVRycHlTeGp3Q3ZmZGRKd0NKSWpObS10YTVIUk1ESDhEMm1nRS1mTzdqTlNtbVo4cjc4YzZ5OVZTanRGaUp0QVhMYUdWR3BTVVFyckFNcDZqbWVlSFpIUkRUWWwzcHYxZHRka0FTeDdxR1hFaw?oc=5"
-      },
-      {
-        "id": 6,
-        "title": "玛尔挡水电站首次蓄水至正常蓄水位3275米",
-        "source": "中国新闻网",
-        "pub_date": "2026年10月23日",
-        "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40R25NVkdLcFROLXhwMjlPUVQ4cTdrejFhUTIwVE5MNG53dk5WR1VXRXF5QlI1Z2xNdlJDLWhlcGI5dWkwQ0s3eVh2WXktdmFnYTJyVzVUWGdjWmhydmlhZ1ZTTHJza3RvN3pITThB?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtdXhhaDRBd0NvYTktUjFVbC1vQXhtSHlscW1LYWxWb0lMZS1jaEllalJrVmJ2XzRwbmo1TTlzOFZ5bUFlZkRoS2hsTEVEVlBESHVvcDJiT2dQZHRZRmpoUnJuQ1Z1Q29OZmhDUEdwaUtrWlV5RFctUHpUbGU?oc=5"
       }
     ],
     "政策法规": [
       {
-        "id": 7,
-        "title": "湖北谋划158项水网项目 总投资7800亿元",
-        "source": "人民网－湖北频道",
+        "id": 5,
+        "title": "视频丨“九机并进”引江补汉硬核科技助力国家水网越铺越广_国内要闻",
+        "source": "中国甘肃网",
+        "pub_date": "2026年10月25日",
+        "content": "",
+        "impact": "将进一步规范水利管理秩序，推动依法治水。",
+        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxVC1ubDJuRTEwTkVHR3BiWFEyXzNrMEFBWFhXbHVCNkptSUNGM1dRenV1aWVmaEQ2N1FFMWVodlVoVkFMckh0aDFlemF1TnZTUW4yUWprTEJuTmNXbWNEbmZFd3gxN1AxcFE?oc=5"
+      },
+      {
+        "id": 6,
+        "title": "平昌：城乡共织一张“水网”，农户用水更“自由”",
+        "source": "四川在线",
         "pub_date": "2026年10月24日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LRFRzeTh0MTBkYUI5MExVYUxDeG1ZRzRadXJPaU5DLTlwUFFfMlVVMUpfSndCdUhiRjVaRkxFS2RQUlJTQmJjUWJqYlo2Wkc4SzV4MlhqWUdzcFROUTZhT0xwQnFROHJ2ZUE?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HR1lYMWVhSm02b21HdzVLdmJmNVBmZXlUaDQyYTJJOEt4N3Q0b3FWb1lMcDdrTS1kZ1BGWjZzMHJhVDU1eUNqdGxGUjlMRnNPSmpBMG1talVqQU5YZk4wNWt1UQ?oc=5"
       }
     ],
     "水生态环境": [
       {
-        "id": 8,
-        "title": "保亭保城河流域人工湿地项目预计年底交付使用",
-        "source": "中国新闻网",
-        "pub_date": "2026年10月24日",
+        "id": 7,
+        "title": "清城区河长办以河湖长制撬动水经济发展的实践",
+        "source": "搜狐网",
+        "pub_date": "2026年10月25日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rM0NYRXJLZkRwYnVQM1VRVlM0aGNJWmdwYmFwNFQyWkdrenpEeVNkTFV0eTR2bmVlR014cTZfNGNrbFhZeWF1ZTNzSkkxOGNQWFdWYjV1WXBGdExFVnM0dmxXZ2cyVmJ0MVBZ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUUk2NDZDVzR1NkdaellFZmJZcUZlcnRmWl9TcmpVRWdIMi01Ty1MVWRNQzE4dGMzU0V6MFhFYl9lX1RaREdYcnBxNlc2RWk4NXVweTBMSkV1MkxESjZmcHpPQmt1RTRFcm1jcmFnUDVGVlItY2ZtQjFWU3lnU0stdG1JajQxVmxmOTNndA?oc=5"
       },
       {
-        "id": 9,
+        "id": 8,
         "title": "省级幸福河湖，孝感这里入选→",
         "source": "新浪财经",
         "pub_date": "2026年10月24日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
         "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42UjIwRlo0bk9IbTRiWFJfWjdjR2J6MXl2RS1fMFlGejdLeGpNUk5uT2ZWY2N0SThHN2VnYUw1MUNRd01UbkxhRXVhUURxWFcwVFF6RXVZM1FIX3BPelhueW5EdEhsR211Ny1jUGpvNmtKQS1jVEE?oc=5"
-      }
-    ],
-    "水资源管理": [
-      {
-        "id": 10,
-        "title": "山东“十五五”谋划实施一批水网重大工程力争新增供水能力6亿立方米以上- 政经",
-        "source": "速豹新闻网",
-        "pub_date": "2026年10月23日",
-        "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fbkFuWGctbzA3Z2M5ME1WRXFMSHBFX1F4aXJ1ejdOdUNaZ0F0aTVDM3hPbFJKYy1nUW1Sc0pCelpmZWdjTUJuWUhBNkJNVXEwQUtOOWs0b3R3UQ?oc=5"
-      },
-      {
-        "id": 11,
-        "title": "宣城旌德：聚力城乡供水一体化 让山区群众喝上放心稳定水",
-        "source": "人民网－安徽频道",
-        "pub_date": "2026年10月23日",
-        "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03R3BxTmJKcnUwR24zaVNUbkZhUTdZUi1DazBiZVFhdzVZT1ZDYVE4X1Y4X3l1ZmJLRV9aLWZCRGJFUGJNV3c1Mk5zRkRCTXpaSk41VDFzOUVlMjZJZ0tLWkVjV1pZQk8yNHc?oc=5"
       }
     ]
   }
