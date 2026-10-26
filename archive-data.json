@@ -1,5 +1,94 @@
 [
   {
+    "date": "2026年10月26日",
+    "news_date": "2026年10月25日",
+    "update_time": "2026-10-26 00:00",
+    "total_news": 8,
+    "category_count": 4,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水旱灾害防御应急响应调整至Ⅳ级",
+          "source": "中国宁波网",
+          "pub_date": "2026年10月25日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UM01DVXlLN0ozVlI4SnBrclkxWDNRWVhaRlp6ZFc0R3BUN1c1amdRR2V4bjZvWWxmR3FicVFUNGVURjlPRGozVEctSHZxMEh4Y2ltZ29HUVRYV2xUY3pNX0l3RHpvWlBt?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "34座水库一张图，防汛何以\"一眼看清\"？",
+          "source": "中国宁波网",
+          "pub_date": "2026年10月24日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFcmR6bE85Y2VFUVNXNDdjU29nMmViVFpFV1g2TlBWLU5rOTlxUFZ3cE13VElkQUU5a2pMTmZCMmh6RnJMSTNDYWZHal9QZW41UENxT3EteUliVGY0YkhJQXFnTkZ6YTNZ?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 3,
+          "title": "西藏那曲巴青县发生5.7级强余震 水利部会商部署水利抗震救灾工作",
+          "source": "新浪财经",
+          "pub_date": "2026年10月25日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1McWNDVEYtbENwT090RE0xNmVLaGpTU1h6QnJKWEJWOTBSSVBiMmVBV1daejJQd2dtNU1BbzlXNDVqR3hXV1lVaWcwNzRteWhCRmZQZVlDR05jOG8xVDE5Z3dkSW5mTTV5am5FeENzcFB3SmY4Ymc?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "KU游安卓app注册入口赋能深圳智慧水务，开启水务管理新范式",
+          "source": "TGBUS",
+          "pub_date": "2026年10月25日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtdXhhaDRBd0NvYTktUjFVbC1vQXhtSHlscW1LYWxWb0lMZS1jaEllalJrVmJ2XzRwbmo1TTlzOFZ5bUFlZkRoS2hsTEVEVlBESHVvcDJiT2dQZHRZRmpoUnJuQ1Z1Q29OZmhDUEdwaUtrWlV5RFctUHpUbGU?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 5,
+          "title": "视频丨“九机并进”引江补汉硬核科技助力国家水网越铺越广_国内要闻",
+          "source": "中国甘肃网",
+          "pub_date": "2026年10月25日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxVC1ubDJuRTEwTkVHR3BiWFEyXzNrMEFBWFhXbHVCNkptSUNGM1dRenV1aWVmaEQ2N1FFMWVodlVoVkFMckh0aDFlemF1TnZTUW4yUWprTEJuTmNXbWNEbmZFd3gxN1AxcFE?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "平昌：城乡共织一张“水网”，农户用水更“自由”",
+          "source": "四川在线",
+          "pub_date": "2026年10月24日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HR1lYMWVhSm02b21HdzVLdmJmNVBmZXlUaDQyYTJJOEt4N3Q0b3FWb1lMcDdrTS1kZ1BGWjZzMHJhVDU1eUNqdGxGUjlMRnNPSmpBMG1talVqQU5YZk4wNWt1UQ?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 7,
+          "title": "清城区河长办以河湖长制撬动水经济发展的实践",
+          "source": "搜狐网",
+          "pub_date": "2026年10月25日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUUk2NDZDVzR1NkdaellFZmJZcUZlcnRmWl9TcmpVRWdIMi01Ty1MVWRNQzE4dGMzU0V6MFhFYl9lX1RaREdYcnBxNlc2RWk4NXVweTBMSkV1MkxESjZmcHpPQmt1RTRFcm1jcmFnUDVGVlItY2ZtQjFWU3lnU0stdG1JajQxVmxmOTNndA?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "省级幸福河湖，孝感这里入选→",
+          "source": "新浪财经",
+          "pub_date": "2026年10月24日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42UjIwRlo0bk9IbTRiWFJfWjdjR2J6MXl2RS1fMFlGejdLeGpNUk5uT2ZWY2N0SThHN2VnYUw1MUNRd01UbkxhRXVhUURxWFcwVFF6RXVZM1FIX3BPelhueW5EdEhsR211Ny1jUGpvNmtKQS1jVEE?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年10月25日",
     "news_date": "2026年10月24日",
     "update_time": "2026-10-25 00:00",
