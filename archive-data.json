@@ -1,5 +1,143 @@
 [
   {
+    "date": "2026年10月28日",
+    "news_date": "2026年10月27日",
+    "update_time": "2026-10-28 00:00",
+    "total_news": 13,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "复盘今年汛期，广东如何织密织牢水利防汛安全网？",
+          "source": "搜狐网",
+          "pub_date": "2026年10月27日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN1ZwbmkyWnlTUVlZeFlUNW1iRFhLeU1fUkdrNGtvVG9xRDBHdHVfUHJJNy1pLVFVaDRKWjBLZDhYVUlqRFR5eFQ3ekNOenZaODNBLWxBVFd0S2RYOFptZUNfMVZFOWJxTG5YSzB1WTJEMnVBMFloOTUwMW5vb3h5dmt2aW5remptdEQzYg?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "浙江水利 筑牢防洪屏障 守护江河安澜",
+          "source": "新浪财经",
+          "pub_date": "2026年10月26日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GbkFnNWRwY3lsUzg1TFVxY1BCQUV5M3pWYjEyZnFLc1lPbm5rV0pEbE9EM3h1ck9kbXQ3N1NIb2E2cHFiNlNqU0Z5MmdTY1J4ZVY1UVUyek9xa2t2NzlXYUhFcDJ0SkdCUWxIQXdtSWpaRzB1eHJtSw?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 3,
+          "title": "三峡水利A股股东户数减少4547户降幅7.34%，流通A股户均持股3.33万股增幅7.92%，户均持股市值20.48万元增幅20.11%",
+          "source": "新浪财经",
+          "pub_date": "2026年10月27日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSDdNeWphUzJxNnhHSnlWX3NfYlFPLVJUTkpVaF9UeEFOb3psOU9zZHNQTk43Z0VKNTViSkF5MVBkMVhuUzlETUpscmZrSzltMTh6aXFma0sxMU9JRHhRbjc5cDVCR3h0S3ZtUUVSdTVhMjB3am11SS11bnB2eVMzcGltQUFUNTNUSFBtRA?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "【小鱼易连亮相2026新水论坛：AI会议赋能智慧水利建设】PjTime.COM 行业新闻",
+          "source": "投影时代",
+          "pub_date": "2026年10月27日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jLUE0UlpweDdLS29LT0d1bjkyMnpIWEVpV1hCYXR0TmhIXzMtaU1BUGZBMUI0QjZTa2FSWnd6ajF2N05YV291MGpaeWUxTll1ZE5KQ0lXZElNSTgy?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 5,
+          "title": "水库移民后扶20年信访篇：用心解民忧 用情筑防线——湖南水库移民的“和谐治理经”",
+          "source": "新湖南",
+          "pub_date": "2026年10月26日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85WnJrQUI2UXFGZG93U0ZldlFMS1BrUHYtTFF3NlpoUnVBTzFTSWlaN2pxS2hQb180VzQ4cE5lemk0di16QXBqc0E2UFZ1dkF4ZUdFTGZlQ3lDQmJpem5r?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 6,
+          "title": "我国确定跨省河湖生态流量保障目标",
+          "source": "新湖南",
+          "pub_date": "2026年10月27日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05UHNWRHNzVEJfQ1F1Y0t5bmRiUVBLM0ZYY1NQX2JFM01hT2p6NlFUMjVVbVdzRFl5empJRFdQTk9wU0hfQjNyS0ZOTUZyRTcyQkVaMXVNM0NmYWwzeFh3?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "中华环境保护基金会：支持设立水环境专项基金 推动企业参与护水行动",
+          "source": "搜狐网",
+          "pub_date": "2026年10月27日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTHRrNGpjb0lIdU1OMU5XTjhqdzQwUmhmbDVFaVU2dms2Mmw4MFpXOUx1N2Z4d1A0cjZBOFpXNE53dkFEWncwRHkza3NxcTR2dGZWcHNlUC1XdllHWngyNk1MMWU1bEFXS0FmdXY2QnZLV183NzBpMnI5WmtlYTk5V3dUU29mbkhxZWlSRUlyVQ?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "一城温情满水城⑪丨东昌湖幸福河湖：水岸可亲近，湖景入人心",
+          "source": "搜狐网",
+          "pub_date": "2026年10月27日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSmUteHJuTkpoN1hjcUxnM1oyYzRnLXZtdzdkQVpjWkJUNGdfNTYyOWlwUzJwX3ZEVWgzeE83WFg4MXFqQ04tVE9NTHU4MVc4SGhGRmpOZUo1SVpqOGw2Y0xYRUZUVmVtZ1h3ZFVETUJZTXN2VmlGTGFmbTFfZnJEUXRNRWQ0UkdfdnZsZFJDRQ?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "张家界武陵源索溪河入选全国美丽河湖",
+          "source": "华声在线",
+          "pub_date": "2026年10月27日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nV1pRUlUzRV8xMDhaN0taa1kyNzk3Ujh1VHBueEMzT3ZoT1BHYkRaMnB1SHRuSmk1Z3B2VUpjT29hV3h0THFHV0RLNE11NXE2Z0Q2TXNualRwVzRiQ0pv?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "达州3处水源地纳入全国重要饮用水水源地名录",
+          "source": "川观新闻",
+          "pub_date": "2026年10月27日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ULWh0cnlMS01PMmh0OGIyekt0bFFDa0c2eWctbFk3MEFRLVVIX2xRWktLTUs5WnZfd09BUjZ5YXAzLWVPMEVDTmliek9pUQ?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 11,
+          "title": "拿国家级“身份证”！常德要在洞庭湖边织就安澜活水网",
+          "source": "新湖南",
+          "pub_date": "2026年10月27日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JdlM2UklLMnoybzlrd3hWbVRSWmtkOWxwSnlQV29TY0h1Rm5wYTVMS1QxeTIzT3p1WXFpN0E0Z0hMT3hkbXlRN01URDlfQU9raTJrUldockJZNWJ2b3h3?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "水网愈密，江苏高质量发展的底盘愈稳",
+          "source": "新浪财经",
+          "pub_date": "2026年10月27日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zeXJZN1VERXhnUEQ5U19MQndmNENLdGVFMW1sSjlVeV93RGdvbTZyc19HYVd2ZEx5QWp4TUN4MXp4SDdMN2hfZV9GVUdDaWpLS3M2QnhZYllJTG9Tb3VvM1NtTHhETElmSUFvWHRMTjljOW1vX1RlZA?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 13,
+          "title": "沈宗祥调研城乡供水一体化项目建设、农村人居环境整治提升“五件事”、生态环保等工作",
+          "source": "新浪财经",
+          "pub_date": "2026年10月26日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZDdObDJqU1d3Y0pkWkpyWTVrNlQ4UjI2MkhOZjNrMEZMVkcxQkZBQkRfSU15djRRVERMM2ZmZ0Y2ZWdGVy12M2dRMVlhZ3l5NFBpR2cyRHhTVG1Xc18xcG5DQXdCRmtzdUswRXhSY3FuZjBodTl2SVlaVmVaRlk3ck50Y0I?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年10月27日",
     "news_date": "2026年10月26日",
     "update_time": "2026-10-27 00:00",
