@@ -1,5 +1,206 @@
 [
   {
+    "date": "2026年10月29日",
+    "news_date": "2026年10月28日",
+    "update_time": "2026-10-29 00:00",
+    "total_news": 20,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "复盘今年汛期，广东如何织密织牢水利防汛安全网？",
+          "source": "搜狐网",
+          "pub_date": "2026年10月27日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN1ZwbmkyWnlTUVlZeFlUNW1iRFhLeU1fUkdrNGtvVG9xRDBHdHVfUHJJNy1pLVFVaDRKWjBLZDhYVUlqRFR5eFQ3ekNOenZaODNBLWxBVFd0S2RYOFptZUNfMVZFOWJxTG5YSzB1WTJEMnVBMFloOTUwMW5vb3h5dmt2aW5remptdEQzYg?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 2,
+          "title": "【水保学院】陕西省水利厅来院调研",
+          "source": "西北农林科技大学",
+          "pub_date": "2026年10月28日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83RWh1d1k0MDg2Ymdrb1JLNFJXVEg4MnM4YXNnbWpoMGtoc1FVMGJrVTZSZUpmWU9NV0NPdVJ1S3QwdnVmc0hJWHFlYlNIdTRfN2MwcnpKNU9GZEl4Y0xsdFBXc3Njcnc5VllQNGU5TkFHZXpFd09v?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "连创三个“首单”！银华粤海水务水利REIT在深交所成功上市",
+          "source": "中国水网",
+          "pub_date": "2026年10月28日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lLVpMMzRvTFc3RjBSY0lvZTRrd2ZDTVprMUNKUlY2ZUJCNVhHZ0VGdDk0YnF5ZmxRWEdpVmhfRnltamFNTzhCSEMtRGpHa1hjYThkVQ?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "第十八届全国水利职业院校技能大赛开幕 423名选手同台竞技",
+          "source": "搜狐网",
+          "pub_date": "2026年10月28日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbVh5S2s1NlFWUEdpVU9kbUxDQW15Rkh0S2oydmhBQVpIdkZhMFFfWm5hS3JYbUlEWWxQY01xODlJbzEzSDNrWTZSSUkyaXdJV2prc1hRUUZRTmdaZVVyVXd5YWdPTDBmZzA3R0tVaVk3SEtKX0VNZ2ZRbDRRWWtDUWo0blZ0Y0RK?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "山东省水利勘测设计院有限公司建院70周年行业发展·技术交流研讨会在济南举行",
+          "source": "搜狐网",
+          "pub_date": "2026年10月28日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOVlYaGoycGxfRTZQazZuQU9ELXFSR1d1bXMyajdGVWVEcU1yX2g0RHdPUnRCSWRrSzJyTFQ1MmNPMHdPTS1uQ3pZOE0zZ2w2LVRVNENHY2c2RHVmM2xlZDVUeDQtUWNRMEpEcjBSWXk4TktEUHFIRE5MbDFGdWlEZXAzWHo5aWpDdWwxcA?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "上善若水育匠才 自强不息铸华章——写在广西水利电力职业技术学院建校70周年之际",
+          "source": "广西新闻网",
+          "pub_date": "2026年10月28日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03UWhVcmpTUm1NNzMzZVRVWnREUFVrMkppNmYwdHJBU3hPeXFqc1JMWjd1RU5qVzRGQ3JWU1ZmeGZQN0JXd1JOVC1XZkM4NkdtRXBfODBlb3dQdUEzWnVHbmpjWUJQMHotNDJ5MG5HTjJfZE9GTjFTQnY5T2NRSTA?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "西安理工大学成立新学院——陕西省智慧水利学院",
+          "source": "搜狐网",
+          "pub_date": "2026年10月28日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQME5ERDlFUlZ2SWdXMl9RVGtRZ2tDZjJZdUhGejJEdUNYODJaVlZWVy1XYzZzR2V0TVFrZlhqWDVuR2p4SENQZmdiUWpqdEFpbjF4dHNDVi1BN0pkeDJmMDVkQVM2QTJYTFBLR1B6eWlFVnhtVVZtU21HQ2RhX0Y2MnB3dEtOckZPM0tB?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 8,
+          "title": "水利投融资破局，全国首单水利设施发电REITs在深交所上市",
+          "source": "搜狐网",
+          "pub_date": "2026年10月28日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOUpkeGFCWndYMWhJWlh3YVN0cFh6MmRxNnRCSFJFcl9VVDZ0dldrOXVQSHpvX2Z3enc0cnVzV0h3ajQ4NDdrdUgzYVkxMWtvTTFUcUtQOFk2aHhJdWJzNVJtMDExSVRQNFJqckFSU0dTS056T1hKOEV1aVR0amxMYWpqZTRBbkJK?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "应安一线丨市水利局开展梅山灌区工程安全生产风险隐患大排查大整治专项检查",
+          "source": "娄底新闻网",
+          "pub_date": "2026年10月28日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0ME1sV3c4UHAzRXJCZUxQMUNGLTFpMUpKQzhaaTdTNXFVVzY3SG11LVRuTWZqSzBENmFtS1J3eG8ybnEyNzhlOGx4b3Y1c3ZFZnpKclJNTXFJUQ?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "大坝安全容不得任性“钻孔”",
+          "source": "手机新浪网",
+          "pub_date": "2026年10月28日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iakMxbmFDNVF3OEdKR1pWclBMYU8yMWRmZGhkYjUwcXVraFA2MXh2dlNBRmZ4eG1kSW9xYnlWeUtCRHBsbXNTZUtDSkdXWEllX0ZEbE1TRWJ3aGFidnF1Y0pnalk5QjJSQ3FoYzc3SU4yTE9yNG9WZ1VZYXZ5d1E?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 11,
+          "title": "十年河湖长制守护“亚洲水塔”_独家采编",
+          "source": "中国西藏网",
+          "pub_date": "2026年10月28日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qbFhXUkRzRHhYT2psT2FybTd3OE02ZlJ2U1phX0NnZVhMTWM3TEZGa2FlMllCV3pWRVFmZ3o3RUFyZDZrMkhTcUVTOW9UblA3ZTJqRUxzdzdncHZRRnUzOERlVUMzOGJCWHc?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "2026年涪江流域河湖长制工作现场推进会召开：深化跨界联动，拓展建设成效提升河湖治理体系化能力",
+          "source": "川观新闻",
+          "pub_date": "2026年10月28日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TU2o5bDQtbms4LWNZNkJfb0pRTUctbEFWVXJPMWpJbkxXQXdCQ3N6TlJmLWJWMUFPZE1mOHF4S3NsTkNYRm9Fb2JUekt1UQ?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "西藏全区实现江河湖泊管护全覆盖",
+          "source": "新浪财经",
+          "pub_date": "2026年10月28日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaHNFazdaQThrY3piR1lkbWxKTFJxaFhmdGJjeUdycEVWRTZQTC1UOTFsNGp1YnJIM0ozZmUxWVZpa1NJVUxieG9Bb2lVM1R5RzBmbHE4ZlV5T2k3cEE0VXJtMFlMdjluemNOdjNiaXR4RVVvQzl3M3NUczcwSHREdldRNlhVLTA?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "福建宁化县政协开展河湖长制十周年主题宣传暨“委员河长”巡河护河活动_三明新闻_福建频道_新闻中心",
+          "source": "www.hxnews.com",
+          "pub_date": "2026年10月28日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RVVN3T09vbFZsMi1JQ24zREZfT1BEaFVGUEhFMklYNEhmS0poYmNHOGkxVS1COHJLdE1lTkprZzdXeWcwTjhLcmk4U2ExY1Y1MU1QVE1JMTBIdmo5NGg2RFF3RHBpV3c?oc=5"
+        },
+        {
+          "id": 15,
+          "title": "水清岸绿展新颜 武陵源区索溪河入选全国美丽河湖优秀案例",
+          "source": "湖南红网",
+          "pub_date": "2026年10月28日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGU2syS3hYVG8xNERRdG5vWUVOVzlvU1dYcDhFWHk1ZDI2dTZ3aW9CWWU1N2w3WDhNcmI5QnZIM2tPTVJ3WTQ5WmxlRFpyVHBsTlZFTGtHekwzRnVPX2FXbk5R?oc=5"
+        },
+        {
+          "id": 16,
+          "title": "西藏实现江河湖泊管护全覆盖",
+          "source": "京报网",
+          "pub_date": "2026年10月28日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LNVBhNHVjNC1vc01aWjROLUZqMkVHLXhhbjFlLXRrRHFDZGk3eHNmdzQyNE1Yd1JhS2ZZT01Ock5CNE5LdUxQZzFIMWs3R2hWTUd5aXhSamNjNjk2OHc?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 17,
+          "title": "拿国家级“身份证”！常德要在洞庭湖边织就安澜活水网",
+          "source": "新湖南",
+          "pub_date": "2026年10月27日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JdlM2UklLMnoybzlrd3hWbVRSWmtkOWxwSnlQV29TY0h1Rm5wYTVMS1QxeTIzT3p1WXFpN0E0Z0hMT3hkbXlRN01URDlfQU9raTJrUldockJZNWJ2b3h3?oc=5"
+        },
+        {
+          "id": 18,
+          "title": "水网愈密，江苏高质量发展的底盘愈稳",
+          "source": "新浪财经",
+          "pub_date": "2026年10月27日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zeXJZN1VERXhnUEQ5U19MQndmNENLdGVFMW1sSjlVeV93RGdvbTZyc19HYVd2ZEx5QWp4TUN4MXp4SDdMN2hfZV9GVUdDaWpLS3M2QnhZYllJTG9Tb3VvM1NtTHhETElmSUFvWHRMTjljOW1vX1RlZA?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 19,
+          "title": "党建引领践初心 苦干实干启新程——甘肃水投集团河西水务民勤供水公司民生供水保障工作纪实",
+          "source": "www.gsjb.com",
+          "pub_date": "2026年10月28日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VYXR1Qllhckt4ekh6TFpLQUdWd3VUdmM1elY5SDBJVjBnOVBta0VnVV9HZzIwdHg5NmZZaTRCZVlfNEZLYXNRa1AweGI5XzBNbGpmRm1rQnFqOU5qaW9lYVZvOTM?oc=5"
+        },
+        {
+          "id": 20,
+          "title": "环境新闻茶座举办，多方共议水生态环境治理与节水护水新路径",
+          "source": "ThePaper.cn",
+          "pub_date": "2026年10月28日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PcjNQYTltSjlsd0ZOS2dwMmpYUmp6S0xfejVZUDVaR3N5Ql9yeW5OZmVTcGp4WXh3MW5ZelRLUW9qakw5MTQ0VnRWSDNJZFFBb1VGZDNJSWt2OGhLUEZYNw?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年10月28日",
     "news_date": "2026年10月27日",
     "update_time": "2026-10-28 00:00",
