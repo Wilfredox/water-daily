@@ -1,5 +1,186 @@
 [
   {
+    "date": "2026年10月30日",
+    "news_date": "2026年10月29日",
+    "update_time": "2026-10-30 00:00",
+    "total_news": 18,
+    "category_count": 5,
+    "news": {
+      "水利工程": [
+        {
+          "id": 1,
+          "title": "移路朝阳——写在湖南大中型水库移民后期扶持政策实施二十周年之际",
+          "source": "新湖南",
+          "pub_date": "2026年10月29日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmb1Zhd09rUFB5TlBZUmEyeUUwNmEwcUFBYTVNMXNUc0piMmREb2RUbS1lZXVrT1Y3ZW5MOGpCQWIzcklrUEVlV19MUkhuTEt0ekxSS2lRSGZqT2NJcXI4?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "水利投融资破局，全国首单水利设施发电REITs在深交所上市",
+          "source": "搜狐网",
+          "pub_date": "2026年10月28日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOUpkeGFCWndYMWhJWlh3YVN0cFh6MmRxNnRCSFJFcl9VVDZ0dldrOXVQSHpvX2Z3enc0cnVzV0h3ajQ4NDdrdUgzYVkxMWtvTTFUcUtQOFk2aHhJdWJzNVJtMDExSVRQNFJqckFSU0dTS056T1hKOEV1aVR0amxMYWpqZTRBbkJK?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 3,
+          "title": "潮州政风行风热线 | 群众关心的涉水热点问题如何解决？ 潮州市水务局上线政风行风热线听民声解民忧",
+          "source": "潮州日报",
+          "pub_date": "2026年10月29日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4bnlWWEJfMVVwZWg5Mjc1OTc4SVpHc0FwOU9zaWlkTWllNXptSFlsVkFfeGRuVWtCMFNMYk0waE51VFJJdHI4RFpTNkpnTlA5VzBCeHEzNjliZ09Nb0hSVHk4M2JyTmRORF85NV9BSQ?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "前三季度 全市四大类22个省级重点水利工程加快推进",
+          "source": "威海新闻网",
+          "pub_date": "2026年10月29日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OWlB5SXRRWDVaTkdnRDNOZ3BtRlRCMzl3Yko3THlvNmpSY3dvd0NGNW9SbU40dWxKRUNxX1ZVa0I0Unl3dVZUdXdleVB4NHIzN1JEY2pHWGV4TlNYT3ZJOW8yeFh0V2NEWFNUZVdiVQ?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "【新疆研究院】为木垒县水利事业高质量发展贡献“西农方案”",
+          "source": "西北农林科技大学",
+          "pub_date": "2026年10月29日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lUU5wNi1uUlB2YUh1Y19FUHFvLWF2Tlp2WU4zYTVsZklqLXliTldjYmVLSllXcUE3SnZyTzhxMTJOTmFsbW9WU19fbHBPVnh1UFNVS2RwQjE5V1Fkc0ZFX0Fmb08xQmUtakExQUthTTBHN1V6bFM4?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "广州市南沙区水务局关于划定2027年度省主要河道（南沙辖区内）和南沙区管河道河砂禁采区的公告",
+          "source": "广州市人民政府",
+          "pub_date": "2026年10月29日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jMEU1NmltaG1UcmsyWVVHbDlkLU9nZ1FkMzdyZU9FR1YtN3hTOE14WVVVSHZPZkxfcHNBZkRhdVRjdzYtTk9QTkhmMmFvakM0dkJTYmhSbkRURjF5TGtlc3MwM1VkMjhqN2dSaFJabDhVODhaaHF3cjFn?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "长江电力获得发明专利授权：“一种水利水电施工用自动埋线装置及方法”_公司新闻",
+          "source": "证券之星",
+          "pub_date": "2026年10月29日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtSEN4Sjk0eXp1RVp3allLTXh5cVNrUWNlUTF4OGdCeXdjRk1CV2JTUXNKLTZrWFd3V2puTWpkSDRBNE1PeFplU05CRkFabm1RZ1prVFhxNmVGUl9ZUWUxWg?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 8,
+          "title": "水源扩容、水厂升级、水质向优 重庆农村自来水普及率达94.6%",
+          "source": "华龙网",
+          "pub_date": "2026年10月29日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YWURBQjhoZnpocm1XbkY5QkJ6ODRHQUNTS2RRdFJXSjhuVnBXdUlCTnl2TFRQX3cyN0w5WnIyWmNHeENIaE9WdVg3dlBzb3p1ZVltS2R2c1RUX3ZQdHFXMnVHMkVDT2EtajBv?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "河湖长制推行10年 守护雪域高原河畅水清",
+          "source": "http://www.jingjiribao.cn/",
+          "pub_date": "2026年10月29日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CRVpfSXN4YnJwNFJaTTBraTV2SkVQTWFMVHNhZE9ocW50aGdtbzMtdG16VjdtZUpsc2pSSU1NdDhnN3c4MXQ4clVzYmtObEpvdkxfRTh3ZmVZV1N2eEt6NTE3dw?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "以精准监测，护航“十五五”美丽平谷建设——区生态环境局常态化开展乡镇污水处理厂水质监测",
+          "source": "首都文明网",
+          "pub_date": "2026年10月29日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsTTdlakk3RVEtd2R2bVBzX29iZ3hRWEFGQ19Ybl9FRk5oc0NYZUpMNVJLcURHSkJIWlhZcEp5Z3pzTnhzb281dDV1RFVYeHY0OTN4VmVRaUVfZ3M?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "聚焦城镇水质安全 、促进资金规范使用和群众权益保障……关注本期审计动态",
+          "source": "21财经",
+          "pub_date": "2026年10月29日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0QwbGMzRDl5Mk53UDQ4N1RtOGRQa1p2YWNhWkx5cmdtRUtORG9zNk9WaDVzUkx5LW1wQm1CclpBY3FpTWRtazJWcDFhY3BVb0dXLXRFZjlCaDhkODVOUFk0QXN3QnVQSm15eXQ5SWYwN0FJM3FsZFRxUmZFdXRDWjZvUmVxcHZtX0JGSFR4WQ?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "生态环境部：今年前三季度全国地表水水质持续向好",
+          "source": "证券之星",
+          "pub_date": "2026年10月29日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KWWpseUFVU3VkNGhSaE1XeF9wT2hGSFR3WmVtQk93OFoyYzJvc1lQc21UZlBNakJDbHdvSUdIOWp1ZkZsMDZVRW50Yl9zMGVyeHVwYURLYlgxZjRRR2hVVQ?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "权威发布 | 十年河湖长守护高原碧水 我区河湖保护治理实现跨越式发展",
+          "source": "ThePaper.cn",
+          "pub_date": "2026年10月29日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPSXdFakcxc1RZWnRnaDl0NGFQR3hLQnFhWm1qWHhwYXBBdjZZTzJPVnp6WVVpbUdYbDAwS3lyazlpWEYzTE5TWGYtZUR4VjZ1SVFjeERBS0tUSXIwUjFocQ?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 14,
+          "title": "加快构建现代化水网！重庆“十五五”水安全保障规划发布",
+          "source": "搜狐网",
+          "pub_date": "2026年10月29日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVk1TdVpLWTVvWmNTc0NLYnFzSjhlTVFoQkRHYkU2M3NvY2huNjl2dnN6ZU9xV0F5RldwQ3FKY1hQeWVPazJxV0J1TlRUbG9FNTNYU2ZFcW5QZ1J3dEpHN0FUQ1BVNkM5Q3NrUFNuQ2dJTGNqdVJtYzU5NmxmUWRyMS12Z2ozV2NfclpyRERKTQ?oc=5"
+        },
+        {
+          "id": 15,
+          "title": "山东加快构建安全韧性现代化水网 “十五五” 治水规划 擘画齐鲁兴水惠民新图景",
+          "source": "搜狐网",
+          "pub_date": "2026年10月29日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ2dRZU9YY1g3cndZWVZ5YzBRWUpWOUF2enhKaVBMd29QU0JqaHM2czhZejI3YW12X2lJN3poU1lFWHl5aG1DZ1NNVnZXY2VmM0NVVy1TUGZBbkFNMmFtSzJZeXlYQllaUDFTUmtnZjF6SmtnUWQ0WHRfY2ViTEFLQWVoUFFUYzJN?oc=5"
+        },
+        {
+          "id": 16,
+          "title": "人民日报：从三峡工程看国家水网建设",
+          "source": "国有资产监督管理委员会",
+          "pub_date": "2026年10月29日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIVU5vZUtqQ1daX3JrRjZMaUhqMUJMR0x5RGdDb1YzME93SHhlUkZKTHpzaDJYdGd0RnZscXE2ZW8tVDExUkhIbE1xN1ptWDd2ckxBRUI5MUxzVUdaSnR6amVJaExnZEtjVFItemJXaFVfdw?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 17,
+          "title": "公益底色下的经营答卷：中国水务“十五五”城乡供水新路径",
+          "source": "中国水网",
+          "pub_date": "2026年10月29日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BdElPZGRXVVoySnlUOUJ3X0twd2tHTW1tNmtpM1N2YU04dWJLOTZqdUlOVEtIYzVOV19FZU1kdk9FSGZDXzhySGFMbk1abmhJUU95Qg?oc=5"
+        },
+        {
+          "id": 18,
+          "title": "海事局与珠江委深化合作致力保澳海域及供水安全– 澳门特别行政区政府入口网站",
+          "source": "澳門特別行政區政府入口網站",
+          "pub_date": "2026年10月29日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aZVQ2R3lUcldTdGM1R3lvZHQ5c256UFJwamhTM3hpN1ItN05sYl84SG9VQzRWdXlpWGJCaHY3bHNYeHBxV3RGLWxvc0p6MTZj?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年10月29日",
     "news_date": "2026年10月28日",
     "update_time": "2026-10-29 00:00",
