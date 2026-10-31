@@ -1,5 +1,188 @@
 [
   {
+    "date": "2026年10月31日",
+    "news_date": "2026年10月30日",
+    "update_time": "2026-10-31 00:00",
+    "total_news": 18,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "水利部答海报新闻：丹江口水库精准拦洪127亿立方米，兼顾防洪与供水",
+          "source": "搜狐网",
+          "pub_date": "2026年10月30日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd3FURG9BYklsWFVKal80aTMtX1pfM05qYnlZUFllZlQ4Rl9pSnNncXgyMWd6MDdoX2l6WUY4ck8zQXBfVmJuSVZGN0RIV0gtMW1MWXdpUERIT0ltaWxoWkFvd1I2T3NId2NEZ2JvdjBsaHdITF9ycWwzZmw1OThPRDNkTWQ5UEFVSWZoRGpxRQ?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "泉州白濑水利枢纽工程明年汛期前完成海拔231.87米以下移民搬迁",
+          "source": "泉州网",
+          "pub_date": "2026年10月30日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56NEo2SVVScHZFNDlpMmhKelMyYmFMRHdUa2sxek9STlJJV0gzM09hMFp3UndUNGRPdXk3bkVZbVFWcWhZZEFvRVVjN3pDdkV4NlRxWm5waTR6dGhXMWlTLV9IU0dvSUpaYmk3RlV2UQ?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 3,
+          "title": "西辽河连续两年全线贯通、黄河连续27年不断流，水利部介绍生态调度成效_社会新闻",
+          "source": "大众网",
+          "pub_date": "2026年10月30日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAya01OYndCNXB1MjdnN2RVMThnSWJxZFp1RGFDZE9JdGlDc1NaVTZlb2tfSDlDWGVIN240X2trR2QxSFVja1E3UXFSQ0VZQTQ1SXBoRFY4NWNvYTRablBGRGpXLVNsVU5Lcnk0RklHUEtMZExnY3VaYUJGaw?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "【公告】关于征集水利领域非法采砂等违法犯罪线索的公告",
+          "source": "手机新浪网",
+          "pub_date": "2026年10月30日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02S0IwRm1qQWtJRk9hZmhBeFBISkhEdHZhaTBDRnRubXZkYXBKOWhiNDNyb3EtcVpTelZxZE5pSU5vN05PbTVRVVBuUDRnSkU1OFJxcXNTU08xVjVuNTRfdDZ0N0hScWtEZVJSZEc2Y0djTlZIaHdmb0tRYjlia1U?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 5,
+          "title": "在市高标准农田建设暨突出问题整治推进会议上的讲话",
+          "source": "https://www.biganzigongwen.com/",
+          "pub_date": "2026年10月30日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lR3JTS1lkdWNZNVFmRzNCcDBzdmYwU2VvdmxSNWVDQUd0ODVXSXJCUUVSWkJGbV9NV2VyVWt3RWI2MklFc0JHUFkzeEZLLUdZYWRFcDVfcF9zODhRbkYw?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "瓯江引水工程与泽雅水库原水管成功接驳，温州市区多水源互济的供水格局构建完成",
+          "source": "温州新闻",
+          "pub_date": "2026年10月30日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUT0I2b2ZuOV9aTm5YTDVwRzV0U1MwdTQ5RTVVV3BkNnQ5Z3ZmVGpyQzVDa21EY3JJQXFnUWdwM3ozRk4yMHlDSlptVjZIQURYdk5uZkxCRXdNcEsyNWRVdEFaSGd1ME9CSUVJcw?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "永泰稳步推进重点水利项目 助力水网建设提速",
+          "source": "中新网福建",
+          "pub_date": "2026年10月30日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xVkVCV2NTNnBMUEZ2TmtWaDBfcUtBTFFVY3B4ZXVUeTRLZk1UWng3ZmtTejJIWDk3bjdZZU5ueWh2czZNVnQ0OGtVSEpNVGFZOVZiREZNLWRrZ1FJMGxLNG04RFo2NlAzZ2d3LS1sRWJrdw?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "许显辉到金城江调研龙江河谷灌区重大项目建设工作",
+          "source": "搜狐网",
+          "pub_date": "2026年10月30日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUJWbGtOMk1qcHdpXzRwdkM0a0VMVUZ3cndjVEYwVFU2RXJkX0ZXdUxELU5sZnlmZ1dmaERtYTI1UzdIdkczWFJKNk5HRnVCeWluZzVaSGQ0THNsQkNMR3VDOEI1OWpFSHh0QXdDRGdkNmxacWVoekhrNjd4eUdRNVNjTUVocGFnc01jSg?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "透彻感知 精准控制 浙江推进智能大坝试点建设",
+          "source": "中国共产党新闻网",
+          "pub_date": "2026年10月30日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4cmUyNGdxNkZoNFo1UFdvNWxvcUNtOXNTY3JIYnA2a1k1S1pNWVNCakJkRzl6czNuV2szVWxpMDhkRXFmRkg5MGpBc0NPZjhHbEVlWlBKb0ttVmloeXJsMlhXR0FsU1lLa1hZ?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "5G视联赋能智慧水利 中国移动云南保山分公司联合华为高效落地74座水库智慧监测项目",
+          "source": "人工智能",
+          "pub_date": "2026年10月30日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvYmFZQnAzcXQtSEhxcWtKMGV2U0JQblZ3Ykt4ZU5uc25RNEdjSmNHTVhCSVVWem5CLXFzMUJqVC01bC1tTU4ybVJWajhWV1ZYZXc?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 11,
+          "title": "山东加快构建安全韧性现代化水网 “十五五” 治水规划 擘画齐鲁兴水惠民新图景",
+          "source": "搜狐网",
+          "pub_date": "2026年10月29日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ2dRZU9YY1g3cndZWVZ5YzBRWUpWOUF2enhKaVBMd29QU0JqaHM2czhZejI3YW12X2lJN3poU1lFWHl5aG1DZ1NNVnZXY2VmM0NVVy1TUGZBbkFNMmFtSzJZeXlYQllaUDFTUmtnZjF6SmtnUWQ0WHRfY2ViTEFLQWVoUFFUYzJN?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 12,
+          "title": "水利部答澎湃：重大调水工程受水区供水保障率大幅提升",
+          "source": "ThePaper.cn",
+          "pub_date": "2026年10月30日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VWU44R0kzeHpwOVpIdjNMOW43MmtUM1lhWGllUUhLSkhRUGtDYjJYQl84a0gwZl9qZXl0b2JNTEttREVTSmNXeGh1Y2Q2enFhZEh4MEh5RnBOaURDQnFhdA?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "中国重大调水工程受水区供水保障率大幅提升",
+          "source": "www.hkcna.hk",
+          "pub_date": "2026年10月30日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OclpfcUlSOFNyRk5CZUhKcW4xR3d2YmRoVFYwRW0xR1VqcmpoZ3NPaWhQeWlHTV8wWkdxNWRlVFRtVWFRVGx4a1N6U1g2TjJiMWhfa2oxV2IzdFRwd0ZmSExzVVAydUZNWmZTa1dWSQ?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "水法修订草案三审：拟完善水价形成机制，促进水资源节约利用",
+          "source": "搜狐网",
+          "pub_date": "2026年10月30日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS0Z5SHh0SmRabEFCTXpVZUh1WFl0TmNLY1lmaHZxZ2hNUm4xUnZETmxfc2paRmxvQTcwU0pNUFBZTzVGSDdkRW5hVTBNWV80ZVV6aWpTN2lEN0M2bWZmek9ZbGgtbjVPUkd4QWVWa2VUUUtyZ2lXX1J4S290bUUtZWcyVWxmNnd5QXV3?oc=5"
+        },
+        {
+          "id": 15,
+          "title": "水法草案将建立完善与节水要求等相适应的水价形成机制",
+          "source": "网易新闻客户端",
+          "pub_date": "2026年10月30日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52RXN2YkUybEhFZHdudHh5X19BaV85ZVhna2NVQW9uOXM2UDZ3Vnd0Y3JNRFJQSi1BU1F2TERHYnV3YTAyc09STWYzZkJDQVFPYk1CckJtSTBxaEs5?oc=5"
+        },
+        {
+          "id": 16,
+          "title": "蚌埠固镇织密农村供水保障网",
+          "source": "中国新闻网",
+          "pub_date": "2026年10月30日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5faFZYcVA3eWxqTHBoS0VtbFViZF8tdzNpdUtLbUg2cUNUQzlFNGMzMVhPbHo0N1p3UjBEYUZ2ZE4xVEwyUHdKZGhtUV9SUGJQYjN4MDVJOGVpdzFFYUxYWi11LXNwNE04SGVn?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 17,
+          "title": "天津完成典型重要湿地生态功能综合评价",
+          "source": "新浪财经",
+          "pub_date": "2026年10月30日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZlNTbXlmZU1rTFVoRXN1RUN4cGk5a2hiX0VtUjZrUjhaOWJ0dlM0dG5RTGM2b2xXR3JOeFRwRXkxYnEwalNlRzRhZnpwa2x5RVBpNWR4MW1OZ2tNcnJ4Y1MzeDdidzFwZmVPRncxYWoxbm16bk5LaTU0cE9FZk1mT1BRbFp5N2lBRExkOXB0U2lIcnV1UGF5WDFOSEFVYjlCUTk3RE9odTZlZVBaWkZvWW9LdDJtMHNJTVlMSXFwM0dNOUI3MU00cWljSHdTZw?oc=5"
+        },
+        {
+          "id": 18,
+          "title": "河湖生态修复需由“开刀治病”转向“健康管理”",
+          "source": "人民网－安徽频道",
+          "pub_date": "2026年10月30日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SNnBrWDg1TUw4eXFoRmpscER4MHNfYThaWWg1WXZ2UldwYUhmSDhZRmxaN1hTbTAtMm11X29BU09EZWdSQWFJOVVBVFpKTy1NNnJ6bmhoMXhrejNkVUY3dXdtR0MwZWJ5VVE?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年10月30日",
     "news_date": "2026年10月29日",
     "update_time": "2026-10-30 00:00",
