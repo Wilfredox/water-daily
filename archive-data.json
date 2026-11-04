@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026年11月04日",
+    "news_date": "2026年11月03日",
+    "update_time": "2026-11-04 00:00",
+    "total_news": 13,
+    "category_count": 5,
+    "news": {
+      "综合要闻": [
+        {
+          "id": 1,
+          "title": "水利部：今年前9个月完成水利建设投资7950亿元",
+          "source": "东方财富",
+          "pub_date": "2026年11月03日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Fa3l4bW5wdmVnUWdEWGx6Y3ZVSS1CbTJ3MElRLWJKNUN6b3ZqZ0tfY201OWpBdUUwZ1VEOFBweGd5aVRDOUVnRVZuZmc2ZENpY09SOFVuWmc5WmdaRzQzTw?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "国家150项重大水利工程郑州项目再添进展！",
+          "source": "正观新闻",
+          "pub_date": "2026年11月03日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EZkdEWTRLVUxYZHZNZURFdllVYWpySTNqRW1TMndUcG5qTzFsVlhfa2FRdFg5Zi1SWVpPSi1WS2RCV0V0UzN3SmhVN2d2NmhlQ0FWcGk0N2M?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "广西水利电力职业技术学院建校70周年高质量发展大会举行",
+          "source": "广西新闻网",
+          "pub_date": "2026年11月03日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tSmtaRXRsUlV0cE1qbE5lQWY2MWpWTUlidXE0T0lrRlEtZkFvdlJRcWk3S1V2NjY4ZGFrR1BfVU1XZmxZMWluTjFuRG1RR0tTUW50NjhYZExDUTRocW5tNmVDT2NBMTNFckNzS2tnV1o4ZVR2dlMwbXJiX003Ykk?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 4,
+          "title": "冷山冲水库：“水利+文旅”催热双峰“小九寨沟”",
+          "source": "湖南红网",
+          "pub_date": "2026年11月02日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtQ3pfRUh6bF9neGVmWllSdk02d1N5SHRKR0g2VTYyTFVQVEZBdWctaFA0VFpITDRpU2FSTGFJeXp3Ujd0SVBjWmpmS1U2MTBGVlNsWDFBeWFTZEFlSld5bUg3TlVYbjg?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "漳浦县朝阳水库工程下闸蓄水阶段移民安置通过初验",
+          "source": "中新网福建",
+          "pub_date": "2026年11月02日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12SG1odmNMdkZxdHUxOFZtUndnQWc3N0lLRnZnc3dNdVhEUTJid2c4OUxMUDl2NWhEMHBGdlNiTVRqb1NTcmQ1Zm9ORzVJUWdiTy1YeDNTRHRpSkk2VklCMWV1aWNpVmg2X0lSTHN1aEJsZw?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 6,
+          "title": "黑龙江省水利厅“十年碧水·光影见证”全省河长制十年工作图片展将于11月4日在哈尔滨开展",
+          "source": "新华网",
+          "pub_date": "2026年11月03日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTEl6QUxiLWx5TTNpMEg1RGdSQ1ROdGpjcW45Qk5LOUZ1Xzc0S2tfUXJDazJyQlRkazA0N1B4RDFsdTFFemp3aVo2RGlZYUJZN1lkeVpsLUkxN1cwZjVweDRXOE5NSHV4MC0yNklWMVc5NTU3NFdQODZxaXFGMndLSnFocw?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "张家口市完成全省今年首单水土保持生态产品交易",
+          "source": "张家口新闻",
+          "pub_date": "2026年11月03日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DOTdaUHVJMHI4Tmo4U3k4OTZjR1BqOTZjWjA1U1NCamxGdE1PWjMwSlhrWjF2RXl6QWJkaVFTUTlvT20tN3JFcTJYcFkxRmxSTDhLSEFNMkE1SkNIbTY4bmpLVTI3bTFnTU94cg?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "一只只鸟儿在尕海湿地找到家",
+          "source": "青海新闻网",
+          "pub_date": "2026年11月03日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZbF9RVXoyNWVodnFSYVYyNVdVVmtZU2NlZ2dxakk1Mnl5dFhaRG44bEdpWktGSDJVTDF2azVZY3NBSWZJZFFDWlJUbUswMmhMTHc3YTRjSEZGamVENEtEQm5pU1JsLWJXMmdKOThIem9qVnI1?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "智能设备上岗 减轻岸线巡护压力",
+          "source": "山西新闻网",
+          "pub_date": "2026年11月03日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85Y1ZNVHUtVk1pdWxhLUYwcGNlekp1Znp3YlhNUE5oRUR0SC1BTHVaeGVJVXJRZUswb2E4R01tUms0RnRTdlpEbmpzMUZXRmVxdElYMTJlZkJFMDBxaUpsVkh6X08tbTA3?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 10,
+          "title": "华北水利水电大学举办面向拔尖创新人才培养的大学英语教学改革研讨会",
+          "source": "中国青年网",
+          "pub_date": "2026年11月03日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54RmxyYXg5MEJYb1B5QzlUN1BVQU5EN0RMU2thelNMM2ZKM0lnclg0NFZid2VxSWo0dGZiNG52ZmtNemRJbDhyZWw1bTA4ekFHTVR3TXp3RWhJNFQ4bVFmaWhpN3Q?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "执笔绘水网 智答黄河卷",
+          "source": "每日甘肃网",
+          "pub_date": "2026年11月02日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GWXhQUURycjhaNEZlUVV2eWxDNEg5SXZnWnc3ZlZOSnVteVYwVVBNN1F0Y0lvSjdORTJvV3RnRVlwdFZ2S3RYaERsbTJqZGUzZm1kdnZXZTZBa0pMNXNHTktfNm4za2V3RE9uVnMzdFpHYUU?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 12,
+          "title": "【为民办实事】区水务局：常态化开展水质检测 筑牢农村饮水安全屏障",
+          "source": "新浪财经",
+          "pub_date": "2026年11月03日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdHBwOHlib1BjS213ZkpydE40RGFuM3pEWDVUZ3JTZEFreVpVY0lWUGYxUXNQbU1Qb1FaNnFRZjRWbnhlbE5rWXQzaU1wSkdDeV9xbW9ta29NWWx3UnJfVV9US29VMDdFZ0txbFdzRjBmNjZlaWJOMWtldUg3eWhjWVhGUHY0MlNsNlAtUU5iSmFYYmpXY0ItXw?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "枣阳：城区供水保障能力大幅度提升- 湖北日报新闻客户端",
+          "source": "湖北日报传媒集团",
+          "pub_date": "2026年11月02日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lSXh0al9jTU5FVUwxOXltTVp0c1pxalllcWVwNzNUQXgxLTdJYzkyQUk1M3phSmRhU205U1pPNlNXX05YTnRvSmlZZmJXVjJpeWJ0T21EU2Y?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年11月03日",
     "news_date": "2026年11月02日",
     "update_time": "2026-11-03 00:00",
