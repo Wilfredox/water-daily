@@ -1,173 +1,209 @@
 {
-  "date": "2026年11月06日",
-  "news_date": "2026年11月05日",
-  "update_time": "2026-11-06 00:00",
-  "total_news": 17,
+  "date": "2026年11月07日",
+  "news_date": "2026年11月06日",
+  "update_time": "2026-11-07 00:00",
+  "total_news": 21,
   "category_count": 6,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "水利部回应“史上最强厄尔尼诺”：明年防汛形势更严峻，已提前谋划防御",
-        "source": "ThePaper.cn",
-        "pub_date": "2026年11月05日",
+        "title": "“最强厄尔尼诺事件”来了 明年防汛形势如何？",
+        "source": "新黄河",
+        "pub_date": "2026年11月06日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pQVM2Qms2S1RhbzdKdUViRDdYN3hlM0hFZExVVmEyRzV0R0E0SXlDQW1qd3UzanhHSzFYd20zWXZHZlU1OWE4VmJ4dUJha3Y2Q1c3eGpFUnFoRU03NTByWQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9STkhRTUQ0d1hPRVNXZkdwdjlCMERmWU5aaWtpQmp1VFJWNjVwajZGVW1vdDBhT3VtVDdoRzcwQkZtU0tmdWhNWHB6anJXWlNkZElYYTlWQ2g3eGJ2S3FHRw?oc=5"
       },
       {
         "id": 2,
-        "title": "国家发改委：“十五五”时期规划防洪减灾等3方面400多个重大工程",
-        "source": "凤凰网",
-        "pub_date": "2026年11月04日",
+        "title": "喜报！省荆江防汛机动抢险队获评全国应急管理系统先进集体",
+        "source": "极目新闻",
+        "pub_date": "2026年11月06日",
         "content": "",
         "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5teG42WVFOWElpcTFRRlVUWVJvc3o5UnBUazQ0OWpIUWZEeDZpZDQ2c3MteGNycDJmejVHU2p6TDZudUhpbXJwUkRoUXc?oc=5"
-      }
-    ],
-    "综合要闻": [
+        "full_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Xbm1mQUh0cnpTa0Y3R1B2UFJ2V2FoVFdKcmtncjRLNFZrZ2pCTndXVXcwRVl1dlJrcjkwTGlLbzVldnNOWlBvRlBJcl9LcEMtYUxCcmtQTkVuQjA?oc=5"
+      },
       {
         "id": 3,
-        "title": "周祖翼王陆进到水利部黄河水利委员会、河南黄河河务局调研并召开座谈会",
-        "source": "大河财立方",
-        "pub_date": "2026年11月05日",
+        "title": "水利部：治理黄河80年来，先后战胜12次花园口站洪峰流量超10000立方米每秒的大洪水",
+        "source": "凤凰网",
+        "pub_date": "2026年11月06日",
         "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93N0tCZHVacDBHc2F5ekxhb0xNajNLZGVIQmQ5cS10Ry1BdHBWRlRzS3c4VEtjN2JhcHZxQWkyeE5pZ0NFdkhoaFJWdEFqQU1Wc3lkQzNDcUtfY09tcUdsNTVzd0UxeWRDNVE?oc=5"
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE11bXpHQm5DNFdrZ1VpSE1CVUlGdnAxYVZoMHpVNVRiZW5VVEVoWE5aRWkxNHp6TXZPOFJRNV8yTkxyVW54QzhyLQ?oc=5"
       },
       {
         "id": 4,
-        "title": "湖南省水利厅举办全省移民安置业务培训班",
-        "source": "新湖南",
-        "pub_date": "2026年11月04日",
+        "title": "水利部：80年来战胜12次花园口站洪峰流量超1万立方米/秒大洪水",
+        "source": "凤凰网",
+        "pub_date": "2026年11月06日",
         "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEcFdFLVV5ZTZUR0NRTHV2SHdScTFJSUVwMVA1bnJBZWpVMWdpVjlKYlRLeGl0S0MtOWJCMlFPbVRvWFBLZ2JNam9oY3prSmhZc051RllNWERDWmR3Ung0?oc=5"
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MYm1JWllSQWJydHdMNE9hRm5hQjhfdEVXM2RUbXRrR2ZnLXByc05XNE5GYWNFclh6WFd0X2dPZnBNWXp2N3N0WlExd1E?oc=5"
       }
     ],
     "水利工程": [
       {
         "id": 5,
-        "title": "掇刀审计：聚焦水库除险加固工程 守护水源地生态安全",
-        "source": "凤凰网",
-        "pub_date": "2026年11月05日",
+        "title": "黄河80年来如何岁岁安澜？水利部：先后4次加高培厚下游堤防，已建成1万余处监测站点",
+        "source": "每日经济新闻",
+        "pub_date": "2026年11月06日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE94b2w1a0F2T3BsdWhwR3d2U2NKTGtscVllT2VveDF1UVQ2OFRpY21vbHBsUlp3N2VaQ1BIZlRqVzlhSUdQdEdxWGFHbE8?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YMDBYRno5TjBsSUNZRnpZRms2cEpZd19uQTRDWjJ4aTFMM3lpWXNqSGNaTFVXQW5lX2VJeFRwT08zNmlPbm5feGZHXzIydGstTVJVTmVaRnplOVpTODdna2plMjA1dw?oc=5"
       },
       {
         "id": 6,
-        "title": "黑龙江省水利投资集团2026年公开招聘公告",
-        "source": "手机新浪网",
-        "pub_date": "2026年11月05日",
+        "title": "文祠归槽水泵站顺利封顶！湘桥区河内湖涝区防灾减灾工程有序推进",
+        "source": "潮州日报",
+        "pub_date": "2026年11月06日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TVFgwMTF4dEhyVkhsMVdfMllNYms2ejVwQmpPSzhBR3E3Y2dxT2gwYkNpM3BTS09zMVAxcjBPMklERHZrcEZ4MFBEM2JDbE9xTmJWV0E0c0pzbl9WdUZnVVFMOTRIMUJoX250dHVEQmJESURBbFpMLUNSQnZadG8?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nSm1CWGhNT1BxYlRLNHVpMTBzcFFEWGxZdXlkSXRZekQtcmtxaHhBQmxoRzlRM3k4QlBpczYzZjNDRE4yWFVPNWVBRVpIN2JSZnVzZGRqMGVGYWJoUXV0RVJFWjIzUkFVUnpKbzgzNA?oc=5"
       },
       {
         "id": 7,
-        "title": "安徽石台抽水蓄能电站下水库正式下闸蓄水",
-        "source": "国际储能网",
-        "pub_date": "2026年11月05日",
+        "title": "福建沙县：罗坑水库除险加固工程开工建设",
+        "source": "中新网福建",
+        "pub_date": "2026年11月06日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVmg1RHZ6QTZZLV9UUHNOcnNfcmt6M2xBUjY1ZTRBSk5KSkhJNEZiOG9CNnhNeTdGNHh2SHd4enB5YllaVjVRdDBwN3d1UUZsM0ZreFAyUEpPaUZiRl9FOUp3?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ScUtGSmloQm1BM3JET08zcFBNVEZmamlYNDh2d2dhLTYzSUQxY3haTGE5MWJoTkNfeVYxTHh5V1VDUFNXdHl0bTROTGJUSXZHRXJkOUFNc3YwU29IVmd5OGkzcHNUa2NvTjMySUZZc2hYUQ?oc=5"
       },
       {
         "id": 8,
-        "title": "美国加州62亿美元水库项目获批",
-        "source": "维度网",
-        "pub_date": "2026年11月05日",
+        "title": "大禹节水与子公司联合中标21.44亿元水库灌区工程项目，预计对公司未来业绩有积极影响",
+        "source": "东方财富",
+        "pub_date": "2026年11月06日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZVllIMXBiX1JPOW5zQW1faWF0NmJlSmtnbzdsZkMzeHY1TTBpUjhDWXE5V0NqTFRNM3FJRWVhaTZ6TFB6U2xHUHo4amdJWUpqTU0wNkVjbEI?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZSGVNdjFjYUdZcm9OcS12ZWZHUDBuYm5KclA1NUxQaUc3X2k0R0hJRDU4S0ZNTGF6UjdzSzduSU5CRXU1eGxHV0x3VG9fb2J6bDFzNGhlSDVhZGhyX2ZOdFBYdlNYQQ?oc=5"
       },
       {
         "id": 9,
-        "title": "拓宽投融资渠道！国家发展改革委：推动更多水利基础设施投资信托基金发行上市",
-        "source": "手机新浪网",
-        "pub_date": "2026年11月05日",
+        "title": "国家发展改革委：逐步把具备条件的永久基本农田全部建成高标准农田",
+        "source": "中国青年网",
+        "pub_date": "2026年11月06日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aQ052QTY3a1B4NmM2VUgzTl80R0QyYlVJZkV5b2FrOEhRYkJ1TGd0RjlTd2NUcExNdmdDdWFCQW1UUlV5SnNiUXZDREtPd1ZwY3V3S3d0QlNvRlNCR3hRVXJuSU05WjdGQ202dVlpUE5TZw?oc=5"
-      },
+        "full_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XQ3BWdUJZVi1yMWFqMkJvQzF1MEgxUHk0WXlqTi1JVnlBMWRISDIyQ0UtQXRtR3BZbTFTWmtzNjB4cm13c2hjQnZZUHcxNmJWV3NyUExJd2o4VHBqZUNCazV6QjZKZHM?oc=5"
+      }
+    ],
+    "综合要闻": [
       {
         "id": 10,
-        "title": "巴基斯坦批准2750亿卢比水利项目补充拨款",
-        "source": "维度网",
-        "pub_date": "2026年11月05日",
+        "title": "从“三年两决口”到岁岁安澜，水利部谈及八十载治黄，多次提及河南",
+        "source": "大河财立方",
+        "pub_date": "2026年11月06日",
         "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VMkZOQ0hETHROTzY0UnBVckpsR0RYQ0tFSENmNUYxUHFJZURseEh5MzZ3R1FnRHU2clJDYmQxZndVUlJWTk5jRDhUMk1YWV94OEs2d1hoWEI?oc=5"
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOUHZHNnItdXdlTmVIUnJaejNUWFk1NjVQb3JPVVEtbWZaNXp1MldOcm1hbUdVUDFCXzIxbi01SmZQLXU0US16dllwMi1UT29LN3NZTmt5QU4xbzQ5QldsRlpJbzk4aklsWmc?oc=5"
+      },
+      {
+        "id": 11,
+        "title": "水安全保障看山西丨省水利厅与中国铁工投资建设集团、中铁三局集团举行工作座谈会",
+        "source": "凤凰网",
+        "pub_date": "2026年11月06日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlN0tlQnFSc0NQTWx1MFR0UjY3QUNDLVMweGZUTURnMEZrSHc1N1FMdFVjNnlJUVFKNXZVN0p2UElSVVFDUHZGbDYteVc?oc=5"
+      },
+      {
+        "id": 12,
+        "title": "黄河连续27年不断流建成5.4万多座水利工程｜即时新闻｜中港台｜on.cc东网",
+        "source": "on.cc東網",
+        "pub_date": "2026年11月06日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQblM0eFRoNE1kVnlYLUxOclB4UGJBTnNfdDNhN1luNk9tVm41b3lrTnRwSXNxNmZDbGFObnZ0clUta0EwYjktblpTSl9GVDhubWZiNGVxc1FISWNDbHMtaFVMbW0wT1N0R0ZhUnd2VkQyZEt0Z3IyN0FDR1BaYUdER0RFZEd5emt2Qi1wVGk2cw?oc=5"
+      },
+      {
+        "id": 13,
+        "title": "国务院新闻办发布会 水利部答闪电新闻：以治河为主线 推进黄河文化的保护、传承与弘扬",
+        "source": "齐鲁网",
+        "pub_date": "2026年11月06日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03alVkQWRjd2t1Tkt0VUp0YWZxR0VUaWNDN0FJS3NOVnVaTUJ2QnJLRUV6X2lTTnVDaEkzU2lGRVRQZUh2MlFjeV9WenE4ZG9IRmlqZzRlMTBGTUxRQm1jMl9kNHU3UTVoYmtJYnU3cEd6UkdE?oc=5"
+      },
+      {
+        "id": 14,
+        "title": "水利部答解放日报·上观新闻：黄土高原如何从“千沟泛黄”走向“万壑披绿”？",
+        "source": "上观新闻",
+        "pub_date": "2026年11月06日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vRkFjLVlTVVpWcmMyOGJkcXRYcnBmVXNIZlN2WnMtUVBiS2RVU1ZUX2hSbms5QUVvdUlnUUlnZ3hMNkVyUnZmYmtzdDZEckNCc0ZWdENiR2tnNkF3MVE?oc=5"
+      },
+      {
+        "id": 15,
+        "title": "水利部：黄土高原逐步由黄转绿 有效改善当地条件",
+        "source": "新华网",
+        "pub_date": "2026年11月06日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT0F3Q09OakpjRlJlb2Zla1ItNnpRMWMwZDdxNXdYX3pvbE0tVnNOemM5MklXUmZBSGdfaHJsc3V2d0d1R2o2d2xDM2lMR0dDQy1hd2c0ekdYRDlrem14dGM5UW1pZ0dQNkhlbkRVTjQwOXp4QUtLa2RseklEZ29SMFZB?oc=5"
       }
     ],
     "政策法规": [
       {
-        "id": 11,
-        "title": "国家发展改革委：“十五五”时期将推动更多水利基础设施投资信托基金发行上市",
-        "source": "https://www.mrjjxw.com/",
-        "pub_date": "2026年11月05日",
+        "id": 16,
+        "title": "受权发布丨中华人民共和国水法",
+        "source": "中国新闻网",
+        "pub_date": "2026年11月06日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MWjg2Qk5qcm04ZWxVUTdGUUNMNUw2RXRndFVpeFR3OU04Z1J6U2ZaeF9IamtDWDloMXNhd2RUQ2ZsVm9nNlNvOXM4akZ2UUFYWi1TN0tXVWtES3hCYy1GNXdqYzZXQQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XZVJYSXZ5cGxrcGgtUG1mRGJvTlB3RTZCR2NrWUxvRndsWUhSY2EzQ2FMclUzMWoxWWtMWGVnUTNQZkJzU0FEeXpRZHAyMDJVMVpkZ2tQX3RNVjF2bkx6SDc1S1QxZC05?oc=5"
       },
       {
-        "id": 12,
-        "title": "国家发改委、工信部、自然资源部、水利部、国管局，联合印发《实施全面节约战略行动方案》",
-        "source": "手机网易网",
-        "pub_date": "2026年11月05日",
+        "id": 17,
+        "title": "水法完成修订，赋能治水兴水",
+        "source": "京报网",
+        "pub_date": "2026年11月06日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hQkpkZFBZVjVtazNudmtMSmpfdGRKQnl6MndpSDN6eTBmVHlpdnNZb3NHb1lHUk90Q0xyWDMtYVZaNHdHanpTbkJyUmZFcnNQWVN1U2FVTTVmenBQV095eTZB?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9faEpKaWN5eERvV25saVE0Rk9wZzRsUFBzOU83a1J6ZFVhb0RITjdzR3pxRmtac3IxcE1ZZk5NYlV1TVN4YlMyUGFJRWFOVjZlTmtUdnZlQU11aGVsWmc?oc=5"
       }
     ],
     "水生态环境": [
       {
-        "id": 13,
-        "title": "全疆首单落槌：特克斯县水土保持生态产品五年经营权成交21.54万元",
-        "source": "中国新闻网",
-        "pub_date": "2026年11月05日",
+        "id": 18,
+        "title": "水利部：黄河连续27年不断流，干流近4年稳定Ⅱ类水质_社会新闻",
+        "source": "大众网",
+        "pub_date": "2026年11月06日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVo0bnZuTkNQS0hiN25jX3ZJSng3TkZXSTdwdVFwUVR1bTgyaWg1UllQeldxMDRDZkJ6YVNxN1ItTkdyYjFBbC1uaDNNLUhvOElfVG9mOVFZNVBMUzBHMGsxVUVMSUpBanJ4Z0NPSEVLTFJBWEFiWmZTQk1jYVhpdFZkWQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QUE1tQ2I1WjlZQVJ6MzdNaG1jcE03cng3dUViVHRuUDZiUU9aVzBMTFNHTV9raWdtTlZhYVI4VnBhMHFHNC1RdkRRUU1ybWUwcGxqcHhZTmN0azVxU28yMS1NaUdPanE4WXVra2JQZk5uYm90UzF4SUpUTQ?oc=5"
       },
       {
-        "id": 14,
-        "title": "“十年治水润三湘”⑨丨一河清晏处 满城锦绣生——从穿紫河蝶变看常德十年河湖长制生动实践",
-        "source": "新湖南",
-        "pub_date": "2026年11月04日",
+        "id": 19,
+        "title": "研讨会｜中国历史上的水环境与水治理",
+        "source": "ThePaper.cn",
+        "pub_date": "2026年11月06日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50ZklhamVJcGx6SW5Bb2I0U1F0dTZXbXU0Z0dkb29BS3pCZlloZHFSeV94bE9iZEF0TGpoSGZiQmxpa2tTbXBkamtWSmJ2bE1lVXN2Ny1JeWptSlRjeVo4?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfaWx6dThieDM0eEdQYXlhX0ZTdTFTaXpnVUl5X2I5VHVpbHNLMEhDZWlKWmNCWjFUbDA2X29mbkVkRE9xVWNRM2RhMnRkNVVkVFVodXE5bUE4bTQ3LW9zbw?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 15,
-        "title": "2025年万元GDP用水量较2020年下降19%！水资源节约集约利用走出“青岛模式”",
-        "source": "观海新闻",
-        "pub_date": "2026年11月05日",
+        "id": 20,
+        "title": "水量仅长江的1/20，黄河如何推进水资源节约集约利用？水利部答新黄河",
+        "source": "新黄河",
+        "pub_date": "2026年11月06日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzV25qVjVnaXo4QTRIM2FYZWFSclVOcUJsUWIyWElMVGJPWnNleUt1YmppUGFXN1REZ0U4SkJhUXlmYnNNNkNXRWdSWDFiNHNyREE?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oLUliRkQ0NVlJZTRScDdWNVJpNGYwZ0RqNkpYdUhfUWZfWEd5Z2ZzLTNLaklsUjhVRk80NEl2YUJ0YU95Vi1ZcGNMTkV3di13RllEU0c3ZzNod2NWZUcw?oc=5"
       },
       {
-        "id": 16,
-        "title": "柬埔寨全面部署供水保障工作应对厄尔尼诺挑战",
-        "source": "柬华日报",
-        "pub_date": "2026年11月05日",
+        "id": 21,
+        "title": "喜迎党代会|水表会“上网”、 供水“不打烊”！瓜州农村饮水改造让“幸福水”长流",
+        "source": "凤凰网",
+        "pub_date": "2026年11月06日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvMGZ1ek9DYlYxeHpTZi1WWmttY0JUV1lHTVp4VllacXA3WnF5Mm15a1N5dnVzempKajZQWnA0cjVRM3NRYk83UHFSUjdTVWpydTdXYkN5UQ?oc=5"
-      },
-      {
-        "id": 17,
-        "title": "瓜州农村饮水改造：疏通供水“末梢”，甜了百姓心窝",
-        "source": "中国新闻网",
-        "pub_date": "2026年11月05日",
-        "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NYlJ5YU9MS2JZNUR6alFudmNlWnZITUFJeDJ1N1Utb1hYbVBmQVJaSjlEa2l4dkxfcWZxN3RMaVJsTGlaVXpRX0NBUjdsZFJwckEwaklPUVgtLXdUSlpic01EcE9NRlVPeWtDSA?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqWS10Rlo1Njk3dFJDY09DZWZqZElCS2tXTEdKTjFlbTNNa0VLQnJXTE44Q1NFMmdxeVFXLWdIY0piT2JOMkV1dGdwZEk?oc=5"
       }
     ]
   }
