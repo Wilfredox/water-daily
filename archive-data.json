@@ -1,5 +1,74 @@
 [
   {
+    "date": "2026年11月09日",
+    "news_date": "2026年11月08日",
+    "update_time": "2026-11-09 00:00",
+    "total_news": 6,
+    "category_count": 3,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "岁岁安澜背后，宁夏何以写好黄河“水文章”？",
+          "source": "央广网",
+          "pub_date": "2026年11月08日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UOHpTaUpZdnBmdmFXTzhHczJpQWwyOXE4a1J5eGdoTHZTbUx3QVk4b3ZNWUY4eF8yNnJBRDBvQXcxc01yMnhQSTNicG1XN2VUV2VzTUNpSHhONmZZV2p6by1ITDg0dw?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 2,
+          "title": "人民治黄80年，水利部“三赞”山东",
+          "source": "山东宣传网",
+          "pub_date": "2026年11月08日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ka0wteVlUaUtZMGRBUEFXdHNQMmFacV9wb2Y1Uzd6TVZzdUduamxPdld3MzlycG1nSkNTd2Y2Z2VfVDA0MEwwWmFTeDdXWGxGXzJkTkpGU2h1dXNmcXFyTmE1MS1XeVFZYUJSZ0J5Nzc?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "埃塞俄比亚西南部灌溉机构招标建设Gara灌溉工程",
+          "source": "维度网",
+          "pub_date": "2026年11月08日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oNEhUWE9MX3ItSlFLVXlFOU5pZ3lyakhzMGRnRkNaNm11MVBVNDJfdGJoanh4d2g4ZERMUHNKNlR5RmFLa0pGbHBQSmUyWFhYTzl3TngyaTk?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "广州市白云区水务局关于划定2027年度白云区管采砂河道河砂禁采区的公告",
+          "source": "广州市人民政府",
+          "pub_date": "2026年11月08日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxRW9IVjhEVml5dWpWYUZlblB0Z0hId25MdmZWSUVhY3FWRmhYR0JuMVJXall1ZnlYMkpueVpjWGZrVFBHc05GYlpnV1pCaTNUMDdjZ2xVTGhabURjOW5OeGVGa2w?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 5,
+          "title": "乐清银溪水库工程顺利通过导（截）流阶段验收",
+          "source": "欧洲头条",
+          "pub_date": "2026年11月08日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3R0eU5XY2Y4bmUyYjlYWkFiZ1poc0hxeThhakFXYjl2WVladVhMMDA3d0dMb1dnQjh1RVNra3ZIQ3gtVXVzVFJtT2d4bHhXbmhMVGxHWFl6MkdGYWhIeEdBMGxVZVBzdjVHZ2dYRDktclRaN0ZDTHFOMVYzVkhOaUo2NERHMkk3ZzEyWWxaczhHMzRlaTRZT1dUNGNLcGdMQkhwQ0lIMzM1RXdJVVM0SVpaOHlFbzNpWldGZjQ4dw?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "边建边受益，大藤峡灌区武宣段部分农田提前灌溉",
+          "source": "广西新闻网",
+          "pub_date": "2026年11月07日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05RXJmNjFHbThPSWNBaDd2VTBvUWMwZVN1S21yRU9WVmR2YVo4N2RpVDJkZzRfdlJsSkRad1BDZS1Ld0FCRjNQUHVhTjRTV0UzRUItYjRPTlZOWXhweHFqZmpINFJ5WkhrUkZwcWJfVzhuenNlNEFZZE1wSmJ4amc?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年11月08日",
     "news_date": "2026年11月07日",
     "update_time": "2026-11-08 00:00",
