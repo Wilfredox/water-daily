@@ -1,171 +1,173 @@
 {
-  "date": "2026年11月10日",
-  "news_date": "2026年11月09日",
-  "update_time": "2026-11-10 00:00",
+  "date": "2026年11月11日",
+  "news_date": "2026年11月10日",
+  "update_time": "2026-11-11 00:00",
   "total_news": 17,
-  "category_count": 5,
+  "category_count": 6,
   "news": {
-    "综合要闻": [
+    "防汛抗旱": [
       {
         "id": 1,
-        "title": "粤海韩江水利水电获20年发电类电力业务许可证，水力发电业务运营资质落地",
-        "source": "搜狐网",
-        "pub_date": "2026年11月09日",
+        "title": "新沭河太平庄闸滩地发包种粮暗藏防汛隐患 水利部门直面监管漏洞推进整改",
+        "source": "中国江苏网",
+        "pub_date": "2026年11月10日",
         "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQkNPUjBfNVZwZ3NpUjlxdFpnYW1wVUp5Tk02dl9VTGJodEhVM2UxLXlpbFFWRTh2WjZCc3FXdDZhcFh1Ny1PSzdQejdNbE44Qnp6eFRRMUJBdkF4ZHQxYlppUTkyV0pYMnI0WDRrR2lJdWw0cHpzOEJkMTIzNkM3amg2RV8tMWhxdXk3Wg?oc=5"
-      },
-      {
-        "id": 2,
-        "title": "长江工程职业技术学院党委书记马大奎在全国水利思想政治工作培训班作案例交流发言",
-        "source": "中国教育在线",
-        "pub_date": "2026年11月09日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyaFpWc2NQWWZHWGY2bW8xMk9WU2d2eEo2bGxfWVl5ZEpjc3gzbmoyU2FSZkItMi1RbjBwdEROX25vMzFjT21ITE9xQWRuYjBDa0xxSEo2em1tUUlEMkc4RGRNbHlrTXg2?oc=5"
-      },
-      {
-        "id": 3,
-        "title": "水利部党组参观党领导人民治理黄河80年成就展",
-        "source": "中国水利",
-        "pub_date": "2026年11月09日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yZDJaeHpLcGVHaG5pQWdCUGQtYTdEbUdIU3J2T1QyYjJoSkZqb1IwcEZ3emQ3ZzJNUnBsYnlkc1Y1TnJFU0FnM181a2RJSkkwUGgtSE5Pd05xSWNxaGEyVkZNQ2JYeVg0eWgwNElB?oc=5"
+        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb18yM3g1Z3dXTV8tQ3FTZUtGeFM1bnZ2S2hzeDdVbnF1Mi1obE45c0NkeVp2M1lWMUlUWEJ5cUd2OVZZdWFNQTFwMXROTTN4RGxvSmJyWHVCVFZmV1B3RTlCRmpJa2VTS045emNvVDBaTVZ5MUFzWE9xV2pwc095dl9aYWlJd3BzcFVJM1ZnVQ?oc=5"
       }
     ],
     "水利工程": [
       {
-        "id": 4,
-        "title": "蒙东首座抽蓄电站上水库通过蓄水验收",
-        "source": "国际储能网",
-        "pub_date": "2026年11月09日",
+        "id": 2,
+        "title": "事关20万人用水 上栗县流源水库工程导（截）流阶段移民安置通过省级终验",
+        "source": "凤凰网",
+        "pub_date": "2026年11月10日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56WThjbjhPbHozdUtxV1lCczRHWGI5SmpNLXZTcHc1ZWxYNXRpQmRlQ3B4cWlSRFl2RWpNWF9DdFBHRnVpZGRINkRtQzRyektXQ1pYMDRtSndnQnBrbFR6QS1n?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE12cEw2dlREem5KUkhIWndVWEdHX0RsZDc0WkZJbWRtaUducVNrLXAzdzh3QkRmanFYOW4xdnR0dHB3b1dCZnhhUVZR?oc=5"
       },
       {
-        "id": 5,
+        "id": 3,
         "title": "盾构公司助力滇中引水攻克“上甘岭”！世界引调水工程最大直径硬岩掘进机“弘毅号”下线",
         "source": "中国中铁股份有限公司",
         "pub_date": "2026年11月09日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
         "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMVEVaUDlpQlY1OVUxNVRzN0psSG5EMlZCVVFoVUM0dzF4endULUFxcFFXeEhCeENCSk8zQWVpX2NsSEhVQjhkZmo5RzJwdXpFb0pOYTFKb0ZESFZLal81cGxOOURyTVNIbmVOUkR5YS1JSVJZZ1lXd055M2w?oc=5"
+      }
+    ],
+    "综合要闻": [
+      {
+        "id": 4,
+        "title": "宿迁有养殖户擅自打井取水 省水利厅现场回应",
+        "source": "紫牛新闻",
+        "pub_date": "2026年11月10日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XbEE2dUR6amlFQXhWMHQ4SlVta1lidEQ5dG12X1B1T1BKeVJUQ0VFNkNDYzU3dHFSXzZRNklfbk9ORXlrQzJyRmVpUm13aDZYWFNhR2dWZWpLemNLNzVRTEdKUHpPdlhxOTY0?oc=5"
       },
       {
-        "id": 6,
-        "title": "基康技术出席中国水利学会大坝安全监测专委会2026年会",
-        "source": "挖贝网",
-        "pub_date": "2026年11月09日",
+        "id": 5,
+        "title": "浙江一水利局回应综合岗招新闻传播类专业疑问",
+        "source": "ThePaper.cn",
+        "pub_date": "2026年11月10日",
         "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BcVN3ZmlMbFRXYUFJOVNaNjhlT3RJVHpvalZIaG5TUV9iM3B3NjJLSTBPN3NlRmsxY0hleTFZSmFWQlV3cnFNOGFmNW9FZw?oc=5"
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0NEJodlI5MEdCeEJ2aVZVUURaYWNxNi14b2pRbUxEU3AtOGJhRnFWT3l2V3o5VTJMVFVvQzE4UzRyUXByUjEtNzZfMDZjV0FyNWt4LWh2eEJHeC1jSF9OeQ?oc=5"
       }
     ],
     "政策法规": [
       {
-        "id": 7,
-        "title": "谢卫江主持召开省政府第106次常务会议 研究部署安全生产、2026世界计算大会筹备等工作",
-        "source": "华声在线",
-        "pub_date": "2026年11月09日",
+        "id": 6,
+        "title": "山西将织密现代水网 破解“煤长水短”制约",
+        "source": "搜狐网",
+        "pub_date": "2026年11月10日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRS3ZWRVRYSGt0Z3dwN2M5QTI5cW1nOWZFdHFoR1ZUSDA2UEhXenlycm1mUGI5Z180eUZ1Vm5CX2FSNTVRSGpva0FjcVFwZV9oZFprdWFpdHpSYjhXZ1FN?oc=5"
-      }
-    ],
-    "水生态环境": [
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWp3bmNfUDRTSTVWSEJ1cTdaSTJRYlhrcG9PaFh3UnRRWXJHUmpXWjIwSmxuZXMwQ2o1djdZTVY2bm9fTlFfOWFUWktYNE1ZaFVUUTZFTDFrdHMwRVNydTBqcUU4VnZZOEVwSGkyR2RQZC1NN2pVWWNaUDV6M2pTWExac2x5Q0RS?oc=5"
+      },
+      {
+        "id": 7,
+        "title": "从县域先行到三级联动，他们这样推进国家水网先导区建设",
+        "source": "潮新闻客户端",
+        "pub_date": "2026年11月10日",
+        "content": "",
+        "impact": "将进一步规范水利管理秩序，推动依法治水。",
+        "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwSm55R1RLSTRSS1cyUTd4NUNLSnRTSS11NmxwSl8yNm9jLWJKWGNCUzcwU1RoSktRNVpTWmlVcVNINXYxeUtRb0hobTUzSEU3U0Z3OEpEaG5CbnJpMVpZeDNaU1d2UHczbVVESGJ2bFRjTFU?oc=5"
+      },
       {
         "id": 8,
-        "title": "4.8万名河湖长巡河超千万次",
-        "source": "四川日报",
-        "pub_date": "2026年11月09日",
+        "title": "全市水网建设推进会召开",
+        "source": "九江新闻网",
+        "pub_date": "2026年11月10日",
         "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VazlnQm10VkMyWlg0dzZ6QkxWQ2pGejB4eDI1NkpuV1hWNTJtRk9nZkk1VF9taUs4Y0hoWU5obDB3VDh0VklqbDFDQ1NoRlBEYkNHSHVRdWJfcW02TnZnMHFjbFlKN01hVFE?oc=5"
-      },
-      {
-        "id": 9,
-        "title": "河湖长制十周年，四川交出一份“幸福河湖”答卷",
-        "source": "搜狐网",
-        "pub_date": "2026年11月09日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ24ybTMwZGJhU3JYampEbXNsTC1wNUVYVHZ2Y3RsTnkwd0pNQk50bkl6TEVqU2NPcnJwUllNeldHcjZsTkIwX0NrZE1qV2JpSmZLaTdsc1lybjNYVE15dk8ybjV1cTE0WXQxdjU3WG5yeFFBVGlnYUwwUGlzeGtyYVFoM3FLQTR2YTYycg?oc=5"
-      },
-      {
-        "id": 10,
-        "title": "十年，四川4.8万名河湖长守出151条幸福河湖",
-        "source": "中国新闻网",
-        "pub_date": "2026年11月09日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DQ084TDJCOGRvak9RU1lQV2pvWXdzWE5kX2xqd3dHVEc4bkdPSl9jMGxBcEJDREE4SWwzYmJHVktxVlVFVnF0X2ZZSzNxaEYxSFZjYjNfQUk0ZG1GV2JxQ1NBQ045SUlB?oc=5"
-      },
-      {
-        "id": 11,
-        "title": "西峡县阳城镇：聚力守护水环境 同心共护阳城水",
-        "source": "河南经济网",
-        "pub_date": "2026年11月09日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wOGRYWnJ3VzFxX185Wk4wbnVpSi1HMDVaQnducXJXRVJwUk5wdjMxNHZBLW1fU0RPY0dseHJuRFl1UzJzRjdpZW01NzRETWRXd0tyWDZ6Mko2T2ViXzNhUEp4SXpHczNXZFg0?oc=5"
-      },
-      {
-        "id": 12,
-        "title": "青海\"十五五\"统筹推进水生态保护 持续擦亮高原碧水底色",
-        "source": "青海新闻网",
-        "pub_date": "2026年11月09日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96NjNqdDh3ZVhGR0tFV3RBazJlLXJ6R19wcUhNMFlqVGdWNHJwOXh5OE5mNWQ0Q1pzYlIzSmQtTkVFMmlaTllRZG5LdFRGbjRKTHBnWl9jS3k5aFNCQUtNYkNUUUstdXp5RHV6SmhKbzByWjll?oc=5"
-      },
-      {
-        "id": 13,
-        "title": "阳澄湖水源地上线智慧管护新模式",
-        "source": "苏州新闻",
-        "pub_date": "2026年11月09日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93SzZpSm5KRVNHVEkwZ2gwV1k3UlJFVFo3T01uMDlzSC0yXzVfRm15bEdja1FROHFSQXR6b0E2cWlENmFReHlKbHBuczV6Z05MOXhSdEl6VUpFNXBZT2tBaDd3?oc=5"
+        "impact": "将进一步规范水利管理秩序，推动依法治水。",
+        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RbFNtM09PSnUtVV9ZTmlNSW5UR2piSXdZSmFzUjdiU2NFNFFSYmVKOFI4MFItRTJ6QWplRExxQjlWRmxqVG5YNzhhQ0N5QWQ5OWxOZkE3Xy1HcVVJenhj?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 14,
-        "title": "中建三局拟持股49%与广州水投合营，此前在云南一座供水项目公司持股1%",
-        "source": "SmartHey",
-        "pub_date": "2026年11月09日",
+        "id": 9,
+        "title": "中国土木工程集团签署黑山采蒂涅1974万欧元供水改造合同",
+        "source": "维度网",
+        "pub_date": "2026年11月10日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XeU9SV2g3UFB2enZWVjNrdVVJUDEzOUVmVFhDSVVSa0pXS29XcDBhSGM2eExFbzNyMVBXYWVCZFBhQlZEZzg1VmtUa0lqNVdxZVM4YWEwLUxVWl9YUWc?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YMVhhUWpzVXVYbWluTWpNV0ttTXVFVVVaYUJUVllULW9LdEZDY24wZmF2TWF4a19SRHR0SkIwVG1sbUNQNDZkSjJXRHZlRTc0dFdPT0RNR0s?oc=5"
+      },
+      {
+        "id": 10,
+        "title": "袁家军在重庆奉节调研农村饮水质量提升和溶洞天坑山谷生态环保工作时强调牢固树立和践行正确政绩观坚定不移增进民生福祉",
+        "source": "七一网",
+        "pub_date": "2026年11月10日",
+        "content": "",
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOekYzdFVBVGZZR2ZWdm5fVmpUeXZ3Um1nTU44ZnU0VHFIelNRU2lrMGhwSmRMSk51THVXUndPYlBPSVl5OG84SjBoaU5QQlNCS1RJaGE4cG1YMmdPOEczaU1HREUtRzh4eVY2bUx4Q3BaeDM0UTduT3NfQzVYcVBDeDZlX2UwbVlPMGVZeEc3YVBOYTFSTlFtbw?oc=5"
+      },
+      {
+        "id": 11,
+        "title": "一张网、一张图、一平台：山西为治水兴水节水装“智慧大脑”",
+        "source": "搜狐网",
+        "pub_date": "2026年11月10日",
+        "content": "",
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUJCQnpTc2toaVlET0xQQzZxUW1mWjdReE5mLUpfTEkxZjBtdG13RkJ5RktWc0JtYmJVMHhNVkcta19DMy15N2hqLVRsSUM3eEpBMTJjTGZWdTRpQkhHemlCQUFSTWRYTWpGNFM4Um5wWldvbFc5NVdmYVI4eUxNLW9WanBoVE5N?oc=5"
+      }
+    ],
+    "水生态环境": [
+      {
+        "id": 12,
+        "title": "十年守护 三晋河湖焕新颜",
+        "source": "https://www.zhshbao.com/",
+        "pub_date": "2026年11月10日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QS0hhR2lfV0hMVjhxWjRCYzBKYW9VbGRpZUxSX2ViR213Z0FVLWZWNUUxS1lnYnVqaXRMR3BUZnJBMktmV1pGZ3JvMWFUdFNNOU5ORXNFTThnRnFIblE?oc=5"
+      },
+      {
+        "id": 13,
+        "title": "养殖塘口私凿深井屡禁不止 农村水生态监管漏洞待补齐",
+        "source": "中国江苏网",
+        "pub_date": "2026年11月10日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUzZPdEhhYVM1b3NlMjc0MEh0WlpiLTNhYURtb3QwY2xVaFYtNnFfU21LOUo4eU91UDRId2tfNjJRLWtja0pHRVdGTVdTOW5YV1hwMk9VNFpkaUM4RU5sa0lkWVFZY0Y3T3lqdGlCOFBBdVdKWEdOSWRLc0E0NUZXNGlzZnMzV3ZWcWtJ?oc=5"
+      },
+      {
+        "id": 14,
+        "title": "连云港推行河湖长制十周年纪实",
+        "source": "新华网江苏频道",
+        "pub_date": "2026年11月10日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRbFJNdmdSbF9Tb1BVLXFFeWdha2ZsWXk3d2tHdm9PaDFHM3c3WmNGWlZ3WHFwX080MnVuYi1yemVscTRGODlIR1hfMHIzX250RHBkbklSbzBoVnNJaEI5RGhWOVhVUnh2TE90R2c0U2djNFlQ?oc=5"
       },
       {
         "id": 15,
-        "title": "问渠那得清如许为有源头活水来——南水北调东线东营北分水口引水增效工程建成试运行-新闻中心",
-        "source": "东营日报",
-        "pub_date": "2026年11月09日",
+        "title": "重庆河长制十年巡河超536万人次 解决涉河问题31万个",
+        "source": "中国新闻网",
+        "pub_date": "2026年11月10日",
         "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PUS1RNW8zMFUyNkI2RkNwcTVLRmtweER6RUJKaFpLV3hVak9WU04wNEVCVkFOb2ZCSUtZb19hbUdDdmtnUTBYNzJiLTdsT3pkM08xY3N0ODliV3RIRWM1WkR6SnFseXlEOEFycHFyZw?oc=5"
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BaWVDSHJtclZHSGVPOEJyQjQwYWRLTFQ5NHpNUW5kcTBXTVRDUFJQd25sZk9zRmQ0NC0tZ05XMFc5WGlKZVdZNXdvbHdhYnFyam5YTjJmSlQ3b0NSaFlYTXViOW5reGFp?oc=5"
       },
       {
         "id": 16,
-        "title": "麦盖提县：修缮水厂补短板 智慧供水惠民生",
-        "source": "中国新闻网",
-        "pub_date": "2026年11月09日",
+        "title": "珠江委以点带面推动河湖生态环境持续复苏",
+        "source": "手机新浪网",
+        "pub_date": "2026年11月10日",
         "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObWl3Z25qN0Z4MGpnSGpweHU0VmdrSnZUX2pnREUybExXcG9lODhDZWxsR25OOEp6a0xyX044TlRPa1RMMFBoemdEOWhsN21QYmFKczdqM1F0eE1ndmNOYUI0ZTRkem1tZDNMN0lwY2pack00SWg2TVQ4Mzd4aDVuMWJrZw?oc=5"
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51NVJCc1RDaVM3Ulk3cHFYUlgxYmFUYmFlXzZXbGdmUlJHS2MxZ1FfelN3Sy1JNnZlbVFlNlV3RGFSRmNLTkhVVjdQd21jY0t0WVI0ZWlLNlFReDBId3BxMW5UVVJSY0swTmZKTlM1UW53NHdva3hidEdPeV9RZw?oc=5"
       },
       {
         "id": 17,
-        "title": "珠三角水资源配置工程项目盾构设计联络会在广州召开",
-        "source": "中国中铁股份有限公司",
-        "pub_date": "2026年11月09日",
+        "title": "十年长治幸福河一城山海漾清波 ——连云港市全面推行河湖长制十周年纪实",
+        "source": "紫牛新闻",
+        "pub_date": "2026年11月10日",
         "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KN2l1dGhPcnJNNzNVRmp5MXg0U2dKUlBWTEtHOGhKY1ZHNEV0dGxyN1M1czB2U0MtTExXUTFsNHBTN00ySjRNanZFQUc3NlNneTRuOExCOWFfLURvcUpzeElRcERKSHA2cWNLU2pnSEdZdnROOHhYWWVn?oc=5"
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kXzBybUdWNHJBaVlheUhKOUFHOXkxYkZBWEhnTWdrbmJqWnNfelpFQ3pLNHRnUzk5Ql94SmRfbXlDNVRjdlBJd242ZERPNGMwaGg2S2tvYmRaNWdUamx0ZEZfS1dhMjNzVTY4eWJyZw?oc=5"
       }
     ]
   }
