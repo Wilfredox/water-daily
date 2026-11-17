@@ -1,5 +1,87 @@
 [
   {
+    "date": "2026年11月16日",
+    "news_date": "2026年11月15日",
+    "update_time": "2026-11-16 00:00",
+    "total_news": 7,
+    "category_count": 5,
+    "news": {
+      "政策法规": [
+        {
+          "id": 1,
+          "title": "“六网”建设一线纪行丨①水网织经纬 润泽千万家",
+          "source": "河北新闻",
+          "pub_date": "2026年11月15日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yektCS1M0UXlSTXIwczlCektHaDBGdS05Z2oxZ1JCUndjZVV1V3N2QjB0dXlLbEpKZTRDLUpaTG9CVU1NaEdBT2dtUXgyQlkyb05sbUlSM1ZGMW11am14MnJ4c0lpZw?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 2,
+          "title": "新疆阿克苏地区库车市发生5.0级地震 水利部迅即启动水利抗震救灾调度指挥机制",
+          "source": "中国新闻网",
+          "pub_date": "2026年11月14日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzZy1xMUt0VnhVQ1YyTkhrM282aTJLQ254RUVQRFk2RGJ3bGd6Y09LWWtOcFUzR29zdUpSZXFBdmxTS0JuXzVjaWtSWFYwRU5uVHQySTNhZm5TY25rSG1fRVRxamlKMTh6?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 3,
+          "title": "充分发挥高标准农田综合效益 为守牢粮食安全底线建设农业强国提供坚实支撑",
+          "source": "新浪财经",
+          "pub_date": "2026年11月14日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDg5ZGlGTGczSGZUUHBVWlJVbmtfckh6VzQwZWhTamlRX3lscUM4U3FzZ3l0OU5zWDdGaFFGcnJwRW1WYkc2WUNHY1RiSWhiREZFc3pReWNmZ2dMaFhqbUxzMF9uVE1QMkd6Mkc2LWFxUVM0d3NOMDhYQUtHbGpDVmk0U2tfWGYzVmF2N0diNmtVbFIwalpBSg?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "抢抓冬修黄金期 管好良田“生命线”——彭泽县黄花镇扎实推进高标准农田整改整治与长效管护",
+          "source": "九江新闻网",
+          "pub_date": "2026年11月14日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95MV9hVlk3YzBfc0oxYnlDSmdib3lBQlZfUWh5d1dKMG5ib1lMcmdmWGlMSjhFN0lqczYyQVB6dUV0WllWMFhlR1N3WGUyeGxOUGpkRXN6YnBRMWd5ZUZ3?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 5,
+          "title": "四川省第四批“美丽河湖”优秀案例名单公布 巴河成功入选",
+          "source": "Sohu",
+          "pub_date": "2026年11月15日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbWllRjRMT3dHdF9tUTF0eHFvSG5BSWcwR2tjMGVYNjR4OFhPYTJUUFFSUnFzOUJlbWVWTFMxdnA3RUdVMG9TNmRHcEgtZmM4Yl9ocUtydEpEUnpXeVZVOEh4SXFKeWhGNzR0el9XV2dMdGpGUlZQYWNqbjVBcGFYbldtVS02YURDS0hV?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "河北新增2个全国美丽河湖 全省水生态环境质量持续向好",
+          "source": "张家口新闻",
+          "pub_date": "2026年11月14日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lLXJkc2NsNTNFNEpfRHQtZzg0T1JjZ05tY1VkX0pUcnFhQjZCLWhjMi1XZVBJRFREZXJBWGNUTUZ0MVgtZzRLS056b0RWSmlyMmRXT0VSQlpqYmxBYnBQSmgzN1JvZEw1ekE?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 7,
+          "title": "水费调整生疑虑——嵩明县水务局接诉即办上门讲清农业水价改革“明白账”",
+          "source": "Sohu",
+          "pub_date": "2026年11月15日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVl5YkFIcmNZb0wzWW9WRUE0bGtJY1R4YVVGSUgtX0s0bnFIZ2dMSTg2OFhVRS1fUnkwME85Y0ZsdkRQb2NUX3RtazQtVVJ4QWdIRGhEUExEX0lvQktNLW5xOHQ2QXVBQ1dlZkpqdlRvNldwZktSaXRGa2JDc2tWbWVEZVV5R213N1hoWQ?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年11月15日",
     "news_date": "2026年11月14日",
     "update_time": "2026-11-15 00:00",
