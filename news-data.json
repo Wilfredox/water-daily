@@ -1,22 +1,13 @@
 {
-  "date": "2026年11月17日",
-  "news_date": "2026年11月16日",
-  "update_time": "2026-11-17 00:00",
-  "total_news": 18,
+  "date": "2026年11月18日",
+  "news_date": "2026年11月17日",
+  "update_time": "2026-11-18 00:00",
+  "total_news": 17,
   "category_count": 5,
   "news": {
     "防汛抗旱": [
       {
         "id": 1,
-        "title": "张家界：深耕排水运维 筑牢城市防汛排涝屏障",
-        "source": "湖南红网",
-        "pub_date": "2026年11月16日",
-        "content": "",
-        "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yQjZ6RmlPQi15UmxIdW9xZmlrVFd6WGJyazJhcldyU3NTWm9HdUxQNHlGR3NFcl9SZW1VeEJiVnRPQUh5OHR3Z0htSVdwX05iZW1mZ1Zxa2QtRndjTWtiQi1R?oc=5"
-      },
-      {
-        "id": 2,
         "title": "越南和中国正在加强在水文信息共享和自然灾害预警系统方面的合作。",
         "source": "Vietnam.vn",
         "pub_date": "2026年11月16日",
@@ -27,154 +18,154 @@
     ],
     "政策法规": [
       {
-        "id": 3,
-        "title": "湖南娄底：巩固水利整治成效 以训强化安全生产",
-        "source": "Sohu",
-        "pub_date": "2026年11月16日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0F2Vjg0cW5tVTdXRmtBSTVlLWdUT3c5U2FCRFR0Y3kwT0FhWHVpNEVTc0pWLXg2NlZIb3dQYTRRWjBQblRZNGx2UmpEbkMyNFlDWXJ3VEVsVWVwQUhvNTh1MUJOSXhtUnM4Z2FGa1VpTFgwa1A1TjNST01uOVc5bWg0aFVONVJT?oc=5"
-      },
-      {
-        "id": 4,
-        "title": "福州以实干攻坚推动水网建设全面提速",
+        "id": 2,
+        "title": "福建福州：三大工程齐发力榕城水网展新卷-中新网福建",
         "source": "中新网福建",
-        "pub_date": "2026年11月16日",
+        "pub_date": "2026年11月17日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fOXM3MkJMMTVJS0h4d3U4ZTFteS1PRGVnVWZLYl9KN2tac0Vwc2RnNzZGaTYxYVRfdW9vYUpJRzhvZUZMUGtxNFRtUFhFdm1uYnZ3NURrU09GamxfOG5ocnBOanNydjhzWER0VVNxcTJHQQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qQm9veDNJLVdhVmt6TWRJV19KZmRLRTRzRzBYMnBia25iV1djak53ZG54emVOYXk4MWxnd0ZjVjdxWTBrZTN4UDRuTE51bDdJRVRuaEMxazZSU3dNQ3l5YmpOYWF6Znc0cGVTNlYtQTFvQQ?oc=5"
       },
       {
-        "id": 5,
-        "title": "一张水网，如何支撑广东高质量发展？",
-        "source": "21财经",
-        "pub_date": "2026年11月16日",
+        "id": 3,
+        "title": "机制聚合力攻坚见实效——福州入选国家市级水网先导区建设观察- 中国日报网",
+        "source": "China Daily",
+        "pub_date": "2026年11月17日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU3U5ZVUxYlg4dkR2SUpGalJLdV9QQWpaNjJjZUZKNTZCNmpZY3k4RWpYN3NQQ0trUjdfYmVuendGSXZGajVkTUlTOGlGdnNGSHo1WWVMaXVtcmlteEhjTU9INnR1Z3hyUTF6eTJTOV9fSUVFVFg3S0lLTklsamVCSkpRT0hJSjVUMXhjNjBhVQ?oc=5"
-      },
-      {
-        "id": 6,
-        "title": "五中全会精神在基层丨包头市持续推进现代化水网建设",
-        "source": "包头新闻网",
-        "pub_date": "2026年11月16日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mNkx4dEZQWFN5V1kyYXhyVXl4LUZsRExXMzB5M0JXZW1ZU21vcUUtTm8xbllCVHE0SEVNdEdQTHVFbXRJcXRhMUtHNEFaN05RV0VNaWhyaG5iYnp1bmFXbzJTOVIzZ1czM19seTMwYUdXQQ?oc=5"
-      },
-      {
-        "id": 7,
-        "title": "安徽水安全保障“十五五”规划出炉！到2030年省级水网覆盖率达83%",
-        "source": "凤凰网安徽",
-        "pub_date": "2026年11月16日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5EWFVzS2hmQVZ6dmlXdzBYY3lnczlKN2VLd3ViUTZsS2xkNVpxYWMtNE02VUtJRWkzYTlDdEhLNVBOWWhIdVkzeVFR?oc=5"
-      },
-      {
-        "id": 8,
-        "title": "以水网之“先”谋发展之“进”",
-        "source": "人民网-福建频道",
-        "pub_date": "2026年11月16日",
-        "content": "",
-        "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NWHBDemItUE9HV1ZnQ29rbGdibGpvc011dnJGNm1BOFhCUW5zM0RrN1JNa3FjNTduMmZweGxSZk45Y09XdHFtV2o2NWRVanF2cUdBVUNqUmxXMTF2anByRzNJdmxmYktZdnc?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HT1E0SmFUYWY1MW5NNzRKNElRZE1kVnROYkpkMFNIMjZleEhsSHhZXzRoMVZQcGltTEdIWXcxS2VRemJfdXo3bV9uNGlVTTA5NlVZU3RPT3hidkZMOVlycV9BX2NycGMwOFBPUGJsZ2s5MnZJcl9ZWHdUdUw?oc=5"
       }
     ],
     "综合要闻": [
       {
-        "id": 9,
-        "title": "【央媒看山西】山西：聚焦六方面 绘就“十五五”水利蓝图",
-        "source": "新浪财经",
-        "pub_date": "2026年11月16日",
+        "id": 4,
+        "title": "在市水利局专项巡察整改工作推进会上的讲话",
+        "source": "https://www.biganzigongwen.com/",
+        "pub_date": "2026年11月17日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMTUyb3JVSVk4MXlJYTJXTEU2d041Wm9oNll3UTE1U3MtZ1pvQlhDNTdiRzFaSjRUYVBHenNMQnV1cEt2VWxUSVFGeDVYWFN3U2tVejNZUVZVTldpMjQ5RWNOMUJMVEwxRmh4a05mZHFsSjdhVmJCakVSTzFiV1loemg1NGJ1SnNxT0c1cy1XV3lnVzNLeHJSXw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlcmZUWVVtUDhWT255ZVg5RVRNWWNjS2ZRX2ZaOTZrc2dQYU1zUk9EWGhIVzdYX1R3LWMyV2NsZW9lMFc5Qy1qSC14MlhwNV9BN0hXTV9IVGVBRnF5aVZN?oc=5"
       },
       {
-        "id": 10,
-        "title": "三峡大学水利工程学科博士生在《Science》发表Letter文章",
-        "source": "中国教育在线",
-        "pub_date": "2026年11月16日",
+        "id": 5,
+        "title": "杨锋履新水利部总工程师，此前任淮河水利委员会主任",
+        "source": "科学网—新闻",
+        "pub_date": "2026年11月17日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nOTRQZWFZQm02OGc1UEhsRTc3UXp0bUtkRFByNWlWVmRhX2duTk5KeEJDcTR5QWxIbTRHNkx1QnNmTWZDQ25iRGRoam1HYzZMNUpreTRNTTBKVWk3TWsxeUZITHNWbzJl?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LakZSR1ZWQXRLTHhvZTJJaTJaRWo5UEdCWmtmUzM4a1ByS1h1UDN5NnVFc05KUUhCLTdrTDFPUlVHT2VJWklDd3JJRTh6NVZCd19FVkw3cnZoUklSdjcwUmVCWXUyUQ?oc=5"
+      },
+      {
+        "id": 6,
+        "title": "滚塑成型储罐市场2035年预测：水利基础设施与化学品储存需求推动增长- 新闻和统计",
+        "source": "IndexBox",
+        "pub_date": "2026年11月17日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTk9ydWhMNmNfTEdNTWtISmp3Vkw2eWh5ZGI1S0RZZ29hdjcxY29IRlUtZjZBdWdRdmtjcjYwZnFTbE9ucVdkRDUxckRBWFcxWEttZHlWTUJ3dkRVdGZKbjJ3WUFoQkFudXhydUpHSlJseGRpaWIzazNpTl9JNDl2MjJLRHQ2bklHNnFyZkpIU2RqTXZVVGlOXzZhOTlJMC1mb1dILWt1WkYtMThtSHUxQWFacGlJZXV3ZC1zWll2VXNXbjVXV25IZDZZQUpFR2R2T3JhMUZkS2s1TUtFV1hoci02R0J0UQ?oc=5"
+      },
+      {
+        "id": 7,
+        "title": "中铁水务与北京中水科集团开展座谈交流",
+        "source": "中国水网",
+        "pub_date": "2026年11月17日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wdHlxM3poUXozUzlJdUZuWFdQLUhXcURlc1I2c3FueEVFcG4wQ2l6V1ViRE81aElDT2Z6RU1nN3lkSUFSUVBXV2kyMkYyX1h6M0V4UQ?oc=5"
       }
     ],
     "水生态环境": [
       {
-        "id": 11,
-        "title": "吉林：河湖长制统筹发力母亲河焕发新生机-中国吉林网",
-        "source": "第一新闻",
-        "pub_date": "2026年11月16日",
+        "id": 8,
+        "title": "十年护河，见证四川河湖的幸福“进化论”丨水润蜀乡",
+        "source": "四川新闻",
+        "pub_date": "2026年11月17日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JYjl4aEdTSWpUUnFmSVFHVFhaVTZVbEVBZ0JmeEpwSlhIRS1GWktiNkR2S1Jodjc4QXdyblVDYXNwZ2N2QTR0X2VRNGp0RzRNUEJTeHBBbTBDMzR1akVLcEU3VHdaZw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KU0JpZnllY0VqQWdIQ3VUT0Q2bHJ0c1hfdmJLakIxYjg4Xy1qS0RjbFY5LUo0VzRuODBwSjJOS1Yyck5qVURhclNqN1poRDd4NkdQZEJ4cXBQczE1d2IzZ1VxNA?oc=5"
+      },
+      {
+        "id": 9,
+        "title": "姜堰东台建立联合河长制共守清水绿岸",
+        "source": "泰州市人民政府",
+        "pub_date": "2026年11月17日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRnhDNlNzUEZSS1hoaUg2UlB5ZmJvMW1weUJNd1BQcEc2SVRBYkhqY3Z3VVFDNkhCeXFaR1h4UGhMVENmWEE1VVNEdXlJN1JGbTdnenNBbENyOEx4V0RlYzU1dHNfYzhYQzRIZkpUMEZkLUxCT2p2a3VKT2ltdW41SEg0c3ZMVDlIV0RCNTBUWQ?oc=5"
+      },
+      {
+        "id": 10,
+        "title": "河湖长清育新机——福建全面推行河湖长制一线见闻",
+        "source": "海峡都市报",
+        "pub_date": "2026年11月17日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JZ0RLU3JUYnJ3ZDJFXy1sMm16Ni10QlBzWmJiU0h6Nl9Hb3JDXzB1RGdOMk02TmppN1VGSTVtTzhfcTBxcFVuZFVTQW5SYTlta1JXMEQ0SGp2Y2U1bVhoTnlQRllKelU?oc=5"
+      },
+      {
+        "id": 11,
+        "title": "落实河长制 改善水环境 兴化：全域推进幸福河湖建设 绘就人水和谐新画卷",
+        "source": "泰州市人民政府",
+        "pub_date": "2026年11月17日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaDQyX0FIb2tjS2swQ1ZDLVNYZTc4ZkxxQ3V0bUlfUU5MYm5rTHVFR0pncDZmR25lWWZ4Zm40QUZyS3hyQXh4TURfc0tCLXlOZ2VtUDVYVFNfekpoNWltcVpaTHl1RkJ2a01iNUZwQzIwVEt5dVM1QkpZQ2t5ZFFpb05Nckpaa1lSd2lXbEF3bw?oc=5"
       },
       {
         "id": 12,
-        "title": "河湖长清育新机——福建全面推行河湖长制一线见闻",
+        "title": "洮儿河音河入选全国第五批美丽河湖优秀案例",
         "source": "新华网",
-        "pub_date": "2026年11月16日",
+        "pub_date": "2026年11月17日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnSko3MXA2VzFaeGFkZWN2dGlXblhLWlRWa2pxRndqeUpvY1F6WGNUbHVOVGg5aXM3ZVhPS3g0aEljb3hxUlZseUItbVlodXJRTEVUOTNJaVI0TmhuUkZ0M1YzZ3pqakQyUXFfZHduTTVPbFZ4eUVtY0J1b0Y2dmc?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbENIRGxNN0lDQ0pyVHkwclNDa2ZENG1GVEJzQ2hRTDlyTHo0YzZMbHJmcW9aT1l4dFlKQnJ5NExMVzdlOV9MRUY3R01WZ0VTT0RZS250Q0ZPWXBzWExJRmJHcEhIdnhXRGF1QUxIMEpROXI1OUlmSWxZRm13S2NVTGk3SQ?oc=5"
       },
       {
         "id": 13,
-        "title": "支持3条省级幸福河湖建设！青岛再获616万元省级资金支持",
-        "source": "青岛新闻网",
-        "pub_date": "2026年11月16日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBdlM2VF9kbFE4N1pqc1JJVDBTT0tSZHdveFVFOEF4NzB3d2czMHpxSkVfbEFhRFA4blRzeHFxaEZiUmNuWk5sZFI4WTZBbWRIa2hCdjZhZHRjWGljWmhKeTZZQW9FNkdiRjl4dWllZWYtVzk4cFVr?oc=5"
-      },
-      {
-        "id": 14,
-        "title": "陕西2河流入选生态环境部第五批美丽河湖优秀案例",
+        "title": "国家级美丽河湖，河南再添1个",
         "source": "新浪网",
-        "pub_date": "2026年11月16日",
+        "pub_date": "2026年11月17日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tZjJTREJ6WUJBcUoxVDVNZmJ1aUlOZkpHeU9PVWQ2UkdsNGxTX2JYODFoWGxCd1lOV3BRLWYxb1hrRkgyY01UNGNpTFhlLVd1NlZ6S0wzMFRBYWwzVFZBVWRUSE9IcklZRng4T01sOERjWE51RGZiRQ?oc=5"
-      },
-      {
-        "id": 15,
-        "title": "国家级认可！洮儿河（兴安盟段）、音河（呼伦贝尔市段）入选全国第五批美丽河湖优秀案例名单",
-        "source": "Sohu",
-        "pub_date": "2026年11月16日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMDAtdTQ3bUNzRVdmVWwxLUpXMlBGQmdDQ2FEY1EyTXNxZVdQTVRjWVJRZW9oSnhmaXRxYkdJZEtkdlEtdWlPVzZfMHlKdy1oZWNGX3BKTEh0NFp5N0ozejVNSE83VUZ0b1d6YW9BREtUZVJKSkY5S3dWU29BcjRycFA1cXVNazd6VUJBbw?oc=5"
-      },
-      {
-        "id": 16,
-        "title": "湖南“十五五”水土保持怎么干？这场报告给出路线图",
-        "source": "Sohu",
-        "pub_date": "2026年11月16日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWFRIT2pBVkpydUZleG9DYWh2dXdSNU5uU0ZtMkhNbmdNd2tSVFVTeTNSb0ZENmt4VW1QZS1DSXR0UVRCZzBEY2lSUlVGVFNiLUFQd0N5YTRSdldPTTlBUzV4bUpsbEFCRV9TUGxqTkZ0SjI5S05LWUwyQ1c0V0xycjBXR0F3dEQzNnhaRQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaWZfYTdTSjlRT2tHb0ZLNDVGMkxjNjlXOUtTUHliTk5fT1FiRmU4TGhsQ1NKbWpzUDAtZ0QxQ1ItUW9uVEUyaTlEZ0V2c2hpZ0d1VXF5X094MTZEWllsWjY1b0ZkY3BfcFJ5SlVLd09PSFkySFJjYU5FVWtfRXY0QU9pU1J0OElrVmQyWXNuSUpyeHRiYTlFZzZ0cDNXd0JESEluWndKZzloTlBIUUhvcGtaUXIyVnVMQ3RFODJELWdjclRLY1J4Znd5a0NHeXR1c2Z3UEpVQWhvUllTcVNz?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 17,
-        "title": "聊诚评 | 量水而行谋长远，节水探路润水城",
-        "source": "鲁网",
-        "pub_date": "2026年11月16日",
+        "id": 14,
+        "title": "一泓清水润万家 皋兰县农村饮水安全工程为乡村振兴注入源头活水",
+        "source": "每日甘肃网",
+        "pub_date": "2026年11月17日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yZ0xENVBxQ2pVeGx4azh1bFBZOVE1R000a2N2cFU5aWc2NjQwUjdYVzJxamtQSkQ1NERyTV9uTXhTdk5pbGVGZlV2eUlSR0V0Zjhoekg4MmpVLUhfZGlNRUJrcVM2SW1yeVl0TGFpaENjcXcw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tRGhudmFTZVNYdE9lQTh6UnBwNHdTY18yS09aYktUcUd6RVRfbk81cHhmX3hnN1QwVWFfZGZKN1JVck1uTGowbnFiRXB2V0F0RENKOWRaOTVwOE5TaTFVb3pVc2QzLTAtRUZmX3dXNF93ajQ?oc=5"
       },
       {
-        "id": 18,
-        "title": "将人工智能应用于水资源管理旨在提高水资源开发和保护的效率。",
-        "source": "Vietnam.vn",
-        "pub_date": "2026年11月16日",
+        "id": 15,
+        "title": "基于水-能-碳协同治理的河网区水资源多目标优化配置研究",
+        "source": "生物通",
+        "pub_date": "2026年11月17日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaktkeXJrS1R5TUUweWt4UDNNRmJTaTZVZlR1UDNOUm53YVNvWnRUUkxjeHMwOFpOdUliTXlkRV9qcUE3bnkwV3ZvZUIxYUdXaXNmVnBza3hJTzNFeHpqWmNxZ2dOQm05M3ZRbGlORDljWTZVeUNTNzcxQ2NuRFhKVlRTLUU4R2Uzdnp6U3JUSFExUEpMMUc4MmtUbk5jZmo3U0Z2ck5GZ0xUT2FBQWdMaUZCdmxibnYyYjEtcGMzVlhncVVxMmxNb3BRTQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52bG85VlBqeXdQTWZobEJTNzNGdGEyT3pqdnVHaFFrQUhKeXRRdlNHZWNja2ViMUlXRDZsQ2dsYzJZRTZ0ZDJjVkI3cTdscHpjVS1ZY0xJNzJ6XzBwRjIwRWRZaU1BZVQ3UTJfakN3?oc=5"
+      },
+      {
+        "id": 16,
+        "title": "奔流60余载，东深供水见证粤港携手同行",
+        "source": "Sohu",
+        "pub_date": "2026年11月17日",
+        "content": "",
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVQxR2RZSlY4N2lsbzJMLTFWb0RMSThLUEVjSE1BT0xPUGc5WGhZbXpWR1FMd0xIaDhfR3gzUGswZ3lSUHZ3NjhXMWpidnRwMFZiaEpSYXEyMkYtUjhjVnJZUy1maGpzTWhiMzlWSjUzWUN0Z3B6aUs0Ty05eTdRblJUWGVKaEpa?oc=5"
+      },
+      {
+        "id": 17,
+        "title": "以练备战筑牢供水“生命线”西安市举行城市供水应急演练",
+        "source": "Sohu",
+        "pub_date": "2026年11月17日",
+        "content": "",
+        "impact": "有利于推进节水型社会建设，保障供水安全。",
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGN0TVQ3czZsNVVhX0w5dXE1YkY4bDV6QUxuUnZ2c1F3cWZ4ZGVJLUZSeXhpdVZvUDh1cFRxSFAzc2JoYlZLNW4xeFVVMEJKam5RNFo5dGNSS1dNNHJZb1ZFYy1sNU14dm5kUWFVdF9ZYnNJVEdZWjhvZWZ1XzhZaFB4S2tUTHY5?oc=5"
       }
     ]
   }
