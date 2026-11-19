@@ -1,13 +1,42 @@
 {
-  "date": "2026年11月19日",
-  "news_date": "2026年11月18日",
-  "update_time": "2026-11-19 00:00",
-  "total_news": 15,
+  "date": "2026年11月20日",
+  "news_date": "2026年11月19日",
+  "update_time": "2026-11-20 00:00",
+  "total_news": 16,
   "category_count": 6,
   "news": {
-    "防汛抗旱": [
+    "水利工程": [
       {
         "id": 1,
+        "title": "极端强降雨下如何守住水库安全底线？水利部答海报新闻",
+        "source": "海报新闻",
+        "pub_date": "2026年11月19日",
+        "content": "",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5Q0N6MF9UZlByU2hGUXAxU0FqSnVmUWtDUjRNOEhHemZ3MWRzOC11alBNejFxaEFIVTFtM1B2NlJZbV9MOEd6bHFxLXFWblYx?oc=5"
+      },
+      {
+        "id": 2,
+        "title": "水利部推进“三大坝”建设：16座水库开展试点，2027年底前完成_社会新闻",
+        "source": "大众网",
+        "pub_date": "2026年11月19日",
+        "content": "",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jV1dsQ1dHLXZHYkMweXNaVnhlZDBmUmtvNHBoSjdsZk9tWW1mMGdHMVRsN2wwcmZ4TXRUazkxQkE4c0JGcUZhUHAweWR0cG9WYmpJTjBDSHJOa0ZYNkVQSHJGdVAxa0UzNDRDbFdZNGFYM0FqX1NNblppNA?oc=5"
+      },
+      {
+        "id": 3,
+        "title": "水利部介绍安全大坝、生态大坝、智能大坝建设情况",
+        "source": "京报网",
+        "pub_date": "2026年11月19日",
+        "content": "",
+        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+        "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2cnJzOVNmYzNJZ2FmV1BlQW9EaVBpcW5nNTJBVE5kaEFDenBqVkdsbUVrX2JtZzIzVVJYNVJUQzhab3NzQ2I4OGFZY0hWMHZjelQ0ak5TVloxNkhNUHc?oc=5"
+      }
+    ],
+    "防汛抗旱": [
+      {
+        "id": 4,
         "title": "福建松溪：补齐中小河流防洪短板 织密全域防汛安全网",
         "source": "光明网",
         "pub_date": "2026年11月18日",
@@ -18,138 +47,118 @@
     ],
     "综合要闻": [
       {
-        "id": 2,
-        "title": "杨锋履新水利部总工程师",
-        "source": "Sohu",
-        "pub_date": "2026年11月18日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDNRMVB5aHZ5Mmo0eUUzTktYU2ZRT1dzYk0yTl9aaGVHby1CeVJZbmd4NFdTX0hfSWtMQzRmNy1jNkd4RlM4blBnOFJWTEo4ZWRvdU1pM3FTNlUwS2h3Qkk1dVpTVVJuYUNjNFA3dS1BSEoyaGwxLUg1bWxGTFVvY1lPY3Jmc0E4VGd6Uw?oc=5"
-      },
-      {
-        "id": 3,
-        "title": "浏阳株树桥水利水电公司获20年发电类电力业务许可证，水电运营资质落地",
-        "source": "新浪财经_金融信息服务商",
-        "pub_date": "2026年11月18日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tbE5tR1NGMU1CdFA4dHN6UUdrUEJTbzh3Z1RpSm1NT0hnbm1JNlNTelkyTXJFb2lrRWY3RUloUjg2MFlNOHRNemFWeHl1bWtYWEI4dHNVSkE5Q0pRVllIcUZOU2RTYVgzZHZSbHFPUm1YSXU3Z0g0Qw?oc=5"
-      },
-      {
-        "id": 4,
-        "title": "湖北水利水电职业技术学院荣获“2026年度最具网络影响力高职院校”",
-        "source": "中国教育在线",
-        "pub_date": "2026年11月18日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzSjVveVdOVVQ1M3lXN2EzUkVvNTJjWGV0dk5abmxpSWktZ3l0a215UkJJaHItZzJfeFRCdDItN2VZdXhUb3hzX0ZiTnN1b0RyeUsyS0JVcEhCUElaMmhHZmN3RXFBOXlE?oc=5"
-      },
-      {
         "id": 5,
-        "title": "银华绍兴原水水利REIT (180701): 关于银华基金管理股份有限公司旗下部分基金新增流动性服务商",
-        "source": "中财网",
-        "pub_date": "2026年11月18日",
+        "title": "2026年度市水利局党组党建工作总结（党建引领水利事业高质量发展）",
+        "source": "https://www.biganzigongwen.com/",
+        "pub_date": "2026年11月19日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EUDl0VkFHdV91Mk53aVpIc000SmdyV0k5TGlJaXpHcldZbHlLWUI2cW4xQVpIdGEyOGF5N3I4STFWWXRqcmt6ckJocjZjbGlyclFIOTdR?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ObFdzN2FTZjd1QWpSUlR6bTUxSjd2YTZUbWVDZ2x5V1kxOE03dVlWV1VVVTNEN1pDdjVpV3RiVXkwN1NkdFo3VXdldkJ5SzVDZzJVVmJYSUxheTR1UEdr?oc=5"
       },
       {
         "id": 6,
-        "title": "学术交流+联合培训 川渝携手推动水利战略合作框架协议落地见效",
-        "source": "华龙网",
-        "pub_date": "2026年11月18日",
+        "title": "重庆市水利科学研究院在重庆交通大学揭牌",
+        "source": "央广网",
+        "pub_date": "2026年11月19日",
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQkpDMDdrdUVHUThPZUNTQkI4Yzk1WVRBVW1yRlNETGFsNERvVk1DdXhCR3RVbGVnYTFKekFoU1dqRU9iWXc1eGJGYWNRSFBNU09lUFhrbW9EVGpaVnhLUmwybXpuSzBjdWVN?oc=5"
-      }
-    ],
-    "水利工程": [
+        "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03OXdZaVNoMjVDc29pY1JWVHZ1VjdrbWhGZExSc0JrRTc5V1d0TlhIbkFJSTNTaVRkUGxqRHEybUVCRmpEcDhsM2pnOUJ1NXRTXzk0UTVUUjVQekJ4b3RjelBHdk84ZE9xQ2FicXBSNklTOWt1?oc=5"
+      },
       {
         "id": 7,
-        "title": "抢抓黄金施工期 永春县重点水利项目建设加快推进",
-        "source": "闽南网",
-        "pub_date": "2026年11月18日",
+        "title": "沧州这一水利枢纽工程管理范围和保护范围划定！",
+        "source": "Sohu",
+        "pub_date": "2026年11月19日",
         "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KcDhVeVJucVVHMmJDS1o3TEFFTWdxdzY0ZEF3QWNpQ1NHWmMtR2tOM1ZwWGdPd0R2czZoeXdDQ0pVVS1Mdk5DNlh4RllXYzhrZllxS1YxMm0?oc=5"
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSkVIdXFXWWF6aDFBV1p0RWh3V2JRZ0ZNbHpVdW1xQkdyWEFmRndSUlFkMWM2eGc3N201OXl2Z1FxQVBhLU9WR1ZXYk1QemxNd3NJTXBwcGZTa0lvRGJTNGxia0tXWnZ6ZFdIWWJ0WUdKQm0zRUx0S3kxeklxQ1UxbDVMdE8yOHRPSGxUTQ?oc=5"
       },
       {
         "id": 8,
-        "title": "不新建大坝，越南水电扩容走出资源高效利用新路径",
-        "source": "见道网",
-        "pub_date": "2026年11月18日",
+        "title": "水院举办“水润初心 经验领航”主题交流会暨水利261班开放班会",
+        "source": "中国农业大学新闻网",
+        "pub_date": "2026年11月19日",
         "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OX05tb3pUbThYRzU4Q0p2V1Q2TFpFdHprOTNkZ195TkNmTUs5M3c0M05tTV81N2tsdHRIZHctaGxUQmpNVkYzT2pLMVpHNWItOG54eQ?oc=5"
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05bENrZE9nTGR1LUZVemhaU3dCYXBPRzlqNlMyTEd2T19TN3FVWF84Q1BmRVpjcWYteHdIYjhZSk45MDZXSHRNaGRFLU55RE13LWZGVE91OUs4cGJJNzJyT1NGc2NNWGxHWDlYSmlRc1NsZjQ?oc=5"
       },
       {
         "id": 9,
-        "title": "从蓄水到共生：流溪河上的水利实践——流溪河水利设施高质量发展观察",
-        "source": "Sohu",
-        "pub_date": "2026年11月18日",
+        "title": "水利部专题研究部署超强厄尔尼诺事件风险防范应对工作",
+        "source": "证券之星",
+        "pub_date": "2026年11月19日",
         "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQTRPRjBfOG8xRVRJc3NUTUp1UVFhSkt6RmNnY0dSbl9aLW52UTV3S3dseVVTR0t0azRZUG85eTNxN19McWlpcGxadElyRjYtVERaMHJCT0ZtYWtYbHZVQzJkSkkyWlBVbnRzYkhyX3gxNTU1SkhhczlRRFBFbE1SRHZGUkMtZkZ6?oc=5"
-      }
-    ],
-    "水生态环境": [
-      {
-        "id": 10,
-        "title": "碧水悠悠幸福长——港城水利的民生视角系列报道之二 蔷薇河：滋养港城的母亲河",
-        "source": "紫牛新闻",
-        "pub_date": "2026年11月18日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56WUgxdlNGSXRkVnR5Y2Fwc0dlT09FQnlOR0Ftb0RXSlhidGVBTnBEdGJWeWZGMzFsb3E2aUgzYzlmSW9EZGVYYktzTXRER3ktaEt5UVl3OG8yc3g3Z0VhdWxKRjYyNzRoQnIyZUkwRQ?oc=5"
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16OHdrdXp3ZzJ2LWxtb1g0VlAzT054eDlNdjFSbEpIdXREOG5RdzJvOEktYUJvYWdwUGt1RGMtdGMyTC1PMVE0QnVubVBXUEw3dER0ZHQtNUVUNEpRLXFaOQ?oc=5"
       },
       {
-        "id": 11,
-        "title": "甘肃首个一体化水土保持项目获批实施",
-        "source": "Sohu",
-        "pub_date": "2026年11月18日",
+        "id": 10,
+        "title": "水利部定点帮扶万州 绘就乡村振兴新画卷",
+        "source": "央广网",
+        "pub_date": "2026年11月19日",
         "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORURIdXdremZVYjVwOFc4ZjNhTE5aVEh1OGJmNngtZWhGTzA3LXliNEZNdnFybmtydVdHTHpnSUd0WUMzcWp2LXpwazVISHRJTWtrY1NLa1RhakhhSS1oTVZQX2owQldvTGpPNE9LNkl4SG05cmw1NnBlLXhoclJaY09uQVVKcy1FRXNJSg?oc=5"
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54YndZVW4zOUNGRkF1NXl0MnNpRElIZ1VqZ2otUmJ0Z3djTHJpWDFiZTM3ZFdSbHdPaldIb2xjWFlnTnNncDJfbGE1ekptb29MMU9ZeDJqUmRrMHloYnVpRVBzM2I0QQ?oc=5"
       }
     ],
     "政策法规": [
       {
-        "id": 12,
-        "title": "“八横六纵、四域贯通”，未来五年河南这样“织”水网",
-        "source": "手机新浪网",
-        "pub_date": "2026年11月18日",
+        "id": 11,
+        "title": "重庆市水利科学研究院揭牌 服务现代化水网建设等多个领域",
+        "source": "华龙网",
+        "pub_date": "2026年11月19日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb1FJcVVDa3UxZ1dXMDBQcERlWmlrQVFYU3ZqVUNZSzB4VHk2ZjFhYjVtdXluZjRoYXk3YjJWSGxGTHl5ckRqUXpZOVk4MjMxNzFHRWNIRTJMNVFWRlA2c2pYU3FFRGhEakhtd2xqcHpFOFdPa05uSzQyeHlDUW5IeHVIeVNWVElqTFRXWVlwWXJLMmpyd3hTakVPUE5nck5kUjBjc0NRSllrRm04M3lvdVJOM0RUY1hyTEdvSTBPakVudU9ORmhJNDA0V0FEaE1uU2pVRzdlajVVNXBTUjFv?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FQUIxQ0JPVktYbzliQ2xER045ZERweXlDMXltQ3pCZTdfTzNnVUNzOHZrZUlaV3Z2MU9DUWJ3LTBfWVhGV25kczl2LUFFWGRRc0c3R3JOand4NEFtVGNpNVVCdThMZ3ZzVjFj?oc=5"
       },
       {
-        "id": 13,
-        "title": "机制聚合力攻坚见实效——福州入选国家市级水网先导区建设观察- 中国日报网",
-        "source": "China Daily",
-        "pub_date": "2026年11月17日",
+        "id": 12,
+        "title": "十部门联合发文进一步推动企业加强安全生产费用管理",
+        "source": "中国能源新闻网",
+        "pub_date": "2026年11月19日",
         "content": "",
         "impact": "将进一步规范水利管理秩序，推动依法治水。",
-        "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HT1E0SmFUYWY1MW5NNzRKNElRZE1kVnROYkpkMFNIMjZleEhsSHhZXzRoMVZQcGltTEdIWXcxS2VRemJfdXo3bV9uNGlVTTA5NlVZU3RPT3hidkZMOVlycV9BX2NycGMwOFBPUGJsZ2s5MnZJcl9ZWHdUdUw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EclVCNGNZS3NwNGJWNFdHTTc2WWRvY3FVYXFOWXhYMnNyVFF3TklRejBDblZFY2Q4bVlZMXFTOHR5YXRVYUFscmdYWkZNUkU3ZWJ1SUluZlZpNHE4N012NGV3cnU1d0h5WXZPLXhn?oc=5"
+      }
+    ],
+    "水生态环境": [
+      {
+        "id": 13,
+        "title": "云南河湖长制十年成效显著 出省出境水质连续5年100%优良",
+        "source": "昆明信息港",
+        "pub_date": "2026年11月19日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrUERyMmhNd3Y0cklyalRqLXFnekFGaE9lZ2ZOdnhkQVdXTzlDTURGN25VR0s0N2R3Wm1RZ1Iwa3g5dmNjMHBYQ1ltek4wVGlDVWprSjNoNUE0NE5xaWtJMy12UjNfUQ?oc=5"
+      },
+      {
+        "id": 14,
+        "title": "山西未来五年持续推动河湖泉域长治久清",
+        "source": "Sohu",
+        "pub_date": "2026年11月19日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUZ0M0pfamJZcnFGaDV5MlJ1ZWIxdnhhY1h1dmFhX20xc2t6YmZ6QXNyQ3pMd0NoQ3dfcm5WcVdVMlBGbjJoQWpIaUZVWXFHNlFPbjFxQ3A5d2RNMDBqVGs0SEdsVnR3QUhmOEh3Z0ZHQ18tUFRWSDU2ZW4zR0J1djhsaHRGRFM4TG5jVg?oc=5"
+      },
+      {
+        "id": 15,
+        "title": "关于《房山区集中式水源地饮用水水源保护区和分散式水源地饮用水水源保护范围表（征求意见稿）》公开征集意见的公告",
+        "source": "北京市人民政府门户网站",
+        "pub_date": "2026年11月19日",
+        "content": "",
+        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+        "full_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONjZTVndmVDloR1ZEcm5xTWNINnBLVVlLVUlSYlpPWTV5TUVnZzNnczJIVDRDVTU5ZWpvdE1TSGdEWkdlUlh3TklsQV9jbm9jR1ZaZWtLUzhQMGxabnlaZEc5aUhlVWt2SHF6QWx2Rkk1LXp2YjZLNVNZREE1NmJ4VHJQclA?oc=5"
       }
     ],
     "水资源管理": [
       {
-        "id": 14,
-        "title": "【两会声音】谢臻：抓实节水集约利用 夯实水利保障基础(图)",
-        "source": "天水在线",
-        "pub_date": "2026年11月18日",
+        "id": 16,
+        "title": "上海：把海水淡化写进供水“保险单”",
+        "source": "金融界",
+        "pub_date": "2026年11月19日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00WGxWS0ZTMEtfUkhVZGFYdk5wRGVoenNBaDhQUl8zXzNiUHNhQ0Frc3gzMlkybkNFcVJ4Q1ppWmRFS0JlclVJT0lncVdiOWdEaGdkcmNibXB2TldzRjJlOEZMTXRacXl1OGc?oc=5"
-      },
-      {
-        "id": 15,
-        "title": "一泓清水润万家 皋兰县农村饮水安全工程为乡村振兴注入源头活水",
-        "source": "每日甘肃网",
-        "pub_date": "2026年11月17日",
-        "content": "",
-        "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tRGhudmFTZVNYdE9lQTh6UnBwNHdTY18yS09aYktUcUd6RVRfbk81cHhmX3hnN1QwVWFfZGZKN1JVck1uTGowbnFiRXB2V0F0RENKOWRaOTVwOE5TaTFVb3pVc2QzLTAtRUZmX3dXNF93ajQ?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TQkFRc1hla2ZEQk8xMXlLYzd0QlBpQkdCR0RNMExySmFzaWswSlZ0czBFSGtzVUNDOVpUekJmeTN3LVVLQ2kxcF9ZMm1VUWJ2XzdwazlLVU9DLWpDMzh0MVlST1V3Zw?oc=5"
       }
     ]
   }
