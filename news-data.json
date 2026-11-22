@@ -1,31 +1,31 @@
 {
-  "date": "2026年11月22日",
-  "news_date": "2026年11月21日",
-  "update_time": "2026-11-22 00:00",
-  "total_news": 11,
+  "date": "2026年11月23日",
+  "news_date": "2026年11月22日",
+  "update_time": "2026-11-23 00:00",
+  "total_news": 8,
   "category_count": 5,
   "news": {
     "水利工程": [
       {
         "id": 1,
-        "title": "叶尔羌河大型灌区续建配套与现代化改造项目在新疆喀什开工- 中国日报网",
-        "source": "China Daily",
-        "pub_date": "2026年11月21日",
+        "title": "水利部：推进“三个大坝”建设！",
+        "source": "Sohu",
+        "pub_date": "2026年11月22日",
         "content": "",
         "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MFJEVHBWMzZ6LVZDQjRiTmsyTVBUWW9WWG9mZzZETjZkcGZ4S2ZPNkZFWkdQSlNKekMyakpNQk9qbVc0U3FXNGRXdHVUQ3lUSjBRVjZqZ21jc3Y4VEFHZGozRnNhaTA3MFdKc3VIY1BOUERFSTZwcHVTZm4?oc=5"
-      },
-      {
-        "id": 2,
-        "title": "水利部推进安全大坝、生态大坝、智能大坝建设",
-        "source": "人民日报",
-        "pub_date": "2026年11月20日",
-        "content": "",
-        "impact": "将有效提升区域水资源调配与防洪排涝能力。",
-        "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9udXJVMDBET3hyd1djd2R0MTVWQWJmNTQtT19jNG0xdWNMTXlsaHNxMVcyLVAzakp6M0xoOUV0endMM1lhX3VSSl9hMEVUTWNxNzE4THdObDRsbUFmeXdkd3JVd19uQ3B0by00Ml96ekhjVndCdkF3TUZJUDVDLU0?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTDNRWlJFdjBBUDZHcWgyZ0FpbTZxWDB2aTRrbUJ6aWFlVEUtdjFMbjdVN2JpTUpGTGh0QmZTZEtOQ1VfeVNQMS1RT3JucUtKSGhjQ1hxY0ZBYTZlaE9NVXJnZE1yTGxSNkJNODBqZlZNUnVSeHNTSEN5U2F6VkNhN3ZvOXhvMEZfcGU1WA?oc=5"
       }
     ],
     "综合要闻": [
+      {
+        "id": 2,
+        "title": "碧水悠悠幸福长——港城水利的民生视角系列报道之四 大浦河：守护港城安澜的排水通道",
+        "source": "紫牛新闻",
+        "pub_date": "2026年11月22日",
+        "content": "",
+        "impact": "对水利行业发展具有积极推动作用。",
+        "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHU19fdUk2dUdpNmtudEZEMjhYVWxGenRYSkdGcTMtY0NMbGgtZjlCUU9XNzZFSzBGbzZhakluN0ZwMThMS19JYkJnamM0RXd2Nk5oUzIwUHVsS1J3d3U0b0h5VVlwTXo4ZW5qWmVnRQ?oc=5"
+      },
       {
         "id": 3,
         "title": "青海海西州德令哈市发生5.6级地震，水利部迅即启动水利抗震救灾调度指挥机制",
@@ -34,29 +34,11 @@
         "content": "",
         "impact": "对水利行业发展具有积极推动作用。",
         "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OS2tteWdtY1BvelpaU2hfOGRGU05QY2JZMlV6RWxfN3BmMWdZWVI5bjJBXzNXMU05cEE0YjVWSHJZZXd0UHpVZndlbmtZNG5DVXl6LXBzSUlWSDRxUVE?oc=5"
-      },
-      {
-        "id": 4,
-        "title": "共话传统治水智慧传承中国世界灌溉工程遗产保护利用工作研讨交流会召开- 要闻",
-        "source": "东南网",
-        "pub_date": "2026年11月21日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00V3hIZkV5RjlIaHdqYW9yZXdkazNyY3NGejJFV0tveXYzQURXbmY2VVQ1ZE1Sa21INzBHejJnT1ROU1d1T0RwQWtyLTE2Uy1fWmdrR1drZ05rWF9JWXp0WUIydWw?oc=5"
-      },
-      {
-        "id": 5,
-        "title": "部分检测报告原始图谱造假 中国水利水电第四工程局被罚15万元",
-        "source": "信网",
-        "pub_date": "2026年11月21日",
-        "content": "",
-        "impact": "对水利行业发展具有积极推动作用。",
-        "full_link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVajhlY1VCMTAzZ0RkYzhkTVRxN3Y4OW1FdkRDbVcyVHdjUmpoeVZUZ25idWdjSW9velJUNV9yLTJpSlpzZG5EcE5KREM?oc=5"
       }
     ],
     "政策法规": [
       {
-        "id": 6,
+        "id": 4,
         "title": "织密水网、精耕良田，江苏筑牢粮食安全压舱石！",
         "source": "Sohu",
         "pub_date": "2026年11月21日",
@@ -67,25 +49,16 @@
     ],
     "水生态环境": [
       {
-        "id": 7,
-        "title": "大河新生·网媒看中国｜浙江河湖长制十年：从“没人管”到“全民共护”_社会新闻",
-        "source": "大众网",
-        "pub_date": "2026年11月21日",
+        "id": 5,
+        "title": "河湖安澜泽民生——汝城县全面推进幸福河湖建设",
+        "source": "新湖南",
+        "pub_date": "2026年11月22日",
         "content": "",
         "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SenJtUVpIY044VUU5Ty1QeklDajB0WXNILTlRdDRFM2twcjNjc0Q1Zk8zUzBSU3kzdU1QNVVZeDVVcGVORHJDSzlHWWhLNWFDUnI3NnVUMGRSTWpyM1ViMFZuOUlHcWxOTHQ3N3JCNVE3MWlTUkJhaWUwcw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5McW90ZFFKNFVwTldaMkhGbUFaT3dNYjhpLVB1d2QwUHdyWXVWd1JVdWZmMGptX0tCVEE0YWhsT1A2S2FhYU9yd0Q0LS1iYXhjX3VBX3lrTi0wTHBBX0RV?oc=5"
       },
       {
-        "id": 8,
-        "title": "大河新生·网媒看中国｜广东河湖长制十年：一条河与一群人的双向奔赴",
-        "source": "Sohu",
-        "pub_date": "2026年11月21日",
-        "content": "",
-        "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemJheGlYOTBoMWM1X2dnbTdKVDhzdi1SRDU2cHppNTZvNy1HeTRuQjFTb0VRdlVDb2Zia0Q2M1ZoU3NBcWpDLVJZWXRmTTg3a2ZGMjVaNkRnMTQ4emdiT3dfRWtuRnJzWEtTc2JpRGVJMDByZk1XNDRwcFdCSVNXcVI1S1QzRDd6Q3Nwdw?oc=5"
-      },
-      {
-        "id": 9,
+        "id": 6,
         "title": "石楼县扎实开展小流域综合治理 让荒坡沟壑变梯田坝地",
         "source": "Sohu",
         "pub_date": "2026年11月21日",
@@ -96,22 +69,22 @@
     ],
     "水资源管理": [
       {
-        "id": 10,
-        "title": "以训践学强技能 实战盲演筑牢安全防线——巍山县水利城乡供水一体化（一期）工程开展消防月活动",
-        "source": "Sohu",
-        "pub_date": "2026年11月21日",
+        "id": 7,
+        "title": "湘潭市水利局开展农村饮水安全专题培训",
+        "source": "新湖南",
+        "pub_date": "2026年11月22日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTFh1WFdtUzVTa3NrZUJ6bHlXNFcyQV9EQWNyaTZpckRoMUgzQkZhZ2hMWU5MSjV3OHA5ZTFzM3MxV0NxMHFRQnJpbWpfMXRqVl9SY1U1SmlEaUNKMGU3ZVhkcVRIRDhicmVJdUgtYWdxYVFzWGFFY19Cc2JITW52ejdmdEhCdEF4bERqXw?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mY0NpWkpDeDVxWndQcGpTRWhQQWlFUGdwMFJJSlpQUThlUmRzS0otOHNYQzY2R09TQ2dSNzFtU0JHcmszM0hnZ1VDc3VEUkpwWUdodERiYUhrUFpoNl82Nll3cWxXQQ?oc=5"
       },
       {
-        "id": 11,
-        "title": "研讨现代化水网建设 第三届国家水网及南水北调高质量发展论坛举行",
+        "id": 8,
+        "title": "北京自来水为什么变“软”了？答案来自南水北调",
         "source": "Sohu",
-        "pub_date": "2026年11月21日",
+        "pub_date": "2026年11月22日",
         "content": "",
         "impact": "有利于推进节水型社会建设，保障供水安全。",
-        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZUJLMFhpTUQtQ1RxNkhkVmlKb1R4S3JaZDJFem03c1praG5pZnN6RW12VVhQUERWek9Cb1ktaUNaR3MyY003NU0xdmFmREU5cTh4LVdqQ1VPZ0Q0bEVJTGN3b1dETVVtRGVxWkZKdEE0ai1TeFV4X0gxdm5TWnpRN01URzlfVXVh?oc=5"
+        "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGo1amt2S0swUThDaUx5Ylp4S1VyR0UxNS1CUHpTdVNremE4U3dLV29SVHJOLUxwdlprVEprd1BHRnpkSG9vYlhLam9RVzhCbVcyNjVHRENQZTQzejlWNV81V1NuTUhHcEVDcGNKRjU5YWJuZk5vOHVCcjZOVGR5WlB0ajN3RE5x?oc=5"
       }
     ]
   }
