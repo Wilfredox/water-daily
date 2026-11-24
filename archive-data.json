@@ -1,5 +1,96 @@
 [
   {
+    "date": "2026年11月23日",
+    "news_date": "2026年11月22日",
+    "update_time": "2026-11-23 00:00",
+    "total_news": 8,
+    "category_count": 5,
+    "news": {
+      "水利工程": [
+        {
+          "id": 1,
+          "title": "水利部：推进“三个大坝”建设！",
+          "source": "Sohu",
+          "pub_date": "2026年11月22日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTDNRWlJFdjBBUDZHcWgyZ0FpbTZxWDB2aTRrbUJ6aWFlVEUtdjFMbjdVN2JpTUpGTGh0QmZTZEtOQ1VfeVNQMS1RT3JucUtKSGhjQ1hxY0ZBYTZlaE9NVXJnZE1yTGxSNkJNODBqZlZNUnVSeHNTSEN5U2F6VkNhN3ZvOXhvMEZfcGU1WA?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 2,
+          "title": "碧水悠悠幸福长——港城水利的民生视角系列报道之四 大浦河：守护港城安澜的排水通道",
+          "source": "紫牛新闻",
+          "pub_date": "2026年11月22日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHU19fdUk2dUdpNmtudEZEMjhYVWxGenRYSkdGcTMtY0NMbGgtZjlCUU9XNzZFSzBGbzZhakluN0ZwMThMS19JYkJnamM0RXd2Nk5oUzIwUHVsS1J3d3U0b0h5VVlwTXo4ZW5qWmVnRQ?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "青海海西州德令哈市发生5.6级地震，水利部迅即启动水利抗震救灾调度指挥机制",
+          "source": "京报网",
+          "pub_date": "2026年11月21日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OS2tteWdtY1BvelpaU2hfOGRGU05QY2JZMlV6RWxfN3BmMWdZWVI5bjJBXzNXMU05cEE0YjVWSHJZZXd0UHpVZndlbmtZNG5DVXl6LXBzSUlWSDRxUVE?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 4,
+          "title": "织密水网、精耕良田，江苏筑牢粮食安全压舱石！",
+          "source": "Sohu",
+          "pub_date": "2026年11月21日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU043eGk5TVFaNTdVOVZPVHhwNkxheG5GZnVRTFphZEkyVnJSMWItVnNHVXRfcjVaNDdtUGZZNmNIQm1mN0M4OGV6enF0N0R5MXRlbkRDZmxqRThDbU5wR2ZyS0lLSHlQQ2x3UDZ5MDRzRWdmb1F2YTNERkFHMTFNT242ckVKS2dKRGRtcg?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 5,
+          "title": "河湖安澜泽民生——汝城县全面推进幸福河湖建设",
+          "source": "新湖南",
+          "pub_date": "2026年11月22日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5McW90ZFFKNFVwTldaMkhGbUFaT3dNYjhpLVB1d2QwUHdyWXVWd1JVdWZmMGptX0tCVEE0YWhsT1A2S2FhYU9yd0Q0LS1iYXhjX3VBX3lrTi0wTHBBX0RV?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "石楼县扎实开展小流域综合治理 让荒坡沟壑变梯田坝地",
+          "source": "Sohu",
+          "pub_date": "2026年11月21日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRTBtYzZTX2FfLURVZS1HTzVtbnNYWmxCYVNXYnVqeFZ6VU93RTRZaDYyVmNYWTBsX3RDdjlNWk5JUTE2LXFub1lXYndqU1MtRVNGS1l6MmxqTVFsSlJMOGh6ZFpGTFNScU90VnJ0SnVpSkNScTVHWWZHS0tzQm54dHNyM205MVRC?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 7,
+          "title": "湘潭市水利局开展农村饮水安全专题培训",
+          "source": "新湖南",
+          "pub_date": "2026年11月22日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mY0NpWkpDeDVxWndQcGpTRWhQQWlFUGdwMFJJSlpQUThlUmRzS0otOHNYQzY2R09TQ2dSNzFtU0JHcmszM0hnZ1VDc3VEUkpwWUdodERiYUhrUFpoNl82Nll3cWxXQQ?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "北京自来水为什么变“软”了？答案来自南水北调",
+          "source": "Sohu",
+          "pub_date": "2026年11月22日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGo1amt2S0swUThDaUx5Ylp4S1VyR0UxNS1CUHpTdVNremE4U3dLV29SVHJOLUxwdlprVEprd1BHRnpkSG9vYlhLam9RVzhCbVcyNjVHRENQZTQzejlWNV81V1NuTUhHcEVDcGNKRjU5YWJuZk5vOHVCcjZOVGR5WlB0ajN3RE5x?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年11月22日",
     "news_date": "2026年11月21日",
     "update_time": "2026-11-22 00:00",
