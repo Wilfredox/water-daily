@@ -1,5 +1,177 @@
 [
   {
+    "date": "2026年11月24日",
+    "news_date": "2026年11月23日",
+    "update_time": "2026-11-24 00:00",
+    "total_news": 17,
+    "category_count": 5,
+    "news": {
+      "水利工程": [
+        {
+          "id": 1,
+          "title": "92亿元重大水利工程在泽普开工，惠及流域数百万群众",
+          "source": "中新网·新疆",
+          "pub_date": "2026年11月23日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOejBmYTlxMXNDSVd1NE1WeURnbEhHRk4zNUlOeF9MQUF1SGN4YkFNN01fTjNORW1kdTZSOTBvOHhWSWVsTkt5SFBaLTR3YjB3MEtrNzZ1Z1BVNmVWbFZMc0NTUVFZUHlNVVNpQjhGSHFuczJLa05UYTJRMW5tVnpPT1dycw?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "投资92亿！国家“两重”水利工程开工！",
+          "source": "中新网·新疆",
+          "pub_date": "2026年11月23日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMXBUVjc0MkZrRm8ydkxpZnNYbkdWclFwUXVxUnBKQmtQQW5sVHBzY01BcnNtR0g4VjdjMlhEcjh5azgwX1l1U2M5MEpzd2lIYmFCSmx1dzZkaUx6STF4cE9qaFQ0RnlFVVlYMk5FNG51WEdQSi1rYmVkWE1XQnJqdjI3cw?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "应对干旱，英国修建30多年来首座大型水库",
+          "source": "京报网",
+          "pub_date": "2026年11月23日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RdFdjVjgzN3I4TjcweE0yM1hQOHdtc1JuRF9GbXZ1cmZNQldMTHEzMVNfdVVZdmw1VkhxeGFRbWNYVlZUZnpaLU4xT05GRTN1SWpKMXhxMHlTbVI0Q2c?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "让水库大坝更好赋能水利高质量发展",
+          "source": "新浪财经",
+          "pub_date": "2026年11月23日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFVV90WnhyTkxkZ3JIUGctV0NjeDVoWWVrTzhCcVE3Z1F3LWlYY296UTNxRXBEclFBSW9Lcnc1Z19wSWpaaXhISlhadnkzd01sSkdUQndwNXcwSjJ5UzNSVGxZTFNrRmdjd1hCWGExNEdIQnhsam5maw?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "谢卫江主持召开省政府第107次常务会议研究部署冬春农田水利和高标准农田建设、国有林场改革、残疾人保障和发展、食品安全等工作",
+          "source": "新湖南",
+          "pub_date": "2026年11月23日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Tc056ZkZ1eFdkV3BOYW9SMGx2T0I3aER6MmRtUGJoMGNRTjI0bG9TLWZVNHVDdG16QmRpSG9EckRTUk1LLWFCcGdpS1d3Z1VBUGlmaXBfZVZDVzAxdkRn?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "东盐河－排淡河国家级幸福河湖建设项目全面开工",
+          "source": "新华网江苏频道",
+          "pub_date": "2026年11月23日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWV1ZXNTJYVGxtUXRlaXlJVUd1NlRuZmh1UUdnQXFUT01yZGhQMDd6LTAzU0M3Y3VCaEp2Q3YwckdGVTFublFmbEM2U3lhQXVzUjBmZ2pyWHF2ak9mcU5RZXU0WmhjSk9JMUh5OXloLXY5bUdH?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 7,
+          "title": "欢迎访问中国水利网站“江苏专区”",
+          "source": "中国水利",
+          "pub_date": "2026年11月23日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VWGhJUzBRWFRueEZpajB2LVNpcFFjT0ttaW9yekNmY3EyQl8tZzV0bkJJRUx6VDZQcTY0NkxxVEpsTE83cjdycHF2MDdyZVlDRGJPYlFXUkxxaEpMcEtidDcxVmVWRUo1SFU0NFZBaENNRXBUWTkyUnEyVQ?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "中国水利水电第四工程局有限公司被浙江能源监管办罚款15万元",
+          "source": "半岛网",
+          "pub_date": "2026年11月23日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rTUZGZW12UFNVOGxqVE9Mb05pNXRvT3J5WjJLcFJuR2hQN2d3OUhkT0NHaHJxb3hvd0drYk1YZFY3VW10ZUt0MGJlQTEyYVNyRTgxQU8tRzRVUVhn?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "【水建学院】西安市水务局来院洽谈合作",
+          "source": "西北农林科技大学",
+          "pub_date": "2026年11月23日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VbEtlLTlCNmEtbUQ5ZXpvd0dkRlpWTGJ1aWdYaGlZR0RpTlo4QVZ3MjhhMVNleEtlMzc0Wks3U3FFTzJDQjBTZVZ0RlZOakJCN05FaHZpZlg5ZzFra0hnSE5KYjFtVng5U2FtSnNfaHRCWF9kTFo0?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 10,
+          "title": "昭通市水利局推行承诺制审批改革优化营商环境",
+          "source": "新华网",
+          "pub_date": "2026年11月23日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX3p5OXBaYUFVRUJfaXRXdkxpTUFZNGQyejhfdy03Zk9IaURIX0htS1c3d3dzdFludlNGaXMtYUpFRHBGYU9wYUZYN291VkdZM202cU5Tam9uTnVkbVA1VTkza3J5QV8zNlo5S055UDBiVDRuQ2ZGYlpUVDctcVpFcTRB?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 11,
+          "title": "广西十年整治河湖“四乱”问题逾1.7万个 水生态环境质量稳定向好",
+          "source": "中国新闻网",
+          "pub_date": "2026年11月23日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UaXJZZmp3dVJoYnRicXV6SE55aEFHSDluSkp0dzdWMUlBczBucTlFNXVXSnVOVy0teGZIRXlfT2Vsc1E4MVRUN0M1WHc4ZWNfem9vODdqTDJBNTFHX25jSGxWMXNZczhT?oc=5"
+        },
+        {
+          "id": 12,
+          "title": "广西河湖长制“成绩单”来了：水质优良比例多年居全国前列",
+          "source": "广西新闻网",
+          "pub_date": "2026年11月23日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mb2hVb3oySmdSMktCN3g1YTZKTVdYek5jUEFicTZxZzJzZzFxdkhRZi1EcnpuT3U2QjBzRG5fMzlaTHJZajBvNnVKX2ZvaVdEaWNsUlhyZUpCUzdKY2NFbzREbUV3cTNrMkpuMG9wZWdkQm1vRmV3bGNIT1pCelE?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "深耕水环境智慧监测，承控环境：杭州专业水质在线监测设备集成商护航碧水生态",
+          "source": "中华网",
+          "pub_date": "2026年11月23日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tUDJfQ2t1ZXh3d3Y4LVktVlFEMHhxVmNibk1UT3RoRkxsc2lieWl2M29tZ3ZqRWs2WVlaak45eGFDeGlxQUtvRGI5SzUxaUI5c2p1T0czM3pkZWxpemhVQUlFZ3Flb2hFaE1kLVBB?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "四城接力 解码浙江河湖长制十年答卷",
+          "source": "浙江新闻",
+          "pub_date": "2026年11月23日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoblVEVTdGN3NxZ05idzhBZ1otT2czcEVWVTFpUXhBZHcySFhyTG4xczNXNU1KeUh4WGlGREJnX0N1TFNMSl9yN0xfYU56cGlpbFRWdVZ4NnVXMXBJNzctSXAzeE5pc1lQa2Q0ck5PWmdKUHM?oc=5"
+        },
+        {
+          "id": 15,
+          "title": "甘肃大夏河甘南段、泾河平凉段入选第五批美丽河湖优秀案例",
+          "source": "每日甘肃网",
+          "pub_date": "2026年11月23日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01WE9RcVZveTlFRk1wSUFDbkQxeGpuSlBucTE0YW54TlItaGd4OUxkSVlLVnpOU2lMM0hGMnNLSXFYd2lFNGtaRXp4dEJXNU15c0ZENXhGTXo1V3JkQXFVck1FYjVKWUE2SWtnaGRLU0kwNGc?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 16,
+          "title": "持续推进城乡供水管网提档升级 盘州市破解城乡供水不均衡难题",
+          "source": "Sohu",
+          "pub_date": "2026年11月23日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTk5OanZISWVFS2wybi0xRlN6eGVzTG50ajEtZ0ZySFNYLVVoMDF6UGtfMFEwZFZvRF9sNU5zWHBqMFZLRzZVX2ozNGNmamJLMTV2NTFNeDFhRW5GM0MwU09TRHZ1VHZ5ZTFwbUdGbzhaWGE0OVpGZ3NnN1g2MjZnTE15T3o3eTFPbjZHMg?oc=5"
+        },
+        {
+          "id": 17,
+          "title": "湘潭市水利局开展农村饮水安全专题培训",
+          "source": "新湖南",
+          "pub_date": "2026年11月22日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mY0NpWkpDeDVxWndQcGpTRWhQQWlFUGdwMFJJSlpQUThlUmRzS0otOHNYQzY2R09TQ2dSNzFtU0JHcmszM0hnZ1VDc3VEUkpwWUdodERiYUhrUFpoNl82Nll3cWxXQQ?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年11月23日",
     "news_date": "2026年11月22日",
     "update_time": "2026-11-23 00:00",
