@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026年11月25日",
+    "news_date": "2026年11月24日",
+    "update_time": "2026-11-25 00:00",
+    "total_news": 11,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "全省水文尖兵同台竞技！广东省水利行业职业技能竞赛暨全国水利行业职业技能竞赛广东省选拔赛水文勘测工赛项在我市开赛",
+          "source": "Sohu",
+          "pub_date": "2026年11月24日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNndwYXlYZWN2ZG9DYk9VbVRUZkUzclBJd1JvU2xLZHpUX1VZOXlweWxEN1E2NFZUc0ZIQmg0MmhhOW9yQmdxeFR3U2tWQlR5dmtWNVBaVWdlU2hKbkNzQmtLc1NOUTRwekQzUllzTkdqZ0lXVXNzNWxjRk5FUXZ5RDlaekxLbHlJblhkMQ?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 2,
+          "title": "【图解】11月23日省政府常务会议：研究部署冬春农田水利和高标准农田建设、国有林场改革、残疾人保障和发展、食品安全等工作",
+          "source": "湖南省人民政府",
+          "pub_date": "2026年11月24日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vSkp3Y3YyQ0lGWHotSURyLXExVmJQaG8yQ3B4M2ZZeXd2N1hkM1lSaW9LT3JwNG5ZMXY1YU9uS3F3NS1uVXlSZWFWM1pmT3BxU0U3dFZjY3J3WXNwQXk3NnBuR09uUW1HdVFpUVVnVFQxMmtzVHlNeWZaOVdJdw?oc=5"
+        },
+        {
+          "id": 3,
+          "title": "赵刚主持召开省政府常务会议研究农田水利和高标准农田建设工作集体学习《中华人民共和国矿产资源法实施条例》 审议《陕西省应急管理事业发展“十五五”规划（送审稿）》",
+          "source": "西部网",
+          "pub_date": "2026年11月24日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CZUpSUzRmOTAxckozeHFQa2t6bnQydkJkdjgwZ0o4ZUNvNDlSc3pDSm1WOFV5QzF2QTZ4UUhOaGZ0WVVjZnpvd3Q2UFlMYTJGQ1RwbjZaaElGa21VcTUwZkxfdFBSdE0?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "“十五五”期间 陕西力争完成水利投资2700亿元",
+          "source": "华商网",
+          "pub_date": "2026年11月24日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QR3dOQmU5Q1pRZ2xWdTVoTVpoeTVvdUhxVGNidGp2TEM0YjQzbDR4b2t4WDQyd1RtbXhqRU1TY3VOaGRoQnBfcDRzbVNaNWEtb05VUWwwM0JOdXY1dE1F?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 5,
+          "title": "各地全力推进冬修水利",
+          "source": "央视网",
+          "pub_date": "2026年11月24日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CbU9FWjRaZEltQmtmVkl1ZzBlWHFkVHN1TFZqYmZQU0NBOVkydXBqRzJXRVREV0tOMDd4U24zTmU0NF9ab0VTaXFGUGxaMzJRRXgwa1F1NncxZjBZSXJqdGw2Qk1qbmh6dElPUGh3Nzk2ZVhSR1hoeg?oc=5"
+        },
+        {
+          "id": 6,
+          "title": "三峡水利：融资净买入280.4万元，融资余额1.59亿元",
+          "source": "东方财富网",
+          "pub_date": "2026年11月24日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQMEJCM0lHb2lIV3lyb1I2bklsRkF3SHdxWTRXZExzQlJOMUNEY3JBQlVCcXJxUklraEFOQVVSMC0tUkJlZzZ2XzlkcXVaMjRtd3l5Z3lsbVZmVVdhNnktR1RCbERTdw?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 7,
+          "title": "到2030年，全省水网覆盖范围达到82%，水安全保障能力全面提升",
+          "source": "Sohu",
+          "pub_date": "2026年11月24日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZTdzOUl4a0h4Q2ZSMC01MkREd1FfM3YwXzN1azNVY3BMWmNYb0xhTHFCMjlRWUZyYzQycWEwVXE5NEpidkNTM3Q4Qm5ZSzZlbFUyVEhMQ0F0TWE1T3JLeDR6ZmNneXJpRDhGRFkzc2RyRnR5bTFQamhaUHVBRFJBbzE4enBQYWpfUmI4?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "织网江河润民生——水电九局助力国家水网建设的“硬核”答卷",
+          "source": "中国电力建设集团",
+          "pub_date": "2026年11月24日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUnZiQVZOYlg5amZCNHZUd3Z4RkpUdVFyNUlmVkwyMEpUOFhNYThkY01RRldDY0ZTNmE5Rjl0OXc0RWFadzhDRmxOdEVsS0hMYV82R0pOeXg2ek1iRnd3THZkNm4wRWNVcENHVHBOa01NcUlVMlNVcW9IdmFNcXhxakNraTlzdVp3cWo3d1JzSQ?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 9,
+          "title": "持续推进城乡供水管网提档升级 盘州市破解城乡供水不均衡难题",
+          "source": "Sohu",
+          "pub_date": "2026年11月23日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTk5OanZISWVFS2wybi0xRlN6eGVzTG50ajEtZ0ZySFNYLVVoMDF6UGtfMFEwZFZvRF9sNU5zWHBqMFZLRzZVX2ozNGNmamJLMTV2NTFNeDFhRW5GM0MwU09TRHZ1VHZ5ZTFwbUdGbzhaWGE0OVpGZ3NnN1g2MjZnTE15T3o3eTFPbjZHMg?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 10,
+          "title": "溧阳市别桥镇扎实推进幸福河湖建设",
+          "source": "Sohu",
+          "pub_date": "2026年11月24日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONy1ScTJybURJMU00TEZEMExVOEdWc1BoNDk2NzRWYk1RT0NSQnFCZS0teUg4dm9vRnNCTG1QeTJJSTRsX0E2ZV9CR05tRHNBRnBmbGFGa21hUlVUZ2hnNzcyOWFQQk1jYk9jVUh3VGtVOU9tdUpTVy04bElYcVd1ak8xOVhLQW5GQU8xNA?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "长春市流域水生态环境保护“十五五”规划（征求意见稿）",
+          "source": "世纪新能源网",
+          "pub_date": "2026年11月24日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxd0dWc05ZRXN2S29EMHlLeFVFUjJsOU5sS2NiR1QyS0xveEtEb3RaOERTdHFveXM5cGZrUUlkMm90QzhoeFFVSWtNS1hua3hrcnBSNQ?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年11月24日",
     "news_date": "2026年11月23日",
     "update_time": "2026-11-24 00:00",
