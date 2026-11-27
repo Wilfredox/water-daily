@@ -1,5 +1,215 @@
 [
   {
+    "date": "2026年11月26日",
+    "news_date": "2026年11月25日",
+    "update_time": "2026-11-26 00:00",
+    "total_news": 21,
+    "category_count": 6,
+    "news": {
+      "防汛抗旱": [
+        {
+          "id": 1,
+          "title": "昌平白羊城蓄滞洪区工程完工，北运河上游新增一处山洪“缓冲池”",
+          "source": "新京报",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NSGw5SkRYVlk4MXFEWTN1QjNZTFotQi01LWcwSFdZWnU1Z2xlTjRHUklPOGp5TzJqUDllLUhwX24xVXlKMUJlRXBta1QwWkFXVk9kNU1hSTVHTVBZYjVIS0ZyT2c?oc=5"
+        },
+        {
+          "id": 2,
+          "title": "望岳谈|沂蒙革命老区振兴，为何要把“水文章”做足？",
+          "source": "Sohu",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "有助于提升防灾减灾能力，保障人民群众生命财产安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWJqMHBITkVQWGREcU1MbkpGdFZCNHZReGRTcWY4YTJKVGt2Qkg0XzhMbTlFSkFjOHYwWHo3TFB2a3BYWWtxRklJcFlENmNJa1hEbEU2VHZGNU42Q2FnYjE1N1B3Vl9MSld1YXM0SWEyWTdwVmtOUFBXUUNGZkl1bkhyLUwtRExTcHdOMg?oc=5"
+        }
+      ],
+      "综合要闻": [
+        {
+          "id": 3,
+          "title": "贵州铜仁：冬修水利夯实民生基础",
+          "source": "Sohu",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40bTYxcFJnZl8ya2ZoblFKMnhFUGJBc0xaMHFIOEpEbmlrLVp4SmZ1QUdZQjZBWllKRXV0RDhjR29HTjU0NXNGWmVCblByTzFfTTFOVGJ3?oc=5"
+        },
+        {
+          "id": 4,
+          "title": "各地全力推进冬修水利",
+          "source": "新浪财经_金融信息服务商",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOQjg4enVnYnRUdWpZUUxRU1pyV3RTbEczU1k4U0VsZWpsOVlkbExsTWREZGdOVmFyZXBVUENQWE1VT3g2cHhsNDVYMEo1NElkeUwwU1VoZk1rREpDMXVydHhQQlgzRHVkeFNVQlZkUzBsdWhRMzNRTU1vb0ZaRWJUT3ZLMTBxSTIzVXNieFE3a3lyWVF2VExvMHA0TVFuR3JTV25vYnVld3NjaktRWjZCdFdsRUtQRWJiOXJEUVBSV3pfWmFtM28ybWF5RHVLNFk4YWNIWDNSTUpodTJyYTJpLWttZGhwZ051RWdDcTJKN1hJd3JBRWRMakdtQW5ON3ZjcEpWVVBqbEZ0VnZ2MXhhQkdRbjF0OW80VEx5MFNFVm9xbVpRbFEwZjFuSi16cWJDN0E?oc=5"
+        },
+        {
+          "id": 5,
+          "title": "中国能建总经济师周小能与南京水利科学研究院党委书记、院长戴济群会谈",
+          "source": "国际能源网",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "对水利行业发展具有积极推动作用。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ybjEwdExrMFY1Q21kX3RwM2hHdmpuam1sREl4RC1kamVqM2l6eExubzF2Vm5kQWFLNl82LU94cm5oNVlEM0dRWHZXcGhfVDhETzdOWE0tVFJ6VE9l?oc=5"
+        }
+      ],
+      "水利工程": [
+        {
+          "id": 6,
+          "title": "水利部部署“三个大坝”建设：一体规划、一体建设、一体管理",
+          "source": "京报网",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BQkVZWm5iU0l0M1UwN0w5MlBCSFB2c1BxOGoxRGgwZXFMRl8tcjVOVUtJbE1mTnNQckZLV0g3bEREWlNqTFhQRkI0WWdnQ3o0NFFJa2gwS24tRHczTFE?oc=5"
+        },
+        {
+          "id": 7,
+          "title": "国家重大水利工程英武水库导流洞提前40天贯通",
+          "source": "Sohu",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM0NtX2NiZ25QZjQ4bms5bWFqU3dtb0YweHhqN0JleExVVk03NkVXTXBZaU5ybTA3Vm9jVDRjd21ZWnlXMTRqdFJCLVhfWjFWWHl0X1lsRVVJb0FsUklUUEVzTEswRWdGb25WTTJXZ003WTlTb2VKbEZUMjBiYXVoblUybEhMd0NGd2VjMg?oc=5"
+        },
+        {
+          "id": 8,
+          "title": "黑龙江尚志抽蓄电站下水库通过蓄水验收",
+          "source": "国际储能网",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rNXQ2RUpRMWFlODAxenVDZi1QRlNiTDBmeFNwZS1jNDgxQ21jeDFxdUtsUWk0bGJpOU9kb0xsemlhZ1A3Yjc2ZGVGa3BaSERacWgxa1BRZC1RcVN1QmVjNQ?oc=5"
+        },
+        {
+          "id": 9,
+          "title": "全省高标准农田建设 今年任务超203万亩",
+          "source": "Sohu",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUUNvYUsydEY4SHBCc2hLdE14V0dQcmthR2lnbWh2bndaaEFsRE54R2tsZldwU3o1NG44Q3pVWGt4SmE1OXRtVllVSW03WHFfdkJTdFB5U3lsUnZERHpfTWlPVXBnQXZhR19sVUtwQTVseFdQaDRfX1R1ZTFjeWR5cUdrZm9oZUkydmFsMA?oc=5"
+        },
+        {
+          "id": 10,
+          "title": "清溪水库移民安置房下徐地块项目刷新进度",
+          "source": "宁海新闻",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55MlNKTTNrSE9mZVMwcTF5RjUxTDZlQVhDR1JIbnZNR1BlN1NGOGZyWnZSdWlMWVVkSlZicW8wYldfZjlPckxBM3N4ZkpTT05UbE53TWl2dmFMYUVVbmtNUGZSVUNXQQ?oc=5"
+        },
+        {
+          "id": 11,
+          "title": "“十五五”期间陕西力争完成水利投资2700亿元",
+          "source": "手机新浪网",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "将有效提升区域水资源调配与防洪排涝能力。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5Yk5UZTI5S0pwWGpXc1BfS3BNckF4ZDNxWWo2VDUzNFJaU0JldFdQNnpWYVVQZm9HSGNqMjFMaDBFa2xIMkQ4cVVtTEhra0R5VWNhclIxUTQ5T1pKYk9kXzd2VV83SnBLWGlrQkJoX2dvMGlKVVpORA?oc=5"
+        }
+      ],
+      "政策法规": [
+        {
+          "id": 12,
+          "title": "国家标准《非常规水利用量统计规范》发布",
+          "source": "21财经",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVl9PR0R4S3RnWW95ZEltWkt0Y0d4MHNmT1lqaGRKQW51NGV5RkMyTEo3dE9pR2h3N29fYmVjOTVuV3JHSXJjRnlUb0k4TE43QXJHamg3Umhna3dsNXV0cGpCNnpDWmZsTkVuNVhhRXU0dlNDVmI2dDhpWUJ6TjRUdU9ueGJCeU12cXVHOGt3RQ?oc=5"
+        },
+        {
+          "id": 13,
+          "title": "规范非常规水利用量统计，相关标准发布",
+          "source": "京报网",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40aGtKTVNteEtNSDVicGhYeVpsdmFjUU1WWW5XQ1Q1c2F6SmllS0ZoWjJiM1I4VXA3cmRkUTdWTEFVRHpGVVFZVWkyNVA4TnpMZWppMXMzQm8zcXNvSXc?oc=5"
+        },
+        {
+          "id": 14,
+          "title": "抢抓“六张网”建设机遇 努力打造中西部省级水网先导区示范样板",
+          "source": "Sohu",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "将进一步规范水利管理秩序，推动依法治水。",
+          "full_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSlcyWTFFazJvWWY5YUZ5Z0dLR3BCRWF5OEZTc0xNVlpiMktvMkpfMU0xY0l0OGFLMVFyOXloUm82dlJLTzVCTUJmOUYwWFZzSGxLWDl1TDAtS1h2QkkyM1BxZHFEZzQxLURrV3hWVnJKZk51SUgtenFMRE1zNDRkVVhBMWYxUm15WFZ6cw?oc=5"
+        }
+      ],
+      "水资源管理": [
+        {
+          "id": 15,
+          "title": "顺腾水利设备集团(甘肃)有限公司以科技赋能西北节水农业(图)",
+          "source": "天水在线",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEaWhjNnpCUnB5YTEzNmJHZEZmM2xoSTdUUkQ5WFpXMDN5dWhCV0FKQVhKNHhmR2RWVHFOcW5hN2ZlNXNrOFR4aUp5dFdCZnBGcUpXclFWZXlhbmtzS1VlRkFoQU1aQ1VmSWc?oc=5"
+        },
+        {
+          "id": 16,
+          "title": "控制地下水抽取有助于减轻湄公河三角洲地面沉降的风险。",
+          "source": "Vietnam.vn",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOXzhPRlNlcTRQd2dvWjkzOWxscXlFaHlHQWxFSDUwWXhHZHJnUm5HRV9hRS1yRjk4bGhhQ3VQVU9Dc21FVEpQMTdWakJBNVhvVFkweUFvTVVsT2h1UXRJSVhlZ0VGSXNnZzhaTmk5R2N3VFRwdDhpdGJqWFFZVWFHU1RXZlVGYnE5SEpUVHhSc3h1QmlocXJZUlgtVzBVRDFPYVZLenhaa2tSbV83Q3FiUUQxcTk?oc=5"
+        },
+        {
+          "id": 17,
+          "title": "清水县：智慧供水全域覆盖 数字赋能守护群众“幸福水”(图)",
+          "source": "天水在线",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "有利于推进节水型社会建设，保障供水安全。",
+          "full_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IYU1hUEV5QzFQZlhweDNVN0pDZGtwdzdhc3hha2pTYm51akY1V1k3RWtHWjl6Vm5uVzg3cE5GRnFjLVJqX01mVkNnSWVnc2lPazlZTTB1dlhMYnktblhuelBGRG5rZ3BuLXc?oc=5"
+        }
+      ],
+      "水生态环境": [
+        {
+          "id": 18,
+          "title": "云南九大高原湖泊水质整体向好 六大水系出境水质保持Ⅱ类及以上",
+          "source": "Sohu",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSmtZa2tKZjMzVU1GN0pxMC1HX01pcEtZYUUxaXlUUUV3QlpkTlhYUERHUERVQ2k0cmg3cDR1YUxGb2xZWXpNd045VktvdU5PXzFsUTZMYjYyaXhQc291cVJiMmMzLVlqT1ZKOUM5YkpjZlltU0lWdkJVZXJqMlVhX0xkS3NRblUx?oc=5"
+        },
+        {
+          "id": 19,
+          "title": "重庆河长制十周年渝西片区集中访谈在江津举办",
+          "source": "华龙网",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Mbkp1UGVfS085d3NWRUhITmRaM25zRjlEQndVMWk5Ql9OcnkzcWRYQTc5WHE3NlF0SkxONVFyQXJBWGpMSjVxcDZPTHpYYV9leDd2S3BtM0Z3LTN5VFdLSHZ3YjZjRVNLRXM0?oc=5"
+        },
+        {
+          "id": 20,
+          "title": "我省印发流域水生态环境保护实施方案",
+          "source": "fjrb.fjdaily.com",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQcEctVUlaVV9SZHRQcTQ5M3VDb1JqaURYeGhFeVFUVFpwbXctcjVoVE02Sk55dUpxckh0MjdBRVl3a0VCQlBqZW1vV2NGRWNpUDB2Qnk4WlhSb05EaWQ1Vy0ya0ljbkx2STlvWlZn?oc=5"
+        },
+        {
+          "id": 21,
+          "title": "闽江（福州市段）入选第五批美丽河湖优秀案例_ 榕城要闻",
+          "source": "福州市人民政府",
+          "pub_date": "2026年11月25日",
+          "content": "",
+          "impact": "有助于改善水生态环境质量，维护河湖生态健康。",
+          "full_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13ejF4U1pjdkdYdFQ3eTJTdXFhVnE3VGtkZkFOQW1DOFBHMzQwaDVWbG1YSzBsWlNXVHhrOVNPZm5tenl1STNaMnRQSzlKWkxuNUVBN2JhMFpCVmRuaUlIZWVES1c5TFM0bnlhcnhUeVVLZkk3dUhYNQ?oc=5"
+        }
+      ]
+    }
+  },
+  {
     "date": "2026年11月25日",
     "news_date": "2026年11月24日",
     "update_time": "2026-11-25 00:00",
